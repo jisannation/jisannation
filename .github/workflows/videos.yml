@@ -6,7 +6,7 @@ on:
 
 jobs:
   deploy:
-    runs-runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
@@ -21,8 +21,8 @@ jobs:
       - name: Fetch YouTube Search Results and Update README
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        shell: python
         run: |
-          python -c '
           import os
           import re
           import urllib.request
@@ -113,7 +113,6 @@ jobs:
               print("README.md updated successfully.")
           else:
               print("Placeholder tags <!-- BEGIN VID --> and <!-- END VID --> not found in README.md.")
-          '
 
       - name: Commit and Push changes
         run: |
