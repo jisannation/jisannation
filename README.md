@@ -35,6 +35,7 @@
  <summary><h3>🎥 Latest Google Videos</h3></summary>
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
@@ -48,26 +49,6 @@
       <small style="color: #8b949e; font-family: sans-serif;">Good Morning America</small>
     </td>
     <td valign="top" width="250" style="padding: 10px;">
-      <a href="https://www.youtube.com/watch?v=sa2Ix6sQeVI" target="_blank">
-        <img src="https://img.youtube.com/vi/sa2Ix6sQeVI/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="'What Does That Even Mean?': John Kennedy Asks Witness About Winning The AI Race"/>
-      </a><br/>
-      <a href="https://www.youtube.com/watch?v=sa2Ix6sQeVI" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        'What Does That Even Mean?': John Kennedy Asks Witness About Winning The AI Race
-      </a><br/>
-      <small style="color: #8b949e; font-family: sans-serif;">Forbes Breaking News</small>
-    </td>
-    <td valign="top" width="250" style="padding: 10px;">
-      <a href="https://www.youtube.com/watch?v=QADKN3hantI" target="_blank">
-        <img src="https://img.youtube.com/vi/QADKN3hantI/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="It's Beginning: AI Improves Itself"/>
-      </a><br/>
-      <a href="https://www.youtube.com/watch?v=QADKN3hantI" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        It's Beginning: AI Improves Itself
-      </a><br/>
-      <small style="color: #8b949e; font-family: sans-serif;">Sabine Hossenfelder</small>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="250" style="padding: 10px;">
       <a href="https://www.youtube.com/watch?v=C9Rnt3FKaIY" target="_blank">
         <img src="https://img.youtube.com/vi/C9Rnt3FKaIY/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="Anthropic's CEO raises concerns over rapidly developing AI technology"/>
       </a><br/>
@@ -77,14 +58,16 @@
       <small style="color: #8b949e; font-family: sans-serif;">ABC News</small>
     </td>
     <td valign="top" width="250" style="padding: 10px;">
-      <a href="https://www.youtube.com/watch?v=iyVXw-SoUrY" target="_blank">
-        <img src="https://img.youtube.com/vi/iyVXw-SoUrY/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="Our latest reports on AI | 60 Minutes Full Episodes"/>
+      <a href="https://www.youtube.com/watch?v=aZ5EsdnpLMI" target="_blank">
+        <img src="https://img.youtube.com/vi/aZ5EsdnpLMI/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="Artificial Intelligence | 60 Minutes Full Episodes"/>
       </a><br/>
-      <a href="https://www.youtube.com/watch?v=iyVXw-SoUrY" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        Our latest reports on AI | 60 Minutes Full Episodes
+      <a href="https://www.youtube.com/watch?v=aZ5EsdnpLMI" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
+        Artificial Intelligence | 60 Minutes Full Episodes
       </a><br/>
       <small style="color: #8b949e; font-family: sans-serif;">60 Minutes</small>
     </td>
+  </tr>
+  <tr>
     <td valign="top" width="250" style="padding: 10px;">
       <a href="https://www.youtube.com/watch?v=qYNweeDHiyU" target="_blank">
         <img src="https://img.youtube.com/vi/qYNweeDHiyU/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="AI, Machine Learning, Deep Learning and Generative AI Explained"/>
@@ -93,6 +76,24 @@
         AI, Machine Learning, Deep Learning and Generative AI Explained
       </a><br/>
       <small style="color: #8b949e; font-family: sans-serif;">IBM Technology</small>
+    </td>
+    <td valign="top" width="250" style="padding: 10px;">
+      <a href="https://www.youtube.com/watch?v=JcXKbUIebrU" target="_blank">
+        <img src="https://img.youtube.com/vi/JcXKbUIebrU/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="What Is AI? | Learn all about artificial intelligence"/>
+      </a><br/>
+      <a href="https://www.youtube.com/watch?v=JcXKbUIebrU" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
+        What Is AI? | Learn all about artificial intelligence
+      </a><br/>
+      <small style="color: #8b949e; font-family: sans-serif;">Learn Bright</small>
+    </td>
+    <td valign="top" width="250" style="padding: 10px;">
+      <a href="https://www.youtube.com/watch?v=QADKN3hantI" target="_blank">
+        <img src="https://img.youtube.com/vi/QADKN3hantI/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="It's Beginning: AI Improves Itself"/>
+      </a><br/>
+      <a href="https://www.youtube.com/watch?v=QADKN3hantI" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
+        It's Beginning: AI Improves Itself
+      </a><br/>
+      <small style="color: #8b949e; font-family: sans-serif;">Sabine Hossenfelder</small>
     </td>
   </tr>
 </table>
