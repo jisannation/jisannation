@@ -29,15 +29,21 @@ jobs:
           import os
           import re
           import html
-          from youtubesearchpython import CustomSearch, VideoSortOrder
+          from datetime import datetime, timedelta
+          from youtubesearchpython import VideosSearch
 
-          # Your preferred search query
-          query = "artificial intelligence"
+          # Calculate yesterday's date dynamically to limit results to the last 24 hours
+          time_threshold = datetime.now() - timedelta(days=1)
+          date_string = time_threshold.strftime("%Y-%m-%d")
+          
+          # Build search query (e.g., "artificial intelligence after:2026-06-13")
+          query = f"artificial intelligence after:{date_string}"
+          print(f"Using query: {query}")
 
-          # Fetch search results sorted by upload date (newest first)
+          # Fetch search results
           try:
-              custom_search = CustomSearch(query, VideoSortOrder.uploadDate, limit=6)
-              results = custom_search.result()
+              videos_search = VideosSearch(query, limit=6)
+              results = videos_search.result()
           except Exception as e:
               print(f"Error fetching YouTube results: {e}")
               exit(1)
