@@ -45,6 +45,12 @@
  <summary><h3>📝 Latest Google News</h3></summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [After sleeping, new artificial intelligence &lpar;AI&rpar; versions are poured out. Even the people of &quot;Hurry - 매일경제](https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xLUNTSEhiekxtcmNOajVzYV9Sc3plUjlaX1RIZl8tWGZ5ZXFEUHFBTHYwNzFLY2RTaXNtSkd3VjN0d3o3enJXUkh3TQ?oc=5)
+- [Now that artificial intelligence &lpar;AI&rpar; has become a survival condition, not an option for corporate m.. - 매일경제](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BanZBZHJqWHJJMEl6azVSZGhOb21qcjBrclRPWndhSUFkLU9uU19MQW1xRGVtRWNwSTJ6Z0w3OWZwVmJ6bjNPck5IRQ?oc=5)
+- [As artificial intelligence &lpar;AI&rpar; becomes a key competitor in determining a company&#39;s survival, manage.. - 매일경제](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkckdiNzhmdFZEYWhyRjdJcUVPNlA2SDBEVDR4ZEMxdWwzWHIzbTZndDdndlRmTFhsejEwLVNmUjVWQlkzWGxyZ1VFYw?oc=5)
+- [The generative artificial intelligence &lpar;AI&rpar; revolution, which began with the birth of OpenAI&#39;s &quot;Chat.. - 매일경제](https://news.google.com/rss/articles/CBMiS0FVX3lxTE16dlRKUkhIUmpUd2VXVXJ0X2l2UFlqNXU4aFNabnYxak94RVZHdUcwUmdoOXRhaFpmMERLQzVDYWFmTUQxMFRmQThvSQ?oc=5)
+- [Phoenix residents react to the rapid rise of artificial intelligence - FOX 10 Phoenix](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzNi1tam9lbmQ1VEQtaEdSaWlnNm9EX3R4MnNyU0dQVmp4cEVFR1hnUEQ4S1F1STlPRWNTd0ZrM3l0RUVJMnFUSVpBSldnZnpiaC16YjJ6cExHMUhTdjc5ZnllcUVqZ9IBa0FVX3lxTE0tLXdvcGRQNmxyMHpMS1VDSHUtdDc2TDJxMm1VOGtGTnBWWm5pWGZfNmhWdXpsQXQtRndmdG0xeUZkNTU5UXdSMUk5YWhnSEQ0bUNPZGRsSHlzTEhUYWhXTGVuLURiYXdRbU5J?oc=5)
+- [My real concerns with artificial intelligence - The Island News](https://news.google.com/rss/articles/CBMifkFVX3lxTE9DcmZuSTR1UEF0azJNNU9PZ2tzcDBYWjM5QU5wWFVNY2lrd1Iya0JIOXZySWp4QVU0ejAyemh3ZV9hZm5raXd1YVg2WV9TWEQxb3lWRE5DX0FMSUgwRklka2lVbVNuRTdrbjBXd3dRY0g3Ynk1Zzl0UTB5MzNzQQ?oc=5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
