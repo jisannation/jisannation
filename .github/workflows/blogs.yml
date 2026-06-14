@@ -12,10 +12,10 @@ jobs:
       contents: write
       
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://news.google.com/rss/search?q=artificial-intelligence&hl=en-US&gl=US&ceid=US:en"
+          feed_list: "https://www.google.com/alerts/feeds/05324308528204330543/1556681585692644457"
           max_post_count: "6"
           commit_message: "📝 Latest Google News"
           committer_username: "jisannation"
