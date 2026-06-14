@@ -42,82 +42,59 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
-    <td valign="top" width="250" style="padding: 10px;">
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=QADKN3hantI" target="_blank">
-        <img src="https://img.youtube.com/vi/QADKN3hantI/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="It's Beginning: AI Improves Itself"/>
-      </a><br/>
-      <a href="https://www.youtube.com/watch?v=QADKN3hantI" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        It's Beginning: AI Improves Itself
-      </a><br/>
-      <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
-        Sabine Hossenfelder<br/>
-        111,264 views &bull; 18 hours ago &bull; Duration: 6:40
-      </small>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QADKN3hantI&title=It%27s+Beginning%3A+AI+Improves+Itself&lang=en&timestamp=1781429029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=400">
+          <img src="https://ytcards.demolab.com/?id=QADKN3hantI&title=It%27s+Beginning%3A+AI+Improves+Itself&lang=en&timestamp=1781429029&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=400" alt="It's Beginning: AI Improves Itself" title="It's Beginning: AI Improves Itself">
+        </picture>
+      </a>
     </td>
-    <td valign="top" width="250" style="padding: 10px;">
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=2aWsoaVqUAU" target="_blank">
-        <img src="https://img.youtube.com/vi/2aWsoaVqUAU/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="Artificial intelligence: Phoenix residents react to rapid rise of AI | FOX 10 Phoenix"/>
-      </a><br/>
-      <a href="https://www.youtube.com/watch?v=2aWsoaVqUAU" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        Artificial intelligence: Phoenix residents react to rapid rise of AI | FOX 10 Phoenix
-      </a><br/>
-      <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
-        FOX 10 Phoenix<br/>
-        351 views &bull; 5 hours ago &bull; Duration: 1:59
-      </small>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2aWsoaVqUAU&title=Artificial+intelligence%3A+Phoenix+residents+react+to+rapid+rise+of+AI+%7C+FOX+10+Phoenix&lang=en&timestamp=1781429029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
+          <img src="https://ytcards.demolab.com/?id=2aWsoaVqUAU&title=Artificial+intelligence%3A+Phoenix+residents+react+to+rapid+rise+of+AI+%7C+FOX+10+Phoenix&lang=en&timestamp=1781429029&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Artificial intelligence: Phoenix residents react to rapid rise of AI | FOX 10 Phoenix" title="Artificial intelligence: Phoenix residents react to rapid rise of AI | FOX 10 Phoenix">
+        </picture>
+      </a>
     </td>
-    <td valign="top" width="250" style="padding: 10px;">
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=Ae_9Uozn-_M" target="_blank">
-        <img src="https://img.youtube.com/vi/Ae_9Uozn-_M/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="The 7 Levels of AI"/>
-      </a><br/>
-      <a href="https://www.youtube.com/watch?v=Ae_9Uozn-_M" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        The 7 Levels of AI
-      </a><br/>
-      <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
-        Future Business Tech<br/>
-        2,645 views &bull; 18 hours ago &bull; Duration: 14:25
-      </small>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ae_9Uozn-_M&title=The+7+Levels+of+AI&lang=en&timestamp=1781429029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=865">
+          <img src="https://ytcards.demolab.com/?id=Ae_9Uozn-_M&title=The+7+Levels+of+AI&lang=en&timestamp=1781429029&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=865" alt="The 7 Levels of AI" title="The 7 Levels of AI">
+        </picture>
+      </a>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="250" style="padding: 10px;">
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=RvDyRISrTiQ" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RvDyRISrTiQ&title=The+Elites+Are+Using+AI+to+Destroy+the+Human+Spirit+%7C+Whitney+Webb&lang=en&timestamp=1781429029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=978">
+          <img src="https://ytcards.demolab.com/?id=RvDyRISrTiQ&title=The+Elites+Are+Using+AI+to+Destroy+the+Human+Spirit+%7C+Whitney+Webb&lang=en&timestamp=1781429029&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=978" alt="The Elites Are Using AI to Destroy the Human Spirit | Whitney Webb" title="The Elites Are Using AI to Destroy the Human Spirit | Whitney Webb">
+        </picture>
+      </a>
+    </td>
+    <td valign="top">
       <a href="https://www.youtube.com/watch?v=t7_ZXgfJVG8" target="_blank">
-        <img src="https://img.youtube.com/vi/t7_ZXgfJVG8/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="Recursive Self Improvement"/>
-      </a><br/>
-      <a href="https://www.youtube.com/watch?v=t7_ZXgfJVG8" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        Recursive Self Improvement
-      </a><br/>
-      <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
-        Emergent Garden<br/>
-        52,236 views &bull; 21 hours ago &bull; Duration: 31:12
-      </small>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=t7_ZXgfJVG8&title=Recursive+Self+Improvement&lang=en&timestamp=1781429029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1872">
+          <img src="https://ytcards.demolab.com/?id=t7_ZXgfJVG8&title=Recursive+Self+Improvement&lang=en&timestamp=1781429029&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1872" alt="Recursive Self Improvement" title="Recursive Self Improvement">
+        </picture>
+      </a>
     </td>
-    <td valign="top" width="250" style="padding: 10px;">
-      <a href="https://www.youtube.com/watch?v=sQq07QVTOk0" target="_blank">
-        <img src="https://img.youtube.com/vi/sQq07QVTOk0/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="Is this AI's moment of truth? | BBC News"/>
-      </a><br/>
-      <a href="https://www.youtube.com/watch?v=sQq07QVTOk0" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        Is this AI's moment of truth? | BBC News
-      </a><br/>
-      <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
-        BBC News<br/>
-        35,465 views &bull; 23 hours ago &bull; Duration: 26:11
-      </small>
-    </td>
-    <td valign="top" width="250" style="padding: 10px;">
-      <a href="https://www.youtube.com/watch?v=Ot5rC8sNLIA" target="_blank">
-        <img src="https://img.youtube.com/vi/Ot5rC8sNLIA/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="EXPANSION: Corning and Amazon deepen AI infrastructure partnership"/>
-      </a><br/>
-      <a href="https://www.youtube.com/watch?v=Ot5rC8sNLIA" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        EXPANSION: Corning and Amazon deepen AI infrastructure partnership
-      </a><br/>
-      <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
-        Fox Business<br/>
-        6,903 views &bull; 15 hours ago &bull; Duration: 6:34
-      </small>
+    <td valign="top">
+      <a href="https://www.youtube.com/watch?v=01V6f_eQXQ0" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=01V6f_eQXQ0&title=%27The+System+Is+Rigged%27%3A+Why+The+Wealth+Gap+Will+Explode+%7C+Peter+Boettke&lang=en&timestamp=1781429029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3279">
+          <img src="https://ytcards.demolab.com/?id=01V6f_eQXQ0&title=%27The+System+Is+Rigged%27%3A+Why+The+Wealth+Gap+Will+Explode+%7C+Peter+Boettke&lang=en&timestamp=1781429029&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3279" alt="'The System Is Rigged': Why The Wealth Gap Will Explode | Peter Boettke" title="'The System Is Rigged': Why The Wealth Gap Will Explode | Peter Boettke">
+        </picture>
+      </a>
     </td>
   </tr>
 </table>
