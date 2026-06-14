@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://news.google.com/rss/search?q=google&hl=en&gl=US&ceid=US:en"
+          feed_list: "https://news.google.com/rss/search?q=artificial-intelligence&hl=en-US&gl=US&ceid=US:en"
           max_post_count: "6"
           commit_message: "📝 Latest Google News"
           committer_username: "jisannation"
