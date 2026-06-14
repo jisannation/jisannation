@@ -34,7 +34,7 @@ jobs:
           # Your preferred search query
           query = "artificial intelligence"
 
-          # Fetch search results (no API key needed)
+          # Fetch search results
           try:
               results = YoutubeSearch(query, max_results=6).to_dict()
           except Exception as e:
@@ -60,6 +60,22 @@ jobs:
               thumbnail_url = f"https://img.youtube.com/vi/{video_id}/mqdefault.jpg"
               title_escaped = title.replace("\"", "&quot;")
               
+              # Extract duration, views, and publish time
+              duration = item.get("duration", "N/A")
+              views = item.get("views", "").strip()
+              publish_time = item.get("publish_time", "").strip()
+              
+              # Format details string
+              details_parts = []
+              if views:
+                  details_parts.append(views)
+              if publish_time:
+                  details_parts.append(publish_time)
+              if duration:
+                  details_parts.append(f"Duration: {duration}")
+                  
+              details_text = " &bull; ".join(details_parts)
+              
               cell = f"""    <td valign="top" width="250" style="padding: 10px;">
                 <a href="https://www.youtube.com/watch?v={video_id}" target="_blank">
                   <img src="{thumbnail_url}" width="250" style="border-radius: 8px;" alt="{title_escaped}"/>
@@ -67,7 +83,10 @@ jobs:
                 <a href="https://www.youtube.com/watch?v={video_id}" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
                   {title}
                 </a><br/>
-                <small style="color: #8b949e; font-family: sans-serif;">{channel_title}</small>
+                <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
+                  {channel_title}<br/>
+                  {details_text}
+                </small>
               </td>"""
               current_row.append(cell)
               
