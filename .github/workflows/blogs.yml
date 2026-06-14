@@ -1,0 +1,22 @@
+name: Blogs
+on:
+  schedule:
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://news.google.com/rss/search?q=google&hl=en&gl=US&ceid=US:en"
+          max_post_count: "6"
+          commit_message: "📝 Latest Google News"
+          committer_username: "jisannation"
+          committer_email: "230176000+jisannation@users.noreply.github.com"
