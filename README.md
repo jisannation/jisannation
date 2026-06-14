@@ -39,81 +39,82 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top" width="250" style="padding: 10px;">
-      <a href="https://www.youtube.com/watch?v=QaM6aHgu09M" target="_blank">
-        <img src="https://img.youtube.com/vi/QaM6aHgu09M/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="Anthropic CEO shares new warning on dangers of AI"/>
-      </a><br/>
-      <a href="https://www.youtube.com/watch?v=QaM6aHgu09M" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        Anthropic CEO shares new warning on dangers of AI
-      </a><br/>
-      <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
-        Good Morning America<br/>
-        8,544 views &bull; 2 days ago &bull; Duration: 2:17
-      </small>
-    </td>
-    <td valign="top" width="250" style="padding: 10px;">
       <a href="https://www.youtube.com/watch?v=QADKN3hantI" target="_blank">
-        <img src="https://img.youtube.com/vi/QADKN3hantI/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="We're Not Ready for Self-Building AI, But it's Happening"/>
+        <img src="https://img.youtube.com/vi/QADKN3hantI/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="It's Beginning: AI Improves Itself"/>
       </a><br/>
       <a href="https://www.youtube.com/watch?v=QADKN3hantI" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        We're Not Ready for Self-Building AI, But it's Happening
+        It's Beginning: AI Improves Itself
       </a><br/>
       <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
         Sabine Hossenfelder<br/>
-        110,011 views &bull; 17 hours ago &bull; Duration: 6:40
+        110,229 views &bull; 17 hours ago &bull; Duration: 6:40
       </small>
     </td>
     <td valign="top" width="250" style="padding: 10px;">
-      <a href="https://www.youtube.com/watch?v=aZ5EsdnpLMI" target="_blank">
-        <img src="https://img.youtube.com/vi/aZ5EsdnpLMI/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="Artificial Intelligence | 60 Minutes Full Episodes"/>
+      <a href="https://www.youtube.com/watch?v=Ae_9Uozn-_M" target="_blank">
+        <img src="https://img.youtube.com/vi/Ae_9Uozn-_M/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="The 7 Levels of AI"/>
       </a><br/>
-      <a href="https://www.youtube.com/watch?v=aZ5EsdnpLMI" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        Artificial Intelligence | 60 Minutes Full Episodes
+      <a href="https://www.youtube.com/watch?v=Ae_9Uozn-_M" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
+        The 7 Levels of AI
       </a><br/>
       <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
-        60 Minutes<br/>
-        9,353,689 views &bull; 2 years ago &bull; Duration: 53:30
+        Future Business Tech<br/>
+        2,612 views &bull; 17 hours ago &bull; Duration: 14:25
+      </small>
+    </td>
+    <td valign="top" width="250" style="padding: 10px;">
+      <a href="https://www.youtube.com/watch?v=2aWsoaVqUAU" target="_blank">
+        <img src="https://img.youtube.com/vi/2aWsoaVqUAU/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="Artificial intelligence: Phoenix residents react to rapid rise of AI | FOX 10 Phoenix"/>
+      </a><br/>
+      <a href="https://www.youtube.com/watch?v=2aWsoaVqUAU" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
+        Artificial intelligence: Phoenix residents react to rapid rise of AI | FOX 10 Phoenix
+      </a><br/>
+      <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
+        FOX 10 Phoenix<br/>
+        341 views &bull; 5 hours ago &bull; Duration: 1:59
       </small>
     </td>
   </tr>
   <tr>
     <td valign="top" width="250" style="padding: 10px;">
-      <a href="https://www.youtube.com/watch?v=p7t1Q_p2gZs" target="_blank">
-        <img src="https://img.youtube.com/vi/p7t1Q_p2gZs/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="AI Godfather Geoffrey Hinton: AI Is Conscious, Superintelligence is Coming, And We Should Be Worried"/>
+      <a href="https://www.youtube.com/watch?v=t7_ZXgfJVG8" target="_blank">
+        <img src="https://img.youtube.com/vi/t7_ZXgfJVG8/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="Recursive Self Improvement"/>
       </a><br/>
-      <a href="https://www.youtube.com/watch?v=p7t1Q_p2gZs" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        AI Godfather Geoffrey Hinton: AI Is Conscious, Superintelligence is Coming, And We Should Be Worried
+      <a href="https://www.youtube.com/watch?v=t7_ZXgfJVG8" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
+        Recursive Self Improvement
       </a><br/>
       <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
-        Alex Kantrowitz<br/>
-        145,743 views &bull; 9 days ago &bull; Duration: 54:54
+        Emergent Garden<br/>
+        51,919 views &bull; 20 hours ago &bull; Duration: 31:12
       </small>
     </td>
     <td valign="top" width="250" style="padding: 10px;">
-      <a href="https://www.youtube.com/watch?v=qYNweeDHiyU" target="_blank">
-        <img src="https://img.youtube.com/vi/qYNweeDHiyU/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="AI, Machine Learning, Deep Learning and Generative AI Explained"/>
+      <a href="https://www.youtube.com/watch?v=RvDyRISrTiQ" target="_blank">
+        <img src="https://img.youtube.com/vi/RvDyRISrTiQ/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="The Elites Are Using AI to Destroy the Human Spirit | Whitney Webb"/>
       </a><br/>
-      <a href="https://www.youtube.com/watch?v=qYNweeDHiyU" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        AI, Machine Learning, Deep Learning and Generative AI Explained
+      <a href="https://www.youtube.com/watch?v=RvDyRISrTiQ" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
+        The Elites Are Using AI to Destroy the Human Spirit | Whitney Webb
       </a><br/>
       <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
-        IBM Technology<br/>
-        3,225,494 views &bull; 1 year ago &bull; Duration: 10:01
+        The Webb Investigation<br/>
+        1,796 views &bull; 11 hours ago &bull; Duration: 16:18
       </small>
     </td>
     <td valign="top" width="250" style="padding: 10px;">
-      <a href="https://www.youtube.com/watch?v=wS4uFBajBbg" target="_blank">
-        <img src="https://img.youtube.com/vi/wS4uFBajBbg/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="The Extraordinary Story Of Artificial Intelligence | FULL DOCUMENTARY"/>
+      <a href="https://www.youtube.com/watch?v=01V6f_eQXQ0" target="_blank">
+        <img src="https://img.youtube.com/vi/01V6f_eQXQ0/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="'The System Is Rigged': Why The Wealth Gap Will Explode | Peter Boettke"/>
       </a><br/>
-      <a href="https://www.youtube.com/watch?v=wS4uFBajBbg" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        The Extraordinary Story Of Artificial Intelligence | FULL DOCUMENTARY
+      <a href="https://www.youtube.com/watch?v=01V6f_eQXQ0" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
+        'The System Is Rigged': Why The Wealth Gap Will Explode | Peter Boettke
       </a><br/>
       <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
-        Naked Science<br/>
-        56,050 views &bull; 2 weeks ago &bull; Duration: 58:51
+        David Lin <br/>
+        5,509 views &bull; 11 hours ago &bull; Duration: 54:39
       </small>
     </td>
   </tr>
