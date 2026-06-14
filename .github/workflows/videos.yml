@@ -21,7 +21,7 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install youtube-search
+          pip install youtube-search-python
 
       - name: Fetch YouTube Search Results and Update README
         shell: python
@@ -29,19 +29,21 @@ jobs:
           import os
           import re
           import html
-          from youtube_search import YoutubeSearch
+          from youtubesearchpython import CustomSearch, VideoSortOrder
 
           # Your preferred search query
           query = "artificial intelligence"
 
-          # Fetch search results
+          # Fetch search results sorted by upload date (newest first)
           try:
-              results = YoutubeSearch(query, max_results=6).to_dict()
+              custom_search = CustomSearch(query, VideoSortOrder.uploadDate, limit=6)
+              results = custom_search.result()
           except Exception as e:
               print(f"Error fetching YouTube results: {e}")
               exit(1)
 
-          if not results:
+          items = results.get("result", [])
+          if not items:
               print("No videos found.")
               exit(0)
 
@@ -51,19 +53,29 @@ jobs:
           
           rows = []
           current_row = []
-          for i, item in enumerate(results):
+          for i, item in enumerate(items):
               video_id = item.get("id")
               if not video_id:
                   continue
               title = html.unescape(item.get("title", ""))
-              channel_title = html.unescape(item.get("channel", ""))
+              
+              # Extract channel name from channel dictionary
+              channel_dict = item.get("channel", {})
+              channel_title = ""
+              if isinstance(channel_dict, dict):
+                  channel_title = html.unescape(channel_dict.get("name", ""))
+              
               thumbnail_url = f"https://img.youtube.com/vi/{video_id}/mqdefault.jpg"
               title_escaped = title.replace("\"", "&quot;")
               
               # Extract duration, views, and publish time
               duration = item.get("duration", "N/A")
-              views = item.get("views", "").strip()
-              publish_time = item.get("publish_time", "").strip()
+              publish_time = item.get("publishedTime", "").strip()
+              
+              views = ""
+              view_count_dict = item.get("viewCount", {})
+              if isinstance(view_count_dict, dict):
+                  views = view_count_dict.get("text", "").strip()
               
               # Format details string
               details_parts = []
