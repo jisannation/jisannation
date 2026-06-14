@@ -36,9 +36,34 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
+    <td valign="top" width="250" style="padding: 10px;">
+      <a href="https://www.youtube.com/watch?v=5NgNicANyqM" target="_blank">
+        <img src="https://img.youtube.com/vi/5NgNicANyqM/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="Harvard CS50’s Artificial Intelligence with Python – Full University Course"/>
+      </a><br/>
+      <a href="https://www.youtube.com/watch?v=5NgNicANyqM" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
+        Harvard CS50’s Artificial Intelligence with Python – Full University Course
+      </a><br/>
+      <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
+        freeCodeCamp.org and CS50<br/>
+        4,719,098 views &bull; 2 years ago &bull; Duration: 11:51:22
+      </small>
+    </td>
+    <td valign="top" width="250" style="padding: 10px;">
+      <a href="https://www.youtube.com/watch?v=wS4uFBajBbg" target="_blank">
+        <img src="https://img.youtube.com/vi/wS4uFBajBbg/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="The Extraordinary Story Of Artificial Intelligence | FULL DOCUMENTARY"/>
+      </a><br/>
+      <a href="https://www.youtube.com/watch?v=wS4uFBajBbg" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
+        The Extraordinary Story Of Artificial Intelligence | FULL DOCUMENTARY
+      </a><br/>
+      <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
+        Naked Science<br/>
+        56,044 views &bull; 2 weeks ago &bull; Duration: 58:51
+      </small>
+    </td>
     <td valign="top" width="250" style="padding: 10px;">
       <a href="https://www.youtube.com/watch?v=QaM6aHgu09M" target="_blank">
         <img src="https://img.youtube.com/vi/QaM6aHgu09M/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="Anthropic CEO shares new warning on dangers of AI"/>
@@ -46,45 +71,36 @@
       <a href="https://www.youtube.com/watch?v=QaM6aHgu09M" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
         Anthropic CEO shares new warning on dangers of AI
       </a><br/>
-      <small style="color: #8b949e; font-family: sans-serif;">Good Morning America</small>
-    </td>
-    <td valign="top" width="250" style="padding: 10px;">
-      <a href="https://www.youtube.com/watch?v=C9Rnt3FKaIY" target="_blank">
-        <img src="https://img.youtube.com/vi/C9Rnt3FKaIY/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="Anthropic's CEO raises concerns over rapidly developing AI technology"/>
-      </a><br/>
-      <a href="https://www.youtube.com/watch?v=C9Rnt3FKaIY" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        Anthropic's CEO raises concerns over rapidly developing AI technology
-      </a><br/>
-      <small style="color: #8b949e; font-family: sans-serif;">ABC News</small>
-    </td>
-    <td valign="top" width="250" style="padding: 10px;">
-      <a href="https://www.youtube.com/watch?v=aZ5EsdnpLMI" target="_blank">
-        <img src="https://img.youtube.com/vi/aZ5EsdnpLMI/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="Artificial Intelligence | 60 Minutes Full Episodes"/>
-      </a><br/>
-      <a href="https://www.youtube.com/watch?v=aZ5EsdnpLMI" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        Artificial Intelligence | 60 Minutes Full Episodes
-      </a><br/>
-      <small style="color: #8b949e; font-family: sans-serif;">60 Minutes</small>
+      <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
+        Good Morning America<br/>
+        8,538 views &bull; 2 days ago &bull; Duration: 2:17
+      </small>
     </td>
   </tr>
   <tr>
     <td valign="top" width="250" style="padding: 10px;">
-      <a href="https://www.youtube.com/watch?v=qYNweeDHiyU" target="_blank">
-        <img src="https://img.youtube.com/vi/qYNweeDHiyU/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="AI, Machine Learning, Deep Learning and Generative AI Explained"/>
+      <a href="https://www.youtube.com/watch?v=LGCZ-Fhm48c" target="_blank">
+        <img src="https://img.youtube.com/vi/LGCZ-Fhm48c/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="AI Full Course 2025 | AI Tutorial for Beginners | Artificial Intelligence Course | Simplilearn"/>
       </a><br/>
-      <a href="https://www.youtube.com/watch?v=qYNweeDHiyU" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        AI, Machine Learning, Deep Learning and Generative AI Explained
+      <a href="https://www.youtube.com/watch?v=LGCZ-Fhm48c" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
+        AI Full Course 2025 | AI Tutorial for Beginners | Artificial Intelligence Course | Simplilearn
       </a><br/>
-      <small style="color: #8b949e; font-family: sans-serif;">IBM Technology</small>
+      <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
+        Simplilearn<br/>
+        114,942 views &bull; Streamed 7 months ago &bull; Duration: 10:34:44
+      </small>
     </td>
     <td valign="top" width="250" style="padding: 10px;">
-      <a href="https://www.youtube.com/watch?v=JcXKbUIebrU" target="_blank">
-        <img src="https://img.youtube.com/vi/JcXKbUIebrU/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="What Is AI? | Learn all about artificial intelligence"/>
+      <a href="https://www.youtube.com/watch?v=JMUxmLyrhSk" target="_blank">
+        <img src="https://img.youtube.com/vi/JMUxmLyrhSk/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="Artificial Intelligence Full Course | Artificial Intelligence Tutorial for Beginners | Edureka"/>
       </a><br/>
-      <a href="https://www.youtube.com/watch?v=JcXKbUIebrU" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        What Is AI? | Learn all about artificial intelligence
+      <a href="https://www.youtube.com/watch?v=JMUxmLyrhSk" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
+        Artificial Intelligence Full Course | Artificial Intelligence Tutorial for Beginners | Edureka
       </a><br/>
-      <small style="color: #8b949e; font-family: sans-serif;">Learn Bright</small>
+      <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
+        edureka!<br/>
+        4,960,239 views &bull; 7 years ago &bull; Duration: 4:52:51
+      </small>
     </td>
     <td valign="top" width="250" style="padding: 10px;">
       <a href="https://www.youtube.com/watch?v=QADKN3hantI" target="_blank">
@@ -93,7 +109,10 @@
       <a href="https://www.youtube.com/watch?v=QADKN3hantI" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
         It's Beginning: AI Improves Itself
       </a><br/>
-      <small style="color: #8b949e; font-family: sans-serif;">Sabine Hossenfelder</small>
+      <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
+        Sabine Hossenfelder<br/>
+        109,605 views &bull; 17 hours ago &bull; Duration: 6:40
+      </small>
     </td>
   </tr>
 </table>
