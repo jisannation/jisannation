@@ -21,7 +21,7 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install youtube-search-python
+          pip install youtube-search-python "httpx<0.28"
 
       - name: Fetch YouTube Search Results and Update README
         shell: python
