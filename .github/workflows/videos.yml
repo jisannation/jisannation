@@ -29,14 +29,30 @@ jobs:
           import os
           import re
           import html
+          import time
+          import urllib.parse
           from datetime import datetime, timedelta
           from youtubesearchpython import VideosSearch
+
+          # Convert a duration string (e.g. "6:40" or "0:16") to total seconds
+          def parse_duration_to_seconds(duration_str):
+              try:
+                  parts = list(map(int, duration_str.split(":")))
+                  if len(parts) == 1:
+                      return parts[0]
+                  elif len(parts) == 2:
+                      return parts[0] * 60 + parts[1]
+                  elif len(parts) == 3:
+                      return parts[0] * 3600 + parts[1] * 60 + parts[2]
+              except Exception:
+                  return 0
+              return 0
 
           # Calculate yesterday's date dynamically to limit results to the last 24 hours
           time_threshold = datetime.now() - timedelta(days=1)
           date_string = time_threshold.strftime("%Y-%m-%d")
           
-          # Build search query (e.g., "artificial intelligence after:2026-06-13")
+          # Build search query
           query = f"artificial intelligence after:{date_string}"
           print(f"Using query: {query}")
 
@@ -59,52 +75,30 @@ jobs:
           
           rows = []
           current_row = []
+          current_time = int(time.time())
+
           for i, item in enumerate(items):
               video_id = item.get("id")
               if not video_id:
                   continue
               title = html.unescape(item.get("title", ""))
-              
-              # Extract channel name from channel dictionary
-              channel_dict = item.get("channel", {})
-              channel_title = ""
-              if isinstance(channel_dict, dict):
-                  channel_title = html.unescape(channel_dict.get("name", ""))
-              
-              thumbnail_url = f"https://img.youtube.com/vi/{video_id}/mqdefault.jpg"
               title_escaped = title.replace("\"", "&quot;")
+              title_encoded = urllib.parse.quote_plus(title)
               
-              # Extract duration, views, and publish time
-              duration = item.get("duration", "N/A")
-              publish_time = item.get("publishedTime", "").strip()
+              duration_str = item.get("duration", "0")
+              duration_secs = parse_duration_to_seconds(duration_str)
               
-              views = ""
-              view_count_dict = item.get("viewCount", {})
-              if isinstance(view_count_dict, dict):
-                  views = view_count_dict.get("text", "").strip()
+              # Construct demolab.com dynamic SVG card URLs for light and dark themes
+              dark_url = f"https://ytcards.demolab.com/?id={video_id}&title={title_encoded}&lang=en&timestamp={current_time}&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration={duration_secs}"
+              light_url = f"https://ytcards.demolab.com/?id={video_id}&title={title_encoded}&lang=en&timestamp={current_time}&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration={duration_secs}"
               
-              # Format details string
-              details_parts = []
-              if views:
-                  details_parts.append(views)
-              if publish_time:
-                  details_parts.append(publish_time)
-              if duration:
-                  details_parts.append(f"Duration: {duration}")
-                  
-              details_text = " &bull; ".join(details_parts)
-              
-              cell = f"""    <td valign="top" width="250" style="padding: 10px;">
+              cell = f"""    <td valign="top">
                 <a href="https://www.youtube.com/watch?v={video_id}" target="_blank">
-                  <img src="{thumbnail_url}" width="250" style="border-radius: 8px;" alt="{title_escaped}"/>
-                </a><br/>
-                <a href="https://www.youtube.com/watch?v={video_id}" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-                  {title}
-                </a><br/>
-                <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
-                  {channel_title}<br/>
-                  {details_text}
-                </small>
+                  <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="{dark_url}">
+                    <img src="{light_url}" alt="{title_escaped}" title="{title_escaped}">
+                  </picture>
+                </a>
               </td>"""
               current_row.append(cell)
               
