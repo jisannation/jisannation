@@ -41,6 +41,7 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
@@ -53,7 +54,7 @@
       </a><br/>
       <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
         Sabine Hossenfelder<br/>
-        110,424 views &bull; 18 hours ago &bull; Duration: 6:40
+        111,264 views &bull; 18 hours ago &bull; Duration: 6:40
       </small>
     </td>
     <td valign="top" width="250" style="padding: 10px;">
@@ -65,7 +66,7 @@
       </a><br/>
       <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
         FOX 10 Phoenix<br/>
-        344 views &bull; 5 hours ago &bull; Duration: 1:59
+        351 views &bull; 5 hours ago &bull; Duration: 1:59
       </small>
     </td>
     <td valign="top" width="250" style="padding: 10px;">
@@ -77,21 +78,21 @@
       </a><br/>
       <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
         Future Business Tech<br/>
-        2,627 views &bull; 17 hours ago &bull; Duration: 14:25
+        2,645 views &bull; 18 hours ago &bull; Duration: 14:25
       </small>
     </td>
   </tr>
   <tr>
     <td valign="top" width="250" style="padding: 10px;">
-      <a href="https://www.youtube.com/watch?v=jATagrvrnBk" target="_blank">
-        <img src="https://img.youtube.com/vi/jATagrvrnBk/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="Talking With Azeem Azhar"/>
+      <a href="https://www.youtube.com/watch?v=t7_ZXgfJVG8" target="_blank">
+        <img src="https://img.youtube.com/vi/t7_ZXgfJVG8/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="Recursive Self Improvement"/>
       </a><br/>
-      <a href="https://www.youtube.com/watch?v=jATagrvrnBk" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        Talking With Azeem Azhar
+      <a href="https://www.youtube.com/watch?v=t7_ZXgfJVG8" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
+        Recursive Self Improvement
       </a><br/>
       <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
-        Paul Krugman<br/>
-        5,256 views &bull; 22 hours ago &bull; Duration: 47:04
+        Emergent Garden<br/>
+        52,236 views &bull; 21 hours ago &bull; Duration: 31:12
       </small>
     </td>
     <td valign="top" width="250" style="padding: 10px;">
@@ -103,19 +104,19 @@
       </a><br/>
       <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
         BBC News<br/>
-        35,137 views &bull; 23 hours ago &bull; Duration: 26:11
+        35,465 views &bull; 23 hours ago &bull; Duration: 26:11
       </small>
     </td>
     <td valign="top" width="250" style="padding: 10px;">
-      <a href="https://www.youtube.com/watch?v=Dxn3BcSgsMY" target="_blank">
-        <img src="https://img.youtube.com/vi/Dxn3BcSgsMY/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="1,000+ Tokens/Sec: Google Just Shattered the AI Speed Limit (DiffusionGemma)"/>
+      <a href="https://www.youtube.com/watch?v=Ot5rC8sNLIA" target="_blank">
+        <img src="https://img.youtube.com/vi/Ot5rC8sNLIA/mqdefault.jpg" width="250" style="border-radius: 8px;" alt="EXPANSION: Corning and Amazon deepen AI infrastructure partnership"/>
       </a><br/>
-      <a href="https://www.youtube.com/watch?v=Dxn3BcSgsMY" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-        1,000+ Tokens/Sec: Google Just Shattered the AI Speed Limit (DiffusionGemma)
+      <a href="https://www.youtube.com/watch?v=Ot5rC8sNLIA" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
+        EXPANSION: Corning and Amazon deepen AI infrastructure partnership
       </a><br/>
       <small style="color: #8b949e; font-family: sans-serif; font-size: 12px; line-height: 1.5;">
-        Better Stack<br/>
-        27,877 views &bull; 17 hours ago &bull; Duration: 12:39
+        Fox Business<br/>
+        6,903 views &bull; 15 hours ago &bull; Duration: 6:34
       </small>
     </td>
   </tr>
