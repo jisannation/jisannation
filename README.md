@@ -43,56 +43,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=QADKN3hantI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QADKN3hantI&title=It%27s+Beginning%3A+AI+Improves+Itself&lang=en&timestamp=1781429029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=400">
-          <img src="https://ytcards.demolab.com/?id=QADKN3hantI&title=It%27s+Beginning%3A+AI+Improves+Itself&lang=en&timestamp=1781429029&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=400" alt="It's Beginning: AI Improves Itself" title="It's Beginning: AI Improves Itself">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QADKN3hantI&title=It%27s+Beginning%3A+AI+Improves+Itself&lang=en&timestamp=1781364494&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=400">
+          <img src="https://ytcards.demolab.com/?id=QADKN3hantI&title=It%27s+Beginning%3A+AI+Improves+Itself&lang=en&timestamp=1781364494&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=400" alt="It's Beginning: AI Improves Itself" title="It's Beginning: AI Improves Itself">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=2aWsoaVqUAU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2aWsoaVqUAU&title=Artificial+intelligence%3A+Phoenix+residents+react+to+rapid+rise+of+AI+%7C+FOX+10+Phoenix&lang=en&timestamp=1781429029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
-          <img src="https://ytcards.demolab.com/?id=2aWsoaVqUAU&title=Artificial+intelligence%3A+Phoenix+residents+react+to+rapid+rise+of+AI+%7C+FOX+10+Phoenix&lang=en&timestamp=1781429029&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Artificial intelligence: Phoenix residents react to rapid rise of AI | FOX 10 Phoenix" title="Artificial intelligence: Phoenix residents react to rapid rise of AI | FOX 10 Phoenix">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2aWsoaVqUAU&title=Artificial+intelligence%3A+Phoenix+residents+react+to+rapid+rise+of+AI+%7C+FOX+10+Phoenix&lang=en&timestamp=1781411294&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
+          <img src="https://ytcards.demolab.com/?id=2aWsoaVqUAU&title=Artificial+intelligence%3A+Phoenix+residents+react+to+rapid+rise+of+AI+%7C+FOX+10+Phoenix&lang=en&timestamp=1781411294&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Artificial intelligence: Phoenix residents react to rapid rise of AI | FOX 10 Phoenix" title="Artificial intelligence: Phoenix residents react to rapid rise of AI | FOX 10 Phoenix">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=Ae_9Uozn-_M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ae_9Uozn-_M&title=The+7+Levels+of+AI&lang=en&timestamp=1781429029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=865">
-          <img src="https://ytcards.demolab.com/?id=Ae_9Uozn-_M&title=The+7+Levels+of+AI&lang=en&timestamp=1781429029&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=865" alt="The 7 Levels of AI" title="The 7 Levels of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ae_9Uozn-_M&title=The+7+Levels+of+AI&lang=en&timestamp=1781364494&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=865">
+          <img src="https://ytcards.demolab.com/?id=Ae_9Uozn-_M&title=The+7+Levels+of+AI&lang=en&timestamp=1781364494&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=865" alt="The 7 Levels of AI" title="The 7 Levels of AI">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=RvDyRISrTiQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=01V6f_eQXQ0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RvDyRISrTiQ&title=The+Elites+Are+Using+AI+to+Destroy+the+Human+Spirit+%7C+Whitney+Webb&lang=en&timestamp=1781429029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=978">
-          <img src="https://ytcards.demolab.com/?id=RvDyRISrTiQ&title=The+Elites+Are+Using+AI+to+Destroy+the+Human+Spirit+%7C+Whitney+Webb&lang=en&timestamp=1781429029&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=978" alt="The Elites Are Using AI to Destroy the Human Spirit | Whitney Webb" title="The Elites Are Using AI to Destroy the Human Spirit | Whitney Webb">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=01V6f_eQXQ0&title=%27The+System+Is+Rigged%27%3A+Why+The+Wealth+Gap+Will+Explode+%7C+Peter+Boettke&lang=en&timestamp=1781386094&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3279">
+          <img src="https://ytcards.demolab.com/?id=01V6f_eQXQ0&title=%27The+System+Is+Rigged%27%3A+Why+The+Wealth+Gap+Will+Explode+%7C+Peter+Boettke&lang=en&timestamp=1781386094&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3279" alt="'The System Is Rigged': Why The Wealth Gap Will Explode | Peter Boettke" title="'The System Is Rigged': Why The Wealth Gap Will Explode | Peter Boettke">
         </picture>
       </a>
     </td>
     <td valign="top">
       <a href="https://www.youtube.com/watch?v=t7_ZXgfJVG8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=t7_ZXgfJVG8&title=Recursive+Self+Improvement&lang=en&timestamp=1781429029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1872">
-          <img src="https://ytcards.demolab.com/?id=t7_ZXgfJVG8&title=Recursive+Self+Improvement&lang=en&timestamp=1781429029&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1872" alt="Recursive Self Improvement" title="Recursive Self Improvement">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=t7_ZXgfJVG8&title=Recursive+Self+Improvement&lang=en&timestamp=1781353694&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1872">
+          <img src="https://ytcards.demolab.com/?id=t7_ZXgfJVG8&title=Recursive+Self+Improvement&lang=en&timestamp=1781353694&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1872" alt="Recursive Self Improvement" title="Recursive Self Improvement">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=01V6f_eQXQ0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=sQq07QVTOk0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=01V6f_eQXQ0&title=%27The+System+Is+Rigged%27%3A+Why+The+Wealth+Gap+Will+Explode+%7C+Peter+Boettke&lang=en&timestamp=1781429029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3279">
-          <img src="https://ytcards.demolab.com/?id=01V6f_eQXQ0&title=%27The+System+Is+Rigged%27%3A+Why+The+Wealth+Gap+Will+Explode+%7C+Peter+Boettke&lang=en&timestamp=1781429029&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3279" alt="'The System Is Rigged': Why The Wealth Gap Will Explode | Peter Boettke" title="'The System Is Rigged': Why The Wealth Gap Will Explode | Peter Boettke">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sQq07QVTOk0&title=Is+this+AI%27s+moment+of+truth%3F+%7C+BBC+News&lang=en&timestamp=1781346494&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1571">
+          <img src="https://ytcards.demolab.com/?id=sQq07QVTOk0&title=Is+this+AI%27s+moment+of+truth%3F+%7C+BBC+News&lang=en&timestamp=1781346494&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1571" alt="Is this AI's moment of truth? | BBC News" title="Is this AI's moment of truth? | BBC News">
         </picture>
       </a>
     </td>
