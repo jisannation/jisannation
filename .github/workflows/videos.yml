@@ -71,14 +71,14 @@ jobs:
               title_escaped = title.replace("\"", "&quot;")
               
               cell = f"""    <td valign="top" width="250" style="padding: 10px;">
-        <a href="https://www.youtube.com/watch?v={video_id}" target="_blank">
-          <img src="{thumbnail_url}" width="250" style="border-radius: 8px;" alt="{title_escaped}"/>
-        </a><br/>
-        <a href="https://www.youtube.com/watch?v={video_id}" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
-          {title}
-        </a><br/>
-        <small style="color: #8b949e; font-family: sans-serif;">{channel_title}</small>
-      </td>"""
+                <a href="https://www.youtube.com/watch?v={video_id}" target="_blank">
+                  <img src="{thumbnail_url}" width="250" style="border-radius: 8px;" alt="{title_escaped}"/>
+                </a><br/>
+                <a href="https://www.youtube.com/watch?v={video_id}" target="_blank" style="text-decoration: none; color: #58a6ff; font-weight: bold; font-family: sans-serif; font-size: 14px;">
+                  {title}
+                </a><br/>
+                <small style="color: #8b949e; font-family: sans-serif;">{channel_title}</small>
+              </td>"""
               current_row.append(cell)
               
               if len(current_row) == 3:
