@@ -44,56 +44,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QADKN3hantI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EXFa7bT2ccY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QADKN3hantI&title=It%27s+Beginning%3A+AI+Improves+Itself&lang=en&timestamp=1781364494&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=400">
-          <img src="https://ytcards.demolab.com/?id=QADKN3hantI&title=It%27s+Beginning%3A+AI+Improves+Itself&lang=en&timestamp=1781364494&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=400" alt="It's Beginning: AI Improves Itself" title="It's Beginning: AI Improves Itself">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EXFa7bT2ccY&title=How+to+Learn+AI+in+15+Mins+%28EASY+for+Beginners%29&lang=en&timestamp=1781459894&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=932">
+          <img src="https://ytcards.demolab.com/?id=EXFa7bT2ccY&title=How+to+Learn+AI+in+15+Mins+%28EASY+for+Beginners%29&lang=en&timestamp=1781459894&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=932" alt="How to Learn AI in 15 Mins (EASY for Beginners)" title="How to Learn AI in 15 Mins (EASY for Beginners)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2aWsoaVqUAU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=yT-iu1kovKg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2aWsoaVqUAU&title=Artificial+intelligence%3A+Phoenix+residents+react+to+rapid+rise+of+AI+%7C+FOX+10+Phoenix&lang=en&timestamp=1781411294&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
-          <img src="https://ytcards.demolab.com/?id=2aWsoaVqUAU&title=Artificial+intelligence%3A+Phoenix+residents+react+to+rapid+rise+of+AI+%7C+FOX+10+Phoenix&lang=en&timestamp=1781411294&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Artificial intelligence: Phoenix residents react to rapid rise of AI | FOX 10 Phoenix" title="Artificial intelligence: Phoenix residents react to rapid rise of AI | FOX 10 Phoenix">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yT-iu1kovKg&title=In+a+Bengaluru+market%2C+vendors+hired+to+train+AI+systems&lang=en&timestamp=1781423894&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=564">
+          <img src="https://ytcards.demolab.com/?id=yT-iu1kovKg&title=In+a+Bengaluru+market%2C+vendors+hired+to+train+AI+systems&lang=en&timestamp=1781423894&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=564" alt="In a Bengaluru market, vendors hired to train AI systems" title="In a Bengaluru market, vendors hired to train AI systems">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Ae_9Uozn-_M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9sQhQSdS0Mg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ae_9Uozn-_M&title=The+7+Levels+of+AI&lang=en&timestamp=1781364494&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=865">
-          <img src="https://ytcards.demolab.com/?id=Ae_9Uozn-_M&title=The+7+Levels+of+AI&lang=en&timestamp=1781364494&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=865" alt="The 7 Levels of AI" title="The 7 Levels of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9sQhQSdS0Mg&title=AI-Designed+%27Universal+Vaccine%27+Passes+First+Human+Trial+%7C+WION&lang=en&timestamp=1781449094&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=127">
+          <img src="https://ytcards.demolab.com/?id=9sQhQSdS0Mg&title=AI-Designed+%27Universal+Vaccine%27+Passes+First+Human+Trial+%7C+WION&lang=en&timestamp=1781449094&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=127" alt="AI-Designed 'Universal Vaccine' Passes First Human Trial | WION" title="AI-Designed 'Universal Vaccine' Passes First Human Trial | WION">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=01V6f_eQXQ0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=w8jiiVEW8r4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=01V6f_eQXQ0&title=%27The+System+Is+Rigged%27%3A+Why+The+Wealth+Gap+Will+Explode+%7C+Peter+Boettke&lang=en&timestamp=1781386094&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3279">
-          <img src="https://ytcards.demolab.com/?id=01V6f_eQXQ0&title=%27The+System+Is+Rigged%27%3A+Why+The+Wealth+Gap+Will+Explode+%7C+Peter+Boettke&lang=en&timestamp=1781386094&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3279" alt="'The System Is Rigged': Why The Wealth Gap Will Explode | Peter Boettke" title="'The System Is Rigged': Why The Wealth Gap Will Explode | Peter Boettke">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w8jiiVEW8r4&title=Nvidia%27s+AI+Bubble+will+POP+from+these+4+Headwinds&lang=en&timestamp=1781452694&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=613">
+          <img src="https://ytcards.demolab.com/?id=w8jiiVEW8r4&title=Nvidia%27s+AI+Bubble+will+POP+from+these+4+Headwinds&lang=en&timestamp=1781452694&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=613" alt="Nvidia's AI Bubble will POP from these 4 Headwinds" title="Nvidia's AI Bubble will POP from these 4 Headwinds">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=t7_ZXgfJVG8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=clS5j_Ng4RA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=t7_ZXgfJVG8&title=Recursive+Self+Improvement&lang=en&timestamp=1781353694&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1872">
-          <img src="https://ytcards.demolab.com/?id=t7_ZXgfJVG8&title=Recursive+Self+Improvement&lang=en&timestamp=1781353694&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1872" alt="Recursive Self Improvement" title="Recursive Self Improvement">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=clS5j_Ng4RA&title=Full+Video%3A+Peaceful+European+Countryside+Farm+%7C+Harvesting+Passion+Fruit+and+Making+Juice&lang=en&timestamp=1781441894&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11041">
+          <img src="https://ytcards.demolab.com/?id=clS5j_Ng4RA&title=Full+Video%3A+Peaceful+European+Countryside+Farm+%7C+Harvesting+Passion+Fruit+and+Making+Juice&lang=en&timestamp=1781441894&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11041" alt="Full Video: Peaceful European Countryside Farm | Harvesting Passion Fruit and Making Juice" title="Full Video: Peaceful European Countryside Farm | Harvesting Passion Fruit and Making Juice">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sQq07QVTOk0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=447Dp_37kMM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sQq07QVTOk0&title=Is+this+AI%27s+moment+of+truth%3F+%7C+BBC+News&lang=en&timestamp=1781346494&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1571">
-          <img src="https://ytcards.demolab.com/?id=sQq07QVTOk0&title=Is+this+AI%27s+moment+of+truth%3F+%7C+BBC+News&lang=en&timestamp=1781346494&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1571" alt="Is this AI's moment of truth? | BBC News" title="Is this AI's moment of truth? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=447Dp_37kMM&title=Additional+Insights%3A+Hearing+God%27s+Voice+in+an+Age+of+Artificial+Intelligence&lang=en&timestamp=1781449094&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=567">
+          <img src="https://ytcards.demolab.com/?id=447Dp_37kMM&title=Additional+Insights%3A+Hearing+God%27s+Voice+in+an+Age+of+Artificial+Intelligence&lang=en&timestamp=1781449094&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=567" alt="Additional Insights: Hearing God's Voice in an Age of Artificial Intelligence" title="Additional Insights: Hearing God's Voice in an Age of Artificial Intelligence">
         </picture>
       </a>
     </td>
