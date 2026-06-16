@@ -45,56 +45,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EXFa7bT2ccY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=haB_od-xCWY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EXFa7bT2ccY&title=How+to+Learn+AI+in+15+Mins+%28EASY+for+Beginners%29&lang=en&timestamp=1781459894&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=932">
-          <img src="https://ytcards.demolab.com/?id=EXFa7bT2ccY&title=How+to+Learn+AI+in+15+Mins+%28EASY+for+Beginners%29&lang=en&timestamp=1781459894&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=932" alt="How to Learn AI in 15 Mins (EASY for Beginners)" title="How to Learn AI in 15 Mins (EASY for Beginners)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=haB_od-xCWY&title=Google+Just+Revealed+What+Comes+After+AGI+And+It%E2%80%99s+Shocking&lang=en&timestamp=1781564279&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=813">
+          <img src="https://ytcards.demolab.com/?id=haB_od-xCWY&title=Google+Just+Revealed+What+Comes+After+AGI+And+It%E2%80%99s+Shocking&lang=en&timestamp=1781564279&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=813" alt="Google Just Revealed What Comes After AGI And It’s Shocking" title="Google Just Revealed What Comes After AGI And It’s Shocking">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yT-iu1kovKg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=veKUSM3j98g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yT-iu1kovKg&title=In+a+Bengaluru+market%2C+vendors+hired+to+train+AI+systems&lang=en&timestamp=1781423894&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=564">
-          <img src="https://ytcards.demolab.com/?id=yT-iu1kovKg&title=In+a+Bengaluru+market%2C+vendors+hired+to+train+AI+systems&lang=en&timestamp=1781423894&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=564" alt="In a Bengaluru market, vendors hired to train AI systems" title="In a Bengaluru market, vendors hired to train AI systems">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=veKUSM3j98g&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1781564279&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18161">
+          <img src="https://ytcards.demolab.com/?id=veKUSM3j98g&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1781564279&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18161" alt="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn" title="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9sQhQSdS0Mg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=0Ti5p74cOk0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9sQhQSdS0Mg&title=AI-Designed+%27Universal+Vaccine%27+Passes+First+Human+Trial+%7C+WION&lang=en&timestamp=1781449094&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=127">
-          <img src="https://ytcards.demolab.com/?id=9sQhQSdS0Mg&title=AI-Designed+%27Universal+Vaccine%27+Passes+First+Human+Trial+%7C+WION&lang=en&timestamp=1781449094&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=127" alt="AI-Designed 'Universal Vaccine' Passes First Human Trial | WION" title="AI-Designed 'Universal Vaccine' Passes First Human Trial | WION">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0Ti5p74cOk0&title=We+Asked+AI+To+Make+Soccer+Less+Boring&lang=en&timestamp=1781560679&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=38">
+          <img src="https://ytcards.demolab.com/?id=0Ti5p74cOk0&title=We+Asked+AI+To+Make+Soccer+Less+Boring&lang=en&timestamp=1781560679&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=38" alt="We Asked AI To Make Soccer Less Boring" title="We Asked AI To Make Soccer Less Boring">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=w8jiiVEW8r4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Xs75ovu-LLQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w8jiiVEW8r4&title=Nvidia%27s+AI+Bubble+will+POP+from+these+4+Headwinds&lang=en&timestamp=1781452694&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=613">
-          <img src="https://ytcards.demolab.com/?id=w8jiiVEW8r4&title=Nvidia%27s+AI+Bubble+will+POP+from+these+4+Headwinds&lang=en&timestamp=1781452694&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=613" alt="Nvidia's AI Bubble will POP from these 4 Headwinds" title="Nvidia's AI Bubble will POP from these 4 Headwinds">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xs75ovu-LLQ&title=Meet+Your+New+Co-Worker%3A+Can+Robots+Fix+Our+Manpower+Crunch%3F+%7C+Talking+Point&lang=en&timestamp=1781528279&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1355">
+          <img src="https://ytcards.demolab.com/?id=Xs75ovu-LLQ&title=Meet+Your+New+Co-Worker%3A+Can+Robots+Fix+Our+Manpower+Crunch%3F+%7C+Talking+Point&lang=en&timestamp=1781528279&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1355" alt="Meet Your New Co-Worker: Can Robots Fix Our Manpower Crunch? | Talking Point" title="Meet Your New Co-Worker: Can Robots Fix Our Manpower Crunch? | Talking Point">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=clS5j_Ng4RA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=J9sWxViOXZo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=clS5j_Ng4RA&title=Full+Video%3A+Peaceful+European+Countryside+Farm+%7C+Harvesting+Passion+Fruit+and+Making+Juice&lang=en&timestamp=1781441894&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11041">
-          <img src="https://ytcards.demolab.com/?id=clS5j_Ng4RA&title=Full+Video%3A+Peaceful+European+Countryside+Farm+%7C+Harvesting+Passion+Fruit+and+Making+Juice&lang=en&timestamp=1781441894&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=11041" alt="Full Video: Peaceful European Countryside Farm | Harvesting Passion Fruit and Making Juice" title="Full Video: Peaceful European Countryside Farm | Harvesting Passion Fruit and Making Juice">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J9sWxViOXZo&title=Software+jobs+in+2026...&lang=en&timestamp=1781521079&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=546">
+          <img src="https://ytcards.demolab.com/?id=J9sWxViOXZo&title=Software+jobs+in+2026...&lang=en&timestamp=1781521079&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=546" alt="Software jobs in 2026..." title="Software jobs in 2026...">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=447Dp_37kMM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=F_7M4Hc-usM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=447Dp_37kMM&title=Additional+Insights%3A+Hearing+God%27s+Voice+in+an+Age+of+Artificial+Intelligence&lang=en&timestamp=1781449094&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=567">
-          <img src="https://ytcards.demolab.com/?id=447Dp_37kMM&title=Additional+Insights%3A+Hearing+God%27s+Voice+in+an+Age+of+Artificial+Intelligence&lang=en&timestamp=1781449094&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=567" alt="Additional Insights: Hearing God's Voice in an Age of Artificial Intelligence" title="Additional Insights: Hearing God's Voice in an Age of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F_7M4Hc-usM&title=Stanford+CS153+Frontier+Systems+%7C+Scale%2C+AGI%2C+and+the+Future+of+Everything&lang=en&timestamp=1781549879&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2470">
+          <img src="https://ytcards.demolab.com/?id=F_7M4Hc-usM&title=Stanford+CS153+Frontier+Systems+%7C+Scale%2C+AGI%2C+and+the+Future+of+Everything&lang=en&timestamp=1781549879&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2470" alt="Stanford CS153 Frontier Systems | Scale, AGI, and the Future of Everything" title="Stanford CS153 Frontier Systems | Scale, AGI, and the Future of Everything">
         </picture>
       </a>
     </td>
