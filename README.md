@@ -46,56 +46,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=haB_od-xCWY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Xgd_bQ4Mscg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=haB_od-xCWY&title=Google+Just+Revealed+What+Comes+After+AGI+And+It%E2%80%99s+Shocking&lang=en&timestamp=1781564279&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=813">
-          <img src="https://ytcards.demolab.com/?id=haB_od-xCWY&title=Google+Just+Revealed+What+Comes+After+AGI+And+It%E2%80%99s+Shocking&lang=en&timestamp=1781564279&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=813" alt="Google Just Revealed What Comes After AGI And It’s Shocking" title="Google Just Revealed What Comes After AGI And It’s Shocking">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xgd_bQ4Mscg&title=Is+AI+ALIVE%3F+What+AI+is+teaching+us+about+consciousness+with+Michael+Pollan+and+Chris+Hayes&lang=en&timestamp=1781617432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3420">
+          <img src="https://ytcards.demolab.com/?id=Xgd_bQ4Mscg&title=Is+AI+ALIVE%3F+What+AI+is+teaching+us+about+consciousness+with+Michael+Pollan+and+Chris+Hayes&lang=en&timestamp=1781617432&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3420" alt="Is AI ALIVE? What AI is teaching us about consciousness with Michael Pollan and Chris Hayes" title="Is AI ALIVE? What AI is teaching us about consciousness with Michael Pollan and Chris Hayes">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=veKUSM3j98g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=pPPg8eD3teE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=veKUSM3j98g&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1781564279&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18161">
-          <img src="https://ytcards.demolab.com/?id=veKUSM3j98g&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1781564279&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18161" alt="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn" title="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pPPg8eD3teE&title=10+Times+AI+Did+Something+Scientists+Said+Was+Impossible&lang=en&timestamp=1781624632&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=713">
+          <img src="https://ytcards.demolab.com/?id=pPPg8eD3teE&title=10+Times+AI+Did+Something+Scientists+Said+Was+Impossible&lang=en&timestamp=1781624632&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=713" alt="10 Times AI Did Something Scientists Said Was Impossible" title="10 Times AI Did Something Scientists Said Was Impossible">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=0Ti5p74cOk0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1g9a96XzDB4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0Ti5p74cOk0&title=We+Asked+AI+To+Make+Soccer+Less+Boring&lang=en&timestamp=1781560679&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=38">
-          <img src="https://ytcards.demolab.com/?id=0Ti5p74cOk0&title=We+Asked+AI+To+Make+Soccer+Less+Boring&lang=en&timestamp=1781560679&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=38" alt="We Asked AI To Make Soccer Less Boring" title="We Asked AI To Make Soccer Less Boring">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1g9a96XzDB4&title=What+If+The+Creator+Is+Artificial+Intelligence%3F&lang=en&timestamp=1781657032&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1235">
+          <img src="https://ytcards.demolab.com/?id=1g9a96XzDB4&title=What+If+The+Creator+Is+Artificial+Intelligence%3F&lang=en&timestamp=1781657032&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1235" alt="What If The Creator Is Artificial Intelligence?" title="What If The Creator Is Artificial Intelligence?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Xs75ovu-LLQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=6bNGsXfKJGI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xs75ovu-LLQ&title=Meet+Your+New+Co-Worker%3A+Can+Robots+Fix+Our+Manpower+Crunch%3F+%7C+Talking+Point&lang=en&timestamp=1781528279&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1355">
-          <img src="https://ytcards.demolab.com/?id=Xs75ovu-LLQ&title=Meet+Your+New+Co-Worker%3A+Can+Robots+Fix+Our+Manpower+Crunch%3F+%7C+Talking+Point&lang=en&timestamp=1781528279&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1355" alt="Meet Your New Co-Worker: Can Robots Fix Our Manpower Crunch? | Talking Point" title="Meet Your New Co-Worker: Can Robots Fix Our Manpower Crunch? | Talking Point">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6bNGsXfKJGI&title=Brian+Gallagher+and+Gary+Marcus%3A+A+Skeptic%E2%80%99s+Guide+to+Artificial+Intelligence&lang=en&timestamp=1781624632&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3871">
+          <img src="https://ytcards.demolab.com/?id=6bNGsXfKJGI&title=Brian+Gallagher+and+Gary+Marcus%3A+A+Skeptic%E2%80%99s+Guide+to+Artificial+Intelligence&lang=en&timestamp=1781624632&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3871" alt="Brian Gallagher and Gary Marcus: A Skeptic’s Guide to Artificial Intelligence" title="Brian Gallagher and Gary Marcus: A Skeptic’s Guide to Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=J9sWxViOXZo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=cvnd-wc2Co8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J9sWxViOXZo&title=Software+jobs+in+2026...&lang=en&timestamp=1781521079&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=546">
-          <img src="https://ytcards.demolab.com/?id=J9sWxViOXZo&title=Software+jobs+in+2026...&lang=en&timestamp=1781521079&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=546" alt="Software jobs in 2026..." title="Software jobs in 2026...">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cvnd-wc2Co8&title=%E2%80%98F%2A%2AK+AI%E2%80%99%3A+Ronny+Chieng%27s+BRUTALLY+Honest+Message+on+AI+To+Harvard+Graduates+Goes+Viral&lang=en&timestamp=1781631832&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=783">
+          <img src="https://ytcards.demolab.com/?id=cvnd-wc2Co8&title=%E2%80%98F%2A%2AK+AI%E2%80%99%3A+Ronny+Chieng%27s+BRUTALLY+Honest+Message+on+AI+To+Harvard+Graduates+Goes+Viral&lang=en&timestamp=1781631832&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=783" alt="‘F**K AI’: Ronny Chieng's BRUTALLY Honest Message on AI To Harvard Graduates Goes Viral" title="‘F**K AI’: Ronny Chieng's BRUTALLY Honest Message on AI To Harvard Graduates Goes Viral">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=F_7M4Hc-usM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=933KWSknN_4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F_7M4Hc-usM&title=Stanford+CS153+Frontier+Systems+%7C+Scale%2C+AGI%2C+and+the+Future+of+Everything&lang=en&timestamp=1781549879&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2470">
-          <img src="https://ytcards.demolab.com/?id=F_7M4Hc-usM&title=Stanford+CS153+Frontier+Systems+%7C+Scale%2C+AGI%2C+and+the+Future+of+Everything&lang=en&timestamp=1781549879&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2470" alt="Stanford CS153 Frontier Systems | Scale, AGI, and the Future of Everything" title="Stanford CS153 Frontier Systems | Scale, AGI, and the Future of Everything">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=933KWSknN_4&title=WION+Health+Pulse%3A+How+AI+Is+Taking+Medical+Education+To+New+Heights&lang=en&timestamp=1781610232&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=46">
+          <img src="https://ytcards.demolab.com/?id=933KWSknN_4&title=WION+Health+Pulse%3A+How+AI+Is+Taking+Medical+Education+To+New+Heights&lang=en&timestamp=1781610232&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=46" alt="WION Health Pulse: How AI Is Taking Medical Education To New Heights" title="WION Health Pulse: How AI Is Taking Medical Education To New Heights">
         </picture>
       </a>
     </td>
