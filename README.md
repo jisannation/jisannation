@@ -47,56 +47,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Xgd_bQ4Mscg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qI1tLQF-_9A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xgd_bQ4Mscg&title=Is+AI+ALIVE%3F+What+AI+is+teaching+us+about+consciousness+with+Michael+Pollan+and+Chris+Hayes&lang=en&timestamp=1781617432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3420">
-          <img src="https://ytcards.demolab.com/?id=Xgd_bQ4Mscg&title=Is+AI+ALIVE%3F+What+AI+is+teaching+us+about+consciousness+with+Michael+Pollan+and+Chris+Hayes&lang=en&timestamp=1781617432&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3420" alt="Is AI ALIVE? What AI is teaching us about consciousness with Michael Pollan and Chris Hayes" title="Is AI ALIVE? What AI is teaching us about consciousness with Michael Pollan and Chris Hayes">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qI1tLQF-_9A&title=Jeff+Bezos+Makes+Shocking+AI+Prediction+and+the+Future+of+Jobs&lang=en&timestamp=1781742423&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=328">
+          <img src="https://ytcards.demolab.com/?id=qI1tLQF-_9A&title=Jeff+Bezos+Makes+Shocking+AI+Prediction+and+the+Future+of+Jobs&lang=en&timestamp=1781742423&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=328" alt="Jeff Bezos Makes Shocking AI Prediction and the Future of Jobs" title="Jeff Bezos Makes Shocking AI Prediction and the Future of Jobs">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pPPg8eD3teE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9gjR3VKuPg0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pPPg8eD3teE&title=10+Times+AI+Did+Something+Scientists+Said+Was+Impossible&lang=en&timestamp=1781624632&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=713">
-          <img src="https://ytcards.demolab.com/?id=pPPg8eD3teE&title=10+Times+AI+Did+Something+Scientists+Said+Was+Impossible&lang=en&timestamp=1781624632&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=713" alt="10 Times AI Did Something Scientists Said Was Impossible" title="10 Times AI Did Something Scientists Said Was Impossible">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9gjR3VKuPg0&title=The+Real+Reason+Companies+Are+Shedding+Workers&lang=en&timestamp=1781702823&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=530">
+          <img src="https://ytcards.demolab.com/?id=9gjR3VKuPg0&title=The+Real+Reason+Companies+Are+Shedding+Workers&lang=en&timestamp=1781702823&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=530" alt="The Real Reason Companies Are Shedding Workers" title="The Real Reason Companies Are Shedding Workers">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1g9a96XzDB4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_tjy6j1ceRQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1g9a96XzDB4&title=What+If+The+Creator+Is+Artificial+Intelligence%3F&lang=en&timestamp=1781657032&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1235">
-          <img src="https://ytcards.demolab.com/?id=1g9a96XzDB4&title=What+If+The+Creator+Is+Artificial+Intelligence%3F&lang=en&timestamp=1781657032&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1235" alt="What If The Creator Is Artificial Intelligence?" title="What If The Creator Is Artificial Intelligence?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_tjy6j1ceRQ&title=G7+focuses+on+AI%27s+contentious+future+and+US+industry+dominance+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1781710023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=98">
+          <img src="https://ytcards.demolab.com/?id=_tjy6j1ceRQ&title=G7+focuses+on+AI%27s+contentious+future+and+US+industry+dominance+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1781710023&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=98" alt="G7 focuses on AI's contentious future and US industry dominance • FRANCE 24 English" title="G7 focuses on AI's contentious future and US industry dominance • FRANCE 24 English">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=6bNGsXfKJGI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IPjm0L0AjMc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6bNGsXfKJGI&title=Brian+Gallagher+and+Gary+Marcus%3A+A+Skeptic%E2%80%99s+Guide+to+Artificial+Intelligence&lang=en&timestamp=1781624632&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3871">
-          <img src="https://ytcards.demolab.com/?id=6bNGsXfKJGI&title=Brian+Gallagher+and+Gary+Marcus%3A+A+Skeptic%E2%80%99s+Guide+to+Artificial+Intelligence&lang=en&timestamp=1781624632&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3871" alt="Brian Gallagher and Gary Marcus: A Skeptic’s Guide to Artificial Intelligence" title="Brian Gallagher and Gary Marcus: A Skeptic’s Guide to Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IPjm0L0AjMc&title=FULL%3A+Trump+%26+Macron+meet+AI+Titans+at+G7+Summit%3B+Altman%2C+Hassabis+%26+Amodei+attends+meeting&lang=en&timestamp=1781710023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=228">
+          <img src="https://ytcards.demolab.com/?id=IPjm0L0AjMc&title=FULL%3A+Trump+%26+Macron+meet+AI+Titans+at+G7+Summit%3B+Altman%2C+Hassabis+%26+Amodei+attends+meeting&lang=en&timestamp=1781710023&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=228" alt="FULL: Trump & Macron meet AI Titans at G7 Summit; Altman, Hassabis & Amodei attends meeting" title="FULL: Trump & Macron meet AI Titans at G7 Summit; Altman, Hassabis & Amodei attends meeting">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=cvnd-wc2Co8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7L6UASreC9w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cvnd-wc2Co8&title=%E2%80%98F%2A%2AK+AI%E2%80%99%3A+Ronny+Chieng%27s+BRUTALLY+Honest+Message+on+AI+To+Harvard+Graduates+Goes+Viral&lang=en&timestamp=1781631832&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=783">
-          <img src="https://ytcards.demolab.com/?id=cvnd-wc2Co8&title=%E2%80%98F%2A%2AK+AI%E2%80%99%3A+Ronny+Chieng%27s+BRUTALLY+Honest+Message+on+AI+To+Harvard+Graduates+Goes+Viral&lang=en&timestamp=1781631832&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=783" alt="‘F**K AI’: Ronny Chieng's BRUTALLY Honest Message on AI To Harvard Graduates Goes Viral" title="‘F**K AI’: Ronny Chieng's BRUTALLY Honest Message on AI To Harvard Graduates Goes Viral">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7L6UASreC9w&title=VIVATECH+2026%3A+Rebuilding+business+models+with+AI+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1781731623&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=405">
+          <img src="https://ytcards.demolab.com/?id=7L6UASreC9w&title=VIVATECH+2026%3A+Rebuilding+business+models+with+AI+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1781731623&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=405" alt="VIVATECH 2026: Rebuilding business models with AI • FRANCE 24 English" title="VIVATECH 2026: Rebuilding business models with AI • FRANCE 24 English">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=933KWSknN_4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hrwPDjtrLh0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=933KWSknN_4&title=WION+Health+Pulse%3A+How+AI+Is+Taking+Medical+Education+To+New+Heights&lang=en&timestamp=1781610232&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=46">
-          <img src="https://ytcards.demolab.com/?id=933KWSknN_4&title=WION+Health+Pulse%3A+How+AI+Is+Taking+Medical+Education+To+New+Heights&lang=en&timestamp=1781610232&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=46" alt="WION Health Pulse: How AI Is Taking Medical Education To New Heights" title="WION Health Pulse: How AI Is Taking Medical Education To New Heights">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hrwPDjtrLh0&title=USPTO+Hour+-+Artificial+intelligence+updates&lang=en&timestamp=1781710023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3601">
+          <img src="https://ytcards.demolab.com/?id=hrwPDjtrLh0&title=USPTO+Hour+-+Artificial+intelligence+updates&lang=en&timestamp=1781710023&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3601" alt="USPTO Hour - Artificial intelligence updates" title="USPTO Hour - Artificial intelligence updates">
         </picture>
       </a>
     </td>
