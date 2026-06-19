@@ -48,56 +48,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qI1tLQF-_9A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eUqL0_-oIJo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qI1tLQF-_9A&title=Jeff+Bezos+Makes+Shocking+AI+Prediction+and+the+Future+of+Jobs&lang=en&timestamp=1781742423&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=328">
-          <img src="https://ytcards.demolab.com/?id=qI1tLQF-_9A&title=Jeff+Bezos+Makes+Shocking+AI+Prediction+and+the+Future+of+Jobs&lang=en&timestamp=1781742423&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=328" alt="Jeff Bezos Makes Shocking AI Prediction and the Future of Jobs" title="Jeff Bezos Makes Shocking AI Prediction and the Future of Jobs">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eUqL0_-oIJo&title=Nobody+Sees+This+About+Artificial+Intelligence+and+Bitcoin+%7C+Samson+Mow&lang=en&timestamp=1781812499&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1089">
+          <img src="https://ytcards.demolab.com/?id=eUqL0_-oIJo&title=Nobody+Sees+This+About+Artificial+Intelligence+and+Bitcoin+%7C+Samson+Mow&lang=en&timestamp=1781812499&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1089" alt="Nobody Sees This About Artificial Intelligence and Bitcoin | Samson Mow" title="Nobody Sees This About Artificial Intelligence and Bitcoin | Samson Mow">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9gjR3VKuPg0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9yIk_wDeZi0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9gjR3VKuPg0&title=The+Real+Reason+Companies+Are+Shedding+Workers&lang=en&timestamp=1781702823&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=530">
-          <img src="https://ytcards.demolab.com/?id=9gjR3VKuPg0&title=The+Real+Reason+Companies+Are+Shedding+Workers&lang=en&timestamp=1781702823&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=530" alt="The Real Reason Companies Are Shedding Workers" title="The Real Reason Companies Are Shedding Workers">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9yIk_wDeZi0&title=Google%E2%80%99s+Quantum+AI+JUST+SHATTERED+JAMES+WEBB+TELESCOPE&lang=en&timestamp=1781816099&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1386">
+          <img src="https://ytcards.demolab.com/?id=9yIk_wDeZi0&title=Google%E2%80%99s+Quantum+AI+JUST+SHATTERED+JAMES+WEBB+TELESCOPE&lang=en&timestamp=1781816099&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1386" alt="Google’s Quantum AI JUST SHATTERED JAMES WEBB TELESCOPE" title="Google’s Quantum AI JUST SHATTERED JAMES WEBB TELESCOPE">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_tjy6j1ceRQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=uWnUnMphmPM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_tjy6j1ceRQ&title=G7+focuses+on+AI%27s+contentious+future+and+US+industry+dominance+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1781710023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=98">
-          <img src="https://ytcards.demolab.com/?id=_tjy6j1ceRQ&title=G7+focuses+on+AI%27s+contentious+future+and+US+industry+dominance+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1781710023&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=98" alt="G7 focuses on AI's contentious future and US industry dominance • FRANCE 24 English" title="G7 focuses on AI's contentious future and US industry dominance • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uWnUnMphmPM&title=Keynote%3A+After+the+AI+Hype+%E2%80%93+What%E2%80%99s+Real%2C+and+What%E2%80%99s+Next+-+Richard+Campbell+-+2026&lang=en&timestamp=1781783699&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2999">
+          <img src="https://ytcards.demolab.com/?id=uWnUnMphmPM&title=Keynote%3A+After+the+AI+Hype+%E2%80%93+What%E2%80%99s+Real%2C+and+What%E2%80%99s+Next+-+Richard+Campbell+-+2026&lang=en&timestamp=1781783699&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2999" alt="Keynote: After the AI Hype – What’s Real, and What’s Next - Richard Campbell - 2026" title="Keynote: After the AI Hype – What’s Real, and What’s Next - Richard Campbell - 2026">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IPjm0L0AjMc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Aijo6wmacdM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IPjm0L0AjMc&title=FULL%3A+Trump+%26+Macron+meet+AI+Titans+at+G7+Summit%3B+Altman%2C+Hassabis+%26+Amodei+attends+meeting&lang=en&timestamp=1781710023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=228">
-          <img src="https://ytcards.demolab.com/?id=IPjm0L0AjMc&title=FULL%3A+Trump+%26+Macron+meet+AI+Titans+at+G7+Summit%3B+Altman%2C+Hassabis+%26+Amodei+attends+meeting&lang=en&timestamp=1781710023&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=228" alt="FULL: Trump & Macron meet AI Titans at G7 Summit; Altman, Hassabis & Amodei attends meeting" title="FULL: Trump & Macron meet AI Titans at G7 Summit; Altman, Hassabis & Amodei attends meeting">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Aijo6wmacdM&title=Boston+Dynamics%27+New+Upgraded+ATLAS+SHOCKED+Tesla+Engineers&lang=en&timestamp=1781812499&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1370">
+          <img src="https://ytcards.demolab.com/?id=Aijo6wmacdM&title=Boston+Dynamics%27+New+Upgraded+ATLAS+SHOCKED+Tesla+Engineers&lang=en&timestamp=1781812499&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1370" alt="Boston Dynamics' New Upgraded ATLAS SHOCKED Tesla Engineers" title="Boston Dynamics' New Upgraded ATLAS SHOCKED Tesla Engineers">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7L6UASreC9w" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9e_O8GtFcgI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7L6UASreC9w&title=VIVATECH+2026%3A+Rebuilding+business+models+with+AI+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1781731623&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=405">
-          <img src="https://ytcards.demolab.com/?id=7L6UASreC9w&title=VIVATECH+2026%3A+Rebuilding+business+models+with+AI+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1781731623&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=405" alt="VIVATECH 2026: Rebuilding business models with AI • FRANCE 24 English" title="VIVATECH 2026: Rebuilding business models with AI • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9e_O8GtFcgI&title=New+Female+AI+Robot+Just+Crossed+the+Human+Line%E2%80%A6+and+It%E2%80%99s+Getting+Weird&lang=en&timestamp=1781819699&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1293">
+          <img src="https://ytcards.demolab.com/?id=9e_O8GtFcgI&title=New+Female+AI+Robot+Just+Crossed+the+Human+Line%E2%80%A6+and+It%E2%80%99s+Getting+Weird&lang=en&timestamp=1781819699&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1293" alt="New Female AI Robot Just Crossed the Human Line… and It’s Getting Weird" title="New Female AI Robot Just Crossed the Human Line… and It’s Getting Weird">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hrwPDjtrLh0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=j6hKsTAseDY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hrwPDjtrLh0&title=USPTO+Hour+-+Artificial+intelligence+updates&lang=en&timestamp=1781710023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3601">
-          <img src="https://ytcards.demolab.com/?id=hrwPDjtrLh0&title=USPTO+Hour+-+Artificial+intelligence+updates&lang=en&timestamp=1781710023&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3601" alt="USPTO Hour - Artificial intelligence updates" title="USPTO Hour - Artificial intelligence updates">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=j6hKsTAseDY&title=Hegseth+Admits+Grok+Picked+Bombing+Targets%2C+New+Court+Disclosure&lang=en&timestamp=1781805299&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=500">
+          <img src="https://ytcards.demolab.com/?id=j6hKsTAseDY&title=Hegseth+Admits+Grok+Picked+Bombing+Targets%2C+New+Court+Disclosure&lang=en&timestamp=1781805299&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=500" alt="Hegseth Admits Grok Picked Bombing Targets, New Court Disclosure" title="Hegseth Admits Grok Picked Bombing Targets, New Court Disclosure">
         </picture>
       </a>
     </td>
