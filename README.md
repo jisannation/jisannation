@@ -49,56 +49,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eUqL0_-oIJo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=yrgzszEY4wI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eUqL0_-oIJo&title=Nobody+Sees+This+About+Artificial+Intelligence+and+Bitcoin+%7C+Samson+Mow&lang=en&timestamp=1781812499&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1089">
-          <img src="https://ytcards.demolab.com/?id=eUqL0_-oIJo&title=Nobody+Sees+This+About+Artificial+Intelligence+and+Bitcoin+%7C+Samson+Mow&lang=en&timestamp=1781812499&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1089" alt="Nobody Sees This About Artificial Intelligence and Bitcoin | Samson Mow" title="Nobody Sees This About Artificial Intelligence and Bitcoin | Samson Mow">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yrgzszEY4wI&title=Is+Gen+Z+trapped+by+AI%3F+%7C+BBC+News&lang=en&timestamp=1781959866&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1572">
+          <img src="https://ytcards.demolab.com/?id=yrgzszEY4wI&title=Is+Gen+Z+trapped+by+AI%3F+%7C+BBC+News&lang=en&timestamp=1781959866&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1572" alt="Is Gen Z trapped by AI? | BBC News" title="Is Gen Z trapped by AI? | BBC News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9yIk_wDeZi0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Cus0-etR1tQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9yIk_wDeZi0&title=Google%E2%80%99s+Quantum+AI+JUST+SHATTERED+JAMES+WEBB+TELESCOPE&lang=en&timestamp=1781816099&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1386">
-          <img src="https://ytcards.demolab.com/?id=9yIk_wDeZi0&title=Google%E2%80%99s+Quantum+AI+JUST+SHATTERED+JAMES+WEBB+TELESCOPE&lang=en&timestamp=1781816099&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1386" alt="Google’s Quantum AI JUST SHATTERED JAMES WEBB TELESCOPE" title="Google’s Quantum AI JUST SHATTERED JAMES WEBB TELESCOPE">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cus0-etR1tQ&title=Will+Artificial+Intelligence+Replace+Indian+IT+Professionals+in+the+US%3F+%7C+Rahul+Reddy+%7C+Eha+TV&lang=en&timestamp=1781959866&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2365">
+          <img src="https://ytcards.demolab.com/?id=Cus0-etR1tQ&title=Will+Artificial+Intelligence+Replace+Indian+IT+Professionals+in+the+US%3F+%7C+Rahul+Reddy+%7C+Eha+TV&lang=en&timestamp=1781959866&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2365" alt="Will Artificial Intelligence Replace Indian IT Professionals in the US? | Rahul Reddy | Eha TV" title="Will Artificial Intelligence Replace Indian IT Professionals in the US? | Rahul Reddy | Eha TV">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=uWnUnMphmPM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Zfd5zvhYJvw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uWnUnMphmPM&title=Keynote%3A+After+the+AI+Hype+%E2%80%93+What%E2%80%99s+Real%2C+and+What%E2%80%99s+Next+-+Richard+Campbell+-+2026&lang=en&timestamp=1781783699&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2999">
-          <img src="https://ytcards.demolab.com/?id=uWnUnMphmPM&title=Keynote%3A+After+the+AI+Hype+%E2%80%93+What%E2%80%99s+Real%2C+and+What%E2%80%99s+Next+-+Richard+Campbell+-+2026&lang=en&timestamp=1781783699&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2999" alt="Keynote: After the AI Hype – What’s Real, and What’s Next - Richard Campbell - 2026" title="Keynote: After the AI Hype – What’s Real, and What’s Next - Richard Campbell - 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Zfd5zvhYJvw&title=Capitalism%2C+Productiveness+and+Artificial+Intelligence+%7C+Yaron+Brook+Show&lang=en&timestamp=1781988666&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5687">
+          <img src="https://ytcards.demolab.com/?id=Zfd5zvhYJvw&title=Capitalism%2C+Productiveness+and+Artificial+Intelligence+%7C+Yaron+Brook+Show&lang=en&timestamp=1781988666&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5687" alt="Capitalism, Productiveness and Artificial Intelligence | Yaron Brook Show" title="Capitalism, Productiveness and Artificial Intelligence | Yaron Brook Show">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Aijo6wmacdM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=u_POle-4ecE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Aijo6wmacdM&title=Boston+Dynamics%27+New+Upgraded+ATLAS+SHOCKED+Tesla+Engineers&lang=en&timestamp=1781812499&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1370">
-          <img src="https://ytcards.demolab.com/?id=Aijo6wmacdM&title=Boston+Dynamics%27+New+Upgraded+ATLAS+SHOCKED+Tesla+Engineers&lang=en&timestamp=1781812499&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1370" alt="Boston Dynamics' New Upgraded ATLAS SHOCKED Tesla Engineers" title="Boston Dynamics' New Upgraded ATLAS SHOCKED Tesla Engineers">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u_POle-4ecE&title=Why+Meta+Turned+to+Nuclear+Power&lang=en&timestamp=1781970666&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=573">
+          <img src="https://ytcards.demolab.com/?id=u_POle-4ecE&title=Why+Meta+Turned+to+Nuclear+Power&lang=en&timestamp=1781970666&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=573" alt="Why Meta Turned to Nuclear Power" title="Why Meta Turned to Nuclear Power">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9e_O8GtFcgI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IecgBu4r0I8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9e_O8GtFcgI&title=New+Female+AI+Robot+Just+Crossed+the+Human+Line%E2%80%A6+and+It%E2%80%99s+Getting+Weird&lang=en&timestamp=1781819699&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1293">
-          <img src="https://ytcards.demolab.com/?id=9e_O8GtFcgI&title=New+Female+AI+Robot+Just+Crossed+the+Human+Line%E2%80%A6+and+It%E2%80%99s+Getting+Weird&lang=en&timestamp=1781819699&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1293" alt="New Female AI Robot Just Crossed the Human Line… and It’s Getting Weird" title="New Female AI Robot Just Crossed the Human Line… and It’s Getting Weird">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IecgBu4r0I8&title=California+seeks+residents%E2%80%99+input+on+how+ARTIFICIAL+INTELLIGENCE+is+changing+jobs&lang=en&timestamp=1781999466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=145">
+          <img src="https://ytcards.demolab.com/?id=IecgBu4r0I8&title=California+seeks+residents%E2%80%99+input+on+how+ARTIFICIAL+INTELLIGENCE+is+changing+jobs&lang=en&timestamp=1781999466&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=145" alt="California seeks residents’ input on how ARTIFICIAL INTELLIGENCE is changing jobs" title="California seeks residents’ input on how ARTIFICIAL INTELLIGENCE is changing jobs">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=j6hKsTAseDY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vi95ds6iBys" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=j6hKsTAseDY&title=Hegseth+Admits+Grok+Picked+Bombing+Targets%2C+New+Court+Disclosure&lang=en&timestamp=1781805299&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=500">
-          <img src="https://ytcards.demolab.com/?id=j6hKsTAseDY&title=Hegseth+Admits+Grok+Picked+Bombing+Targets%2C+New+Court+Disclosure&lang=en&timestamp=1781805299&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=500" alt="Hegseth Admits Grok Picked Bombing Targets, New Court Disclosure" title="Hegseth Admits Grok Picked Bombing Targets, New Court Disclosure">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vi95ds6iBys&title=Qwable+3.6+27B+tested+-+16GB+Local+LLM+setup&lang=en&timestamp=1781967066&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=898">
+          <img src="https://ytcards.demolab.com/?id=vi95ds6iBys&title=Qwable+3.6+27B+tested+-+16GB+Local+LLM+setup&lang=en&timestamp=1781967066&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=898" alt="Qwable 3.6 27B tested - 16GB Local LLM setup" title="Qwable 3.6 27B tested - 16GB Local LLM setup">
         </picture>
       </a>
     </td>
