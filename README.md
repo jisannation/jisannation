@@ -50,56 +50,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yrgzszEY4wI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ofBP_LV27Rs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yrgzszEY4wI&title=Is+Gen+Z+trapped+by+AI%3F+%7C+BBC+News&lang=en&timestamp=1781959866&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1572">
-          <img src="https://ytcards.demolab.com/?id=yrgzszEY4wI&title=Is+Gen+Z+trapped+by+AI%3F+%7C+BBC+News&lang=en&timestamp=1781959866&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1572" alt="Is Gen Z trapped by AI? | BBC News" title="Is Gen Z trapped by AI? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ofBP_LV27Rs&title=China%E2%80%99s+new+AI%2C+GLM-5.2+rivals+Anthropic%E2%80%99s+Mythos%2C+experts+say&lang=en&timestamp=1782165585&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=129">
+          <img src="https://ytcards.demolab.com/?id=ofBP_LV27Rs&title=China%E2%80%99s+new+AI%2C+GLM-5.2+rivals+Anthropic%E2%80%99s+Mythos%2C+experts+say&lang=en&timestamp=1782165585&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=129" alt="China’s new AI, GLM-5.2 rivals Anthropic’s Mythos, experts say" title="China’s new AI, GLM-5.2 rivals Anthropic’s Mythos, experts say">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Cus0-etR1tQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=t7N7eZ68yFg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cus0-etR1tQ&title=Will+Artificial+Intelligence+Replace+Indian+IT+Professionals+in+the+US%3F+%7C+Rahul+Reddy+%7C+Eha+TV&lang=en&timestamp=1781959866&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2365">
-          <img src="https://ytcards.demolab.com/?id=Cus0-etR1tQ&title=Will+Artificial+Intelligence+Replace+Indian+IT+Professionals+in+the+US%3F+%7C+Rahul+Reddy+%7C+Eha+TV&lang=en&timestamp=1781959866&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2365" alt="Will Artificial Intelligence Replace Indian IT Professionals in the US? | Rahul Reddy | Eha TV" title="Will Artificial Intelligence Replace Indian IT Professionals in the US? | Rahul Reddy | Eha TV">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=t7N7eZ68yFg&title=Why+Trump+admin+gave+Anthropic+90+minutes+to+pull+its+newest+AI+model+%7C+Fareed%27s+Take&lang=en&timestamp=1782161985&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=720">
+          <img src="https://ytcards.demolab.com/?id=t7N7eZ68yFg&title=Why+Trump+admin+gave+Anthropic+90+minutes+to+pull+its+newest+AI+model+%7C+Fareed%27s+Take&lang=en&timestamp=1782161985&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=720" alt="Why Trump admin gave Anthropic 90 minutes to pull its newest AI model | Fareed's Take" title="Why Trump admin gave Anthropic 90 minutes to pull its newest AI model | Fareed's Take">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Zfd5zvhYJvw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=HkVpSoaIKsc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Zfd5zvhYJvw&title=Capitalism%2C+Productiveness+and+Artificial+Intelligence+%7C+Yaron+Brook+Show&lang=en&timestamp=1781988666&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5687">
-          <img src="https://ytcards.demolab.com/?id=Zfd5zvhYJvw&title=Capitalism%2C+Productiveness+and+Artificial+Intelligence+%7C+Yaron+Brook+Show&lang=en&timestamp=1781988666&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5687" alt="Capitalism, Productiveness and Artificial Intelligence | Yaron Brook Show" title="Capitalism, Productiveness and Artificial Intelligence | Yaron Brook Show">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HkVpSoaIKsc&title=Why+AI+Users+Are+Raving+About+GLM+5.2&lang=en&timestamp=1782158385&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1507">
+          <img src="https://ytcards.demolab.com/?id=HkVpSoaIKsc&title=Why+AI+Users+Are+Raving+About+GLM+5.2&lang=en&timestamp=1782158385&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1507" alt="Why AI Users Are Raving About GLM 5.2" title="Why AI Users Are Raving About GLM 5.2">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=u_POle-4ecE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EAFamlCmN0I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u_POle-4ecE&title=Why+Meta+Turned+to+Nuclear+Power&lang=en&timestamp=1781970666&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=573">
-          <img src="https://ytcards.demolab.com/?id=u_POle-4ecE&title=Why+Meta+Turned+to+Nuclear+Power&lang=en&timestamp=1781970666&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=573" alt="Why Meta Turned to Nuclear Power" title="Why Meta Turned to Nuclear Power">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EAFamlCmN0I&title=The+Next+5+Years+of+Artificial+Intelligence&lang=en&timestamp=1782147585&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=679">
+          <img src="https://ytcards.demolab.com/?id=EAFamlCmN0I&title=The+Next+5+Years+of+Artificial+Intelligence&lang=en&timestamp=1782147585&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=679" alt="The Next 5 Years of Artificial Intelligence" title="The Next 5 Years of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IecgBu4r0I8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tiGq88_rLMQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IecgBu4r0I8&title=California+seeks+residents%E2%80%99+input+on+how+ARTIFICIAL+INTELLIGENCE+is+changing+jobs&lang=en&timestamp=1781999466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=145">
-          <img src="https://ytcards.demolab.com/?id=IecgBu4r0I8&title=California+seeks+residents%E2%80%99+input+on+how+ARTIFICIAL+INTELLIGENCE+is+changing+jobs&lang=en&timestamp=1781999466&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=145" alt="California seeks residents’ input on how ARTIFICIAL INTELLIGENCE is changing jobs" title="California seeks residents’ input on how ARTIFICIAL INTELLIGENCE is changing jobs">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tiGq88_rLMQ&title=AI+Godfather%3A%C2%A0You+Have+No+Idea%C2%A0%22We%27re+Near+The+End%22+-%C2%A0Geoffrey+Hinton&lang=en&timestamp=1782147585&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1137">
+          <img src="https://ytcards.demolab.com/?id=tiGq88_rLMQ&title=AI+Godfather%3A%C2%A0You+Have+No+Idea%C2%A0%22We%27re+Near+The+End%22+-%C2%A0Geoffrey+Hinton&lang=en&timestamp=1782147585&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1137" alt="AI Godfather: You Have No Idea &quot;We're Near The End&quot; - Geoffrey Hinton" title="AI Godfather: You Have No Idea &quot;We're Near The End&quot; - Geoffrey Hinton">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vi95ds6iBys" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_LcbEZT-_RE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vi95ds6iBys&title=Qwable+3.6+27B+tested+-+16GB+Local+LLM+setup&lang=en&timestamp=1781967066&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=898">
-          <img src="https://ytcards.demolab.com/?id=vi95ds6iBys&title=Qwable+3.6+27B+tested+-+16GB+Local+LLM+setup&lang=en&timestamp=1781967066&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=898" alt="Qwable 3.6 27B tested - 16GB Local LLM setup" title="Qwable 3.6 27B tested - 16GB Local LLM setup">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_LcbEZT-_RE&title=The+Pope+and+Mormon+Apostle+Unite+Against+Artificial+Intelligence&lang=en&timestamp=1782158385&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3030">
+          <img src="https://ytcards.demolab.com/?id=_LcbEZT-_RE&title=The+Pope+and+Mormon+Apostle+Unite+Against+Artificial+Intelligence&lang=en&timestamp=1782158385&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3030" alt="The Pope and Mormon Apostle Unite Against Artificial Intelligence" title="The Pope and Mormon Apostle Unite Against Artificial Intelligence">
         </picture>
       </a>
     </td>
