@@ -51,56 +51,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ofBP_LV27Rs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nYYQRK4l-OQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ofBP_LV27Rs&title=China%E2%80%99s+new+AI%2C+GLM-5.2+rivals+Anthropic%E2%80%99s+Mythos%2C+experts+say&lang=en&timestamp=1782165585&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=129">
-          <img src="https://ytcards.demolab.com/?id=ofBP_LV27Rs&title=China%E2%80%99s+new+AI%2C+GLM-5.2+rivals+Anthropic%E2%80%99s+Mythos%2C+experts+say&lang=en&timestamp=1782165585&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=129" alt="China’s new AI, GLM-5.2 rivals Anthropic’s Mythos, experts say" title="China’s new AI, GLM-5.2 rivals Anthropic’s Mythos, experts say">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nYYQRK4l-OQ&title=Former+CISA+Director+Chris+Krebs+calls+intelligence+community%27s+AI+warning+%22pretty+alarming%22&lang=en&timestamp=1782252103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=327">
+          <img src="https://ytcards.demolab.com/?id=nYYQRK4l-OQ&title=Former+CISA+Director+Chris+Krebs+calls+intelligence+community%27s+AI+warning+%22pretty+alarming%22&lang=en&timestamp=1782252103&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=327" alt="Former CISA Director Chris Krebs calls intelligence community's AI warning &quot;pretty alarming&quot;" title="Former CISA Director Chris Krebs calls intelligence community's AI warning &quot;pretty alarming&quot;">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=t7N7eZ68yFg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Cjnppupu6gk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=t7N7eZ68yFg&title=Why+Trump+admin+gave+Anthropic+90+minutes+to+pull+its+newest+AI+model+%7C+Fareed%27s+Take&lang=en&timestamp=1782161985&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=720">
-          <img src="https://ytcards.demolab.com/?id=t7N7eZ68yFg&title=Why+Trump+admin+gave+Anthropic+90+minutes+to+pull+its+newest+AI+model+%7C+Fareed%27s+Take&lang=en&timestamp=1782161985&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=720" alt="Why Trump admin gave Anthropic 90 minutes to pull its newest AI model | Fareed's Take" title="Why Trump admin gave Anthropic 90 minutes to pull its newest AI model | Fareed's Take">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cjnppupu6gk&title=Tech+stocks+tumble+over+AI+cost+concerns&lang=en&timestamp=1782248503&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=195">
+          <img src="https://ytcards.demolab.com/?id=Cjnppupu6gk&title=Tech+stocks+tumble+over+AI+cost+concerns&lang=en&timestamp=1782248503&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=195" alt="Tech stocks tumble over AI cost concerns" title="Tech stocks tumble over AI cost concerns">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HkVpSoaIKsc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hNXnlkvFUzY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HkVpSoaIKsc&title=Why+AI+Users+Are+Raving+About+GLM+5.2&lang=en&timestamp=1782158385&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1507">
-          <img src="https://ytcards.demolab.com/?id=HkVpSoaIKsc&title=Why+AI+Users+Are+Raving+About+GLM+5.2&lang=en&timestamp=1782158385&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1507" alt="Why AI Users Are Raving About GLM 5.2" title="Why AI Users Are Raving About GLM 5.2">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hNXnlkvFUzY&title=AI+for+Energy%3A+How+Energy+Works+%7C+SLB%E2%80%8B&lang=en&timestamp=1782226903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=166">
+          <img src="https://ytcards.demolab.com/?id=hNXnlkvFUzY&title=AI+for+Energy%3A+How+Energy+Works+%7C+SLB%E2%80%8B&lang=en&timestamp=1782226903&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=166" alt="AI for Energy: How Energy Works | SLB​" title="AI for Energy: How Energy Works | SLB​">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EAFamlCmN0I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ka4Zj3YgD0E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EAFamlCmN0I&title=The+Next+5+Years+of+Artificial+Intelligence&lang=en&timestamp=1782147585&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=679">
-          <img src="https://ytcards.demolab.com/?id=EAFamlCmN0I&title=The+Next+5+Years+of+Artificial+Intelligence&lang=en&timestamp=1782147585&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=679" alt="The Next 5 Years of Artificial Intelligence" title="The Next 5 Years of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ka4Zj3YgD0E&title=Rep.+Finstad+Delivers+Remarks+on+SBA+Artificial+Intelligence+Utilization+Act&lang=en&timestamp=1782255703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=84">
+          <img src="https://ytcards.demolab.com/?id=ka4Zj3YgD0E&title=Rep.+Finstad+Delivers+Remarks+on+SBA+Artificial+Intelligence+Utilization+Act&lang=en&timestamp=1782255703&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=84" alt="Rep. Finstad Delivers Remarks on SBA Artificial Intelligence Utilization Act" title="Rep. Finstad Delivers Remarks on SBA Artificial Intelligence Utilization Act">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tiGq88_rLMQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=P3_GHOvZKQ8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tiGq88_rLMQ&title=AI+Godfather%3A%C2%A0You+Have+No+Idea%C2%A0%22We%27re+Near+The+End%22+-%C2%A0Geoffrey+Hinton&lang=en&timestamp=1782147585&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1137">
-          <img src="https://ytcards.demolab.com/?id=tiGq88_rLMQ&title=AI+Godfather%3A%C2%A0You+Have+No+Idea%C2%A0%22We%27re+Near+The+End%22+-%C2%A0Geoffrey+Hinton&lang=en&timestamp=1782147585&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1137" alt="AI Godfather: You Have No Idea &quot;We're Near The End&quot; - Geoffrey Hinton" title="AI Godfather: You Have No Idea &quot;We're Near The End&quot; - Geoffrey Hinton">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=P3_GHOvZKQ8&title=Sanders+calls+on+Congress+to+act+now+on+artificial+intelligence&lang=en&timestamp=1782234103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=67">
+          <img src="https://ytcards.demolab.com/?id=P3_GHOvZKQ8&title=Sanders+calls+on+Congress+to+act+now+on+artificial+intelligence&lang=en&timestamp=1782234103&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=67" alt="Sanders calls on Congress to act now on artificial intelligence" title="Sanders calls on Congress to act now on artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_LcbEZT-_RE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9hO5ku6P05o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_LcbEZT-_RE&title=The+Pope+and+Mormon+Apostle+Unite+Against+Artificial+Intelligence&lang=en&timestamp=1782158385&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3030">
-          <img src="https://ytcards.demolab.com/?id=_LcbEZT-_RE&title=The+Pope+and+Mormon+Apostle+Unite+Against+Artificial+Intelligence&lang=en&timestamp=1782158385&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3030" alt="The Pope and Mormon Apostle Unite Against Artificial Intelligence" title="The Pope and Mormon Apostle Unite Against Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9hO5ku6P05o&title=THE+FUTURE+OF+BETTING+PART+2%3A+Sports+Betting+Strategy%2C+Artificial+Intelligence+%26+Tax+Battles&lang=en&timestamp=1782230503&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2160">
+          <img src="https://ytcards.demolab.com/?id=9hO5ku6P05o&title=THE+FUTURE+OF+BETTING+PART+2%3A+Sports+Betting+Strategy%2C+Artificial+Intelligence+%26+Tax+Battles&lang=en&timestamp=1782230503&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2160" alt="THE FUTURE OF BETTING PART 2: Sports Betting Strategy, Artificial Intelligence & Tax Battles" title="THE FUTURE OF BETTING PART 2: Sports Betting Strategy, Artificial Intelligence & Tax Battles">
         </picture>
       </a>
     </td>
