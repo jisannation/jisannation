@@ -52,56 +52,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=nYYQRK4l-OQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hb9JPW_DkpQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nYYQRK4l-OQ&title=Former+CISA+Director+Chris+Krebs+calls+intelligence+community%27s+AI+warning+%22pretty+alarming%22&lang=en&timestamp=1782252103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=327">
-          <img src="https://ytcards.demolab.com/?id=nYYQRK4l-OQ&title=Former+CISA+Director+Chris+Krebs+calls+intelligence+community%27s+AI+warning+%22pretty+alarming%22&lang=en&timestamp=1782252103&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=327" alt="Former CISA Director Chris Krebs calls intelligence community's AI warning &quot;pretty alarming&quot;" title="Former CISA Director Chris Krebs calls intelligence community's AI warning &quot;pretty alarming&quot;">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hb9JPW_DkpQ&title=Fight+for+AI+Talent%3A+DeepMind+Chief+Demis+Hassabis+says+Google%E2%80%99s+still+winning+%7C+Semafor+Tech&lang=en&timestamp=1782291735&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1745">
+          <img src="https://ytcards.demolab.com/?id=hb9JPW_DkpQ&title=Fight+for+AI+Talent%3A+DeepMind+Chief+Demis+Hassabis+says+Google%E2%80%99s+still+winning+%7C+Semafor+Tech&lang=en&timestamp=1782291735&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1745" alt="Fight for AI Talent: DeepMind Chief Demis Hassabis says Google’s still winning | Semafor Tech" title="Fight for AI Talent: DeepMind Chief Demis Hassabis says Google’s still winning | Semafor Tech">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Cjnppupu6gk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zWQe2Fn--Eg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cjnppupu6gk&title=Tech+stocks+tumble+over+AI+cost+concerns&lang=en&timestamp=1782248503&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=195">
-          <img src="https://ytcards.demolab.com/?id=Cjnppupu6gk&title=Tech+stocks+tumble+over+AI+cost+concerns&lang=en&timestamp=1782248503&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=195" alt="Tech stocks tumble over AI cost concerns" title="Tech stocks tumble over AI cost concerns">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zWQe2Fn--Eg&title=The+AI+Future+No+One+Wants+to+Talk+About&lang=en&timestamp=1782313335&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=734">
+          <img src="https://ytcards.demolab.com/?id=zWQe2Fn--Eg&title=The+AI+Future+No+One+Wants+to+Talk+About&lang=en&timestamp=1782313335&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=734" alt="The AI Future No One Wants to Talk About" title="The AI Future No One Wants to Talk About">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hNXnlkvFUzY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=DvGQmgvBAF4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hNXnlkvFUzY&title=AI+for+Energy%3A+How+Energy+Works+%7C+SLB%E2%80%8B&lang=en&timestamp=1782226903&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=166">
-          <img src="https://ytcards.demolab.com/?id=hNXnlkvFUzY&title=AI+for+Energy%3A+How+Energy+Works+%7C+SLB%E2%80%8B&lang=en&timestamp=1782226903&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=166" alt="AI for Energy: How Energy Works | SLB​" title="AI for Energy: How Energy Works | SLB​">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DvGQmgvBAF4&title=Watch%3A+No+Power%2C+No+AI&lang=en&timestamp=1782298935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3781">
+          <img src="https://ytcards.demolab.com/?id=DvGQmgvBAF4&title=Watch%3A+No+Power%2C+No+AI&lang=en&timestamp=1782298935&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3781" alt="Watch: No Power, No AI" title="Watch: No Power, No AI">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ka4Zj3YgD0E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Vvtex3PTqFg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ka4Zj3YgD0E&title=Rep.+Finstad+Delivers+Remarks+on+SBA+Artificial+Intelligence+Utilization+Act&lang=en&timestamp=1782255703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=84">
-          <img src="https://ytcards.demolab.com/?id=ka4Zj3YgD0E&title=Rep.+Finstad+Delivers+Remarks+on+SBA+Artificial+Intelligence+Utilization+Act&lang=en&timestamp=1782255703&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=84" alt="Rep. Finstad Delivers Remarks on SBA Artificial Intelligence Utilization Act" title="Rep. Finstad Delivers Remarks on SBA Artificial Intelligence Utilization Act">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vvtex3PTqFg&title=I+Ranked+7+Tech+Engineering+Careers+After+AI+Impact+%28Brutal+Truth%29&lang=en&timestamp=1782306135&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1192">
+          <img src="https://ytcards.demolab.com/?id=Vvtex3PTqFg&title=I+Ranked+7+Tech+Engineering+Careers+After+AI+Impact+%28Brutal+Truth%29&lang=en&timestamp=1782306135&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1192" alt="I Ranked 7 Tech Engineering Careers After AI Impact (Brutal Truth)" title="I Ranked 7 Tech Engineering Careers After AI Impact (Brutal Truth)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=P3_GHOvZKQ8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CDerMbin1BQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=P3_GHOvZKQ8&title=Sanders+calls+on+Congress+to+act+now+on+artificial+intelligence&lang=en&timestamp=1782234103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=67">
-          <img src="https://ytcards.demolab.com/?id=P3_GHOvZKQ8&title=Sanders+calls+on+Congress+to+act+now+on+artificial+intelligence&lang=en&timestamp=1782234103&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=67" alt="Sanders calls on Congress to act now on artificial intelligence" title="Sanders calls on Congress to act now on artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CDerMbin1BQ&title=Five+Eyes+intelligence+alliance+%7C+Big+Cybersecurity+Warning+%7C+Latest+Update+%7C+Drishti+IAS+English&lang=en&timestamp=1782302535&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=845">
+          <img src="https://ytcards.demolab.com/?id=CDerMbin1BQ&title=Five+Eyes+intelligence+alliance+%7C+Big+Cybersecurity+Warning+%7C+Latest+Update+%7C+Drishti+IAS+English&lang=en&timestamp=1782302535&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=845" alt="Five Eyes intelligence alliance | Big Cybersecurity Warning | Latest Update | Drishti IAS English" title="Five Eyes intelligence alliance | Big Cybersecurity Warning | Latest Update | Drishti IAS English">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9hO5ku6P05o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=psS1rk_l9e4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9hO5ku6P05o&title=THE+FUTURE+OF+BETTING+PART+2%3A+Sports+Betting+Strategy%2C+Artificial+Intelligence+%26+Tax+Battles&lang=en&timestamp=1782230503&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2160">
-          <img src="https://ytcards.demolab.com/?id=9hO5ku6P05o&title=THE+FUTURE+OF+BETTING+PART+2%3A+Sports+Betting+Strategy%2C+Artificial+Intelligence+%26+Tax+Battles&lang=en&timestamp=1782230503&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2160" alt="THE FUTURE OF BETTING PART 2: Sports Betting Strategy, Artificial Intelligence & Tax Battles" title="THE FUTURE OF BETTING PART 2: Sports Betting Strategy, Artificial Intelligence & Tax Battles">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=psS1rk_l9e4&title=AI+Could+Overwhelm+Cybersecurity+Within+Months+%7C+10+News%2B&lang=en&timestamp=1782291735&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=245">
+          <img src="https://ytcards.demolab.com/?id=psS1rk_l9e4&title=AI+Could+Overwhelm+Cybersecurity+Within+Months+%7C+10+News%2B&lang=en&timestamp=1782291735&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=245" alt="AI Could Overwhelm Cybersecurity Within Months | 10 News+" title="AI Could Overwhelm Cybersecurity Within Months | 10 News+">
         </picture>
       </a>
     </td>
