@@ -53,56 +53,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hb9JPW_DkpQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=OBUzl_IaWIw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hb9JPW_DkpQ&title=Fight+for+AI+Talent%3A+DeepMind+Chief+Demis+Hassabis+says+Google%E2%80%99s+still+winning+%7C+Semafor+Tech&lang=en&timestamp=1782291735&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1745">
-          <img src="https://ytcards.demolab.com/?id=hb9JPW_DkpQ&title=Fight+for+AI+Talent%3A+DeepMind+Chief+Demis+Hassabis+says+Google%E2%80%99s+still+winning+%7C+Semafor+Tech&lang=en&timestamp=1782291735&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1745" alt="Fight for AI Talent: DeepMind Chief Demis Hassabis says Google’s still winning | Semafor Tech" title="Fight for AI Talent: DeepMind Chief Demis Hassabis says Google’s still winning | Semafor Tech">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OBUzl_IaWIw&title=%22How+to+Think+About+AI%22%3A+Cory+Doctorow+on+Big+Tech%2C+Understanding+AI%2C+Labor+Automation+%26+More&lang=en&timestamp=1782400178&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=897">
+          <img src="https://ytcards.demolab.com/?id=OBUzl_IaWIw&title=%22How+to+Think+About+AI%22%3A+Cory+Doctorow+on+Big+Tech%2C+Understanding+AI%2C+Labor+Automation+%26+More&lang=en&timestamp=1782400178&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=897" alt="&quot;How to Think About AI&quot;: Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More" title="&quot;How to Think About AI&quot;: Cory Doctorow on Big Tech, Understanding AI, Labor Automation & More">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zWQe2Fn--Eg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IwKuv4LrCVk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zWQe2Fn--Eg&title=The+AI+Future+No+One+Wants+to+Talk+About&lang=en&timestamp=1782313335&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=734">
-          <img src="https://ytcards.demolab.com/?id=zWQe2Fn--Eg&title=The+AI+Future+No+One+Wants+to+Talk+About&lang=en&timestamp=1782313335&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=734" alt="The AI Future No One Wants to Talk About" title="The AI Future No One Wants to Talk About">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IwKuv4LrCVk&title=Anthropic+is+coming+for+EVERYTHING&lang=en&timestamp=1782432578&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=903">
+          <img src="https://ytcards.demolab.com/?id=IwKuv4LrCVk&title=Anthropic+is+coming+for+EVERYTHING&lang=en&timestamp=1782432578&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=903" alt="Anthropic is coming for EVERYTHING" title="Anthropic is coming for EVERYTHING">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=DvGQmgvBAF4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7JEKYdKTJKU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DvGQmgvBAF4&title=Watch%3A+No+Power%2C+No+AI&lang=en&timestamp=1782298935&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3781">
-          <img src="https://ytcards.demolab.com/?id=DvGQmgvBAF4&title=Watch%3A+No+Power%2C+No+AI&lang=en&timestamp=1782298935&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3781" alt="Watch: No Power, No AI" title="Watch: No Power, No AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7JEKYdKTJKU&title=Hundreds+of+calls+in+minutes%3F+Ava+the+AI+has+it+covered&lang=en&timestamp=1782443858&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=141">
+          <img src="https://ytcards.demolab.com/?id=7JEKYdKTJKU&title=Hundreds+of+calls+in+minutes%3F+Ava+the+AI+has+it+covered&lang=en&timestamp=1782443858&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=141" alt="Hundreds of calls in minutes? Ava the AI has it covered" title="Hundreds of calls in minutes? Ava the AI has it covered">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Vvtex3PTqFg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZY6RVj3yP2U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vvtex3PTqFg&title=I+Ranked+7+Tech+Engineering+Careers+After+AI+Impact+%28Brutal+Truth%29&lang=en&timestamp=1782306135&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1192">
-          <img src="https://ytcards.demolab.com/?id=Vvtex3PTqFg&title=I+Ranked+7+Tech+Engineering+Careers+After+AI+Impact+%28Brutal+Truth%29&lang=en&timestamp=1782306135&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1192" alt="I Ranked 7 Tech Engineering Careers After AI Impact (Brutal Truth)" title="I Ranked 7 Tech Engineering Careers After AI Impact (Brutal Truth)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZY6RVj3yP2U&title=WHAT+THE+TECH%3F+Could+Artificial+Intelligence+Raise+Your+Electric+Bill%3F&lang=en&timestamp=1782425378&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=134">
+          <img src="https://ytcards.demolab.com/?id=ZY6RVj3yP2U&title=WHAT+THE+TECH%3F+Could+Artificial+Intelligence+Raise+Your+Electric+Bill%3F&lang=en&timestamp=1782425378&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=134" alt="WHAT THE TECH? Could Artificial Intelligence Raise Your Electric Bill?" title="WHAT THE TECH? Could Artificial Intelligence Raise Your Electric Bill?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CDerMbin1BQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XbTF0XsfCuA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CDerMbin1BQ&title=Five+Eyes+intelligence+alliance+%7C+Big+Cybersecurity+Warning+%7C+Latest+Update+%7C+Drishti+IAS+English&lang=en&timestamp=1782302535&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=845">
-          <img src="https://ytcards.demolab.com/?id=CDerMbin1BQ&title=Five+Eyes+intelligence+alliance+%7C+Big+Cybersecurity+Warning+%7C+Latest+Update+%7C+Drishti+IAS+English&lang=en&timestamp=1782302535&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=845" alt="Five Eyes intelligence alliance | Big Cybersecurity Warning | Latest Update | Drishti IAS English" title="Five Eyes intelligence alliance | Big Cybersecurity Warning | Latest Update | Drishti IAS English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XbTF0XsfCuA&title=Beyond+the+Hype%3A+A+Data+Analyst%E2%80%99s+Real-World+Take+on+AI+%7C+%23GirlsWhoL&lang=en&timestamp=1782360578&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4214">
+          <img src="https://ytcards.demolab.com/?id=XbTF0XsfCuA&title=Beyond+the+Hype%3A+A+Data+Analyst%E2%80%99s+Real-World+Take+on+AI+%7C+%23GirlsWhoL&lang=en&timestamp=1782360578&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4214" alt="Beyond the Hype: A Data Analyst’s Real-World Take on AI | #GirlsWhoL" title="Beyond the Hype: A Data Analyst’s Real-World Take on AI | #GirlsWhoL">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=psS1rk_l9e4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QqrSb8HmPRA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=psS1rk_l9e4&title=AI+Could+Overwhelm+Cybersecurity+Within+Months+%7C+10+News%2B&lang=en&timestamp=1782291735&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=245">
-          <img src="https://ytcards.demolab.com/?id=psS1rk_l9e4&title=AI+Could+Overwhelm+Cybersecurity+Within+Months+%7C+10+News%2B&lang=en&timestamp=1782291735&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=245" alt="AI Could Overwhelm Cybersecurity Within Months | 10 News+" title="AI Could Overwhelm Cybersecurity Within Months | 10 News+">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QqrSb8HmPRA&title=Master+of+Management+in+Artificial+Intelligence+-+Program+Overview+%7C+June+25%2C+2026&lang=en&timestamp=1782418178&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3500">
+          <img src="https://ytcards.demolab.com/?id=QqrSb8HmPRA&title=Master+of+Management+in+Artificial+Intelligence+-+Program+Overview+%7C+June+25%2C+2026&lang=en&timestamp=1782418178&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3500" alt="Master of Management in Artificial Intelligence - Program Overview | June 25, 2026" title="Master of Management in Artificial Intelligence - Program Overview | June 25, 2026">
         </picture>
       </a>
     </td>
