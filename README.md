@@ -55,56 +55,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=oKvee9qkOUA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vOWYBF9EGyw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oKvee9qkOUA&title=Former+Indiana+governor+explains+how+his+nonprofit+will+help+workers+impacted+by+AI+boom&lang=en&timestamp=1782503714&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=303">
-          <img src="https://ytcards.demolab.com/?id=oKvee9qkOUA&title=Former+Indiana+governor+explains+how+his+nonprofit+will+help+workers+impacted+by+AI+boom&lang=en&timestamp=1782503714&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=303" alt="Former Indiana governor explains how his nonprofit will help workers impacted by AI boom" title="Former Indiana governor explains how his nonprofit will help workers impacted by AI boom">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vOWYBF9EGyw&title=How+AI+is+Changing+the+Job+Market+and+Workplace+in+America&lang=en&timestamp=1782653073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=289">
+          <img src="https://ytcards.demolab.com/?id=vOWYBF9EGyw&title=How+AI+is+Changing+the+Job+Market+and+Workplace+in+America&lang=en&timestamp=1782653073&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=289" alt="How AI is Changing the Job Market and Workplace in America" title="How AI is Changing the Job Market and Workplace in America">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dy-AzXzBKvo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=H_weJVwIEDE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dy-AzXzBKvo&title=Is+Apple%27s+Massive+Price+Hike+of+MacBooks%2C+iPads+Justified%3F+%7C+Vantage+on+Firstpost%C2%A0%7C+N18G+%7C+4K&lang=en&timestamp=1782500114&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=409">
-          <img src="https://ytcards.demolab.com/?id=dy-AzXzBKvo&title=Is+Apple%27s+Massive+Price+Hike+of+MacBooks%2C+iPads+Justified%3F+%7C+Vantage+on+Firstpost%C2%A0%7C+N18G+%7C+4K&lang=en&timestamp=1782500114&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=409" alt="Is Apple's Massive Price Hike of MacBooks, iPads Justified? | Vantage on Firstpost | N18G | 4K" title="Is Apple's Massive Price Hike of MacBooks, iPads Justified? | Vantage on Firstpost | N18G | 4K">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H_weJVwIEDE&title=These+4+Stocks+Could+Win+Even+If+AI+Crashes+%7C+Warren+Buffett+&lang=en&timestamp=1782667473&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1682">
+          <img src="https://ytcards.demolab.com/?id=H_weJVwIEDE&title=These+4+Stocks+Could+Win+Even+If+AI+Crashes+%7C+Warren+Buffett+&lang=en&timestamp=1782667473&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1682" alt="These 4 Stocks Could Win Even If AI Crashes | Warren Buffett " title="These 4 Stocks Could Win Even If AI Crashes | Warren Buffett ">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=77UKuKbaIFc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fVQPXoJkuTE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=77UKuKbaIFc&title=We%27re+Using+Computers+the+Wrong+Way&lang=en&timestamp=1782503714&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1340">
-          <img src="https://ytcards.demolab.com/?id=77UKuKbaIFc&title=We%27re+Using+Computers+the+Wrong+Way&lang=en&timestamp=1782503714&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1340" alt="We're Using Computers the Wrong Way" title="We're Using Computers the Wrong Way">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fVQPXoJkuTE&title=Teaching+AI+about+pain+is+important&lang=en&timestamp=1782638673&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=269">
+          <img src="https://ytcards.demolab.com/?id=fVQPXoJkuTE&title=Teaching+AI+about+pain+is+important&lang=en&timestamp=1782638673&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=269" alt="Teaching AI about pain is important" title="Teaching AI about pain is important">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wEJE8-E3PZI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PgKgYc75hZY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wEJE8-E3PZI&title=Charles+Payne%3A+This+type+of+AI+surpasses+human+beings&lang=en&timestamp=1782514514&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=73">
-          <img src="https://ytcards.demolab.com/?id=wEJE8-E3PZI&title=Charles+Payne%3A+This+type+of+AI+surpasses+human+beings&lang=en&timestamp=1782514514&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=73" alt="Charles Payne: This type of AI surpasses human beings" title="Charles Payne: This type of AI surpasses human beings">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PgKgYc75hZY&title=Clinical+Reasoning+in+the+AI+Era%3A+Can+Artificial+Intelligence+Think+Like+a+Doctor%3F&lang=en&timestamp=1782656673&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3134">
+          <img src="https://ytcards.demolab.com/?id=PgKgYc75hZY&title=Clinical+Reasoning+in+the+AI+Era%3A+Can+Artificial+Intelligence+Think+Like+a+Doctor%3F&lang=en&timestamp=1782656673&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3134" alt="Clinical Reasoning in the AI Era: Can Artificial Intelligence Think Like a Doctor?" title="Clinical Reasoning in the AI Era: Can Artificial Intelligence Think Like a Doctor?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NxtJHGiMap0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=F6xWiC5l5Jg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NxtJHGiMap0&title=Vancouver+Police+facing+backlash+over+possible+use+of+AI+in+post+online&lang=en&timestamp=1782496514&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=76">
-          <img src="https://ytcards.demolab.com/?id=NxtJHGiMap0&title=Vancouver+Police+facing+backlash+over+possible+use+of+AI+in+post+online&lang=en&timestamp=1782496514&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=76" alt="Vancouver Police facing backlash over possible use of AI in post online" title="Vancouver Police facing backlash over possible use of AI in post online">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F6xWiC5l5Jg&title=Clinical+Reasoning+in+the+AI+Era%3A+Can+Artificial+Intelligence+Think+Like+a+Doctor%3F&lang=en&timestamp=1782660273&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3134">
+          <img src="https://ytcards.demolab.com/?id=F6xWiC5l5Jg&title=Clinical+Reasoning+in+the+AI+Era%3A+Can+Artificial+Intelligence+Think+Like+a+Doctor%3F&lang=en&timestamp=1782660273&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3134" alt="Clinical Reasoning in the AI Era: Can Artificial Intelligence Think Like a Doctor?" title="Clinical Reasoning in the AI Era: Can Artificial Intelligence Think Like a Doctor?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=I9EDlLY_puM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NU2-Pq8i9eE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I9EDlLY_puM&title=%F0%9F%94%A5%F0%9D%9F%94%F0%9D%9F%94%F0%9D%9F%94+%F0%9D%90%80%F0%9D%90%88+%F0%9D%90%88%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%93%F0%9D%90%91%F0%9D%90%98+of+Artificial+Intelligence+%26+the+Antichrist&lang=en&timestamp=1782518114&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3248">
-          <img src="https://ytcards.demolab.com/?id=I9EDlLY_puM&title=%F0%9F%94%A5%F0%9D%9F%94%F0%9D%9F%94%F0%9D%9F%94+%F0%9D%90%80%F0%9D%90%88+%F0%9D%90%88%F0%9D%90%83%F0%9D%90%8E%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%93%F0%9D%90%91%F0%9D%90%98+of+Artificial+Intelligence+%26+the+Antichrist&lang=en&timestamp=1782518114&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3248" alt="🔥𝟔𝟔𝟔 𝐀𝐈 𝐈𝐃𝐎𝐋𝐀𝐓𝐑𝐘 of Artificial Intelligence & the Antichrist" title="🔥𝟔𝟔𝟔 𝐀𝐈 𝐈𝐃𝐎𝐋𝐀𝐓𝐑𝐘 of Artificial Intelligence & the Antichrist">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NU2-Pq8i9eE&title=God%27s+Voice+vs+AI+%7C+The+Trap+of+Instant+Results&lang=en&timestamp=1782642273&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7426">
+          <img src="https://ytcards.demolab.com/?id=NU2-Pq8i9eE&title=God%27s+Voice+vs+AI+%7C+The+Trap+of+Instant+Results&lang=en&timestamp=1782642273&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7426" alt="God's Voice vs AI | The Trap of Instant Results" title="God's Voice vs AI | The Trap of Instant Results">
         </picture>
       </a>
     </td>
