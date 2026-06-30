@@ -56,56 +56,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vOWYBF9EGyw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_0RPZtpzWq0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vOWYBF9EGyw&title=How+AI+is+Changing+the+Job+Market+and+Workplace+in+America&lang=en&timestamp=1782653073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=289">
-          <img src="https://ytcards.demolab.com/?id=vOWYBF9EGyw&title=How+AI+is+Changing+the+Job+Market+and+Workplace+in+America&lang=en&timestamp=1782653073&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=289" alt="How AI is Changing the Job Market and Workplace in America" title="How AI is Changing the Job Market and Workplace in America">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_0RPZtpzWq0&title=Debt%2C+decline%2C+closures+%E2%80%93+Is+US+higher+education+crumbling%3F+%7C+This+is+America&lang=en&timestamp=1782763466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1604">
+          <img src="https://ytcards.demolab.com/?id=_0RPZtpzWq0&title=Debt%2C+decline%2C+closures+%E2%80%93+Is+US+higher+education+crumbling%3F+%7C+This+is+America&lang=en&timestamp=1782763466&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1604" alt="Debt, decline, closures – Is US higher education crumbling? | This is America" title="Debt, decline, closures – Is US higher education crumbling? | This is America">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=H_weJVwIEDE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Jgmiy1tUjxI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H_weJVwIEDE&title=These+4+Stocks+Could+Win+Even+If+AI+Crashes+%7C+Warren+Buffett+&lang=en&timestamp=1782667473&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1682">
-          <img src="https://ytcards.demolab.com/?id=H_weJVwIEDE&title=These+4+Stocks+Could+Win+Even+If+AI+Crashes+%7C+Warren+Buffett+&lang=en&timestamp=1782667473&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1682" alt="These 4 Stocks Could Win Even If AI Crashes | Warren Buffett " title="These 4 Stocks Could Win Even If AI Crashes | Warren Buffett ">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Jgmiy1tUjxI&title=Limiting+access+to+top+AI+models+in+the+U.S.+could+hand+China+an+opening+as+capability+gap+narrows&lang=en&timestamp=1782759866&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=210">
+          <img src="https://ytcards.demolab.com/?id=Jgmiy1tUjxI&title=Limiting+access+to+top+AI+models+in+the+U.S.+could+hand+China+an+opening+as+capability+gap+narrows&lang=en&timestamp=1782759866&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=210" alt="Limiting access to top AI models in the U.S. could hand China an opening as capability gap narrows" title="Limiting access to top AI models in the U.S. could hand China an opening as capability gap narrows">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fVQPXoJkuTE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XSS9fD8XWuQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fVQPXoJkuTE&title=Teaching+AI+about+pain+is+important&lang=en&timestamp=1782638673&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=269">
-          <img src="https://ytcards.demolab.com/?id=fVQPXoJkuTE&title=Teaching+AI+about+pain+is+important&lang=en&timestamp=1782638673&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=269" alt="Teaching AI about pain is important" title="Teaching AI about pain is important">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XSS9fD8XWuQ&title=Mythos+AI+Demo+Raises+Cybersecurity+Concerns+%7C+WION+Fineprint&lang=en&timestamp=1782763466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=123">
+          <img src="https://ytcards.demolab.com/?id=XSS9fD8XWuQ&title=Mythos+AI+Demo+Raises+Cybersecurity+Concerns+%7C+WION+Fineprint&lang=en&timestamp=1782763466&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=123" alt="Mythos AI Demo Raises Cybersecurity Concerns | WION Fineprint" title="Mythos AI Demo Raises Cybersecurity Concerns | WION Fineprint">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PgKgYc75hZY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=umo0i4LCOj0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PgKgYc75hZY&title=Clinical+Reasoning+in+the+AI+Era%3A+Can+Artificial+Intelligence+Think+Like+a+Doctor%3F&lang=en&timestamp=1782656673&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3134">
-          <img src="https://ytcards.demolab.com/?id=PgKgYc75hZY&title=Clinical+Reasoning+in+the+AI+Era%3A+Can+Artificial+Intelligence+Think+Like+a+Doctor%3F&lang=en&timestamp=1782656673&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3134" alt="Clinical Reasoning in the AI Era: Can Artificial Intelligence Think Like a Doctor?" title="Clinical Reasoning in the AI Era: Can Artificial Intelligence Think Like a Doctor?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=umo0i4LCOj0&title=Artificial+Intelligence+Drives+New+Growth+Across+Asian+Markets+%7C+WION+World+Business+Watch&lang=en&timestamp=1782791906&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231">
+          <img src="https://ytcards.demolab.com/?id=umo0i4LCOj0&title=Artificial+Intelligence+Drives+New+Growth+Across+Asian+Markets+%7C+WION+World+Business+Watch&lang=en&timestamp=1782791906&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=231" alt="Artificial Intelligence Drives New Growth Across Asian Markets | WION World Business Watch" title="Artificial Intelligence Drives New Growth Across Asian Markets | WION World Business Watch">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=F6xWiC5l5Jg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ENSfNWoasgY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F6xWiC5l5Jg&title=Clinical+Reasoning+in+the+AI+Era%3A+Can+Artificial+Intelligence+Think+Like+a+Doctor%3F&lang=en&timestamp=1782660273&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3134">
-          <img src="https://ytcards.demolab.com/?id=F6xWiC5l5Jg&title=Clinical+Reasoning+in+the+AI+Era%3A+Can+Artificial+Intelligence+Think+Like+a+Doctor%3F&lang=en&timestamp=1782660273&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3134" alt="Clinical Reasoning in the AI Era: Can Artificial Intelligence Think Like a Doctor?" title="Clinical Reasoning in the AI Era: Can Artificial Intelligence Think Like a Doctor?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ENSfNWoasgY&title=Madonna+Says+AI+is+the+%27Exact+Opposite+of+Making+Art%27+%7C+WION+Newspoint&lang=en&timestamp=1782723866&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=97">
+          <img src="https://ytcards.demolab.com/?id=ENSfNWoasgY&title=Madonna+Says+AI+is+the+%27Exact+Opposite+of+Making+Art%27+%7C+WION+Newspoint&lang=en&timestamp=1782723866&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=97" alt="Madonna Says AI is the 'Exact Opposite of Making Art' | WION Newspoint" title="Madonna Says AI is the 'Exact Opposite of Making Art' | WION Newspoint">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NU2-Pq8i9eE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9GGgQbaLzBo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NU2-Pq8i9eE&title=God%27s+Voice+vs+AI+%7C+The+Trap+of+Instant+Results&lang=en&timestamp=1782642273&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7426">
-          <img src="https://ytcards.demolab.com/?id=NU2-Pq8i9eE&title=God%27s+Voice+vs+AI+%7C+The+Trap+of+Instant+Results&lang=en&timestamp=1782642273&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7426" alt="God's Voice vs AI | The Trap of Instant Results" title="God's Voice vs AI | The Trap of Instant Results">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9GGgQbaLzBo&title=Nvidia+Signs+Major+AI+Deal%2C+Expands+Global+Artificial+Intelligence+Push+%7C+WION+World+News&lang=en&timestamp=1782727466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=359">
+          <img src="https://ytcards.demolab.com/?id=9GGgQbaLzBo&title=Nvidia+Signs+Major+AI+Deal%2C+Expands+Global+Artificial+Intelligence+Push+%7C+WION+World+News&lang=en&timestamp=1782727466&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=359" alt="Nvidia Signs Major AI Deal, Expands Global Artificial Intelligence Push | WION World News" title="Nvidia Signs Major AI Deal, Expands Global Artificial Intelligence Push | WION World News">
         </picture>
       </a>
     </td>
