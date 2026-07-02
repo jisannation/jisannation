@@ -58,56 +58,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=G4DZ75SYYVc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3a6_yUp489c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=G4DZ75SYYVc&title=Figure+03+Takes+Over+BMW+Factory+With+Stunning+New+AI+Skills&lang=en&timestamp=1782840015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=158">
-          <img src="https://ytcards.demolab.com/?id=G4DZ75SYYVc&title=Figure+03+Takes+Over+BMW+Factory+With+Stunning+New+AI+Skills&lang=en&timestamp=1782840015&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=158" alt="Figure 03 Takes Over BMW Factory With Stunning New AI Skills" title="Figure 03 Takes Over BMW Factory With Stunning New AI Skills">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3a6_yUp489c&title=Trump+administration+removed+AI+guardrails+on+powerful+Claude+models%2C+Anthropic+says&lang=en&timestamp=1782925189&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
+          <img src="https://ytcards.demolab.com/?id=3a6_yUp489c&title=Trump+administration+removed+AI+guardrails+on+powerful+Claude+models%2C+Anthropic+says&lang=en&timestamp=1782925189&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=136" alt="Trump administration removed AI guardrails on powerful Claude models, Anthropic says" title="Trump administration removed AI guardrails on powerful Claude models, Anthropic says">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NzqLOygOfVE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zALv9fAk_Fw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NzqLOygOfVE&title=Can+China%27s+new+AI+model+GLM-5.2+rival+Anthropic%2C+OpenAI+platforms%3F+%7C+The+World+%7C+ABC+News&lang=en&timestamp=1782825615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=455">
-          <img src="https://ytcards.demolab.com/?id=NzqLOygOfVE&title=Can+China%27s+new+AI+model+GLM-5.2+rival+Anthropic%2C+OpenAI+platforms%3F+%7C+The+World+%7C+ABC+News&lang=en&timestamp=1782825615&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=455" alt="Can China's new AI model GLM-5.2 rival Anthropic, OpenAI platforms? | The World | ABC News" title="Can China's new AI model GLM-5.2 rival Anthropic, OpenAI platforms? | The World | ABC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zALv9fAk_Fw&title=The+UN+Global+Dialogue+on+AI+Governance+Explained+%7C+United+Nations&lang=en&timestamp=1782939589&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=307">
+          <img src="https://ytcards.demolab.com/?id=zALv9fAk_Fw&title=The+UN+Global+Dialogue+on+AI+Governance+Explained+%7C+United+Nations&lang=en&timestamp=1782939589&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=307" alt="The UN Global Dialogue on AI Governance Explained | United Nations" title="The UN Global Dialogue on AI Governance Explained | United Nations">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=UsSeaEc2uZI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MMMqQm22LS0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UsSeaEc2uZI&title=AI%3A+Scarier+Than+Any+Ghost+Story%3F&lang=en&timestamp=1782836415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2940">
-          <img src="https://ytcards.demolab.com/?id=UsSeaEc2uZI&title=AI%3A+Scarier+Than+Any+Ghost+Story%3F&lang=en&timestamp=1782836415&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2940" alt="AI: Scarier Than Any Ghost Story?" title="AI: Scarier Than Any Ghost Story?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MMMqQm22LS0&title=Nate+Soares+on+P%28Doom%29%2C+Alien+Superintelligence%2C+Human+Enhancement%2C+and+the+Future+of+AI&lang=en&timestamp=1782921589&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5539">
+          <img src="https://ytcards.demolab.com/?id=MMMqQm22LS0&title=Nate+Soares+on+P%28Doom%29%2C+Alien+Superintelligence%2C+Human+Enhancement%2C+and+the+Future+of+AI&lang=en&timestamp=1782921589&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5539" alt="Nate Soares on P(Doom), Alien Superintelligence, Human Enhancement, and the Future of AI" title="Nate Soares on P(Doom), Alien Superintelligence, Human Enhancement, and the Future of AI">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7lT5WEp4eKU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=HA4_2rqrP70" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7lT5WEp4eKU&title=The+AI+Sector+Everyone+Is+Ignoring%21+How+YOU+Can+Profit+-+Starting+Now%21&lang=en&timestamp=1782832815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=706">
-          <img src="https://ytcards.demolab.com/?id=7lT5WEp4eKU&title=The+AI+Sector+Everyone+Is+Ignoring%21+How+YOU+Can+Profit+-+Starting+Now%21&lang=en&timestamp=1782832815&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=706" alt="The AI Sector Everyone Is Ignoring! How YOU Can Profit - Starting Now!" title="The AI Sector Everyone Is Ignoring! How YOU Can Profit - Starting Now!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HA4_2rqrP70&title=DeepMind+CEO+WARNS%3A+%22You+Have+No+Idea+What%27s+Coming+In+5+Years%22&lang=en&timestamp=1782925189&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1236">
+          <img src="https://ytcards.demolab.com/?id=HA4_2rqrP70&title=DeepMind+CEO+WARNS%3A+%22You+Have+No+Idea+What%27s+Coming+In+5+Years%22&lang=en&timestamp=1782925189&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1236" alt="DeepMind CEO WARNS: &quot;You Have No Idea What's Coming In 5 Years&quot;" title="DeepMind CEO WARNS: &quot;You Have No Idea What's Coming In 5 Years&quot;">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sMujMp4h_EY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=pE7eUTkb7LA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sMujMp4h_EY&title=Sustainable+Augmented+Development+%E2%80%A2+Kent+Beck+%E2%80%A2+YOW%21+2025&lang=en&timestamp=1782822015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3525">
-          <img src="https://ytcards.demolab.com/?id=sMujMp4h_EY&title=Sustainable+Augmented+Development+%E2%80%A2+Kent+Beck+%E2%80%A2+YOW%21+2025&lang=en&timestamp=1782822015&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3525" alt="Sustainable Augmented Development • Kent Beck • YOW! 2025" title="Sustainable Augmented Development • Kent Beck • YOW! 2025">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pE7eUTkb7LA&title=How+Artificial+Intelligence+Will+Fight+The+Next+War&lang=en&timestamp=1782939589&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1030">
+          <img src="https://ytcards.demolab.com/?id=pE7eUTkb7LA&title=How+Artificial+Intelligence+Will+Fight+The+Next+War&lang=en&timestamp=1782939589&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1030" alt="How Artificial Intelligence Will Fight The Next War" title="How Artificial Intelligence Will Fight The Next War">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QeAHC1jGxck" target="_blank">
+      <a href="https://www.youtube.com/watch?v=5YqqUGF1arU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QeAHC1jGxck&title=Your+OS+Changes+Everything+for+Local+AI&lang=en&timestamp=1782829215&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=853">
-          <img src="https://ytcards.demolab.com/?id=QeAHC1jGxck&title=Your+OS+Changes+Everything+for+Local+AI&lang=en&timestamp=1782829215&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=853" alt="Your OS Changes Everything for Local AI" title="Your OS Changes Everything for Local AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5YqqUGF1arU&title=A.I.+Artificial+Intelligence+%7C+David%27s+Wish+%7C+Beyond+Infinity&lang=en&timestamp=1782917989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=595">
+          <img src="https://ytcards.demolab.com/?id=5YqqUGF1arU&title=A.I.+Artificial+Intelligence+%7C+David%27s+Wish+%7C+Beyond+Infinity&lang=en&timestamp=1782917989&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=595" alt="A.I. Artificial Intelligence | David's Wish | Beyond Infinity" title="A.I. Artificial Intelligence | David's Wish | Beyond Infinity">
         </picture>
       </a>
     </td>
