@@ -61,56 +61,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=gYORRh377Gw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XXaUd0fGpOs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gYORRh377Gw&title=AI+expert+worries+about+the+risk+of+humans+losing+control+%7C+Four+Corners&lang=en&timestamp=1783331578&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=906">
-          <img src="https://ytcards.demolab.com/?id=gYORRh377Gw&title=AI+expert+worries+about+the+risk+of+humans+losing+control+%7C+Four+Corners&lang=en&timestamp=1783331578&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=906" alt="AI expert worries about the risk of humans losing control | Four Corners" title="AI expert worries about the risk of humans losing control | Four Corners">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XXaUd0fGpOs&title=Artificial+Intelligence%3A+Complete+path+to+2030&lang=en&timestamp=1783426789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7324">
+          <img src="https://ytcards.demolab.com/?id=XXaUd0fGpOs&title=Artificial+Intelligence%3A+Complete+path+to+2030&lang=en&timestamp=1783426789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7324" alt="Artificial Intelligence: Complete path to 2030" title="Artificial Intelligence: Complete path to 2030">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=v6UtyhJ_Pno" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wGQJz1LmjTA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v6UtyhJ_Pno&title=Pritzker+signs+new+Illinois+law+creating+accountability+for+artificial+intelligence+developers&lang=en&timestamp=1783378378&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=125">
-          <img src="https://ytcards.demolab.com/?id=v6UtyhJ_Pno&title=Pritzker+signs+new+Illinois+law+creating+accountability+for+artificial+intelligence+developers&lang=en&timestamp=1783378378&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=125" alt="Pritzker signs new Illinois law creating accountability for artificial intelligence developers" title="Pritzker signs new Illinois law creating accountability for artificial intelligence developers">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wGQJz1LmjTA&title=Should+you+really+feel+guilty+for+using+AI%3F&lang=en&timestamp=1783444789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2610">
+          <img src="https://ytcards.demolab.com/?id=wGQJz1LmjTA&title=Should+you+really+feel+guilty+for+using+AI%3F&lang=en&timestamp=1783444789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2610" alt="Should you really feel guilty for using AI?" title="Should you really feel guilty for using AI?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-XywB_jboDU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=avlp2Hfnn6s" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-XywB_jboDU&title=%27Unsurprising+Lack+Of+Leadership%27%3A+Gov.+Pritzker%27s+Scathing+Takedown+Of+Trump%27s+Leadership+Over+AI&lang=en&timestamp=1783374778&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2381">
-          <img src="https://ytcards.demolab.com/?id=-XywB_jboDU&title=%27Unsurprising+Lack+Of+Leadership%27%3A+Gov.+Pritzker%27s+Scathing+Takedown+Of+Trump%27s+Leadership+Over+AI&lang=en&timestamp=1783374778&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2381" alt="'Unsurprising Lack Of Leadership': Gov. Pritzker's Scathing Takedown Of Trump's Leadership Over AI" title="'Unsurprising Lack Of Leadership': Gov. Pritzker's Scathing Takedown Of Trump's Leadership Over AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=avlp2Hfnn6s&title=AI+Safety+Expert%3A+We+Cannot+Control+What%27s+Coming+in+2028&lang=en&timestamp=1783441189&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=983">
+          <img src="https://ytcards.demolab.com/?id=avlp2Hfnn6s&title=AI+Safety+Expert%3A+We+Cannot+Control+What%27s+Coming+in+2028&lang=en&timestamp=1783441189&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=983" alt="AI Safety Expert: We Cannot Control What's Coming in 2028" title="AI Safety Expert: We Cannot Control What's Coming in 2028">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=FaQHwLFVsug" target="_blank">
+      <a href="https://www.youtube.com/watch?v=CyHR9ny1XQw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FaQHwLFVsug&title=Big+tech+changes+tune+on+A.I.+eliminating+jobs&lang=en&timestamp=1783367578&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=79">
-          <img src="https://ytcards.demolab.com/?id=FaQHwLFVsug&title=Big+tech+changes+tune+on+A.I.+eliminating+jobs&lang=en&timestamp=1783367578&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=79" alt="Big tech changes tune on A.I. eliminating jobs" title="Big tech changes tune on A.I. eliminating jobs">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CyHR9ny1XQw&title=Going+Up+Against+AI+in+Ohio+%7C+Don+McMillan+Comedy&lang=en&timestamp=1783444789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=351">
+          <img src="https://ytcards.demolab.com/?id=CyHR9ny1XQw&title=Going+Up+Against+AI+in+Ohio+%7C+Don+McMillan+Comedy&lang=en&timestamp=1783444789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=351" alt="Going Up Against AI in Ohio | Don McMillan Comedy" title="Going Up Against AI in Ohio | Don McMillan Comedy">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=joO-qgHT9W4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Nl87IDslXQY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=joO-qgHT9W4&title=Pritzker+signs+Illinois+bill+intended+to+hold+AI+companies+acountable&lang=en&timestamp=1783356778&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42">
-          <img src="https://ytcards.demolab.com/?id=joO-qgHT9W4&title=Pritzker+signs+Illinois+bill+intended+to+hold+AI+companies+acountable&lang=en&timestamp=1783356778&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42" alt="Pritzker signs Illinois bill intended to hold AI companies acountable" title="Pritzker signs Illinois bill intended to hold AI companies acountable">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Nl87IDslXQY&title=The+AI+Skill+Gap+Nobody%27s+Talking+About&lang=en&timestamp=1783441189&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1640">
+          <img src="https://ytcards.demolab.com/?id=Nl87IDslXQY&title=The+AI+Skill+Gap+Nobody%27s+Talking+About&lang=en&timestamp=1783441189&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1640" alt="The AI Skill Gap Nobody's Talking About" title="The AI Skill Gap Nobody's Talking About">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Gz62bniDkpg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=S2uVXJpefUg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Gz62bniDkpg&title=Is+STRIX+Better+than+SPARK%3F+Now+Launching+w%2Fnew+Software%3A+AMD%27s+Ryzen+AI+Halo+Developer+Workstation&lang=en&timestamp=1783353178&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1916">
-          <img src="https://ytcards.demolab.com/?id=Gz62bniDkpg&title=Is+STRIX+Better+than+SPARK%3F+Now+Launching+w%2Fnew+Software%3A+AMD%27s+Ryzen+AI+Halo+Developer+Workstation&lang=en&timestamp=1783353178&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1916" alt="Is STRIX Better than SPARK? Now Launching w/new Software: AMD's Ryzen AI Halo Developer Workstation" title="Is STRIX Better than SPARK? Now Launching w/new Software: AMD's Ryzen AI Halo Developer Workstation">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S2uVXJpefUg&title=E.M.E.T.+%E2%80%93+Artificial+Intelligence%2C+Real+Hero+EVOLVE+MULTIPLAYER+2026++%23evolve+%23evolvelegacy&lang=en&timestamp=1783430389&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=850">
+          <img src="https://ytcards.demolab.com/?id=S2uVXJpefUg&title=E.M.E.T.+%E2%80%93+Artificial+Intelligence%2C+Real+Hero+EVOLVE+MULTIPLAYER+2026++%23evolve+%23evolvelegacy&lang=en&timestamp=1783430389&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=850" alt="E.M.E.T. – Artificial Intelligence, Real Hero EVOLVE MULTIPLAYER 2026  #evolve #evolvelegacy" title="E.M.E.T. – Artificial Intelligence, Real Hero EVOLVE MULTIPLAYER 2026  #evolve #evolvelegacy">
         </picture>
       </a>
     </td>
