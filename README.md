@@ -62,56 +62,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XXaUd0fGpOs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=HQkPJk0GXqs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XXaUd0fGpOs&title=Artificial+Intelligence%3A+Complete+path+to+2030&lang=en&timestamp=1783426789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7324">
-          <img src="https://ytcards.demolab.com/?id=XXaUd0fGpOs&title=Artificial+Intelligence%3A+Complete+path+to+2030&lang=en&timestamp=1783426789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7324" alt="Artificial Intelligence: Complete path to 2030" title="Artificial Intelligence: Complete path to 2030">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HQkPJk0GXqs&title=MIT+Predicts+The+12+Ways+AI+Ends+%7C+The+Shoggoth+Is+Already+Here&lang=en&timestamp=1783551056&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=792">
+          <img src="https://ytcards.demolab.com/?id=HQkPJk0GXqs&title=MIT+Predicts+The+12+Ways+AI+Ends+%7C+The+Shoggoth+Is+Already+Here&lang=en&timestamp=1783551056&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=792" alt="MIT Predicts The 12 Ways AI Ends | The Shoggoth Is Already Here" title="MIT Predicts The 12 Ways AI Ends | The Shoggoth Is Already Here">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wGQJz1LmjTA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dfcg3h6_0f8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wGQJz1LmjTA&title=Should+you+really+feel+guilty+for+using+AI%3F&lang=en&timestamp=1783444789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2610">
-          <img src="https://ytcards.demolab.com/?id=wGQJz1LmjTA&title=Should+you+really+feel+guilty+for+using+AI%3F&lang=en&timestamp=1783444789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2610" alt="Should you really feel guilty for using AI?" title="Should you really feel guilty for using AI?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dfcg3h6_0f8&title=Tech+Yeah%3A+AI+Actress+Gets+Feature+Film+%26+Robo+Toilets+Bring+the+Bathroom+to+You+%7C+The+Daily+Show&lang=en&timestamp=1783511456&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=313">
+          <img src="https://ytcards.demolab.com/?id=dfcg3h6_0f8&title=Tech+Yeah%3A+AI+Actress+Gets+Feature+Film+%26+Robo+Toilets+Bring+the+Bathroom+to+You+%7C+The+Daily+Show&lang=en&timestamp=1783511456&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=313" alt="Tech Yeah: AI Actress Gets Feature Film & Robo Toilets Bring the Bathroom to You | The Daily Show" title="Tech Yeah: AI Actress Gets Feature Film & Robo Toilets Bring the Bathroom to You | The Daily Show">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=avlp2Hfnn6s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fg8ScOChRkk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=avlp2Hfnn6s&title=AI+Safety+Expert%3A+We+Cannot+Control+What%27s+Coming+in+2028&lang=en&timestamp=1783441189&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=983">
-          <img src="https://ytcards.demolab.com/?id=avlp2Hfnn6s&title=AI+Safety+Expert%3A+We+Cannot+Control+What%27s+Coming+in+2028&lang=en&timestamp=1783441189&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=983" alt="AI Safety Expert: We Cannot Control What's Coming in 2028" title="AI Safety Expert: We Cannot Control What's Coming in 2028">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fg8ScOChRkk&title=NATO+Unleashes+Secret+AI+Weapon+Against+Russia+%7C+WION&lang=en&timestamp=1783533056&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=237">
+          <img src="https://ytcards.demolab.com/?id=fg8ScOChRkk&title=NATO+Unleashes+Secret+AI+Weapon+Against+Russia+%7C+WION&lang=en&timestamp=1783533056&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=237" alt="NATO Unleashes Secret AI Weapon Against Russia | WION" title="NATO Unleashes Secret AI Weapon Against Russia | WION">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CyHR9ny1XQw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=VPVMjoUER9w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CyHR9ny1XQw&title=Going+Up+Against+AI+in+Ohio+%7C+Don+McMillan+Comedy&lang=en&timestamp=1783444789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=351">
-          <img src="https://ytcards.demolab.com/?id=CyHR9ny1XQw&title=Going+Up+Against+AI+in+Ohio+%7C+Don+McMillan+Comedy&lang=en&timestamp=1783444789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=351" alt="Going Up Against AI in Ohio | Don McMillan Comedy" title="Going Up Against AI in Ohio | Don McMillan Comedy">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VPVMjoUER9w&title=Grok+AI+Was+Asked+If+1967+Patterson-Gimlin+Bigfoot+Film+Is+Real+-+The+Answer+Shocked+Experts&lang=en&timestamp=1783540256&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1738">
+          <img src="https://ytcards.demolab.com/?id=VPVMjoUER9w&title=Grok+AI+Was+Asked+If+1967+Patterson-Gimlin+Bigfoot+Film+Is+Real+-+The+Answer+Shocked+Experts&lang=en&timestamp=1783540256&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1738" alt="Grok AI Was Asked If 1967 Patterson-Gimlin Bigfoot Film Is Real - The Answer Shocked Experts" title="Grok AI Was Asked If 1967 Patterson-Gimlin Bigfoot Film Is Real - The Answer Shocked Experts">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Nl87IDslXQY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=B3xecD2fjZs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Nl87IDslXQY&title=The+AI+Skill+Gap+Nobody%27s+Talking+About&lang=en&timestamp=1783441189&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1640">
-          <img src="https://ytcards.demolab.com/?id=Nl87IDslXQY&title=The+AI+Skill+Gap+Nobody%27s+Talking+About&lang=en&timestamp=1783441189&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1640" alt="The AI Skill Gap Nobody's Talking About" title="The AI Skill Gap Nobody's Talking About">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=B3xecD2fjZs&title=Scientists+Used+AI+to+Translate+Ancient+Sumerian+Tablets+-+What+they+Found+Changes+Everything&lang=en&timestamp=1783533056&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1920">
+          <img src="https://ytcards.demolab.com/?id=B3xecD2fjZs&title=Scientists+Used+AI+to+Translate+Ancient+Sumerian+Tablets+-+What+they+Found+Changes+Everything&lang=en&timestamp=1783533056&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1920" alt="Scientists Used AI to Translate Ancient Sumerian Tablets - What they Found Changes Everything" title="Scientists Used AI to Translate Ancient Sumerian Tablets - What they Found Changes Everything">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=S2uVXJpefUg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=HWzfegNwPlI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S2uVXJpefUg&title=E.M.E.T.+%E2%80%93+Artificial+Intelligence%2C+Real+Hero+EVOLVE+MULTIPLAYER+2026++%23evolve+%23evolvelegacy&lang=en&timestamp=1783430389&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=850">
-          <img src="https://ytcards.demolab.com/?id=S2uVXJpefUg&title=E.M.E.T.+%E2%80%93+Artificial+Intelligence%2C+Real+Hero+EVOLVE+MULTIPLAYER+2026++%23evolve+%23evolvelegacy&lang=en&timestamp=1783430389&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=850" alt="E.M.E.T. – Artificial Intelligence, Real Hero EVOLVE MULTIPLAYER 2026  #evolve #evolvelegacy" title="E.M.E.T. – Artificial Intelligence, Real Hero EVOLVE MULTIPLAYER 2026  #evolve #evolvelegacy">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HWzfegNwPlI&title=Do+We+Still+Need+Math+in+the+Age+of+AI%3F+%7C+Artur+Byczkowski+%7C+TEDxWSKZ&lang=en&timestamp=1783525856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=951">
+          <img src="https://ytcards.demolab.com/?id=HWzfegNwPlI&title=Do+We+Still+Need+Math+in+the+Age+of+AI%3F+%7C+Artur+Byczkowski+%7C+TEDxWSKZ&lang=en&timestamp=1783525856&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=951" alt="Do We Still Need Math in the Age of AI? | Artur Byczkowski | TEDxWSKZ" title="Do We Still Need Math in the Age of AI? | Artur Byczkowski | TEDxWSKZ">
         </picture>
       </a>
     </td>
