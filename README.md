@@ -64,56 +64,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NvrZEecpAOI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hasNZX5s62U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NvrZEecpAOI&title=Grok+4.5+Just+Shocked+The+AI+Community+-+SpaceXAI+Grok+4.5&lang=en&timestamp=1783597670&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1101">
-          <img src="https://ytcards.demolab.com/?id=NvrZEecpAOI&title=Grok+4.5+Just+Shocked+The+AI+Community+-+SpaceXAI+Grok+4.5&lang=en&timestamp=1783597670&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1101" alt="Grok 4.5 Just Shocked The AI Community - SpaceXAI Grok 4.5" title="Grok 4.5 Just Shocked The AI Community - SpaceXAI Grok 4.5">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hasNZX5s62U&title=Digital+Labour+or+AI+Empowerment%3F&lang=en&timestamp=1783682064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=186">
+          <img src="https://ytcards.demolab.com/?id=hasNZX5s62U&title=Digital+Labour+or+AI+Empowerment%3F&lang=en&timestamp=1783682064&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=186" alt="Digital Labour or AI Empowerment?" title="Digital Labour or AI Empowerment?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZKWWEnXZPfA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SXqrZC8ISqc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZKWWEnXZPfA&title=What+Happens+When+AI+Becomes+Smarter+Than+Humans%3F&lang=en&timestamp=1783612070&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1323">
-          <img src="https://ytcards.demolab.com/?id=ZKWWEnXZPfA&title=What+Happens+When+AI+Becomes+Smarter+Than+Humans%3F&lang=en&timestamp=1783612070&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1323" alt="What Happens When AI Becomes Smarter Than Humans?" title="What Happens When AI Becomes Smarter Than Humans?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SXqrZC8ISqc&title=What+Makes+You+Human+in+the+Age+of+AI+final&lang=en&timestamp=1783700064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1320">
+          <img src="https://ytcards.demolab.com/?id=SXqrZC8ISqc&title=What+Makes+You+Human+in+the+Age+of+AI+final&lang=en&timestamp=1783700064&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1320" alt="What Makes You Human in the Age of AI final" title="What Makes You Human in the Age of AI final">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=i-gfexFPbf4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QG69iTwWhv8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=i-gfexFPbf4&title=You+Will+Pay+for+the+Coming+AI+Crash+%7C+AT20&lang=en&timestamp=1783612070&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1097">
-          <img src="https://ytcards.demolab.com/?id=i-gfexFPbf4&title=You+Will+Pay+for+the+Coming+AI+Crash+%7C+AT20&lang=en&timestamp=1783612070&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1097" alt="You Will Pay for the Coming AI Crash | AT20" title="You Will Pay for the Coming AI Crash | AT20">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QG69iTwWhv8&title=Building+a+safer%2C+more+equitable+AI+future+%7C+ITU%27s+Doreen+Bogdan-Martin+%7C+Global+Stage&lang=en&timestamp=1783700064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=849">
+          <img src="https://ytcards.demolab.com/?id=QG69iTwWhv8&title=Building+a+safer%2C+more+equitable+AI+future+%7C+ITU%27s+Doreen+Bogdan-Martin+%7C+Global+Stage&lang=en&timestamp=1783700064&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=849" alt="Building a safer, more equitable AI future | ITU's Doreen Bogdan-Martin | Global Stage" title="Building a safer, more equitable AI future | ITU's Doreen Bogdan-Martin | Global Stage">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PCMwo8s_nvk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=I-ibd3Hki00" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PCMwo8s_nvk&title=Who+Are+We%3F+The+Problem+AI+Can%27t+Solve&lang=en&timestamp=1783615670&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1245">
-          <img src="https://ytcards.demolab.com/?id=PCMwo8s_nvk&title=Who+Are+We%3F+The+Problem+AI+Can%27t+Solve&lang=en&timestamp=1783615670&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1245" alt="Who Are We? The Problem AI Can't Solve" title="Who Are We? The Problem AI Can't Solve">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I-ibd3Hki00&title=The+10+Most+INSANE+Things+Created+by++GPT+5.6+%28+GPT+5.6+5+Use+Cases%29&lang=en&timestamp=1783700064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1714">
+          <img src="https://ytcards.demolab.com/?id=I-ibd3Hki00&title=The+10+Most+INSANE+Things+Created+by++GPT+5.6+%28+GPT+5.6+5+Use+Cases%29&lang=en&timestamp=1783700064&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1714" alt="The 10 Most INSANE Things Created by  GPT 5.6 ( GPT 5.6 5 Use Cases)" title="The 10 Most INSANE Things Created by  GPT 5.6 ( GPT 5.6 5 Use Cases)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=kpGZ83XqDqA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=J6-gaT1s66o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kpGZ83XqDqA&title=How+AI+Changes+if+Open+Source+Gets+Banned&lang=en&timestamp=1783626470&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1415">
-          <img src="https://ytcards.demolab.com/?id=kpGZ83XqDqA&title=How+AI+Changes+if+Open+Source+Gets+Banned&lang=en&timestamp=1783626470&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1415" alt="How AI Changes if Open Source Gets Banned" title="How AI Changes if Open Source Gets Banned">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J6-gaT1s66o&title=The+BIGGEST+problem+with+using+AI+for+air+combat&lang=en&timestamp=1783721664&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1633">
+          <img src="https://ytcards.demolab.com/?id=J6-gaT1s66o&title=The+BIGGEST+problem+with+using+AI+for+air+combat&lang=en&timestamp=1783721664&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1633" alt="The BIGGEST problem with using AI for air combat" title="The BIGGEST problem with using AI for air combat">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dPIYf8UURDk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=pdbOcWKi0Kg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dPIYf8UURDk&title=Scientists+Found+Something+In+The+Nazca+Desert+That+Rewrites+Human+History&lang=en&timestamp=1783626470&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1776">
-          <img src="https://ytcards.demolab.com/?id=dPIYf8UURDk&title=Scientists+Found+Something+In+The+Nazca+Desert+That+Rewrites+Human+History&lang=en&timestamp=1783626470&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1776" alt="Scientists Found Something In The Nazca Desert That Rewrites Human History" title="Scientists Found Something In The Nazca Desert That Rewrites Human History">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pdbOcWKi0Kg&title=The+future+of+artificial+intelligence+in+Canada%3A+opportunities%2C+challenges%2C+and+the+unknown&lang=en&timestamp=1783689264&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=448">
+          <img src="https://ytcards.demolab.com/?id=pdbOcWKi0Kg&title=The+future+of+artificial+intelligence+in+Canada%3A+opportunities%2C+challenges%2C+and+the+unknown&lang=en&timestamp=1783689264&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=448" alt="The future of artificial intelligence in Canada: opportunities, challenges, and the unknown" title="The future of artificial intelligence in Canada: opportunities, challenges, and the unknown">
         </picture>
       </a>
     </td>
