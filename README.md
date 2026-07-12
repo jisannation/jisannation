@@ -65,56 +65,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hasNZX5s62U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XzENH8S_yfo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hasNZX5s62U&title=Digital+Labour+or+AI+Empowerment%3F&lang=en&timestamp=1783682064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=186">
-          <img src="https://ytcards.demolab.com/?id=hasNZX5s62U&title=Digital+Labour+or+AI+Empowerment%3F&lang=en&timestamp=1783682064&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=186" alt="Digital Labour or AI Empowerment?" title="Digital Labour or AI Empowerment?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XzENH8S_yfo&title=Villagers+React+to+It+Begins%3A+An+AI+Literally+Attempted+Murder+To+Avoid+Shutdown&lang=en&timestamp=1783790752&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1476">
+          <img src="https://ytcards.demolab.com/?id=XzENH8S_yfo&title=Villagers+React+to+It+Begins%3A+An+AI+Literally+Attempted+Murder+To+Avoid+Shutdown&lang=en&timestamp=1783790752&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1476" alt="Villagers React to It Begins: An AI Literally Attempted Murder To Avoid Shutdown" title="Villagers React to It Begins: An AI Literally Attempted Murder To Avoid Shutdown">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SXqrZC8ISqc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-4Xp13rrHgM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SXqrZC8ISqc&title=What+Makes+You+Human+in+the+Age+of+AI+final&lang=en&timestamp=1783700064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1320">
-          <img src="https://ytcards.demolab.com/?id=SXqrZC8ISqc&title=What+Makes+You+Human+in+the+Age+of+AI+final&lang=en&timestamp=1783700064&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1320" alt="What Makes You Human in the Age of AI final" title="What Makes You Human in the Age of AI final">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-4Xp13rrHgM&title=%27AI+for+Good%27+Summit%3A+How+artificial+intelligence+is+tackling+global+challenges&lang=en&timestamp=1783805152&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=125">
+          <img src="https://ytcards.demolab.com/?id=-4Xp13rrHgM&title=%27AI+for+Good%27+Summit%3A+How+artificial+intelligence+is+tackling+global+challenges&lang=en&timestamp=1783805152&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=125" alt="'AI for Good' Summit: How artificial intelligence is tackling global challenges" title="'AI for Good' Summit: How artificial intelligence is tackling global challenges">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QG69iTwWhv8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Ci-Mm_TUS0E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QG69iTwWhv8&title=Building+a+safer%2C+more+equitable+AI+future+%7C+ITU%27s+Doreen+Bogdan-Martin+%7C+Global+Stage&lang=en&timestamp=1783700064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=849">
-          <img src="https://ytcards.demolab.com/?id=QG69iTwWhv8&title=Building+a+safer%2C+more+equitable+AI+future+%7C+ITU%27s+Doreen+Bogdan-Martin+%7C+Global+Stage&lang=en&timestamp=1783700064&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=849" alt="Building a safer, more equitable AI future | ITU's Doreen Bogdan-Martin | Global Stage" title="Building a safer, more equitable AI future | ITU's Doreen Bogdan-Martin | Global Stage">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ci-Mm_TUS0E&title=AI+Isn%27t+Replacing+Who+You+Think&lang=en&timestamp=1783787152&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3909">
+          <img src="https://ytcards.demolab.com/?id=Ci-Mm_TUS0E&title=AI+Isn%27t+Replacing+Who+You+Think&lang=en&timestamp=1783787152&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3909" alt="AI Isn't Replacing Who You Think" title="AI Isn't Replacing Who You Think">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=I-ibd3Hki00" target="_blank">
+      <a href="https://www.youtube.com/watch?v=pdMIb7RyL08" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=I-ibd3Hki00&title=The+10+Most+INSANE+Things+Created+by++GPT+5.6+%28+GPT+5.6+5+Use+Cases%29&lang=en&timestamp=1783700064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1714">
-          <img src="https://ytcards.demolab.com/?id=I-ibd3Hki00&title=The+10+Most+INSANE+Things+Created+by++GPT+5.6+%28+GPT+5.6+5+Use+Cases%29&lang=en&timestamp=1783700064&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1714" alt="The 10 Most INSANE Things Created by  GPT 5.6 ( GPT 5.6 5 Use Cases)" title="The 10 Most INSANE Things Created by  GPT 5.6 ( GPT 5.6 5 Use Cases)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pdMIb7RyL08&title=%24AITX+CEO+Steve+Reinharz+Shows+How+AI+Is+Changing+the+Way+He+Runs+a+Business&lang=en&timestamp=1783776352&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=362">
+          <img src="https://ytcards.demolab.com/?id=pdMIb7RyL08&title=%24AITX+CEO+Steve+Reinharz+Shows+How+AI+Is+Changing+the+Way+He+Runs+a+Business&lang=en&timestamp=1783776352&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=362" alt="$AITX CEO Steve Reinharz Shows How AI Is Changing the Way He Runs a Business" title="$AITX CEO Steve Reinharz Shows How AI Is Changing the Way He Runs a Business">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=J6-gaT1s66o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-ZLY4JjJLes" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J6-gaT1s66o&title=The+BIGGEST+problem+with+using+AI+for+air+combat&lang=en&timestamp=1783721664&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1633">
-          <img src="https://ytcards.demolab.com/?id=J6-gaT1s66o&title=The+BIGGEST+problem+with+using+AI+for+air+combat&lang=en&timestamp=1783721664&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1633" alt="The BIGGEST problem with using AI for air combat" title="The BIGGEST problem with using AI for air combat">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-ZLY4JjJLes&title=3+AI+Bottlenecks+Every+Investors+Must+Own%21&lang=en&timestamp=1783797952&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1050">
+          <img src="https://ytcards.demolab.com/?id=-ZLY4JjJLes&title=3+AI+Bottlenecks+Every+Investors+Must+Own%21&lang=en&timestamp=1783797952&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1050" alt="3 AI Bottlenecks Every Investors Must Own!" title="3 AI Bottlenecks Every Investors Must Own!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pdbOcWKi0Kg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=UHi6ldhdxtY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pdbOcWKi0Kg&title=The+future+of+artificial+intelligence+in+Canada%3A+opportunities%2C+challenges%2C+and+the+unknown&lang=en&timestamp=1783689264&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=448">
-          <img src="https://ytcards.demolab.com/?id=pdbOcWKi0Kg&title=The+future+of+artificial+intelligence+in+Canada%3A+opportunities%2C+challenges%2C+and+the+unknown&lang=en&timestamp=1783689264&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=448" alt="The future of artificial intelligence in Canada: opportunities, challenges, and the unknown" title="The future of artificial intelligence in Canada: opportunities, challenges, and the unknown">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UHi6ldhdxtY&title=How+AI+Could+Help+Create+Vaccines+Before+The+Next+Pandemic+%7C+Tech+It+Out&lang=en&timestamp=1783779952&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=342">
+          <img src="https://ytcards.demolab.com/?id=UHi6ldhdxtY&title=How+AI+Could+Help+Create+Vaccines+Before+The+Next+Pandemic+%7C+Tech+It+Out&lang=en&timestamp=1783779952&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=342" alt="How AI Could Help Create Vaccines Before The Next Pandemic | Tech It Out" title="How AI Could Help Create Vaccines Before The Next Pandemic | Tech It Out">
         </picture>
       </a>
     </td>
