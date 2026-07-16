@@ -68,56 +68,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3EjvR_-wc7g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=0TqyKUDNjL4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3EjvR_-wc7g&title=AI+is+Replacing+Jobs+Faster+Than+You+Think+%7C+Banking+Jobs+at+Risk%3F+%7C+The+N+Show+&lang=en&timestamp=1784029788&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1445">
-          <img src="https://ytcards.demolab.com/?id=3EjvR_-wc7g&title=AI+is+Replacing+Jobs+Faster+Than+You+Think+%7C+Banking+Jobs+at+Risk%3F+%7C+The+N+Show+&lang=en&timestamp=1784029788&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1445" alt="AI is Replacing Jobs Faster Than You Think | Banking Jobs at Risk? | The N Show " title="AI is Replacing Jobs Faster Than You Think | Banking Jobs at Risk? | The N Show ">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0TqyKUDNjL4&title=Yoshua+Bengio%3A+AI+is+moving+faster+than+our+ability+to+govern+it+%7C+AI+for+Good+2026+%7C+Global+Stage&lang=en&timestamp=1784120194&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=811">
+          <img src="https://ytcards.demolab.com/?id=0TqyKUDNjL4&title=Yoshua+Bengio%3A+AI+is+moving+faster+than+our+ability+to+govern+it+%7C+AI+for+Good+2026+%7C+Global+Stage&lang=en&timestamp=1784120194&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=811" alt="Yoshua Bengio: AI is moving faster than our ability to govern it | AI for Good 2026 | Global Stage" title="Yoshua Bengio: AI is moving faster than our ability to govern it | AI for Good 2026 | Global Stage">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SuBzlovBexc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=YfXxYu45ql0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SuBzlovBexc&title=Godfather+Of+AI+WARNS%3A+We%27re+Not+Ready+For+The+Take+Over+That+Is+Coming&lang=en&timestamp=1784047788&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1335">
-          <img src="https://ytcards.demolab.com/?id=SuBzlovBexc&title=Godfather+Of+AI+WARNS%3A+We%27re+Not+Ready+For+The+Take+Over+That+Is+Coming&lang=en&timestamp=1784047788&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1335" alt="Godfather Of AI WARNS: We're Not Ready For The Take Over That Is Coming" title="Godfather Of AI WARNS: We're Not Ready For The Take Over That Is Coming">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YfXxYu45ql0&title=Speech+by+Governor+Barr+on+artificial+intelligence%2C+July+14%2C+2026&lang=en&timestamp=1784120194&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1233">
+          <img src="https://ytcards.demolab.com/?id=YfXxYu45ql0&title=Speech+by+Governor+Barr+on+artificial+intelligence%2C+July+14%2C+2026&lang=en&timestamp=1784120194&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1233" alt="Speech by Governor Barr on artificial intelligence, July 14, 2026" title="Speech by Governor Barr on artificial intelligence, July 14, 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8qTZLqY-cnI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=HlLa5iA8lOs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8qTZLqY-cnI&title=Joe+Rogan+Experience+%232525+-+Nick+Bostrom&lang=en&timestamp=1784051388&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8082">
-          <img src="https://ytcards.demolab.com/?id=8qTZLqY-cnI&title=Joe+Rogan+Experience+%232525+-+Nick+Bostrom&lang=en&timestamp=1784051388&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8082" alt="Joe Rogan Experience #2525 - Nick Bostrom" title="Joe Rogan Experience #2525 - Nick Bostrom">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HlLa5iA8lOs&title=The+Future+of+AI%3A+With+Sir+Demis+Hassabis+%26+Dame+Wendy+Hall&lang=en&timestamp=1784127394&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4914">
+          <img src="https://ytcards.demolab.com/?id=HlLa5iA8lOs&title=The+Future+of+AI%3A+With+Sir+Demis+Hassabis+%26+Dame+Wendy+Hall&lang=en&timestamp=1784127394&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4914" alt="The Future of AI: With Sir Demis Hassabis & Dame Wendy Hall" title="The Future of AI: With Sir Demis Hassabis & Dame Wendy Hall">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Mr2Q8YYNHGY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=u39kUFWXgO0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Mr2Q8YYNHGY&title=PM+Albanese+to+unveil+world-first+artificial+intelligence+framework+%7C+9+News+Australia&lang=en&timestamp=1784069388&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=785">
-          <img src="https://ytcards.demolab.com/?id=Mr2Q8YYNHGY&title=PM+Albanese+to+unveil+world-first+artificial+intelligence+framework+%7C+9+News+Australia&lang=en&timestamp=1784069388&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=785" alt="PM Albanese to unveil world-first artificial intelligence framework | 9 News Australia" title="PM Albanese to unveil world-first artificial intelligence framework | 9 News Australia">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u39kUFWXgO0&title=Anthony+Albanese+proposes+new+blueprint+for+Australia+to+manage+artificial+intelligence+%7C+7NEWS&lang=en&timestamp=1784105794&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=161">
+          <img src="https://ytcards.demolab.com/?id=u39kUFWXgO0&title=Anthony+Albanese+proposes+new+blueprint+for+Australia+to+manage+artificial+intelligence+%7C+7NEWS&lang=en&timestamp=1784105794&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=161" alt="Anthony Albanese proposes new blueprint for Australia to manage artificial intelligence | 7NEWS" title="Anthony Albanese proposes new blueprint for Australia to manage artificial intelligence | 7NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SzdT7rTVZk8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RggfYSmtbtk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SzdT7rTVZk8&title=How+will+Australia+enforce+its+AI+rules%3F+%7C+ABC+NEWS&lang=en&timestamp=1784076588&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=311">
-          <img src="https://ytcards.demolab.com/?id=SzdT7rTVZk8&title=How+will+Australia+enforce+its+AI+rules%3F+%7C+ABC+NEWS&lang=en&timestamp=1784076588&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=311" alt="How will Australia enforce its AI rules? | ABC NEWS" title="How will Australia enforce its AI rules? | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RggfYSmtbtk&title=Can+AI+protect+humanitarian+aid%3F+%7C+AI+for+Good+2026+%7C+Global+Stage&lang=en&timestamp=1784130994&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=168">
+          <img src="https://ytcards.demolab.com/?id=RggfYSmtbtk&title=Can+AI+protect+humanitarian+aid%3F+%7C+AI+for+Good+2026+%7C+Global+Stage&lang=en&timestamp=1784130994&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=168" alt="Can AI protect humanitarian aid? | AI for Good 2026 | Global Stage" title="Can AI protect humanitarian aid? | AI for Good 2026 | Global Stage">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=J3MA03WMuew" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Ct2Q9ymejm4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J3MA03WMuew&title=Why+are+AI+Bros+incapable+of+talking+about+reality%3F&lang=en&timestamp=1784018988&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=309">
-          <img src="https://ytcards.demolab.com/?id=J3MA03WMuew&title=Why+are+AI+Bros+incapable+of+talking+about+reality%3F&lang=en&timestamp=1784018988&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=309" alt="Why are AI Bros incapable of talking about reality?" title="Why are AI Bros incapable of talking about reality?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Ct2Q9ymejm4&title=Author+Talk%3A+Robert+Wright+%E2%80%94+The+God+Test%3A+Artificial+Intelligence+and+Our+Coming+Cosmic+Reckoning&lang=en&timestamp=1784084194&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4030">
+          <img src="https://ytcards.demolab.com/?id=Ct2Q9ymejm4&title=Author+Talk%3A+Robert+Wright+%E2%80%94+The+God+Test%3A+Artificial+Intelligence+and+Our+Coming+Cosmic+Reckoning&lang=en&timestamp=1784084194&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4030" alt="Author Talk: Robert Wright — The God Test: Artificial Intelligence and Our Coming Cosmic Reckoning" title="Author Talk: Robert Wright — The God Test: Artificial Intelligence and Our Coming Cosmic Reckoning">
         </picture>
       </a>
     </td>
