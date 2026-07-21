@@ -73,56 +73,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wZCCTKjwXzg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4DUXr4zM9tg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wZCCTKjwXzg&title=AI+Robots+Are+Here%21+No+Jobs+Will+be+Safe%21+Live+From+World+Artificial+Intelligence+Conference+%28WAIC%29&lang=en&timestamp=1784472721&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=818">
-          <img src="https://ytcards.demolab.com/?id=wZCCTKjwXzg&title=AI+Robots+Are+Here%21+No+Jobs+Will+be+Safe%21+Live+From+World+Artificial+Intelligence+Conference+%28WAIC%29&lang=en&timestamp=1784472721&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=818" alt="AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)" title="AI Robots Are Here! No Jobs Will be Safe! Live From World Artificial Intelligence Conference (WAIC)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4DUXr4zM9tg&title=OpenAI+chairman+Bret+Taylor+on+AI+tokenomics%2C+token+efficiency&lang=en&timestamp=1784556992&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=493">
+          <img src="https://ytcards.demolab.com/?id=4DUXr4zM9tg&title=OpenAI+chairman+Bret+Taylor+on+AI+tokenomics%2C+token+efficiency&lang=en&timestamp=1784556992&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=493" alt="OpenAI chairman Bret Taylor on AI tokenomics, token efficiency" title="OpenAI chairman Bret Taylor on AI tokenomics, token efficiency">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ptaRoFeN8Gs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=HIV3_UUzZtY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ptaRoFeN8Gs&title=10+Times+AI+Behaved+In+Ways+That+Terrified+The+Scientists+Who+Built+It+-+Part+2&lang=en&timestamp=1784476321&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=640">
-          <img src="https://ytcards.demolab.com/?id=ptaRoFeN8Gs&title=10+Times+AI+Behaved+In+Ways+That+Terrified+The+Scientists+Who+Built+It+-+Part+2&lang=en&timestamp=1784476321&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=640" alt="10 Times AI Behaved In Ways That Terrified The Scientists Who Built It - Part 2" title="10 Times AI Behaved In Ways That Terrified The Scientists Who Built It - Part 2">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HIV3_UUzZtY&title=AI+and+the+next+decade+of+human+progress+%7C+Ray+Kurzweil&lang=en&timestamp=1784556992&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1836">
+          <img src="https://ytcards.demolab.com/?id=HIV3_UUzZtY&title=AI+and+the+next+decade+of+human+progress+%7C+Ray+Kurzweil&lang=en&timestamp=1784556992&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1836" alt="AI and the next decade of human progress | Ray Kurzweil" title="AI and the next decade of human progress | Ray Kurzweil">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8kNxcuYlIxc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9nUmVktlwvA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8kNxcuYlIxc&title=Humanoid+Robots+Steal+The+Show+At+Shanghai+AI+Conference+%7C+Future+Of+Artificial+Intelligence&lang=en&timestamp=1784461921&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=112">
-          <img src="https://ytcards.demolab.com/?id=8kNxcuYlIxc&title=Humanoid+Robots+Steal+The+Show+At+Shanghai+AI+Conference+%7C+Future+Of+Artificial+Intelligence&lang=en&timestamp=1784461921&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=112" alt="Humanoid Robots Steal The Show At Shanghai AI Conference | Future Of Artificial Intelligence" title="Humanoid Robots Steal The Show At Shanghai AI Conference | Future Of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9nUmVktlwvA&title=The+AI+Industry+Just+Got+What+It+Deserved&lang=en&timestamp=1784564192&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1459">
+          <img src="https://ytcards.demolab.com/?id=9nUmVktlwvA&title=The+AI+Industry+Just+Got+What+It+Deserved&lang=en&timestamp=1784564192&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1459" alt="The AI Industry Just Got What It Deserved" title="The AI Industry Just Got What It Deserved">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ecMkHagVgQU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=phHhqt2df6I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ecMkHagVgQU&title=LimX+Dynamics+Stuns+WAIC+2026+With+Incredible+Humanoid+Robots&lang=en&timestamp=1784479921&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=205">
-          <img src="https://ytcards.demolab.com/?id=ecMkHagVgQU&title=LimX+Dynamics+Stuns+WAIC+2026+With+Incredible+Humanoid+Robots&lang=en&timestamp=1784479921&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=205" alt="LimX Dynamics Stuns WAIC 2026 With Incredible Humanoid Robots" title="LimX Dynamics Stuns WAIC 2026 With Incredible Humanoid Robots">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=phHhqt2df6I&title=China%27s+New+Robotic+Bricklayer+Built+a+Wall+6x+Faster+Than+Humans%E2%80%94Construction+Unions+are+Stunned&lang=en&timestamp=1784574992&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1171">
+          <img src="https://ytcards.demolab.com/?id=phHhqt2df6I&title=China%27s+New+Robotic+Bricklayer+Built+a+Wall+6x+Faster+Than+Humans%E2%80%94Construction+Unions+are+Stunned&lang=en&timestamp=1784574992&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1171" alt="China's New Robotic Bricklayer Built a Wall 6x Faster Than Humans—Construction Unions are Stunned" title="China's New Robotic Bricklayer Built a Wall 6x Faster Than Humans—Construction Unions are Stunned">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=VVbsCuC0CMg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=f-csVpmT13I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VVbsCuC0CMg&title=Something+is+wrong+with+artificial+intelligence&lang=en&timestamp=1784465521&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1749">
-          <img src="https://ytcards.demolab.com/?id=VVbsCuC0CMg&title=Something+is+wrong+with+artificial+intelligence&lang=en&timestamp=1784465521&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1749" alt="Something is wrong with artificial intelligence" title="Something is wrong with artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f-csVpmT13I&title=Disney%E2%80%99s+New+AI+Cartoon+is%E2%80%A6&lang=en&timestamp=1784574992&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=175">
+          <img src="https://ytcards.demolab.com/?id=f-csVpmT13I&title=Disney%E2%80%99s+New+AI+Cartoon+is%E2%80%A6&lang=en&timestamp=1784574992&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=175" alt="Disney’s New AI Cartoon is…" title="Disney’s New AI Cartoon is…">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=668e9L6G-qw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=aS2hs2XVVaE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=668e9L6G-qw&title=How+Artificial+Intelligence+Is+Creating+Millionaires+and+Changing+Luxury+Spending+%7C+Tech+%26+Trade&lang=en&timestamp=1784472721&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=563">
-          <img src="https://ytcards.demolab.com/?id=668e9L6G-qw&title=How+Artificial+Intelligence+Is+Creating+Millionaires+and+Changing+Luxury+Spending+%7C+Tech+%26+Trade&lang=en&timestamp=1784472721&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=563" alt="How Artificial Intelligence Is Creating Millionaires and Changing Luxury Spending | Tech & Trade" title="How Artificial Intelligence Is Creating Millionaires and Changing Luxury Spending | Tech & Trade">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aS2hs2XVVaE&title=USA+AI+vs+China+AI.+Who+is+Winning%3F&lang=en&timestamp=1784556992&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=848">
+          <img src="https://ytcards.demolab.com/?id=aS2hs2XVVaE&title=USA+AI+vs+China+AI.+Who+is+Winning%3F&lang=en&timestamp=1784556992&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=848" alt="USA AI vs China AI. Who is Winning?" title="USA AI vs China AI. Who is Winning?">
         </picture>
       </a>
     </td>
