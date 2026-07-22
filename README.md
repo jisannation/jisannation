@@ -74,56 +74,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4DUXr4zM9tg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=AajAsUQ_lsw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4DUXr4zM9tg&title=OpenAI+chairman+Bret+Taylor+on+AI+tokenomics%2C+token+efficiency&lang=en&timestamp=1784556992&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=493">
-          <img src="https://ytcards.demolab.com/?id=4DUXr4zM9tg&title=OpenAI+chairman+Bret+Taylor+on+AI+tokenomics%2C+token+efficiency&lang=en&timestamp=1784556992&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=493" alt="OpenAI chairman Bret Taylor on AI tokenomics, token efficiency" title="OpenAI chairman Bret Taylor on AI tokenomics, token efficiency">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AajAsUQ_lsw&title=6+AI+Stocks+Set+to+Dominate+the+Rest+of+2026&lang=en&timestamp=1784643280&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=935">
+          <img src="https://ytcards.demolab.com/?id=AajAsUQ_lsw&title=6+AI+Stocks+Set+to+Dominate+the+Rest+of+2026&lang=en&timestamp=1784643280&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=935" alt="6 AI Stocks Set to Dominate the Rest of 2026" title="6 AI Stocks Set to Dominate the Rest of 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HIV3_UUzZtY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xBS2Sn7AL6o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HIV3_UUzZtY&title=AI+and+the+next+decade+of+human+progress+%7C+Ray+Kurzweil&lang=en&timestamp=1784556992&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1836">
-          <img src="https://ytcards.demolab.com/?id=HIV3_UUzZtY&title=AI+and+the+next+decade+of+human+progress+%7C+Ray+Kurzweil&lang=en&timestamp=1784556992&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1836" alt="AI and the next decade of human progress | Ray Kurzweil" title="AI and the next decade of human progress | Ray Kurzweil">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784628880&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=298">
+          <img src="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784628880&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=298" alt="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS" title="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9nUmVktlwvA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=OuJ09lnmMDs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9nUmVktlwvA&title=The+AI+Industry+Just+Got+What+It+Deserved&lang=en&timestamp=1784564192&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1459">
-          <img src="https://ytcards.demolab.com/?id=9nUmVktlwvA&title=The+AI+Industry+Just+Got+What+It+Deserved&lang=en&timestamp=1784564192&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1459" alt="The AI Industry Just Got What It Deserved" title="The AI Industry Just Got What It Deserved">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OuJ09lnmMDs&title=Brown+University+Economist%27s+Experience+Sparks+Debate+on+AI+%26+Education+%7C+Vantage+on+Firstpost+%7C+4K&lang=en&timestamp=1784661280&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=411">
+          <img src="https://ytcards.demolab.com/?id=OuJ09lnmMDs&title=Brown+University+Economist%27s+Experience+Sparks+Debate+on+AI+%26+Education+%7C+Vantage+on+Firstpost+%7C+4K&lang=en&timestamp=1784661280&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=411" alt="Brown University Economist's Experience Sparks Debate on AI & Education | Vantage on Firstpost | 4K" title="Brown University Economist's Experience Sparks Debate on AI & Education | Vantage on Firstpost | 4K">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=phHhqt2df6I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mSTbJifirZg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=phHhqt2df6I&title=China%27s+New+Robotic+Bricklayer+Built+a+Wall+6x+Faster+Than+Humans%E2%80%94Construction+Unions+are+Stunned&lang=en&timestamp=1784574992&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1171">
-          <img src="https://ytcards.demolab.com/?id=phHhqt2df6I&title=China%27s+New+Robotic+Bricklayer+Built+a+Wall+6x+Faster+Than+Humans%E2%80%94Construction+Unions+are+Stunned&lang=en&timestamp=1784574992&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1171" alt="China's New Robotic Bricklayer Built a Wall 6x Faster Than Humans—Construction Unions are Stunned" title="China's New Robotic Bricklayer Built a Wall 6x Faster Than Humans—Construction Unions are Stunned">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mSTbJifirZg&title=Sen.+Warner+%27not+surprised%27+by+reports+Pentagon+underplayed+U.S.+injuries+in+Iran+war&lang=en&timestamp=1784643280&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=400">
+          <img src="https://ytcards.demolab.com/?id=mSTbJifirZg&title=Sen.+Warner+%27not+surprised%27+by+reports+Pentagon+underplayed+U.S.+injuries+in+Iran+war&lang=en&timestamp=1784643280&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=400" alt="Sen. Warner 'not surprised' by reports Pentagon underplayed U.S. injuries in Iran war" title="Sen. Warner 'not surprised' by reports Pentagon underplayed U.S. injuries in Iran war">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=f-csVpmT13I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=STeOraiFJII" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f-csVpmT13I&title=Disney%E2%80%99s+New+AI+Cartoon+is%E2%80%A6&lang=en&timestamp=1784574992&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=175">
-          <img src="https://ytcards.demolab.com/?id=f-csVpmT13I&title=Disney%E2%80%99s+New+AI+Cartoon+is%E2%80%A6&lang=en&timestamp=1784574992&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=175" alt="Disney’s New AI Cartoon is…" title="Disney’s New AI Cartoon is…">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=STeOraiFJII&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1784675680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18171">
+          <img src="https://ytcards.demolab.com/?id=STeOraiFJII&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1784675680&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18171" alt="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn" title="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aS2hs2XVVaE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PzhAL5Efa54" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aS2hs2XVVaE&title=USA+AI+vs+China+AI.+Who+is+Winning%3F&lang=en&timestamp=1784556992&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=848">
-          <img src="https://ytcards.demolab.com/?id=aS2hs2XVVaE&title=USA+AI+vs+China+AI.+Who+is+Winning%3F&lang=en&timestamp=1784556992&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=848" alt="USA AI vs China AI. Who is Winning?" title="USA AI vs China AI. Who is Winning?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PzhAL5Efa54&title=AI+Use+Rises+In+Healthcare+India+%7C+WION+News&lang=en&timestamp=1784632480&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
+          <img src="https://ytcards.demolab.com/?id=PzhAL5Efa54&title=AI+Use+Rises+In+Healthcare+India+%7C+WION+News&lang=en&timestamp=1784632480&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="AI Use Rises In Healthcare India | WION News" title="AI Use Rises In Healthcare India | WION News">
         </picture>
       </a>
     </td>
