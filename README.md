@@ -75,56 +75,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=AajAsUQ_lsw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=M8UhTyoQWqk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AajAsUQ_lsw&title=6+AI+Stocks+Set+to+Dominate+the+Rest+of+2026&lang=en&timestamp=1784643280&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=935">
-          <img src="https://ytcards.demolab.com/?id=AajAsUQ_lsw&title=6+AI+Stocks+Set+to+Dominate+the+Rest+of+2026&lang=en&timestamp=1784643280&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=935" alt="6 AI Stocks Set to Dominate the Rest of 2026" title="6 AI Stocks Set to Dominate the Rest of 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=M8UhTyoQWqk&title=Google+EXPANDS+Gemini+AI+model+lineup%3A+%E2%80%98As+good+as+it+gets%E2%80%99&lang=en&timestamp=1784755298&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=280">
+          <img src="https://ytcards.demolab.com/?id=M8UhTyoQWqk&title=Google+EXPANDS+Gemini+AI+model+lineup%3A+%E2%80%98As+good+as+it+gets%E2%80%99&lang=en&timestamp=1784755298&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=280" alt="Google EXPANDS Gemini AI model lineup: ‘As good as it gets’" title="Google EXPANDS Gemini AI model lineup: ‘As good as it gets’">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xBS2Sn7AL6o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lUCtUA9lrQw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784628880&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=298">
-          <img src="https://ytcards.demolab.com/?id=xBS2Sn7AL6o&title=Chinese+open+source+AI+model+threatens+to+disrupt+tech+market+boom%3A+Verrender+%7C+ABC+NEWS&lang=en&timestamp=1784628880&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=298" alt="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS" title="Chinese open source AI model threatens to disrupt tech market boom: Verrender | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lUCtUA9lrQw&title=OpenAI%27s+artificial+intelligence+goes+rogue+and+hacks+company+%7C+7NEWS&lang=en&timestamp=1784776238&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=96">
+          <img src="https://ytcards.demolab.com/?id=lUCtUA9lrQw&title=OpenAI%27s+artificial+intelligence+goes+rogue+and+hacks+company+%7C+7NEWS&lang=en&timestamp=1784776238&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=96" alt="OpenAI's artificial intelligence goes rogue and hacks company | 7NEWS" title="OpenAI's artificial intelligence goes rogue and hacks company | 7NEWS">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=OuJ09lnmMDs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ikKAR7jlVFg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OuJ09lnmMDs&title=Brown+University+Economist%27s+Experience+Sparks+Debate+on+AI+%26+Education+%7C+Vantage+on+Firstpost+%7C+4K&lang=en&timestamp=1784661280&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=411">
-          <img src="https://ytcards.demolab.com/?id=OuJ09lnmMDs&title=Brown+University+Economist%27s+Experience+Sparks+Debate+on+AI+%26+Education+%7C+Vantage+on+Firstpost+%7C+4K&lang=en&timestamp=1784661280&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=411" alt="Brown University Economist's Experience Sparks Debate on AI & Education | Vantage on Firstpost | 4K" title="Brown University Economist's Experience Sparks Debate on AI & Education | Vantage on Firstpost | 4K">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ikKAR7jlVFg&title=OpenAI+claims+rogue+AI+model+hacked+website&lang=en&timestamp=1784758898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=120">
+          <img src="https://ytcards.demolab.com/?id=ikKAR7jlVFg&title=OpenAI+claims+rogue+AI+model+hacked+website&lang=en&timestamp=1784758898&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=120" alt="OpenAI claims rogue AI model hacked website" title="OpenAI claims rogue AI model hacked website">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mSTbJifirZg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Z33xRzQRIb4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mSTbJifirZg&title=Sen.+Warner+%27not+surprised%27+by+reports+Pentagon+underplayed+U.S.+injuries+in+Iran+war&lang=en&timestamp=1784643280&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=400">
-          <img src="https://ytcards.demolab.com/?id=mSTbJifirZg&title=Sen.+Warner+%27not+surprised%27+by+reports+Pentagon+underplayed+U.S.+injuries+in+Iran+war&lang=en&timestamp=1784643280&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=400" alt="Sen. Warner 'not surprised' by reports Pentagon underplayed U.S. injuries in Iran war" title="Sen. Warner 'not surprised' by reports Pentagon underplayed U.S. injuries in Iran war">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Z33xRzQRIb4&title=The+AI+That+Learned+To+Hack+%7C+How+Autonomous+Artificial+Intelligence+Is+Changing+The+Cyber+War&lang=en&timestamp=1784769698&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=498">
+          <img src="https://ytcards.demolab.com/?id=Z33xRzQRIb4&title=The+AI+That+Learned+To+Hack+%7C+How+Autonomous+Artificial+Intelligence+Is+Changing+The+Cyber+War&lang=en&timestamp=1784769698&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=498" alt="The AI That Learned To Hack | How Autonomous Artificial Intelligence Is Changing The Cyber War" title="The AI That Learned To Hack | How Autonomous Artificial Intelligence Is Changing The Cyber War">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=STeOraiFJII" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wzY2fV4Mp3U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=STeOraiFJII&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1784675680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=18171">
-          <img src="https://ytcards.demolab.com/?id=STeOraiFJII&title=Artificial+Intelligence+Full+Course+2026+%7C+AI+Tutorial+For+Beginners+%7C+AI+Full+Course+%7C+Simplilearn&lang=en&timestamp=1784675680&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=18171" alt="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn" title="Artificial Intelligence Full Course 2026 | AI Tutorial For Beginners | AI Full Course | Simplilearn">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=GPT-6+Goes+Rogue%3F+The+HuggingFace+Incident%2C+Sans+Hype&lang=en&timestamp=1784740898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876">
+          <img src="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=GPT-6+Goes+Rogue%3F+The+HuggingFace+Incident%2C+Sans+Hype&lang=en&timestamp=1784740898&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=876" alt="GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype" title="GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PzhAL5Efa54" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Hc8M8w_kBe4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PzhAL5Efa54&title=AI+Use+Rises+In+Healthcare+India+%7C+WION+News&lang=en&timestamp=1784632480&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
-          <img src="https://ytcards.demolab.com/?id=PzhAL5Efa54&title=AI+Use+Rises+In+Healthcare+India+%7C+WION+News&lang=en&timestamp=1784632480&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="AI Use Rises In Healthcare India | WION News" title="AI Use Rises In Healthcare India | WION News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Hc8M8w_kBe4&title=AI+Expert%3A+We+Have+No+Idea+What%27s+Coming...&lang=en&timestamp=1784726498&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1394">
+          <img src="https://ytcards.demolab.com/?id=Hc8M8w_kBe4&title=AI+Expert%3A+We+Have+No+Idea+What%27s+Coming...&lang=en&timestamp=1784726498&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1394" alt="AI Expert: We Have No Idea What's Coming..." title="AI Expert: We Have No Idea What's Coming...">
         </picture>
       </a>
     </td>
