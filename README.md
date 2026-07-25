@@ -76,56 +76,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=M8UhTyoQWqk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lZhofisZogM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=M8UhTyoQWqk&title=Google+EXPANDS+Gemini+AI+model+lineup%3A+%E2%80%98As+good+as+it+gets%E2%80%99&lang=en&timestamp=1784755298&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=280">
-          <img src="https://ytcards.demolab.com/?id=M8UhTyoQWqk&title=Google+EXPANDS+Gemini+AI+model+lineup%3A+%E2%80%98As+good+as+it+gets%E2%80%99&lang=en&timestamp=1784755298&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=280" alt="Google EXPANDS Gemini AI model lineup: ‘As good as it gets’" title="Google EXPANDS Gemini AI model lineup: ‘As good as it gets’">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lZhofisZogM&title=China+Positions+Itself+As+Leader+Of+New+Global+AI+Order+%7C+Gravitas+%7C+WION&lang=en&timestamp=1784916848&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=181">
+          <img src="https://ytcards.demolab.com/?id=lZhofisZogM&title=China+Positions+Itself+As+Leader+Of+New+Global+AI+Order+%7C+Gravitas+%7C+WION&lang=en&timestamp=1784916848&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=181" alt="China Positions Itself As Leader Of New Global AI Order | Gravitas | WION" title="China Positions Itself As Leader Of New Global AI Order | Gravitas | WION">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lUCtUA9lrQw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Okpa4jhzwxc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lUCtUA9lrQw&title=OpenAI%27s+artificial+intelligence+goes+rogue+and+hacks+company+%7C+7NEWS&lang=en&timestamp=1784776238&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=96">
-          <img src="https://ytcards.demolab.com/?id=lUCtUA9lrQw&title=OpenAI%27s+artificial+intelligence+goes+rogue+and+hacks+company+%7C+7NEWS&lang=en&timestamp=1784776238&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=96" alt="OpenAI's artificial intelligence goes rogue and hacks company | 7NEWS" title="OpenAI's artificial intelligence goes rogue and hacks company | 7NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Okpa4jhzwxc&title=How+The+Anti-Christ+Will+Use+Artificial+Intelligence+%E2%80%9CAI%E2%80%9D+&lang=en&timestamp=1784927648&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=738">
+          <img src="https://ytcards.demolab.com/?id=Okpa4jhzwxc&title=How+The+Anti-Christ+Will+Use+Artificial+Intelligence+%E2%80%9CAI%E2%80%9D+&lang=en&timestamp=1784927648&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=738" alt="How The Anti-Christ Will Use Artificial Intelligence “AI” " title="How The Anti-Christ Will Use Artificial Intelligence “AI” ">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ikKAR7jlVFg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=o8uAVqMX_Ig" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ikKAR7jlVFg&title=OpenAI+claims+rogue+AI+model+hacked+website&lang=en&timestamp=1784758898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=120">
-          <img src="https://ytcards.demolab.com/?id=ikKAR7jlVFg&title=OpenAI+claims+rogue+AI+model+hacked+website&lang=en&timestamp=1784758898&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=120" alt="OpenAI claims rogue AI model hacked website" title="OpenAI claims rogue AI model hacked website">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o8uAVqMX_Ig&title=Answers+To+Your+Biggest+AI+Questions&lang=en&timestamp=1784909648&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7352">
+          <img src="https://ytcards.demolab.com/?id=o8uAVqMX_Ig&title=Answers+To+Your+Biggest+AI+Questions&lang=en&timestamp=1784909648&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7352" alt="Answers To Your Biggest AI Questions" title="Answers To Your Biggest AI Questions">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Z33xRzQRIb4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=H20c4Zw8D9I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Z33xRzQRIb4&title=The+AI+That+Learned+To+Hack+%7C+How+Autonomous+Artificial+Intelligence+Is+Changing+The+Cyber+War&lang=en&timestamp=1784769698&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=498">
-          <img src="https://ytcards.demolab.com/?id=Z33xRzQRIb4&title=The+AI+That+Learned+To+Hack+%7C+How+Autonomous+Artificial+Intelligence+Is+Changing+The+Cyber+War&lang=en&timestamp=1784769698&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=498" alt="The AI That Learned To Hack | How Autonomous Artificial Intelligence Is Changing The Cyber War" title="The AI That Learned To Hack | How Autonomous Artificial Intelligence Is Changing The Cyber War">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H20c4Zw8D9I&title=The+state+of+artificial+intelligence&lang=en&timestamp=1784920448&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1468">
+          <img src="https://ytcards.demolab.com/?id=H20c4Zw8D9I&title=The+state+of+artificial+intelligence&lang=en&timestamp=1784920448&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1468" alt="The state of artificial intelligence" title="The state of artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wzY2fV4Mp3U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-WrpttWybc0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=GPT-6+Goes+Rogue%3F+The+HuggingFace+Incident%2C+Sans+Hype&lang=en&timestamp=1784740898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876">
-          <img src="https://ytcards.demolab.com/?id=wzY2fV4Mp3U&title=GPT-6+Goes+Rogue%3F+The+HuggingFace+Incident%2C+Sans+Hype&lang=en&timestamp=1784740898&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=876" alt="GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype" title="GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-WrpttWybc0&title=Bernie+Sanders+Goes+All+Out+Against+Tech+Billionaires+In+Fiery+Senate+Speech+%7C+AI+%7C+US+News&lang=en&timestamp=1784913248&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=605">
+          <img src="https://ytcards.demolab.com/?id=-WrpttWybc0&title=Bernie+Sanders+Goes+All+Out+Against+Tech+Billionaires+In+Fiery+Senate+Speech+%7C+AI+%7C+US+News&lang=en&timestamp=1784913248&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=605" alt="Bernie Sanders Goes All Out Against Tech Billionaires In Fiery Senate Speech | AI | US News" title="Bernie Sanders Goes All Out Against Tech Billionaires In Fiery Senate Speech | AI | US News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Hc8M8w_kBe4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zlR8aneS-0k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Hc8M8w_kBe4&title=AI+Expert%3A+We+Have+No+Idea+What%27s+Coming...&lang=en&timestamp=1784726498&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1394">
-          <img src="https://ytcards.demolab.com/?id=Hc8M8w_kBe4&title=AI+Expert%3A+We+Have+No+Idea+What%27s+Coming...&lang=en&timestamp=1784726498&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1394" alt="AI Expert: We Have No Idea What's Coming..." title="AI Expert: We Have No Idea What's Coming...">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zlR8aneS-0k&title=AI+Spending+Spooks+Wall+Street+As+Investors+Question+Rising+Costs+%7C+WION&lang=en&timestamp=1784906048&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=162">
+          <img src="https://ytcards.demolab.com/?id=zlR8aneS-0k&title=AI+Spending+Spooks+Wall+Street+As+Investors+Question+Rising+Costs+%7C+WION&lang=en&timestamp=1784906048&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=162" alt="AI Spending Spooks Wall Street As Investors Question Rising Costs | WION" title="AI Spending Spooks Wall Street As Investors Question Rising Costs | WION">
         </picture>
       </a>
     </td>
