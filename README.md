@@ -77,56 +77,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lZhofisZogM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eSFS0DRT0UE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lZhofisZogM&title=China+Positions+Itself+As+Leader+Of+New+Global+AI+Order+%7C+Gravitas+%7C+WION&lang=en&timestamp=1784916848&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=181">
-          <img src="https://ytcards.demolab.com/?id=lZhofisZogM&title=China+Positions+Itself+As+Leader+Of+New+Global+AI+Order+%7C+Gravitas+%7C+WION&lang=en&timestamp=1784916848&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=181" alt="China Positions Itself As Leader Of New Global AI Order | Gravitas | WION" title="China Positions Itself As Leader Of New Global AI Order | Gravitas | WION">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eSFS0DRT0UE&title=Cathie+Wood+makes+BOLD+PREDICTION+on+Musk%27s+SpaceX+%7C+AI%3A+The+Intelligence+Revolution.&lang=en&timestamp=1785004049&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4215">
+          <img src="https://ytcards.demolab.com/?id=eSFS0DRT0UE&title=Cathie+Wood+makes+BOLD+PREDICTION+on+Musk%27s+SpaceX+%7C+AI%3A+The+Intelligence+Revolution.&lang=en&timestamp=1785004049&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4215" alt="Cathie Wood makes BOLD PREDICTION on Musk's SpaceX | AI: The Intelligence Revolution." title="Cathie Wood makes BOLD PREDICTION on Musk's SpaceX | AI: The Intelligence Revolution.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Okpa4jhzwxc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=f5duVDUalLk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Okpa4jhzwxc&title=How+The+Anti-Christ+Will+Use+Artificial+Intelligence+%E2%80%9CAI%E2%80%9D+&lang=en&timestamp=1784927648&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=738">
-          <img src="https://ytcards.demolab.com/?id=Okpa4jhzwxc&title=How+The+Anti-Christ+Will+Use+Artificial+Intelligence+%E2%80%9CAI%E2%80%9D+&lang=en&timestamp=1784927648&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=738" alt="How The Anti-Christ Will Use Artificial Intelligence “AI” " title="How The Anti-Christ Will Use Artificial Intelligence “AI” ">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f5duVDUalLk&title=Using+A.I.+%28Artificial+Intelligence%29+to+fix+a+Ford+Model+A.+Who+wins%3F+AI+or+the+human+experts%3F&lang=en&timestamp=1784982449&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=930">
+          <img src="https://ytcards.demolab.com/?id=f5duVDUalLk&title=Using+A.I.+%28Artificial+Intelligence%29+to+fix+a+Ford+Model+A.+Who+wins%3F+AI+or+the+human+experts%3F&lang=en&timestamp=1784982449&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=930" alt="Using A.I. (Artificial Intelligence) to fix a Ford Model A. Who wins? AI or the human experts?" title="Using A.I. (Artificial Intelligence) to fix a Ford Model A. Who wins? AI or the human experts?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=o8uAVqMX_Ig" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8IvJXWdb-Mk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o8uAVqMX_Ig&title=Answers+To+Your+Biggest+AI+Questions&lang=en&timestamp=1784909648&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7352">
-          <img src="https://ytcards.demolab.com/?id=o8uAVqMX_Ig&title=Answers+To+Your+Biggest+AI+Questions&lang=en&timestamp=1784909648&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7352" alt="Answers To Your Biggest AI Questions" title="Answers To Your Biggest AI Questions">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8IvJXWdb-Mk&title=Why+We+Cannot+Stop+The+2030+Intelligence+Explosion&lang=en&timestamp=1784993249&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1028">
+          <img src="https://ytcards.demolab.com/?id=8IvJXWdb-Mk&title=Why+We+Cannot+Stop+The+2030+Intelligence+Explosion&lang=en&timestamp=1784993249&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1028" alt="Why We Cannot Stop The 2030 Intelligence Explosion" title="Why We Cannot Stop The 2030 Intelligence Explosion">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=H20c4Zw8D9I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=TyYqZyaIV0g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=H20c4Zw8D9I&title=The+state+of+artificial+intelligence&lang=en&timestamp=1784920448&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1468">
-          <img src="https://ytcards.demolab.com/?id=H20c4Zw8D9I&title=The+state+of+artificial+intelligence&lang=en&timestamp=1784920448&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1468" alt="The state of artificial intelligence" title="The state of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TyYqZyaIV0g&title=This+is+the+price+of+artificial+intelligence&lang=en&timestamp=1785022049&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=330">
+          <img src="https://ytcards.demolab.com/?id=TyYqZyaIV0g&title=This+is+the+price+of+artificial+intelligence&lang=en&timestamp=1785022049&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=330" alt="This is the price of artificial intelligence" title="This is the price of artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-WrpttWybc0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RlSIqJdbQhM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-WrpttWybc0&title=Bernie+Sanders+Goes+All+Out+Against+Tech+Billionaires+In+Fiery+Senate+Speech+%7C+AI+%7C+US+News&lang=en&timestamp=1784913248&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=605">
-          <img src="https://ytcards.demolab.com/?id=-WrpttWybc0&title=Bernie+Sanders+Goes+All+Out+Against+Tech+Billionaires+In+Fiery+Senate+Speech+%7C+AI+%7C+US+News&lang=en&timestamp=1784913248&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=605" alt="Bernie Sanders Goes All Out Against Tech Billionaires In Fiery Senate Speech | AI | US News" title="Bernie Sanders Goes All Out Against Tech Billionaires In Fiery Senate Speech | AI | US News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RlSIqJdbQhM&title=The+Future+That+No+Longer+Needed+Us+%7C+SciFi+Documentary&lang=en&timestamp=1784996849&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1833">
+          <img src="https://ytcards.demolab.com/?id=RlSIqJdbQhM&title=The+Future+That+No+Longer+Needed+Us+%7C+SciFi+Documentary&lang=en&timestamp=1784996849&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1833" alt="The Future That No Longer Needed Us | SciFi Documentary" title="The Future That No Longer Needed Us | SciFi Documentary">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zlR8aneS-0k" target="_blank">
+      <a href="https://www.youtube.com/watch?v=X04JS6Ewvq8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zlR8aneS-0k&title=AI+Spending+Spooks+Wall+Street+As+Investors+Question+Rising+Costs+%7C+WION&lang=en&timestamp=1784906048&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=162">
-          <img src="https://ytcards.demolab.com/?id=zlR8aneS-0k&title=AI+Spending+Spooks+Wall+Street+As+Investors+Question+Rising+Costs+%7C+WION&lang=en&timestamp=1784906048&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=162" alt="AI Spending Spooks Wall Street As Investors Question Rising Costs | WION" title="AI Spending Spooks Wall Street As Investors Question Rising Costs | WION">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=X04JS6Ewvq8&title=OpenAI+Reacts+to+the+Quantum+Shock+That+Changed+Everything&lang=en&timestamp=1784989649&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1735">
+          <img src="https://ytcards.demolab.com/?id=X04JS6Ewvq8&title=OpenAI+Reacts+to+the+Quantum+Shock+That+Changed+Everything&lang=en&timestamp=1784989649&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1735" alt="OpenAI Reacts to the Quantum Shock That Changed Everything" title="OpenAI Reacts to the Quantum Shock That Changed Everything">
         </picture>
       </a>
     </td>
