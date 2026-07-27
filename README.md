@@ -78,56 +78,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eSFS0DRT0UE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PaVJ_rTtriI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eSFS0DRT0UE&title=Cathie+Wood+makes+BOLD+PREDICTION+on+Musk%27s+SpaceX+%7C+AI%3A+The+Intelligence+Revolution.&lang=en&timestamp=1785004049&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4215">
-          <img src="https://ytcards.demolab.com/?id=eSFS0DRT0UE&title=Cathie+Wood+makes+BOLD+PREDICTION+on+Musk%27s+SpaceX+%7C+AI%3A+The+Intelligence+Revolution.&lang=en&timestamp=1785004049&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4215" alt="Cathie Wood makes BOLD PREDICTION on Musk's SpaceX | AI: The Intelligence Revolution." title="Cathie Wood makes BOLD PREDICTION on Musk's SpaceX | AI: The Intelligence Revolution.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PaVJ_rTtriI&title=AI+Safety+Expert+WARNS%3A+Humanity+Probably+Won%27t+Survive+This&lang=en&timestamp=1785083760&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=888">
+          <img src="https://ytcards.demolab.com/?id=PaVJ_rTtriI&title=AI+Safety+Expert+WARNS%3A+Humanity+Probably+Won%27t+Survive+This&lang=en&timestamp=1785083760&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=888" alt="AI Safety Expert WARNS: Humanity Probably Won't Survive This" title="AI Safety Expert WARNS: Humanity Probably Won't Survive This">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=f5duVDUalLk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SNsIHRmTb44" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=f5duVDUalLk&title=Using+A.I.+%28Artificial+Intelligence%29+to+fix+a+Ford+Model+A.+Who+wins%3F+AI+or+the+human+experts%3F&lang=en&timestamp=1784982449&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=930">
-          <img src="https://ytcards.demolab.com/?id=f5duVDUalLk&title=Using+A.I.+%28Artificial+Intelligence%29+to+fix+a+Ford+Model+A.+Who+wins%3F+AI+or+the+human+experts%3F&lang=en&timestamp=1784982449&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=930" alt="Using A.I. (Artificial Intelligence) to fix a Ford Model A. Who wins? AI or the human experts?" title="Using A.I. (Artificial Intelligence) to fix a Ford Model A. Who wins? AI or the human experts?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SNsIHRmTb44&title=Artificial+Intelligence+among+University+Professors&lang=en&timestamp=1785112560&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=284">
+          <img src="https://ytcards.demolab.com/?id=SNsIHRmTb44&title=Artificial+Intelligence+among+University+Professors&lang=en&timestamp=1785112560&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=284" alt="Artificial Intelligence among University Professors" title="Artificial Intelligence among University Professors">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8IvJXWdb-Mk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7j9BDCdHmlA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8IvJXWdb-Mk&title=Why+We+Cannot+Stop+The+2030+Intelligence+Explosion&lang=en&timestamp=1784993249&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1028">
-          <img src="https://ytcards.demolab.com/?id=8IvJXWdb-Mk&title=Why+We+Cannot+Stop+The+2030+Intelligence+Explosion&lang=en&timestamp=1784993249&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1028" alt="Why We Cannot Stop The 2030 Intelligence Explosion" title="Why We Cannot Stop The 2030 Intelligence Explosion">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7j9BDCdHmlA&title=OpenAI+is+Calling+China%E2%80%99s+Free+AI+a+%E2%80%9CDystopian+Hellscape%E2%80%9D&lang=en&timestamp=1785051360&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=716">
+          <img src="https://ytcards.demolab.com/?id=7j9BDCdHmlA&title=OpenAI+is+Calling+China%E2%80%99s+Free+AI+a+%E2%80%9CDystopian+Hellscape%E2%80%9D&lang=en&timestamp=1785051360&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=716" alt="OpenAI is Calling China’s Free AI a “Dystopian Hellscape”" title="OpenAI is Calling China’s Free AI a “Dystopian Hellscape”">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TyYqZyaIV0g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=36OMMx1uHA8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TyYqZyaIV0g&title=This+is+the+price+of+artificial+intelligence&lang=en&timestamp=1785022049&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=330">
-          <img src="https://ytcards.demolab.com/?id=TyYqZyaIV0g&title=This+is+the+price+of+artificial+intelligence&lang=en&timestamp=1785022049&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=330" alt="This is the price of artificial intelligence" title="This is the price of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=36OMMx1uHA8&title=AI+Will+Replace+Your+Smartphone+Sooner+Than+You+Think&lang=en&timestamp=1785069360&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=592">
+          <img src="https://ytcards.demolab.com/?id=36OMMx1uHA8&title=AI+Will+Replace+Your+Smartphone+Sooner+Than+You+Think&lang=en&timestamp=1785069360&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=592" alt="AI Will Replace Your Smartphone Sooner Than You Think" title="AI Will Replace Your Smartphone Sooner Than You Think">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=RlSIqJdbQhM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=l-QPwk_f4eE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RlSIqJdbQhM&title=The+Future+That+No+Longer+Needed+Us+%7C+SciFi+Documentary&lang=en&timestamp=1784996849&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1833">
-          <img src="https://ytcards.demolab.com/?id=RlSIqJdbQhM&title=The+Future+That+No+Longer+Needed+Us+%7C+SciFi+Documentary&lang=en&timestamp=1784996849&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1833" alt="The Future That No Longer Needed Us | SciFi Documentary" title="The Future That No Longer Needed Us | SciFi Documentary">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=l-QPwk_f4eE&title=Why+AI+Makes+the+Humanities+More+Important+Than+Ever&lang=en&timestamp=1785065760&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=872">
+          <img src="https://ytcards.demolab.com/?id=l-QPwk_f4eE&title=Why+AI+Makes+the+Humanities+More+Important+Than+Ever&lang=en&timestamp=1785065760&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=872" alt="Why AI Makes the Humanities More Important Than Ever" title="Why AI Makes the Humanities More Important Than Ever">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=X04JS6Ewvq8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=x8awWAj5fUI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=X04JS6Ewvq8&title=OpenAI+Reacts+to+the+Quantum+Shock+That+Changed+Everything&lang=en&timestamp=1784989649&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1735">
-          <img src="https://ytcards.demolab.com/?id=X04JS6Ewvq8&title=OpenAI+Reacts+to+the+Quantum+Shock+That+Changed+Everything&lang=en&timestamp=1784989649&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1735" alt="OpenAI Reacts to the Quantum Shock That Changed Everything" title="OpenAI Reacts to the Quantum Shock That Changed Everything">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x8awWAj5fUI&title=Something%E2%80%99s+Not+Right+With+Artificial+Intelligence&lang=en&timestamp=1785083760&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1621">
+          <img src="https://ytcards.demolab.com/?id=x8awWAj5fUI&title=Something%E2%80%99s+Not+Right+With+Artificial+Intelligence&lang=en&timestamp=1785083760&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1621" alt="Something’s Not Right With Artificial Intelligence" title="Something’s Not Right With Artificial Intelligence">
         </picture>
       </a>
     </td>
