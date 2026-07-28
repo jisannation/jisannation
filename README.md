@@ -79,56 +79,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PaVJ_rTtriI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jYHQRP28hGM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PaVJ_rTtriI&title=AI+Safety+Expert+WARNS%3A+Humanity+Probably+Won%27t+Survive+This&lang=en&timestamp=1785083760&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=888">
-          <img src="https://ytcards.demolab.com/?id=PaVJ_rTtriI&title=AI+Safety+Expert+WARNS%3A+Humanity+Probably+Won%27t+Survive+This&lang=en&timestamp=1785083760&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=888" alt="AI Safety Expert WARNS: Humanity Probably Won't Survive This" title="AI Safety Expert WARNS: Humanity Probably Won't Survive This">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jYHQRP28hGM&title=AI+turning+point%3F+OpenAI+CEO+speaks+out&lang=en&timestamp=1785149540&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=104">
+          <img src="https://ytcards.demolab.com/?id=jYHQRP28hGM&title=AI+turning+point%3F+OpenAI+CEO+speaks+out&lang=en&timestamp=1785149540&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=104" alt="AI turning point? OpenAI CEO speaks out" title="AI turning point? OpenAI CEO speaks out">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SNsIHRmTb44" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bd5ABsobEqU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SNsIHRmTb44&title=Artificial+Intelligence+among+University+Professors&lang=en&timestamp=1785112560&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=284">
-          <img src="https://ytcards.demolab.com/?id=SNsIHRmTb44&title=Artificial+Intelligence+among+University+Professors&lang=en&timestamp=1785112560&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=284" alt="Artificial Intelligence among University Professors" title="Artificial Intelligence among University Professors">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bd5ABsobEqU&title=What+A.I.+Is+Actually+Doing+to+the+Economy&lang=en&timestamp=1785163940&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2058">
+          <img src="https://ytcards.demolab.com/?id=bd5ABsobEqU&title=What+A.I.+Is+Actually+Doing+to+the+Economy&lang=en&timestamp=1785163940&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2058" alt="What A.I. Is Actually Doing to the Economy" title="What A.I. Is Actually Doing to the Economy">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7j9BDCdHmlA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=x7Fyz9GbTJw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7j9BDCdHmlA&title=OpenAI+is+Calling+China%E2%80%99s+Free+AI+a+%E2%80%9CDystopian+Hellscape%E2%80%9D&lang=en&timestamp=1785051360&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=716">
-          <img src="https://ytcards.demolab.com/?id=7j9BDCdHmlA&title=OpenAI+is+Calling+China%E2%80%99s+Free+AI+a+%E2%80%9CDystopian+Hellscape%E2%80%9D&lang=en&timestamp=1785051360&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=716" alt="OpenAI is Calling China’s Free AI a “Dystopian Hellscape”" title="OpenAI is Calling China’s Free AI a “Dystopian Hellscape”">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x7Fyz9GbTJw&title=Youth+Parliamentarians+Debate+Artificial+Intelligence+Legislation&lang=en&timestamp=1785192740&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=158">
+          <img src="https://ytcards.demolab.com/?id=x7Fyz9GbTJw&title=Youth+Parliamentarians+Debate+Artificial+Intelligence+Legislation&lang=en&timestamp=1785192740&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=158" alt="Youth Parliamentarians Debate Artificial Intelligence Legislation" title="Youth Parliamentarians Debate Artificial Intelligence Legislation">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=36OMMx1uHA8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XpmtyjgPTVo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=36OMMx1uHA8&title=AI+Will+Replace+Your+Smartphone+Sooner+Than+You+Think&lang=en&timestamp=1785069360&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=592">
-          <img src="https://ytcards.demolab.com/?id=36OMMx1uHA8&title=AI+Will+Replace+Your+Smartphone+Sooner+Than+You+Think&lang=en&timestamp=1785069360&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=592" alt="AI Will Replace Your Smartphone Sooner Than You Think" title="AI Will Replace Your Smartphone Sooner Than You Think">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XpmtyjgPTVo&title=Artificial+Intelligence+%3A+What+a+common+man+should+know.&lang=en&timestamp=1785171140&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2971">
+          <img src="https://ytcards.demolab.com/?id=XpmtyjgPTVo&title=Artificial+Intelligence+%3A+What+a+common+man+should+know.&lang=en&timestamp=1785171140&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2971" alt="Artificial Intelligence : What a common man should know." title="Artificial Intelligence : What a common man should know.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=l-QPwk_f4eE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xG_yJzlLGps" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=l-QPwk_f4eE&title=Why+AI+Makes+the+Humanities+More+Important+Than+Ever&lang=en&timestamp=1785065760&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=872">
-          <img src="https://ytcards.demolab.com/?id=l-QPwk_f4eE&title=Why+AI+Makes+the+Humanities+More+Important+Than+Ever&lang=en&timestamp=1785065760&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=872" alt="Why AI Makes the Humanities More Important Than Ever" title="Why AI Makes the Humanities More Important Than Ever">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xG_yJzlLGps&title=The+Truth+About+Local+AI%3A+What+PC+You+Need+and+How+Much+It+Costs&lang=en&timestamp=1785174740&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1003">
+          <img src="https://ytcards.demolab.com/?id=xG_yJzlLGps&title=The+Truth+About+Local+AI%3A+What+PC+You+Need+and+How+Much+It+Costs&lang=en&timestamp=1785174740&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1003" alt="The Truth About Local AI: What PC You Need and How Much It Costs" title="The Truth About Local AI: What PC You Need and How Much It Costs">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=x8awWAj5fUI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=e5kg59Oe-G4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x8awWAj5fUI&title=Something%E2%80%99s+Not+Right+With+Artificial+Intelligence&lang=en&timestamp=1785083760&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1621">
-          <img src="https://ytcards.demolab.com/?id=x8awWAj5fUI&title=Something%E2%80%99s+Not+Right+With+Artificial+Intelligence&lang=en&timestamp=1785083760&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1621" alt="Something’s Not Right With Artificial Intelligence" title="Something’s Not Right With Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e5kg59Oe-G4&title=Top+Artificial+Intelligence+Courses+In+India+2026+%7C+Best+AI+Courses+In+India+Get+Hired+%7C+Simplilearn&lang=en&timestamp=1785160340&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=263">
+          <img src="https://ytcards.demolab.com/?id=e5kg59Oe-G4&title=Top+Artificial+Intelligence+Courses+In+India+2026+%7C+Best+AI+Courses+In+India+Get+Hired+%7C+Simplilearn&lang=en&timestamp=1785160340&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=263" alt="Top Artificial Intelligence Courses In India 2026 | Best AI Courses In India Get Hired | Simplilearn" title="Top Artificial Intelligence Courses In India 2026 | Best AI Courses In India Get Hired | Simplilearn">
         </picture>
       </a>
     </td>
