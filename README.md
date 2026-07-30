@@ -80,56 +80,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jYHQRP28hGM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=t3YMNLFYPCs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jYHQRP28hGM&title=AI+turning+point%3F+OpenAI+CEO+speaks+out&lang=en&timestamp=1785149540&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=104">
-          <img src="https://ytcards.demolab.com/?id=jYHQRP28hGM&title=AI+turning+point%3F+OpenAI+CEO+speaks+out&lang=en&timestamp=1785149540&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=104" alt="AI turning point? OpenAI CEO speaks out" title="AI turning point? OpenAI CEO speaks out">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=t3YMNLFYPCs&title=AI+workers+at+major+companies+call+for+slowdown+of+the+technology%27s+development&lang=en&timestamp=1785332654&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=242">
+          <img src="https://ytcards.demolab.com/?id=t3YMNLFYPCs&title=AI+workers+at+major+companies+call+for+slowdown+of+the+technology%27s+development&lang=en&timestamp=1785332654&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=242" alt="AI workers at major companies call for slowdown of the technology's development" title="AI workers at major companies call for slowdown of the technology's development">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bd5ABsobEqU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hzp-5JeqNkE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bd5ABsobEqU&title=What+A.I.+Is+Actually+Doing+to+the+Economy&lang=en&timestamp=1785163940&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2058">
-          <img src="https://ytcards.demolab.com/?id=bd5ABsobEqU&title=What+A.I.+Is+Actually+Doing+to+the+Economy&lang=en&timestamp=1785163940&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2058" alt="What A.I. Is Actually Doing to the Economy" title="What A.I. Is Actually Doing to the Economy">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hzp-5JeqNkE&title=Why+Is+So+Much+AI+Tech+Useless%3F&lang=en&timestamp=1785329054&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3658">
+          <img src="https://ytcards.demolab.com/?id=hzp-5JeqNkE&title=Why+Is+So+Much+AI+Tech+Useless%3F&lang=en&timestamp=1785329054&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3658" alt="Why Is So Much AI Tech Useless?" title="Why Is So Much AI Tech Useless?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=x7Fyz9GbTJw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=L3YmssZj4Wk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=x7Fyz9GbTJw&title=Youth+Parliamentarians+Debate+Artificial+Intelligence+Legislation&lang=en&timestamp=1785192740&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=158">
-          <img src="https://ytcards.demolab.com/?id=x7Fyz9GbTJw&title=Youth+Parliamentarians+Debate+Artificial+Intelligence+Legislation&lang=en&timestamp=1785192740&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=158" alt="Youth Parliamentarians Debate Artificial Intelligence Legislation" title="Youth Parliamentarians Debate Artificial Intelligence Legislation">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L3YmssZj4Wk&title=Musk%2C+Zuckerberg+and+Altman+clash+over+AI%27s+future&lang=en&timestamp=1785357854&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=655">
+          <img src="https://ytcards.demolab.com/?id=L3YmssZj4Wk&title=Musk%2C+Zuckerberg+and+Altman+clash+over+AI%27s+future&lang=en&timestamp=1785357854&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=655" alt="Musk, Zuckerberg and Altman clash over AI's future" title="Musk, Zuckerberg and Altman clash over AI's future">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XpmtyjgPTVo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Di0I3D60Msw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XpmtyjgPTVo&title=Artificial+Intelligence+%3A+What+a+common+man+should+know.&lang=en&timestamp=1785171140&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2971">
-          <img src="https://ytcards.demolab.com/?id=XpmtyjgPTVo&title=Artificial+Intelligence+%3A+What+a+common+man+should+know.&lang=en&timestamp=1785171140&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2971" alt="Artificial Intelligence : What a common man should know." title="Artificial Intelligence : What a common man should know.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Di0I3D60Msw&title=The+AI+War+Just+Went+Nuclear&lang=en&timestamp=1785325454&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2372">
+          <img src="https://ytcards.demolab.com/?id=Di0I3D60Msw&title=The+AI+War+Just+Went+Nuclear&lang=en&timestamp=1785325454&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2372" alt="The AI War Just Went Nuclear" title="The AI War Just Went Nuclear">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xG_yJzlLGps" target="_blank">
+      <a href="https://www.youtube.com/watch?v=m_hoIAwSe3g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xG_yJzlLGps&title=The+Truth+About+Local+AI%3A+What+PC+You+Need+and+How+Much+It+Costs&lang=en&timestamp=1785174740&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1003">
-          <img src="https://ytcards.demolab.com/?id=xG_yJzlLGps&title=The+Truth+About+Local+AI%3A+What+PC+You+Need+and+How+Much+It+Costs&lang=en&timestamp=1785174740&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1003" alt="The Truth About Local AI: What PC You Need and How Much It Costs" title="The Truth About Local AI: What PC You Need and How Much It Costs">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=m_hoIAwSe3g&title=Francesco+Fabozzi+on+how+LLMs+are+transforming+discretionary+and+quantitative+investment+strategies&lang=en&timestamp=1785343454&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3517">
+          <img src="https://ytcards.demolab.com/?id=m_hoIAwSe3g&title=Francesco+Fabozzi+on+how+LLMs+are+transforming+discretionary+and+quantitative+investment+strategies&lang=en&timestamp=1785343454&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3517" alt="Francesco Fabozzi on how LLMs are transforming discretionary and quantitative investment strategies" title="Francesco Fabozzi on how LLMs are transforming discretionary and quantitative investment strategies">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=e5kg59Oe-G4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=5BINL4oJz8I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e5kg59Oe-G4&title=Top+Artificial+Intelligence+Courses+In+India+2026+%7C+Best+AI+Courses+In+India+Get+Hired+%7C+Simplilearn&lang=en&timestamp=1785160340&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=263">
-          <img src="https://ytcards.demolab.com/?id=e5kg59Oe-G4&title=Top+Artificial+Intelligence+Courses+In+India+2026+%7C+Best+AI+Courses+In+India+Get+Hired+%7C+Simplilearn&lang=en&timestamp=1785160340&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=263" alt="Top Artificial Intelligence Courses In India 2026 | Best AI Courses In India Get Hired | Simplilearn" title="Top Artificial Intelligence Courses In India 2026 | Best AI Courses In India Get Hired | Simplilearn">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5BINL4oJz8I&title=Tech+workers+sound+the+alarm+on+the+risks+of+rapid+AI+development&lang=en&timestamp=1785336254&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=177">
+          <img src="https://ytcards.demolab.com/?id=5BINL4oJz8I&title=Tech+workers+sound+the+alarm+on+the+risks+of+rapid+AI+development&lang=en&timestamp=1785336254&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=177" alt="Tech workers sound the alarm on the risks of rapid AI development" title="Tech workers sound the alarm on the risks of rapid AI development">
         </picture>
       </a>
     </td>
