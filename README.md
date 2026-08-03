@@ -84,56 +84,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sLQx6jGaGDo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=P4e1yd0-AIE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sLQx6jGaGDo&title=Why+isn%27t+AI+working+for+your+company%3F+%7C+BBC+News&lang=en&timestamp=1785608717&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1558">
-          <img src="https://ytcards.demolab.com/?id=sLQx6jGaGDo&title=Why+isn%27t+AI+working+for+your+company%3F+%7C+BBC+News&lang=en&timestamp=1785608717&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1558" alt="Why isn't AI working for your company? | BBC News" title="Why isn't AI working for your company? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=P4e1yd0-AIE&title=Could+AI+help+us+smile+more%3F+%7C+BBC+News&lang=en&timestamp=1785695244&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=294">
+          <img src="https://ytcards.demolab.com/?id=P4e1yd0-AIE&title=Could+AI+help+us+smile+more%3F+%7C+BBC+News&lang=en&timestamp=1785695244&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=294" alt="Could AI help us smile more? | BBC News" title="Could AI help us smile more? | BBC News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EkUxW0sJiUU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=0Xtd8vhytuo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EkUxW0sJiUU&title=AI+safety+concerns+grow+as+models+go+rogue+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1785576317&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=101">
-          <img src="https://ytcards.demolab.com/?id=EkUxW0sJiUU&title=AI+safety+concerns+grow+as+models+go+rogue+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1785576317&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=101" alt="AI safety concerns grow as models go rogue • FRANCE 24 English" title="AI safety concerns grow as models go rogue • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785655644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65">
+          <img src="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785655644&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=65" alt="How You'll Know When It's AI" title="How You'll Know When It's AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jeP4Cq4hXmg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=VH0D4G25RfA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jeP4Cq4hXmg&title=The+Smarter+AI+Becomes%2C+the+More+Human+We+Must+Become+%7C+Gladiator+Summit+II&lang=en&timestamp=1785608717&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1843">
-          <img src="https://ytcards.demolab.com/?id=jeP4Cq4hXmg&title=The+Smarter+AI+Becomes%2C+the+More+Human+We+Must+Become+%7C+Gladiator+Summit+II&lang=en&timestamp=1785608717&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1843" alt="The Smarter AI Becomes, the More Human We Must Become | Gladiator Summit II" title="The Smarter AI Becomes, the More Human We Must Become | Gladiator Summit II">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VH0D4G25RfA&title=URGENT+MESSAGE+CONCERNING+ARTIFICIAL+INTELLIGENCE+%28AI%29&lang=en&timestamp=1785720444&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=721">
+          <img src="https://ytcards.demolab.com/?id=VH0D4G25RfA&title=URGENT+MESSAGE+CONCERNING+ARTIFICIAL+INTELLIGENCE+%28AI%29&lang=en&timestamp=1785720444&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=721" alt="URGENT MESSAGE CONCERNING ARTIFICIAL INTELLIGENCE (AI)" title="URGENT MESSAGE CONCERNING ARTIFICIAL INTELLIGENCE (AI)">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BOavlXzOYPM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KK86M1amYmA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BOavlXzOYPM&title=Albanese+government+in+talks+with+US+to+ensure+access+to+high+powered+AI&lang=en&timestamp=1785583517&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=37">
-          <img src="https://ytcards.demolab.com/?id=BOavlXzOYPM&title=Albanese+government+in+talks+with+US+to+ensure+access+to+high+powered+AI&lang=en&timestamp=1785583517&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=37" alt="Albanese government in talks with US to ensure access to high powered AI" title="Albanese government in talks with US to ensure access to high powered AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KK86M1amYmA&title=Artificial+Intelligence+From+Metropolis+to+Stargate&lang=en&timestamp=1785720444&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2679">
+          <img src="https://ytcards.demolab.com/?id=KK86M1amYmA&title=Artificial+Intelligence+From+Metropolis+to+Stargate&lang=en&timestamp=1785720444&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2679" alt="Artificial Intelligence From Metropolis to Stargate" title="Artificial Intelligence From Metropolis to Stargate">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=79Z7QePPg9s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=yvS__pMmbyc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=79Z7QePPg9s&title=Europe+%26+US+Weigh+Stronger+AI+Regulations+%7C+WION+News&lang=en&timestamp=1785576317&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=132">
-          <img src="https://ytcards.demolab.com/?id=79Z7QePPg9s&title=Europe+%26+US+Weigh+Stronger+AI+Regulations+%7C+WION+News&lang=en&timestamp=1785576317&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=132" alt="Europe & US Weigh Stronger AI Regulations | WION News" title="Europe & US Weigh Stronger AI Regulations | WION News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785670044&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6942">
+          <img src="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785670044&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6942" alt="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie" title="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eERZ6ttB_uc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bs_saUnWjpQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eERZ6ttB_uc&title=Learn+Generative+AI+Full+Course+Free+%7C+Complete+Gen+AI+Course+2026+%7C+Intellipaat&lang=en&timestamp=1785597917&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=42247">
-          <img src="https://ytcards.demolab.com/?id=eERZ6ttB_uc&title=Learn+Generative+AI+Full+Course+Free+%7C+Complete+Gen+AI+Course+2026+%7C+Intellipaat&lang=en&timestamp=1785597917&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=42247" alt="Learn Generative AI Full Course Free | Complete Gen AI Course 2026 | Intellipaat" title="Learn Generative AI Full Course Free | Complete Gen AI Course 2026 | Intellipaat">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bs_saUnWjpQ&title=Resistance+grows+nationwide+against+AI+data+center+boom&lang=en&timestamp=1785680844&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=356">
+          <img src="https://ytcards.demolab.com/?id=bs_saUnWjpQ&title=Resistance+grows+nationwide+against+AI+data+center+boom&lang=en&timestamp=1785680844&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=356" alt="Resistance grows nationwide against AI data center boom" title="Resistance grows nationwide against AI data center boom">
         </picture>
       </a>
     </td>
