@@ -85,56 +85,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=P4e1yd0-AIE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ElmRyxLfOog" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=P4e1yd0-AIE&title=Could+AI+help+us+smile+more%3F+%7C+BBC+News&lang=en&timestamp=1785695244&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=294">
-          <img src="https://ytcards.demolab.com/?id=P4e1yd0-AIE&title=Could+AI+help+us+smile+more%3F+%7C+BBC+News&lang=en&timestamp=1785695244&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=294" alt="Could AI help us smile more? | BBC News" title="Could AI help us smile more? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ElmRyxLfOog&title=Top+AI+company+executives+to+meet+with+White+House+officials%2C+according+to+reports&lang=en&timestamp=1785865915&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=297">
+          <img src="https://ytcards.demolab.com/?id=ElmRyxLfOog&title=Top+AI+company+executives+to+meet+with+White+House+officials%2C+according+to+reports&lang=en&timestamp=1785865915&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=297" alt="Top AI company executives to meet with White House officials, according to reports" title="Top AI company executives to meet with White House officials, according to reports">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=0Xtd8vhytuo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=96TZN03s5eQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785655644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=65">
-          <img src="https://ytcards.demolab.com/?id=0Xtd8vhytuo&title=How+You%27ll+Know+When+It%27s+AI&lang=en&timestamp=1785655644&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=65" alt="How You'll Know When It's AI" title="How You'll Know When It's AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=96TZN03s5eQ&title=Learn+Artificial+Intelligence+Full+Course+2026+%7C+AI+Course+From+Scratch+%7C+Intellipaat&lang=en&timestamp=1785851515&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=38193">
+          <img src="https://ytcards.demolab.com/?id=96TZN03s5eQ&title=Learn+Artificial+Intelligence+Full+Course+2026+%7C+AI+Course+From+Scratch+%7C+Intellipaat&lang=en&timestamp=1785851515&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=38193" alt="Learn Artificial Intelligence Full Course 2026 | AI Course From Scratch | Intellipaat" title="Learn Artificial Intelligence Full Course 2026 | AI Course From Scratch | Intellipaat">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=VH0D4G25RfA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Iy5SMxQWdOI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VH0D4G25RfA&title=URGENT+MESSAGE+CONCERNING+ARTIFICIAL+INTELLIGENCE+%28AI%29&lang=en&timestamp=1785720444&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=721">
-          <img src="https://ytcards.demolab.com/?id=VH0D4G25RfA&title=URGENT+MESSAGE+CONCERNING+ARTIFICIAL+INTELLIGENCE+%28AI%29&lang=en&timestamp=1785720444&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=721" alt="URGENT MESSAGE CONCERNING ARTIFICIAL INTELLIGENCE (AI)" title="URGENT MESSAGE CONCERNING ARTIFICIAL INTELLIGENCE (AI)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Iy5SMxQWdOI&title=China+Just+Built+Exactly+What+Experts+Warned+About%21&lang=en&timestamp=1785840715&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=811">
+          <img src="https://ytcards.demolab.com/?id=Iy5SMxQWdOI&title=China+Just+Built+Exactly+What+Experts+Warned+About%21&lang=en&timestamp=1785840715&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=811" alt="China Just Built Exactly What Experts Warned About!" title="China Just Built Exactly What Experts Warned About!">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KK86M1amYmA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WA8Z_sVYxMU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KK86M1amYmA&title=Artificial+Intelligence+From+Metropolis+to+Stargate&lang=en&timestamp=1785720444&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2679">
-          <img src="https://ytcards.demolab.com/?id=KK86M1amYmA&title=Artificial+Intelligence+From+Metropolis+to+Stargate&lang=en&timestamp=1785720444&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2679" alt="Artificial Intelligence From Metropolis to Stargate" title="Artificial Intelligence From Metropolis to Stargate">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WA8Z_sVYxMU&title=Why+Recraft+AI+Is+Transforming+Graphic+Design+with+Artificial+Intelligence+explained+by+Professor&lang=en&timestamp=1785897655&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=381">
+          <img src="https://ytcards.demolab.com/?id=WA8Z_sVYxMU&title=Why+Recraft+AI+Is+Transforming+Graphic+Design+with+Artificial+Intelligence+explained+by+Professor&lang=en&timestamp=1785897655&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=381" alt="Why Recraft AI Is Transforming Graphic Design with Artificial Intelligence explained by Professor" title="Why Recraft AI Is Transforming Graphic Design with Artificial Intelligence explained by Professor">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yvS__pMmbyc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZmFUr6OOETw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785670044&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6942">
-          <img src="https://ytcards.demolab.com/?id=yvS__pMmbyc&title=The+Experiment+That+Woke+Up+Artificial+Intelligence.+Is+This+The+End%3F+%7C+Full+Sci-Fi+Movie&lang=en&timestamp=1785670044&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6942" alt="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie" title="The Experiment That Woke Up Artificial Intelligence. Is This The End? | Full Sci-Fi Movie">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZmFUr6OOETw&title=Iraq+crowd+surveillance%3A+AI+used+to+monitor+crowds+for+the+Arbaeen+pilgrimage&lang=en&timestamp=1785837115&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
+          <img src="https://ytcards.demolab.com/?id=ZmFUr6OOETw&title=Iraq+crowd+surveillance%3A+AI+used+to+monitor+crowds+for+the+Arbaeen+pilgrimage&lang=en&timestamp=1785837115&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Iraq crowd surveillance: AI used to monitor crowds for the Arbaeen pilgrimage" title="Iraq crowd surveillance: AI used to monitor crowds for the Arbaeen pilgrimage">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bs_saUnWjpQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nWdL7fvOUXA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bs_saUnWjpQ&title=Resistance+grows+nationwide+against+AI+data+center+boom&lang=en&timestamp=1785680844&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=356">
-          <img src="https://ytcards.demolab.com/?id=bs_saUnWjpQ&title=Resistance+grows+nationwide+against+AI+data+center+boom&lang=en&timestamp=1785680844&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=356" alt="Resistance grows nationwide against AI data center boom" title="Resistance grows nationwide against AI data center boom">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nWdL7fvOUXA&title=How+Significant+Are+AI%27s+Latest+Math+Breakthroughs%3F&lang=en&timestamp=1785851515&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1523">
+          <img src="https://ytcards.demolab.com/?id=nWdL7fvOUXA&title=How+Significant+Are+AI%27s+Latest+Math+Breakthroughs%3F&lang=en&timestamp=1785851515&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1523" alt="How Significant Are AI's Latest Math Breakthroughs?" title="How Significant Are AI's Latest Math Breakthroughs?">
         </picture>
       </a>
     </td>
