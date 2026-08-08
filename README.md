@@ -88,56 +88,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=s-MgHZ_oGl0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EdbSZMpJq8A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786031514&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=473">
-          <img src="https://ytcards.demolab.com/?id=s-MgHZ_oGl0&title=The+Fermi+Paradox+Just+Got+Much+Worse&lang=en&timestamp=1786031514&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=473" alt="The Fermi Paradox Just Got Much Worse" title="The Fermi Paradox Just Got Much Worse">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EdbSZMpJq8A&title=Scientists+create+new+viruses+with+AI%2C+raising+alarms+about+the+future+of+biosecurity&lang=en&timestamp=1786121742&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=193">
+          <img src="https://ytcards.demolab.com/?id=EdbSZMpJq8A&title=Scientists+create+new+viruses+with+AI%2C+raising+alarms+about+the+future+of+biosecurity&lang=en&timestamp=1786121742&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=193" alt="Scientists create new viruses with AI, raising alarms about the future of biosecurity" title="Scientists create new viruses with AI, raising alarms about the future of biosecurity">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IxwJ-0Xv8MY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2iN75PZGb6Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IxwJ-0Xv8MY&title=Mr.+Freeman%2C+part+16&lang=en&timestamp=1786027914&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=252">
-          <img src="https://ytcards.demolab.com/?id=IxwJ-0Xv8MY&title=Mr.+Freeman%2C+part+16&lang=en&timestamp=1786027914&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=252" alt="Mr. Freeman, part 16" title="Mr. Freeman, part 16">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2iN75PZGb6Y&title=%E2%80%9CUsed+to+Manipulate+You%E2%80%9D+-+AI+Persuasion+Bots+Persuading+Voters+in+Election+Cycles&lang=en&timestamp=1786125342&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=924">
+          <img src="https://ytcards.demolab.com/?id=2iN75PZGb6Y&title=%E2%80%9CUsed+to+Manipulate+You%E2%80%9D+-+AI+Persuasion+Bots+Persuading+Voters+in+Election+Cycles&lang=en&timestamp=1786125342&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=924" alt="“Used to Manipulate You” - AI Persuasion Bots Persuading Voters in Election Cycles" title="“Used to Manipulate You” - AI Persuasion Bots Persuading Voters in Election Cycles">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=j9_3TcUEVj0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4MZ2SZOO-hw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=j9_3TcUEVj0&title=The+Quantum+Breakthrough+That+Could+Kill+AI+Data+Centers+%E2%80%94+Here%27s+What%27s+Next&lang=en&timestamp=1786027914&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1771">
-          <img src="https://ytcards.demolab.com/?id=j9_3TcUEVj0&title=The+Quantum+Breakthrough+That+Could+Kill+AI+Data+Centers+%E2%80%94+Here%27s+What%27s+Next&lang=en&timestamp=1786027914&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1771" alt="The Quantum Breakthrough That Could Kill AI Data Centers — Here's What's Next" title="The Quantum Breakthrough That Could Kill AI Data Centers — Here's What's Next">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4MZ2SZOO-hw&title=Fears+As+Scientists+Use+AI+To+Create+New+Viruses+That+Don%E2%80%99t+Exist+In+Nature+%7C+10%E2%80%99s+Late+News&lang=en&timestamp=1786107342&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=85">
+          <img src="https://ytcards.demolab.com/?id=4MZ2SZOO-hw&title=Fears+As+Scientists+Use+AI+To+Create+New+Viruses+That+Don%E2%80%99t+Exist+In+Nature+%7C+10%E2%80%99s+Late+News&lang=en&timestamp=1786107342&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=85" alt="Fears As Scientists Use AI To Create New Viruses That Don’t Exist In Nature | 10’s Late News" title="Fears As Scientists Use AI To Create New Viruses That Don’t Exist In Nature | 10’s Late News">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JYgyvyCccHE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=enaZkrusaV4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JYgyvyCccHE&title=Is+AI+Becoming+Another+Dot-Com+Bubble%3F+Nvidia+%26+The+Hidden+Risk+%7C+Money+Mind&lang=en&timestamp=1786027914&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=324">
-          <img src="https://ytcards.demolab.com/?id=JYgyvyCccHE&title=Is+AI+Becoming+Another+Dot-Com+Bubble%3F+Nvidia+%26+The+Hidden+Risk+%7C+Money+Mind&lang=en&timestamp=1786027914&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=324" alt="Is AI Becoming Another Dot-Com Bubble? Nvidia & The Hidden Risk | Money Mind" title="Is AI Becoming Another Dot-Com Bubble? Nvidia & The Hidden Risk | Money Mind">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=enaZkrusaV4&title=The+AI+Browser+Is+Coming+%E2%80%94+And+It+Will+Change+the+Internet+Forever&lang=en&timestamp=1786107342&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=824">
+          <img src="https://ytcards.demolab.com/?id=enaZkrusaV4&title=The+AI+Browser+Is+Coming+%E2%80%94+And+It+Will+Change+the+Internet+Forever&lang=en&timestamp=1786107342&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=824" alt="The AI Browser Is Coming — And It Will Change the Internet Forever" title="The AI Browser Is Coming — And It Will Change the Internet Forever">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KjvPhvQcDA4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=inH6kVBs7u0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KjvPhvQcDA4&title=I+Will+Find+a+Business+Losing+Money+and+Fix+It+Live+%28Full+AI+Build%29&lang=en&timestamp=1786045914&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7366">
-          <img src="https://ytcards.demolab.com/?id=KjvPhvQcDA4&title=I+Will+Find+a+Business+Losing+Money+and+Fix+It+Live+%28Full+AI+Build%29&lang=en&timestamp=1786045914&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7366" alt="I Will Find a Business Losing Money and Fix It Live (Full AI Build)" title="I Will Find a Business Losing Money and Fix It Live (Full AI Build)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=inH6kVBs7u0&title=AI+just+created+viruses+that+never+existed+before%3A+Should+we+be+worried%3F+%7C+DW+News&lang=en&timestamp=1786110942&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1110">
+          <img src="https://ytcards.demolab.com/?id=inH6kVBs7u0&title=AI+just+created+viruses+that+never+existed+before%3A+Should+we+be+worried%3F+%7C+DW+News&lang=en&timestamp=1786110942&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1110" alt="AI just created viruses that never existed before: Should we be worried? | DW News" title="AI just created viruses that never existed before: Should we be worried? | DW News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=e5rSGSYJCPA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MhWxu_RI_uw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=e5rSGSYJCPA&title=Artificial+intelligence+is+a+THIRSTY+BEAST%21&lang=en&timestamp=1786063914&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=680">
-          <img src="https://ytcards.demolab.com/?id=e5rSGSYJCPA&title=Artificial+intelligence+is+a+THIRSTY+BEAST%21&lang=en&timestamp=1786063914&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=680" alt="Artificial intelligence is a THIRSTY BEAST!" title="Artificial intelligence is a THIRSTY BEAST!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MhWxu_RI_uw&title=How+AI+could+be+taking+on+a+life+of+its+own&lang=en&timestamp=1786128942&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=578">
+          <img src="https://ytcards.demolab.com/?id=MhWxu_RI_uw&title=How+AI+could+be+taking+on+a+life+of+its+own&lang=en&timestamp=1786128942&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=578" alt="How AI could be taking on a life of its own" title="How AI could be taking on a life of its own">
         </picture>
       </a>
     </td>
