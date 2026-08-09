@@ -89,56 +89,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EdbSZMpJq8A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=aWsS_KbrcLw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EdbSZMpJq8A&title=Scientists+create+new+viruses+with+AI%2C+raising+alarms+about+the+future+of+biosecurity&lang=en&timestamp=1786121742&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=193">
-          <img src="https://ytcards.demolab.com/?id=EdbSZMpJq8A&title=Scientists+create+new+viruses+with+AI%2C+raising+alarms+about+the+future+of+biosecurity&lang=en&timestamp=1786121742&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=193" alt="Scientists create new viruses with AI, raising alarms about the future of biosecurity" title="Scientists create new viruses with AI, raising alarms about the future of biosecurity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aWsS_KbrcLw&title=This+is+%27EXTREMELY+DANGEROUS%27+and+we+need+to+get+ahead+of+it%3A+Rep+Beth+Van+Duyne&lang=en&timestamp=1786194234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
+          <img src="https://ytcards.demolab.com/?id=aWsS_KbrcLw&title=This+is+%27EXTREMELY+DANGEROUS%27+and+we+need+to+get+ahead+of+it%3A+Rep+Beth+Van+Duyne&lang=en&timestamp=1786194234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="This is 'EXTREMELY DANGEROUS' and we need to get ahead of it: Rep Beth Van Duyne" title="This is 'EXTREMELY DANGEROUS' and we need to get ahead of it: Rep Beth Van Duyne">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2iN75PZGb6Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9G-X4enTr5M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2iN75PZGb6Y&title=%E2%80%9CUsed+to+Manipulate+You%E2%80%9D+-+AI+Persuasion+Bots+Persuading+Voters+in+Election+Cycles&lang=en&timestamp=1786125342&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=924">
-          <img src="https://ytcards.demolab.com/?id=2iN75PZGb6Y&title=%E2%80%9CUsed+to+Manipulate+You%E2%80%9D+-+AI+Persuasion+Bots+Persuading+Voters+in+Election+Cycles&lang=en&timestamp=1786125342&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=924" alt="“Used to Manipulate You” - AI Persuasion Bots Persuading Voters in Election Cycles" title="“Used to Manipulate You” - AI Persuasion Bots Persuading Voters in Election Cycles">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9G-X4enTr5M&title=AI+Could+Predict+Your+Breakup+From+the+Start&lang=en&timestamp=1786176234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=237">
+          <img src="https://ytcards.demolab.com/?id=9G-X4enTr5M&title=AI+Could+Predict+Your+Breakup+From+the+Start&lang=en&timestamp=1786176234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=237" alt="AI Could Predict Your Breakup From the Start" title="AI Could Predict Your Breakup From the Start">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4MZ2SZOO-hw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-CUf34ZIk6s" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4MZ2SZOO-hw&title=Fears+As+Scientists+Use+AI+To+Create+New+Viruses+That+Don%E2%80%99t+Exist+In+Nature+%7C+10%E2%80%99s+Late+News&lang=en&timestamp=1786107342&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=85">
-          <img src="https://ytcards.demolab.com/?id=4MZ2SZOO-hw&title=Fears+As+Scientists+Use+AI+To+Create+New+Viruses+That+Don%E2%80%99t+Exist+In+Nature+%7C+10%E2%80%99s+Late+News&lang=en&timestamp=1786107342&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=85" alt="Fears As Scientists Use AI To Create New Viruses That Don’t Exist In Nature | 10’s Late News" title="Fears As Scientists Use AI To Create New Viruses That Don’t Exist In Nature | 10’s Late News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-CUf34ZIk6s&title=AI+data+centers+are+too+hot%E2%80%94how+can+we+fix+it%3F+%7C+Greg+Ryder+%7C+TEDxWollongong&lang=en&timestamp=1786197834&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=602">
+          <img src="https://ytcards.demolab.com/?id=-CUf34ZIk6s&title=AI+data+centers+are+too+hot%E2%80%94how+can+we+fix+it%3F+%7C+Greg+Ryder+%7C+TEDxWollongong&lang=en&timestamp=1786197834&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=602" alt="AI data centers are too hot—how can we fix it? | Greg Ryder | TEDxWollongong" title="AI data centers are too hot—how can we fix it? | Greg Ryder | TEDxWollongong">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=enaZkrusaV4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=pIS80L6bb7g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=enaZkrusaV4&title=The+AI+Browser+Is+Coming+%E2%80%94+And+It+Will+Change+the+Internet+Forever&lang=en&timestamp=1786107342&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=824">
-          <img src="https://ytcards.demolab.com/?id=enaZkrusaV4&title=The+AI+Browser+Is+Coming+%E2%80%94+And+It+Will+Change+the+Internet+Forever&lang=en&timestamp=1786107342&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=824" alt="The AI Browser Is Coming — And It Will Change the Internet Forever" title="The AI Browser Is Coming — And It Will Change the Internet Forever">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pIS80L6bb7g&title=China+Launches+World%27s+First+AI+Credit+Card%2C+Here%27s+How+It+Works+%7C+FP+Explains&lang=en&timestamp=1786183434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=302">
+          <img src="https://ytcards.demolab.com/?id=pIS80L6bb7g&title=China+Launches+World%27s+First+AI+Credit+Card%2C+Here%27s+How+It+Works+%7C+FP+Explains&lang=en&timestamp=1786183434&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=302" alt="China Launches World's First AI Credit Card, Here's How It Works | FP Explains" title="China Launches World's First AI Credit Card, Here's How It Works | FP Explains">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=inH6kVBs7u0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=BhMpTncwFBw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=inH6kVBs7u0&title=AI+just+created+viruses+that+never+existed+before%3A+Should+we+be+worried%3F+%7C+DW+News&lang=en&timestamp=1786110942&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1110">
-          <img src="https://ytcards.demolab.com/?id=inH6kVBs7u0&title=AI+just+created+viruses+that+never+existed+before%3A+Should+we+be+worried%3F+%7C+DW+News&lang=en&timestamp=1786110942&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1110" alt="AI just created viruses that never existed before: Should we be worried? | DW News" title="AI just created viruses that never existed before: Should we be worried? | DW News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BhMpTncwFBw&title=OpenAIs+New+AI+Model+Is+About+To+Change+The+World&lang=en&timestamp=1786194234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=771">
+          <img src="https://ytcards.demolab.com/?id=BhMpTncwFBw&title=OpenAIs+New+AI+Model+Is+About+To+Change+The+World&lang=en&timestamp=1786194234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=771" alt="OpenAIs New AI Model Is About To Change The World" title="OpenAIs New AI Model Is About To Change The World">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MhWxu_RI_uw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xsh1PqRQ1S0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MhWxu_RI_uw&title=How+AI+could+be+taking+on+a+life+of+its+own&lang=en&timestamp=1786128942&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=578">
-          <img src="https://ytcards.demolab.com/?id=MhWxu_RI_uw&title=How+AI+could+be+taking+on+a+life+of+its+own&lang=en&timestamp=1786128942&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=578" alt="How AI could be taking on a life of its own" title="How AI could be taking on a life of its own">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xsh1PqRQ1S0&title=How+AI+Is+Reshaping+Jobs%2C+Skills+And+Future+Careers+%7C+WION+Podcast&lang=en&timestamp=1786208634&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=160">
+          <img src="https://ytcards.demolab.com/?id=xsh1PqRQ1S0&title=How+AI+Is+Reshaping+Jobs%2C+Skills+And+Future+Careers+%7C+WION+Podcast&lang=en&timestamp=1786208634&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=160" alt="How AI Is Reshaping Jobs, Skills And Future Careers | WION Podcast" title="How AI Is Reshaping Jobs, Skills And Future Careers | WION Podcast">
         </picture>
       </a>
     </td>
