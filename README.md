@@ -90,56 +90,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aWsS_KbrcLw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3JH_Zd2mNRs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aWsS_KbrcLw&title=This+is+%27EXTREMELY+DANGEROUS%27+and+we+need+to+get+ahead+of+it%3A+Rep+Beth+Van+Duyne&lang=en&timestamp=1786194234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
-          <img src="https://ytcards.demolab.com/?id=aWsS_KbrcLw&title=This+is+%27EXTREMELY+DANGEROUS%27+and+we+need+to+get+ahead+of+it%3A+Rep+Beth+Van+Duyne&lang=en&timestamp=1786194234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="This is 'EXTREMELY DANGEROUS' and we need to get ahead of it: Rep Beth Van Duyne" title="This is 'EXTREMELY DANGEROUS' and we need to get ahead of it: Rep Beth Van Duyne">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3JH_Zd2mNRs&title=an+AI+actually+went+rogue.&lang=en&timestamp=1786280892&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1060">
+          <img src="https://ytcards.demolab.com/?id=3JH_Zd2mNRs&title=an+AI+actually+went+rogue.&lang=en&timestamp=1786280892&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1060" alt="an AI actually went rogue." title="an AI actually went rogue.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9G-X4enTr5M" target="_blank">
+      <a href="https://www.youtube.com/watch?v=5LBjje0R6vU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9G-X4enTr5M&title=AI+Could+Predict+Your+Breakup+From+the+Start&lang=en&timestamp=1786176234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=237">
-          <img src="https://ytcards.demolab.com/?id=9G-X4enTr5M&title=AI+Could+Predict+Your+Breakup+From+the+Start&lang=en&timestamp=1786176234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=237" alt="AI Could Predict Your Breakup From the Start" title="AI Could Predict Your Breakup From the Start">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5LBjje0R6vU&title=Top+5+AI+Coding+Tools+for+Beginners+in+2026&lang=en&timestamp=1786288092&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=452">
+          <img src="https://ytcards.demolab.com/?id=5LBjje0R6vU&title=Top+5+AI+Coding+Tools+for+Beginners+in+2026&lang=en&timestamp=1786288092&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=452" alt="Top 5 AI Coding Tools for Beginners in 2026" title="Top 5 AI Coding Tools for Beginners in 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-CUf34ZIk6s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4nKrDhnSN08" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-CUf34ZIk6s&title=AI+data+centers+are+too+hot%E2%80%94how+can+we+fix+it%3F+%7C+Greg+Ryder+%7C+TEDxWollongong&lang=en&timestamp=1786197834&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=602">
-          <img src="https://ytcards.demolab.com/?id=-CUf34ZIk6s&title=AI+data+centers+are+too+hot%E2%80%94how+can+we+fix+it%3F+%7C+Greg+Ryder+%7C+TEDxWollongong&lang=en&timestamp=1786197834&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=602" alt="AI data centers are too hot—how can we fix it? | Greg Ryder | TEDxWollongong" title="AI data centers are too hot—how can we fix it? | Greg Ryder | TEDxWollongong">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4nKrDhnSN08&title=%E2%9D%93Economic+Royalism%2C+Royalists%2C+and+Supply+Side+vs+Artificial+Intelligence%3A+THE+PLAYLIST&lang=en&timestamp=1786270092&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21691">
+          <img src="https://ytcards.demolab.com/?id=4nKrDhnSN08&title=%E2%9D%93Economic+Royalism%2C+Royalists%2C+and+Supply+Side+vs+Artificial+Intelligence%3A+THE+PLAYLIST&lang=en&timestamp=1786270092&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=21691" alt="❓Economic Royalism, Royalists, and Supply Side vs Artificial Intelligence: THE PLAYLIST" title="❓Economic Royalism, Royalists, and Supply Side vs Artificial Intelligence: THE PLAYLIST">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pIS80L6bb7g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=u2khvYOUmeg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pIS80L6bb7g&title=China+Launches+World%27s+First+AI+Credit+Card%2C+Here%27s+How+It+Works+%7C+FP+Explains&lang=en&timestamp=1786183434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=302">
-          <img src="https://ytcards.demolab.com/?id=pIS80L6bb7g&title=China+Launches+World%27s+First+AI+Credit+Card%2C+Here%27s+How+It+Works+%7C+FP+Explains&lang=en&timestamp=1786183434&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=302" alt="China Launches World's First AI Credit Card, Here's How It Works | FP Explains" title="China Launches World's First AI Credit Card, Here's How It Works | FP Explains">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u2khvYOUmeg&title=A+Nightmare+Fast+Food+Experience&lang=en&timestamp=1786280892&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=469">
+          <img src="https://ytcards.demolab.com/?id=u2khvYOUmeg&title=A+Nightmare+Fast+Food+Experience&lang=en&timestamp=1786280892&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=469" alt="A Nightmare Fast Food Experience" title="A Nightmare Fast Food Experience">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BhMpTncwFBw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=GV08yxqwnA4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BhMpTncwFBw&title=OpenAIs+New+AI+Model+Is+About+To+Change+The+World&lang=en&timestamp=1786194234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=771">
-          <img src="https://ytcards.demolab.com/?id=BhMpTncwFBw&title=OpenAIs+New+AI+Model+Is+About+To+Change+The+World&lang=en&timestamp=1786194234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=771" alt="OpenAIs New AI Model Is About To Change The World" title="OpenAIs New AI Model Is About To Change The World">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=GV08yxqwnA4&title=OpenAI+is+70%25+of+Microsoft+AI+Revenue+-+Circular+Financing+All+the+Way+Down&lang=en&timestamp=1786277292&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=932">
+          <img src="https://ytcards.demolab.com/?id=GV08yxqwnA4&title=OpenAI+is+70%25+of+Microsoft+AI+Revenue+-+Circular+Financing+All+the+Way+Down&lang=en&timestamp=1786277292&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=932" alt="OpenAI is 70% of Microsoft AI Revenue - Circular Financing All the Way Down" title="OpenAI is 70% of Microsoft AI Revenue - Circular Financing All the Way Down">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xsh1PqRQ1S0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zyaoTImt-F4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xsh1PqRQ1S0&title=How+AI+Is+Reshaping+Jobs%2C+Skills+And+Future+Careers+%7C+WION+Podcast&lang=en&timestamp=1786208634&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=160">
-          <img src="https://ytcards.demolab.com/?id=xsh1PqRQ1S0&title=How+AI+Is+Reshaping+Jobs%2C+Skills+And+Future+Careers+%7C+WION+Podcast&lang=en&timestamp=1786208634&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=160" alt="How AI Is Reshaping Jobs, Skills And Future Careers | WION Podcast" title="How AI Is Reshaping Jobs, Skills And Future Careers | WION Podcast">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zyaoTImt-F4&title=Why+The+Post+Work+Future+Will+Break+Humans&lang=en&timestamp=1786280892&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=977">
+          <img src="https://ytcards.demolab.com/?id=zyaoTImt-F4&title=Why+The+Post+Work+Future+Will+Break+Humans&lang=en&timestamp=1786280892&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=977" alt="Why The Post Work Future Will Break Humans" title="Why The Post Work Future Will Break Humans">
         </picture>
       </a>
     </td>
