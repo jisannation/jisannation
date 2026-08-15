@@ -92,56 +92,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aCB-NQtsKrs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wmmqWCICTCk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aCB-NQtsKrs&title=%22Deep+Unlearning%22%3A+Timnit+Gebru+on+AI+Hype%2C+Ethics+%26+Algorithmic+Racial+Bias&lang=en&timestamp=1786634419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1076">
-          <img src="https://ytcards.demolab.com/?id=aCB-NQtsKrs&title=%22Deep+Unlearning%22%3A+Timnit+Gebru+on+AI+Hype%2C+Ethics+%26+Algorithmic+Racial+Bias&lang=en&timestamp=1786634419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1076" alt="&quot;Deep Unlearning&quot;: Timnit Gebru on AI Hype, Ethics & Algorithmic Racial Bias" title="&quot;Deep Unlearning&quot;: Timnit Gebru on AI Hype, Ethics & Algorithmic Racial Bias">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wmmqWCICTCk&title=How+to+Be+More+Articulate+-+Basics+of+Real+Intelligence+by+Ansh+Mehra&lang=en&timestamp=1786714060&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437">
+          <img src="https://ytcards.demolab.com/?id=wmmqWCICTCk&title=How+to+Be+More+Articulate+-+Basics+of+Real+Intelligence+by+Ansh+Mehra&lang=en&timestamp=1786714060&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=437" alt="How to Be More Articulate - Basics of Real Intelligence by Ansh Mehra" title="How to Be More Articulate - Basics of Real Intelligence by Ansh Mehra">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Q-E7hkZ5NdI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=D8GCXwxbCaw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Q-E7hkZ5NdI&title=Trump+to+revise+AI+policy+as+technology+grows+DANGEROUSLY+powerful%3A+%27Can+HACK+the+Pentagon%27&lang=en&timestamp=1786638019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=514">
-          <img src="https://ytcards.demolab.com/?id=Q-E7hkZ5NdI&title=Trump+to+revise+AI+policy+as+technology+grows+DANGEROUSLY+powerful%3A+%27Can+HACK+the+Pentagon%27&lang=en&timestamp=1786638019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=514" alt="Trump to revise AI policy as technology grows DANGEROUSLY powerful: 'Can HACK the Pentagon'" title="Trump to revise AI policy as technology grows DANGEROUSLY powerful: 'Can HACK the Pentagon'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=D8GCXwxbCaw&title=7+AI+Careers+after+AI+takes+over+for+Study+Abroad+Roadmap&lang=en&timestamp=1786706860&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=687">
+          <img src="https://ytcards.demolab.com/?id=D8GCXwxbCaw&title=7+AI+Careers+after+AI+takes+over+for+Study+Abroad+Roadmap&lang=en&timestamp=1786706860&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=687" alt="7 AI Careers after AI takes over for Study Abroad Roadmap" title="7 AI Careers after AI takes over for Study Abroad Roadmap">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BvlGs25tCxI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WPqoCJK8vBo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BvlGs25tCxI&title=The+Anti-AI+Movement+Is+Only+Getting+Started&lang=en&timestamp=1786634419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=412">
-          <img src="https://ytcards.demolab.com/?id=BvlGs25tCxI&title=The+Anti-AI+Movement+Is+Only+Getting+Started&lang=en&timestamp=1786634419&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=412" alt="The Anti-AI Movement Is Only Getting Started" title="The Anti-AI Movement Is Only Getting Started">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WPqoCJK8vBo&title=Is+the+AI+Bubble+Finally%2C+Actually+About+to+Burst%3F+%28w%2F+Ed+Zitron%29&lang=en&timestamp=1786703260&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3780">
+          <img src="https://ytcards.demolab.com/?id=WPqoCJK8vBo&title=Is+the+AI+Bubble+Finally%2C+Actually+About+to+Burst%3F+%28w%2F+Ed+Zitron%29&lang=en&timestamp=1786703260&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3780" alt="Is the AI Bubble Finally, Actually About to Burst? (w/ Ed Zitron)" title="Is the AI Bubble Finally, Actually About to Burst? (w/ Ed Zitron)">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=a-ya_d89eEA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EpxRb-5RVNQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=a-ya_d89eEA&title=TDF+Major+Development+%7C+ENDF+will+use+Artificial+Intelligence&lang=en&timestamp=1786656019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=588">
-          <img src="https://ytcards.demolab.com/?id=a-ya_d89eEA&title=TDF+Major+Development+%7C+ENDF+will+use+Artificial+Intelligence&lang=en&timestamp=1786656019&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=588" alt="TDF Major Development | ENDF will use Artificial Intelligence" title="TDF Major Development | ENDF will use Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EpxRb-5RVNQ&title=THE+SECOND+SHIP+Official+Cinematic+Trailer+%284K%29&lang=en&timestamp=1786706860&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=114">
+          <img src="https://ytcards.demolab.com/?id=EpxRb-5RVNQ&title=THE+SECOND+SHIP+Official+Cinematic+Trailer+%284K%29&lang=en&timestamp=1786706860&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=114" alt="THE SECOND SHIP Official Cinematic Trailer (4K)" title="THE SECOND SHIP Official Cinematic Trailer (4K)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=T76AnLgAxS4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=6jnOnAaonbI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=T76AnLgAxS4&title=2026+State+of+AI+Exposed%3A+The+Future+of+Work+Is+Here&lang=en&timestamp=1786663219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=650">
-          <img src="https://ytcards.demolab.com/?id=T76AnLgAxS4&title=2026+State+of+AI+Exposed%3A+The+Future+of+Work+Is+Here&lang=en&timestamp=1786663219&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=650" alt="2026 State of AI Exposed: The Future of Work Is Here" title="2026 State of AI Exposed: The Future of Work Is Here">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6jnOnAaonbI&title=%27DEBUNK+THIS+CONCEPT%27%3A+Top+strategist%27s+message+before+volatility+hits&lang=en&timestamp=1786755640&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=442">
+          <img src="https://ytcards.demolab.com/?id=6jnOnAaonbI&title=%27DEBUNK+THIS+CONCEPT%27%3A+Top+strategist%27s+message+before+volatility+hits&lang=en&timestamp=1786755640&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=442" alt="'DEBUNK THIS CONCEPT': Top strategist's message before volatility hits" title="'DEBUNK THIS CONCEPT': Top strategist's message before volatility hits">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EzSeU83v20w" target="_blank">
+      <a href="https://www.youtube.com/watch?v=YLJ9crnMRW8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EzSeU83v20w&title=AI+is+solving+problems+that+science+had+been+unable+to+solve+for+decades&lang=en&timestamp=1786645219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5320">
-          <img src="https://ytcards.demolab.com/?id=EzSeU83v20w&title=AI+is+solving+problems+that+science+had+been+unable+to+solve+for+decades&lang=en&timestamp=1786645219&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5320" alt="AI is solving problems that science had been unable to solve for decades" title="AI is solving problems that science had been unable to solve for decades">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YLJ9crnMRW8&title=Unit+6+Artificial+Intelligence&lang=en&timestamp=1786714060&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1452">
+          <img src="https://ytcards.demolab.com/?id=YLJ9crnMRW8&title=Unit+6+Artificial+Intelligence&lang=en&timestamp=1786714060&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1452" alt="Unit 6 Artificial Intelligence" title="Unit 6 Artificial Intelligence">
         </picture>
       </a>
     </td>
