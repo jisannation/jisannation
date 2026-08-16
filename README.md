@@ -93,56 +93,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wmmqWCICTCk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WklCnG9yfWQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wmmqWCICTCk&title=How+to+Be+More+Articulate+-+Basics+of+Real+Intelligence+by+Ansh+Mehra&lang=en&timestamp=1786714060&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=437">
-          <img src="https://ytcards.demolab.com/?id=wmmqWCICTCk&title=How+to+Be+More+Articulate+-+Basics+of+Real+Intelligence+by+Ansh+Mehra&lang=en&timestamp=1786714060&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=437" alt="How to Be More Articulate - Basics of Real Intelligence by Ansh Mehra" title="How to Be More Articulate - Basics of Real Intelligence by Ansh Mehra">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WklCnG9yfWQ&title=Trump+grapples+with+the+AI+data+centre+debate+-+The+President%27s+Path+podcast%2C+BBC+World+Service&lang=en&timestamp=1786797569&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=973">
+          <img src="https://ytcards.demolab.com/?id=WklCnG9yfWQ&title=Trump+grapples+with+the+AI+data+centre+debate+-+The+President%27s+Path+podcast%2C+BBC+World+Service&lang=en&timestamp=1786797569&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=973" alt="Trump grapples with the AI data centre debate - The President's Path podcast, BBC World Service" title="Trump grapples with the AI data centre debate - The President's Path podcast, BBC World Service">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=D8GCXwxbCaw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Lnm-J_WZCsY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=D8GCXwxbCaw&title=7+AI+Careers+after+AI+takes+over+for+Study+Abroad+Roadmap&lang=en&timestamp=1786706860&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=687">
-          <img src="https://ytcards.demolab.com/?id=D8GCXwxbCaw&title=7+AI+Careers+after+AI+takes+over+for+Study+Abroad+Roadmap&lang=en&timestamp=1786706860&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=687" alt="7 AI Careers after AI takes over for Study Abroad Roadmap" title="7 AI Careers after AI takes over for Study Abroad Roadmap">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Lnm-J_WZCsY&title=Man+Vs+%E0%A4%AE%E0%A4%BE%E0%A4%9A%E0%A4%BF%E0%A4%B8+-+Computational+Thinking%2C+AI+unplugged+%7C+3030+Eklavya+%7C+S05+EP01+%7C+CCL+IIT+Gandhinagar&lang=en&timestamp=1786793969&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4040">
+          <img src="https://ytcards.demolab.com/?id=Lnm-J_WZCsY&title=Man+Vs+%E0%A4%AE%E0%A4%BE%E0%A4%9A%E0%A4%BF%E0%A4%B8+-+Computational+Thinking%2C+AI+unplugged+%7C+3030+Eklavya+%7C+S05+EP01+%7C+CCL+IIT+Gandhinagar&lang=en&timestamp=1786793969&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4040" alt="Man Vs माचिस - Computational Thinking, AI unplugged | 3030 Eklavya | S05 EP01 | CCL IIT Gandhinagar" title="Man Vs माचिस - Computational Thinking, AI unplugged | 3030 Eklavya | S05 EP01 | CCL IIT Gandhinagar">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WPqoCJK8vBo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=86wPeWkAGOw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WPqoCJK8vBo&title=Is+the+AI+Bubble+Finally%2C+Actually+About+to+Burst%3F+%28w%2F+Ed+Zitron%29&lang=en&timestamp=1786703260&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3780">
-          <img src="https://ytcards.demolab.com/?id=WPqoCJK8vBo&title=Is+the+AI+Bubble+Finally%2C+Actually+About+to+Burst%3F+%28w%2F+Ed+Zitron%29&lang=en&timestamp=1786703260&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3780" alt="Is the AI Bubble Finally, Actually About to Burst? (w/ Ed Zitron)" title="Is the AI Bubble Finally, Actually About to Burst? (w/ Ed Zitron)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=86wPeWkAGOw&title=Mark+Zuckerberg+Tries+To+Distract+After+OUTRAGEOUS+Neo-Nazi+Payouts+By+Meta+Go+Public&lang=en&timestamp=1786829969&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=391">
+          <img src="https://ytcards.demolab.com/?id=86wPeWkAGOw&title=Mark+Zuckerberg+Tries+To+Distract+After+OUTRAGEOUS+Neo-Nazi+Payouts+By+Meta+Go+Public&lang=en&timestamp=1786829969&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=391" alt="Mark Zuckerberg Tries To Distract After OUTRAGEOUS Neo-Nazi Payouts By Meta Go Public" title="Mark Zuckerberg Tries To Distract After OUTRAGEOUS Neo-Nazi Payouts By Meta Go Public">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EpxRb-5RVNQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RL4LAzOXsc4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EpxRb-5RVNQ&title=THE+SECOND+SHIP+Official+Cinematic+Trailer+%284K%29&lang=en&timestamp=1786706860&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=114">
-          <img src="https://ytcards.demolab.com/?id=EpxRb-5RVNQ&title=THE+SECOND+SHIP+Official+Cinematic+Trailer+%284K%29&lang=en&timestamp=1786706860&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=114" alt="THE SECOND SHIP Official Cinematic Trailer (4K)" title="THE SECOND SHIP Official Cinematic Trailer (4K)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RL4LAzOXsc4&title=Raoul+Pal+%26+Cathie+Wood%3A+%22Crypto%E2%80%99s+Next+EXPLOSIVE+Rally+Is+Closer+Than+You+Think%22+%7C+Bitcoin+2026&lang=en&timestamp=1786811969&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=971">
+          <img src="https://ytcards.demolab.com/?id=RL4LAzOXsc4&title=Raoul+Pal+%26+Cathie+Wood%3A+%22Crypto%E2%80%99s+Next+EXPLOSIVE+Rally+Is+Closer+Than+You+Think%22+%7C+Bitcoin+2026&lang=en&timestamp=1786811969&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=971" alt="Raoul Pal & Cathie Wood: &quot;Crypto’s Next EXPLOSIVE Rally Is Closer Than You Think&quot; | Bitcoin 2026" title="Raoul Pal & Cathie Wood: &quot;Crypto’s Next EXPLOSIVE Rally Is Closer Than You Think&quot; | Bitcoin 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=6jnOnAaonbI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=d1gm6nPhPI8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=6jnOnAaonbI&title=%27DEBUNK+THIS+CONCEPT%27%3A+Top+strategist%27s+message+before+volatility+hits&lang=en&timestamp=1786755640&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=442">
-          <img src="https://ytcards.demolab.com/?id=6jnOnAaonbI&title=%27DEBUNK+THIS+CONCEPT%27%3A+Top+strategist%27s+message+before+volatility+hits&lang=en&timestamp=1786755640&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=442" alt="'DEBUNK THIS CONCEPT': Top strategist's message before volatility hits" title="'DEBUNK THIS CONCEPT': Top strategist's message before volatility hits">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d1gm6nPhPI8&title=%22SUNO+is+Garbage%21%22+The+Fragile+Anti-AI+Movement+Exposed&lang=en&timestamp=1786797569&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1373">
+          <img src="https://ytcards.demolab.com/?id=d1gm6nPhPI8&title=%22SUNO+is+Garbage%21%22+The+Fragile+Anti-AI+Movement+Exposed&lang=en&timestamp=1786797569&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1373" alt="&quot;SUNO is Garbage!&quot; The Fragile Anti-AI Movement Exposed" title="&quot;SUNO is Garbage!&quot; The Fragile Anti-AI Movement Exposed">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YLJ9crnMRW8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_XzIssTThWg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YLJ9crnMRW8&title=Unit+6+Artificial+Intelligence&lang=en&timestamp=1786714060&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1452">
-          <img src="https://ytcards.demolab.com/?id=YLJ9crnMRW8&title=Unit+6+Artificial+Intelligence&lang=en&timestamp=1786714060&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1452" alt="Unit 6 Artificial Intelligence" title="Unit 6 Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_XzIssTThWg&title=AI+Security+will+Explode+Over+the+Next+5+Years+%28Complete+Roadmap+%2B+Free+Resource%29&lang=en&timestamp=1786779569&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=466">
+          <img src="https://ytcards.demolab.com/?id=_XzIssTThWg&title=AI+Security+will+Explode+Over+the+Next+5+Years+%28Complete+Roadmap+%2B+Free+Resource%29&lang=en&timestamp=1786779569&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=466" alt="AI Security will Explode Over the Next 5 Years (Complete Roadmap + Free Resource)" title="AI Security will Explode Over the Next 5 Years (Complete Roadmap + Free Resource)">
         </picture>
       </a>
     </td>
