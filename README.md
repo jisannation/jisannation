@@ -94,56 +94,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WklCnG9yfWQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PXgkm5UvAy8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WklCnG9yfWQ&title=Trump+grapples+with+the+AI+data+centre+debate+-+The+President%27s+Path+podcast%2C+BBC+World+Service&lang=en&timestamp=1786797569&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=973">
-          <img src="https://ytcards.demolab.com/?id=WklCnG9yfWQ&title=Trump+grapples+with+the+AI+data+centre+debate+-+The+President%27s+Path+podcast%2C+BBC+World+Service&lang=en&timestamp=1786797569&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=973" alt="Trump grapples with the AI data centre debate - The President's Path podcast, BBC World Service" title="Trump grapples with the AI data centre debate - The President's Path podcast, BBC World Service">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PXgkm5UvAy8&title=The+Real+Opportunity+of+AI+Is+More+Human+Than+You+Think&lang=en&timestamp=1786894628&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2313">
+          <img src="https://ytcards.demolab.com/?id=PXgkm5UvAy8&title=The+Real+Opportunity+of+AI+Is+More+Human+Than+You+Think&lang=en&timestamp=1786894628&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2313" alt="The Real Opportunity of AI Is More Human Than You Think" title="The Real Opportunity of AI Is More Human Than You Think">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Lnm-J_WZCsY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=S1j3mBmpt6A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Lnm-J_WZCsY&title=Man+Vs+%E0%A4%AE%E0%A4%BE%E0%A4%9A%E0%A4%BF%E0%A4%B8+-+Computational+Thinking%2C+AI+unplugged+%7C+3030+Eklavya+%7C+S05+EP01+%7C+CCL+IIT+Gandhinagar&lang=en&timestamp=1786793969&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4040">
-          <img src="https://ytcards.demolab.com/?id=Lnm-J_WZCsY&title=Man+Vs+%E0%A4%AE%E0%A4%BE%E0%A4%9A%E0%A4%BF%E0%A4%B8+-+Computational+Thinking%2C+AI+unplugged+%7C+3030+Eklavya+%7C+S05+EP01+%7C+CCL+IIT+Gandhinagar&lang=en&timestamp=1786793969&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4040" alt="Man Vs माचिस - Computational Thinking, AI unplugged | 3030 Eklavya | S05 EP01 | CCL IIT Gandhinagar" title="Man Vs माचिस - Computational Thinking, AI unplugged | 3030 Eklavya | S05 EP01 | CCL IIT Gandhinagar">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S1j3mBmpt6A&title=AI+Just+Solved+the+Alcatraz+Mystery+%E2%80%94+What+It+Found+After+55+Years+Will+Shock+You&lang=en&timestamp=1786898228&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1665">
+          <img src="https://ytcards.demolab.com/?id=S1j3mBmpt6A&title=AI+Just+Solved+the+Alcatraz+Mystery+%E2%80%94+What+It+Found+After+55+Years+Will+Shock+You&lang=en&timestamp=1786898228&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1665" alt="AI Just Solved the Alcatraz Mystery — What It Found After 55 Years Will Shock You" title="AI Just Solved the Alcatraz Mystery — What It Found After 55 Years Will Shock You">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=86wPeWkAGOw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=idCR2d4KRgw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=86wPeWkAGOw&title=Mark+Zuckerberg+Tries+To+Distract+After+OUTRAGEOUS+Neo-Nazi+Payouts+By+Meta+Go+Public&lang=en&timestamp=1786829969&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=391">
-          <img src="https://ytcards.demolab.com/?id=86wPeWkAGOw&title=Mark+Zuckerberg+Tries+To+Distract+After+OUTRAGEOUS+Neo-Nazi+Payouts+By+Meta+Go+Public&lang=en&timestamp=1786829969&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=391" alt="Mark Zuckerberg Tries To Distract After OUTRAGEOUS Neo-Nazi Payouts By Meta Go Public" title="Mark Zuckerberg Tries To Distract After OUTRAGEOUS Neo-Nazi Payouts By Meta Go Public">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=idCR2d4KRgw&title=Why+are+sandwiches+more+regulated+than+AI%3F+%7C+The+Bottom+Line&lang=en&timestamp=1786905428&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1501">
+          <img src="https://ytcards.demolab.com/?id=idCR2d4KRgw&title=Why+are+sandwiches+more+regulated+than+AI%3F+%7C+The+Bottom+Line&lang=en&timestamp=1786905428&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1501" alt="Why are sandwiches more regulated than AI? | The Bottom Line" title="Why are sandwiches more regulated than AI? | The Bottom Line">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=RL4LAzOXsc4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vUhamjWR_vA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RL4LAzOXsc4&title=Raoul+Pal+%26+Cathie+Wood%3A+%22Crypto%E2%80%99s+Next+EXPLOSIVE+Rally+Is+Closer+Than+You+Think%22+%7C+Bitcoin+2026&lang=en&timestamp=1786811969&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=971">
-          <img src="https://ytcards.demolab.com/?id=RL4LAzOXsc4&title=Raoul+Pal+%26+Cathie+Wood%3A+%22Crypto%E2%80%99s+Next+EXPLOSIVE+Rally+Is+Closer+Than+You+Think%22+%7C+Bitcoin+2026&lang=en&timestamp=1786811969&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=971" alt="Raoul Pal & Cathie Wood: &quot;Crypto’s Next EXPLOSIVE Rally Is Closer Than You Think&quot; | Bitcoin 2026" title="Raoul Pal & Cathie Wood: &quot;Crypto’s Next EXPLOSIVE Rally Is Closer Than You Think&quot; | Bitcoin 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vUhamjWR_vA&title=AI+threatens+the+Hasidic+community%3B+a+fiery+speech+by+Rabbi+Aaron+Teitelbaum&lang=en&timestamp=1786880228&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2261">
+          <img src="https://ytcards.demolab.com/?id=vUhamjWR_vA&title=AI+threatens+the+Hasidic+community%3B+a+fiery+speech+by+Rabbi+Aaron+Teitelbaum&lang=en&timestamp=1786880228&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2261" alt="AI threatens the Hasidic community; a fiery speech by Rabbi Aaron Teitelbaum" title="AI threatens the Hasidic community; a fiery speech by Rabbi Aaron Teitelbaum">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=d1gm6nPhPI8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4MVUg0zlGb0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=d1gm6nPhPI8&title=%22SUNO+is+Garbage%21%22+The+Fragile+Anti-AI+Movement+Exposed&lang=en&timestamp=1786797569&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1373">
-          <img src="https://ytcards.demolab.com/?id=d1gm6nPhPI8&title=%22SUNO+is+Garbage%21%22+The+Fragile+Anti-AI+Movement+Exposed&lang=en&timestamp=1786797569&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1373" alt="&quot;SUNO is Garbage!&quot; The Fragile Anti-AI Movement Exposed" title="&quot;SUNO is Garbage!&quot; The Fragile Anti-AI Movement Exposed">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4MVUg0zlGb0&title=We+Found+the+First+Warning+About+AI+%28It%E2%80%99s+6%2C000+Years+Old%29&lang=en&timestamp=1786928468&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1390">
+          <img src="https://ytcards.demolab.com/?id=4MVUg0zlGb0&title=We+Found+the+First+Warning+About+AI+%28It%E2%80%99s+6%2C000+Years+Old%29&lang=en&timestamp=1786928468&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1390" alt="We Found the First Warning About AI (It’s 6,000 Years Old)" title="We Found the First Warning About AI (It’s 6,000 Years Old)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_XzIssTThWg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=V4zb8QhQY58" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_XzIssTThWg&title=AI+Security+will+Explode+Over+the+Next+5+Years+%28Complete+Roadmap+%2B+Free+Resource%29&lang=en&timestamp=1786779569&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=466">
-          <img src="https://ytcards.demolab.com/?id=_XzIssTThWg&title=AI+Security+will+Explode+Over+the+Next+5+Years+%28Complete+Roadmap+%2B+Free+Resource%29&lang=en&timestamp=1786779569&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=466" alt="AI Security will Explode Over the Next 5 Years (Complete Roadmap + Free Resource)" title="AI Security will Explode Over the Next 5 Years (Complete Roadmap + Free Resource)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=V4zb8QhQY58&title=The+OpenAI+Story+Actually+Scares+Me&lang=en&timestamp=1786898228&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1304">
+          <img src="https://ytcards.demolab.com/?id=V4zb8QhQY58&title=The+OpenAI+Story+Actually+Scares+Me&lang=en&timestamp=1786898228&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1304" alt="The OpenAI Story Actually Scares Me" title="The OpenAI Story Actually Scares Me">
         </picture>
       </a>
     </td>
