@@ -95,56 +95,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PXgkm5UvAy8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=FDj7YfHOuf8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PXgkm5UvAy8&title=The+Real+Opportunity+of+AI+Is+More+Human+Than+You+Think&lang=en&timestamp=1786894628&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2313">
-          <img src="https://ytcards.demolab.com/?id=PXgkm5UvAy8&title=The+Real+Opportunity+of+AI+Is+More+Human+Than+You+Think&lang=en&timestamp=1786894628&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2313" alt="The Real Opportunity of AI Is More Human Than You Think" title="The Real Opportunity of AI Is More Human Than You Think">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FDj7YfHOuf8&title=US+Tells+35+Countries%3A+Pick+Us+or+China+in+the+Global+AI+Race+%7C+WION&lang=en&timestamp=1786966022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
+          <img src="https://ytcards.demolab.com/?id=FDj7YfHOuf8&title=US+Tells+35+Countries%3A+Pick+Us+or+China+in+the+Global+AI+Race+%7C+WION&lang=en&timestamp=1786966022&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="US Tells 35 Countries: Pick Us or China in the Global AI Race | WION" title="US Tells 35 Countries: Pick Us or China in the Global AI Race | WION">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=S1j3mBmpt6A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3Xgsz36gX7I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S1j3mBmpt6A&title=AI+Just+Solved+the+Alcatraz+Mystery+%E2%80%94+What+It+Found+After+55+Years+Will+Shock+You&lang=en&timestamp=1786898228&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1665">
-          <img src="https://ytcards.demolab.com/?id=S1j3mBmpt6A&title=AI+Just+Solved+the+Alcatraz+Mystery+%E2%80%94+What+It+Found+After+55+Years+Will+Shock+You&lang=en&timestamp=1786898228&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1665" alt="AI Just Solved the Alcatraz Mystery — What It Found After 55 Years Will Shock You" title="AI Just Solved the Alcatraz Mystery — What It Found After 55 Years Will Shock You">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3Xgsz36gX7I&title=The+%28Overdue%29+Collapse+Of+Artificial+intelligence&lang=en&timestamp=1786994822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=917">
+          <img src="https://ytcards.demolab.com/?id=3Xgsz36gX7I&title=The+%28Overdue%29+Collapse+Of+Artificial+intelligence&lang=en&timestamp=1786994822&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=917" alt="The (Overdue) Collapse Of Artificial intelligence" title="The (Overdue) Collapse Of Artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=idCR2d4KRgw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=sQVuKIWSX0o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=idCR2d4KRgw&title=Why+are+sandwiches+more+regulated+than+AI%3F+%7C+The+Bottom+Line&lang=en&timestamp=1786905428&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1501">
-          <img src="https://ytcards.demolab.com/?id=idCR2d4KRgw&title=Why+are+sandwiches+more+regulated+than+AI%3F+%7C+The+Bottom+Line&lang=en&timestamp=1786905428&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1501" alt="Why are sandwiches more regulated than AI? | The Bottom Line" title="Why are sandwiches more regulated than AI? | The Bottom Line">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sQVuKIWSX0o&title=Why+Is+Artificial+Intelligence+Considered+Atheist%3F&lang=en&timestamp=1786980422&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=857">
+          <img src="https://ytcards.demolab.com/?id=sQVuKIWSX0o&title=Why+Is+Artificial+Intelligence+Considered+Atheist%3F&lang=en&timestamp=1786980422&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=857" alt="Why Is Artificial Intelligence Considered Atheist?" title="Why Is Artificial Intelligence Considered Atheist?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vUhamjWR_vA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RuryzBsvtmM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vUhamjWR_vA&title=AI+threatens+the+Hasidic+community%3B+a+fiery+speech+by+Rabbi+Aaron+Teitelbaum&lang=en&timestamp=1786880228&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2261">
-          <img src="https://ytcards.demolab.com/?id=vUhamjWR_vA&title=AI+threatens+the+Hasidic+community%3B+a+fiery+speech+by+Rabbi+Aaron+Teitelbaum&lang=en&timestamp=1786880228&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2261" alt="AI threatens the Hasidic community; a fiery speech by Rabbi Aaron Teitelbaum" title="AI threatens the Hasidic community; a fiery speech by Rabbi Aaron Teitelbaum">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RuryzBsvtmM&title=Ep.+28+++Artificial+Intelligence+Revisited&lang=en&timestamp=1787009222&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2295">
+          <img src="https://ytcards.demolab.com/?id=RuryzBsvtmM&title=Ep.+28+++Artificial+Intelligence+Revisited&lang=en&timestamp=1787009222&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2295" alt="Ep. 28   Artificial Intelligence Revisited" title="Ep. 28   Artificial Intelligence Revisited">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4MVUg0zlGb0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=J2j7ucgSJUE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4MVUg0zlGb0&title=We+Found+the+First+Warning+About+AI+%28It%E2%80%99s+6%2C000+Years+Old%29&lang=en&timestamp=1786928468&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1390">
-          <img src="https://ytcards.demolab.com/?id=4MVUg0zlGb0&title=We+Found+the+First+Warning+About+AI+%28It%E2%80%99s+6%2C000+Years+Old%29&lang=en&timestamp=1786928468&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1390" alt="We Found the First Warning About AI (It’s 6,000 Years Old)" title="We Found the First Warning About AI (It’s 6,000 Years Old)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J2j7ucgSJUE&title=How+to+Get+AHEAD+of+the+Market+Before+AI+Changes+the+Rules+of+the+Game&lang=en&timestamp=1786984022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6294">
+          <img src="https://ytcards.demolab.com/?id=J2j7ucgSJUE&title=How+to+Get+AHEAD+of+the+Market+Before+AI+Changes+the+Rules+of+the+Game&lang=en&timestamp=1786984022&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6294" alt="How to Get AHEAD of the Market Before AI Changes the Rules of the Game" title="How to Get AHEAD of the Market Before AI Changes the Rules of the Game">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=V4zb8QhQY58" target="_blank">
+      <a href="https://www.youtube.com/watch?v=auaBzzY4uBk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=V4zb8QhQY58&title=The+OpenAI+Story+Actually+Scares+Me&lang=en&timestamp=1786898228&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1304">
-          <img src="https://ytcards.demolab.com/?id=V4zb8QhQY58&title=The+OpenAI+Story+Actually+Scares+Me&lang=en&timestamp=1786898228&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1304" alt="The OpenAI Story Actually Scares Me" title="The OpenAI Story Actually Scares Me">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=auaBzzY4uBk&title=Revisiting+the+Meaning+of+Confession+in+the+Age+of+AI+%7C+Joo-won+Yoon+%7C+TEDxInha+U&lang=en&timestamp=1786984022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=923">
+          <img src="https://ytcards.demolab.com/?id=auaBzzY4uBk&title=Revisiting+the+Meaning+of+Confession+in+the+Age+of+AI+%7C+Joo-won+Yoon+%7C+TEDxInha+U&lang=en&timestamp=1786984022&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=923" alt="Revisiting the Meaning of Confession in the Age of AI | Joo-won Yoon | TEDxInha U" title="Revisiting the Meaning of Confession in the Age of AI | Joo-won Yoon | TEDxInha U">
         </picture>
       </a>
     </td>
