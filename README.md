@@ -96,56 +96,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=FDj7YfHOuf8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=aOo-Tz5C-GY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FDj7YfHOuf8&title=US+Tells+35+Countries%3A+Pick+Us+or+China+in+the+Global+AI+Race+%7C+WION&lang=en&timestamp=1786966022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
-          <img src="https://ytcards.demolab.com/?id=FDj7YfHOuf8&title=US+Tells+35+Countries%3A+Pick+Us+or+China+in+the+Global+AI+Race+%7C+WION&lang=en&timestamp=1786966022&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="US Tells 35 Countries: Pick Us or China in the Global AI Race | WION" title="US Tells 35 Countries: Pick Us or China in the Global AI Race | WION">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aOo-Tz5C-GY&title=How+AI+Has+Become+a+Fixture+in+Classrooms+and+Homes&lang=en&timestamp=1787060084&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=349">
+          <img src="https://ytcards.demolab.com/?id=aOo-Tz5C-GY&title=How+AI+Has+Become+a+Fixture+in+Classrooms+and+Homes&lang=en&timestamp=1787060084&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=349" alt="How AI Has Become a Fixture in Classrooms and Homes" title="How AI Has Become a Fixture in Classrooms and Homes">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3Xgsz36gX7I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=q5MytSt3b2I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3Xgsz36gX7I&title=The+%28Overdue%29+Collapse+Of+Artificial+intelligence&lang=en&timestamp=1786994822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=917">
-          <img src="https://ytcards.demolab.com/?id=3Xgsz36gX7I&title=The+%28Overdue%29+Collapse+Of+Artificial+intelligence&lang=en&timestamp=1786994822&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=917" alt="The (Overdue) Collapse Of Artificial intelligence" title="The (Overdue) Collapse Of Artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=q5MytSt3b2I&title=These+AI+Crypto+Coins+Are+MUST+Have+For+The+Trillions+Coming+To+Artificial+Intelligence&lang=en&timestamp=1787060084&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1194">
+          <img src="https://ytcards.demolab.com/?id=q5MytSt3b2I&title=These+AI+Crypto+Coins+Are+MUST+Have+For+The+Trillions+Coming+To+Artificial+Intelligence&lang=en&timestamp=1787060084&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1194" alt="These AI Crypto Coins Are MUST Have For The Trillions Coming To Artificial Intelligence" title="These AI Crypto Coins Are MUST Have For The Trillions Coming To Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sQVuKIWSX0o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1FU8XklmrA8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sQVuKIWSX0o&title=Why+Is+Artificial+Intelligence+Considered+Atheist%3F&lang=en&timestamp=1786980422&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=857">
-          <img src="https://ytcards.demolab.com/?id=sQVuKIWSX0o&title=Why+Is+Artificial+Intelligence+Considered+Atheist%3F&lang=en&timestamp=1786980422&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=857" alt="Why Is Artificial Intelligence Considered Atheist?" title="Why Is Artificial Intelligence Considered Atheist?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1FU8XklmrA8&title=Artificial+Intelligence%2C+Interest+Rates+And+Inflation...Oh%2C+What+A+Tangled+Web+We+Weave&lang=en&timestamp=1787070884&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=755">
+          <img src="https://ytcards.demolab.com/?id=1FU8XklmrA8&title=Artificial+Intelligence%2C+Interest+Rates+And+Inflation...Oh%2C+What+A+Tangled+Web+We+Weave&lang=en&timestamp=1787070884&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=755" alt="Artificial Intelligence, Interest Rates And Inflation...Oh, What A Tangled Web We Weave" title="Artificial Intelligence, Interest Rates And Inflation...Oh, What A Tangled Web We Weave">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=RuryzBsvtmM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wLGOxxGBs_U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RuryzBsvtmM&title=Ep.+28+++Artificial+Intelligence+Revisited&lang=en&timestamp=1787009222&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2295">
-          <img src="https://ytcards.demolab.com/?id=RuryzBsvtmM&title=Ep.+28+++Artificial+Intelligence+Revisited&lang=en&timestamp=1787009222&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2295" alt="Ep. 28   Artificial Intelligence Revisited" title="Ep. 28   Artificial Intelligence Revisited">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wLGOxxGBs_U&title=The+Tech+Layoffs+are+About+to+Reverse&lang=en&timestamp=1787063684&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=600">
+          <img src="https://ytcards.demolab.com/?id=wLGOxxGBs_U&title=The+Tech+Layoffs+are+About+to+Reverse&lang=en&timestamp=1787063684&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=600" alt="The Tech Layoffs are About to Reverse" title="The Tech Layoffs are About to Reverse">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=J2j7ucgSJUE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PHCg9kanGR4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=J2j7ucgSJUE&title=How+to+Get+AHEAD+of+the+Market+Before+AI+Changes+the+Rules+of+the+Game&lang=en&timestamp=1786984022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6294">
-          <img src="https://ytcards.demolab.com/?id=J2j7ucgSJUE&title=How+to+Get+AHEAD+of+the+Market+Before+AI+Changes+the+Rules+of+the+Game&lang=en&timestamp=1786984022&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6294" alt="How to Get AHEAD of the Market Before AI Changes the Rules of the Game" title="How to Get AHEAD of the Market Before AI Changes the Rules of the Game">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787042084&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1795">
+          <img src="https://ytcards.demolab.com/?id=PHCg9kanGR4&title=Artificial+Intelligence+Confirms+Date+of+the+Rapture+08%2F18%2F2026&lang=en&timestamp=1787042084&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1795" alt="Artificial Intelligence Confirms Date of the Rapture 08/18/2026" title="Artificial Intelligence Confirms Date of the Rapture 08/18/2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=auaBzzY4uBk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-MUDG2_DhJc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=auaBzzY4uBk&title=Revisiting+the+Meaning+of+Confession+in+the+Age+of+AI+%7C+Joo-won+Yoon+%7C+TEDxInha+U&lang=en&timestamp=1786984022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=923">
-          <img src="https://ytcards.demolab.com/?id=auaBzzY4uBk&title=Revisiting+the+Meaning+of+Confession+in+the+Age+of+AI+%7C+Joo-won+Yoon+%7C+TEDxInha+U&lang=en&timestamp=1786984022&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=923" alt="Revisiting the Meaning of Confession in the Age of AI | Joo-won Yoon | TEDxInha U" title="Revisiting the Meaning of Confession in the Age of AI | Joo-won Yoon | TEDxInha U">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-MUDG2_DhJc&title=Will+Al+make+your+degree+pointless%3F+-+What+in+the+World+podcast%2C+BBC+World+Service&lang=en&timestamp=1787056484&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1069">
+          <img src="https://ytcards.demolab.com/?id=-MUDG2_DhJc&title=Will+Al+make+your+degree+pointless%3F+-+What+in+the+World+podcast%2C+BBC+World+Service&lang=en&timestamp=1787056484&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1069" alt="Will Al make your degree pointless? - What in the World podcast, BBC World Service" title="Will Al make your degree pointless? - What in the World podcast, BBC World Service">
         </picture>
       </a>
     </td>
