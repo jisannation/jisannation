@@ -99,56 +99,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bCfzOVVWknQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ebWFexw51qM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bCfzOVVWknQ&title=Book+publishers+forced+to+navigate+AI+and+the+stories+about+misuse+are+stunning&lang=en&timestamp=1787240304&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=130">
-          <img src="https://ytcards.demolab.com/?id=bCfzOVVWknQ&title=Book+publishers+forced+to+navigate+AI+and+the+stories+about+misuse+are+stunning&lang=en&timestamp=1787240304&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=130" alt="Book publishers forced to navigate AI and the stories about misuse are stunning" title="Book publishers forced to navigate AI and the stories about misuse are stunning">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ebWFexw51qM&title=%22Only+2+Years+Left%22+AI+Whistleblower+Warns+What+Comes+Next+%7C+Roman+Yampolskiy&lang=en&timestamp=1787333225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6640">
+          <img src="https://ytcards.demolab.com/?id=ebWFexw51qM&title=%22Only+2+Years+Left%22+AI+Whistleblower+Warns+What+Comes+Next+%7C+Roman+Yampolskiy&lang=en&timestamp=1787333225&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6640" alt="&quot;Only 2 Years Left&quot; AI Whistleblower Warns What Comes Next | Roman Yampolskiy" title="&quot;Only 2 Years Left&quot; AI Whistleblower Warns What Comes Next | Roman Yampolskiy">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=v99DkPP6LVY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=aBCsBQAnoVs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Superintelligence+Is+Not+a+Tool%2C+It%27s+an+Adversary+Threatening+Humanity%3A+ControlAI%27s+Connor+Leahy&lang=en&timestamp=1787236704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
-          <img src="https://ytcards.demolab.com/?id=v99DkPP6LVY&title=AI+Superintelligence+Is+Not+a+Tool%2C+It%27s+an+Adversary+Threatening+Humanity%3A+ControlAI%27s+Connor+Leahy&lang=en&timestamp=1787236704&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="AI Superintelligence Is Not a Tool, It's an Adversary Threatening Humanity: ControlAI's Connor Leahy" title="AI Superintelligence Is Not a Tool, It's an Adversary Threatening Humanity: ControlAI's Connor Leahy">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787351225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
+          <img src="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787351225&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="How doctors use artificial intelligence during exams and appointments" title="How doctors use artificial intelligence during exams and appointments">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zr1kOeilDKI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ileUkRD5B4c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787272704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=119">
-          <img src="https://ytcards.demolab.com/?id=zr1kOeilDKI&title=Do+workers+actually+use+Artificial+Intelligence+on+the+job%3F&lang=en&timestamp=1787272704&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=119" alt="Do workers actually use Artificial Intelligence on the job?" title="Do workers actually use Artificial Intelligence on the job?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787354825&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=149">
+          <img src="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787354825&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=149" alt="Artificial intelligence playing a big role in choosing college majors" title="Artificial intelligence playing a big role in choosing college majors">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JRyo8zvmqaQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2aM1gohpvYA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787247504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=996">
-          <img src="https://ytcards.demolab.com/?id=JRyo8zvmqaQ&title=How+AI+Actually+Works&lang=en&timestamp=1787247504&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=996" alt="How AI Actually Works" title="How AI Actually Works">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2aM1gohpvYA&title=What+role+is+Artificial+Intelligence+playing+in+schools%3F&lang=en&timestamp=1787322425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=208">
+          <img src="https://ytcards.demolab.com/?id=2aM1gohpvYA&title=What+role+is+Artificial+Intelligence+playing+in+schools%3F&lang=en&timestamp=1787322425&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=208" alt="What role is Artificial Intelligence playing in schools?" title="What role is Artificial Intelligence playing in schools?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-KJ2Px80lm4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qWKHFYixR7U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-KJ2Px80lm4&title=Women+Who+Refuse+to+Use+AI+Will+Be+Left+Behind&lang=en&timestamp=1787225904&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1620">
-          <img src="https://ytcards.demolab.com/?id=-KJ2Px80lm4&title=Women+Who+Refuse+to+Use+AI+Will+Be+Left+Behind&lang=en&timestamp=1787225904&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1620" alt="Women Who Refuse to Use AI Will Be Left Behind" title="Women Who Refuse to Use AI Will Be Left Behind">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qWKHFYixR7U&title=ARTIFICIAL+INTELLIGENCE+EXPLAINED+%5B+AI+TOOLS+%26+FEATURES+%5D&lang=en&timestamp=1787336825&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=325">
+          <img src="https://ytcards.demolab.com/?id=qWKHFYixR7U&title=ARTIFICIAL+INTELLIGENCE+EXPLAINED+%5B+AI+TOOLS+%26+FEATURES+%5D&lang=en&timestamp=1787336825&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=325" alt="ARTIFICIAL INTELLIGENCE EXPLAINED [ AI TOOLS & FEATURES ]" title="ARTIFICIAL INTELLIGENCE EXPLAINED [ AI TOOLS & FEATURES ]">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=k1tbc1Rqt2k" target="_blank">
+      <a href="https://www.youtube.com/watch?v=M5A8SombhwA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k1tbc1Rqt2k&title=Survey+found+70+percent+of+teens+use+artificial+intelligence+for+schoolwork&lang=en&timestamp=1787254704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=303">
-          <img src="https://ytcards.demolab.com/?id=k1tbc1Rqt2k&title=Survey+found+70+percent+of+teens+use+artificial+intelligence+for+schoolwork&lang=en&timestamp=1787254704&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=303" alt="Survey found 70 percent of teens use artificial intelligence for schoolwork" title="Survey found 70 percent of teens use artificial intelligence for schoolwork">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=M5A8SombhwA&title=Key+Principles+of+Artificial+Intelligence+%28AI%29+and+Machine+Learning%21&lang=en&timestamp=1787326025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=633">
+          <img src="https://ytcards.demolab.com/?id=M5A8SombhwA&title=Key+Principles+of+Artificial+Intelligence+%28AI%29+and+Machine+Learning%21&lang=en&timestamp=1787326025&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=633" alt="Key Principles of Artificial Intelligence (AI) and Machine Learning!" title="Key Principles of Artificial Intelligence (AI) and Machine Learning!">
         </picture>
       </a>
     </td>
