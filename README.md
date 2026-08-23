@@ -100,56 +100,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ebWFexw51qM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WNGcwV-zsXA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ebWFexw51qM&title=%22Only+2+Years+Left%22+AI+Whistleblower+Warns+What+Comes+Next+%7C+Roman+Yampolskiy&lang=en&timestamp=1787333225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6640">
-          <img src="https://ytcards.demolab.com/?id=ebWFexw51qM&title=%22Only+2+Years+Left%22+AI+Whistleblower+Warns+What+Comes+Next+%7C+Roman+Yampolskiy&lang=en&timestamp=1787333225&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6640" alt="&quot;Only 2 Years Left&quot; AI Whistleblower Warns What Comes Next | Roman Yampolskiy" title="&quot;Only 2 Years Left&quot; AI Whistleblower Warns What Comes Next | Roman Yampolskiy">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787362871&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2890">
+          <img src="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787362871&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2890" alt="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi" title="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aBCsBQAnoVs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xgXY5lHgbhM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787351225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
-          <img src="https://ytcards.demolab.com/?id=aBCsBQAnoVs&title=How+doctors+use+artificial+intelligence+during+exams+and+appointments&lang=en&timestamp=1787351225&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="How doctors use artificial intelligence during exams and appointments" title="How doctors use artificial intelligence during exams and appointments">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xgXY5lHgbhM&title=The+Trillion+dollar+Race+to+Power+Artificial+Intelligence&lang=en&timestamp=1787424071&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=601">
+          <img src="https://ytcards.demolab.com/?id=xgXY5lHgbhM&title=The+Trillion+dollar+Race+to+Power+Artificial+Intelligence&lang=en&timestamp=1787424071&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=601" alt="The Trillion dollar Race to Power Artificial Intelligence" title="The Trillion dollar Race to Power Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ileUkRD5B4c" target="_blank">
+      <a href="https://www.youtube.com/watch?v=O07vdWfhqow" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787354825&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=149">
-          <img src="https://ytcards.demolab.com/?id=ileUkRD5B4c&title=Artificial+intelligence+playing+a+big+role+in+choosing+college+majors&lang=en&timestamp=1787354825&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=149" alt="Artificial intelligence playing a big role in choosing college majors" title="Artificial intelligence playing a big role in choosing college majors">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O07vdWfhqow&title=110+Disturbing+Facts+About+Artificial+Intelligence+to+Fall+Asleep+To&lang=en&timestamp=1787434871&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7975">
+          <img src="https://ytcards.demolab.com/?id=O07vdWfhqow&title=110+Disturbing+Facts+About+Artificial+Intelligence+to+Fall+Asleep+To&lang=en&timestamp=1787434871&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7975" alt="110 Disturbing Facts About Artificial Intelligence to Fall Asleep To" title="110 Disturbing Facts About Artificial Intelligence to Fall Asleep To">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2aM1gohpvYA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Eqb5Lv8w-70" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2aM1gohpvYA&title=What+role+is+Artificial+Intelligence+playing+in+schools%3F&lang=en&timestamp=1787322425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=208">
-          <img src="https://ytcards.demolab.com/?id=2aM1gohpvYA&title=What+role+is+Artificial+Intelligence+playing+in+schools%3F&lang=en&timestamp=1787322425&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=208" alt="What role is Artificial Intelligence playing in schools?" title="What role is Artificial Intelligence playing in schools?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Eqb5Lv8w-70&title=UT+Knoxville+is+now+home+to+the+only+undergraduate+artificial+intelligence+program+in+the+country&lang=en&timestamp=1787445671&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=98">
+          <img src="https://ytcards.demolab.com/?id=Eqb5Lv8w-70&title=UT+Knoxville+is+now+home+to+the+only+undergraduate+artificial+intelligence+program+in+the+country&lang=en&timestamp=1787445671&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=98" alt="UT Knoxville is now home to the only undergraduate artificial intelligence program in the country" title="UT Knoxville is now home to the only undergraduate artificial intelligence program in the country">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qWKHFYixR7U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=POMLR1rCPDI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qWKHFYixR7U&title=ARTIFICIAL+INTELLIGENCE+EXPLAINED+%5B+AI+TOOLS+%26+FEATURES+%5D&lang=en&timestamp=1787336825&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=325">
-          <img src="https://ytcards.demolab.com/?id=qWKHFYixR7U&title=ARTIFICIAL+INTELLIGENCE+EXPLAINED+%5B+AI+TOOLS+%26+FEATURES+%5D&lang=en&timestamp=1787336825&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=325" alt="ARTIFICIAL INTELLIGENCE EXPLAINED [ AI TOOLS & FEATURES ]" title="ARTIFICIAL INTELLIGENCE EXPLAINED [ AI TOOLS & FEATURES ]">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=POMLR1rCPDI&title=GAO+Warns+VA+About+AI+in+Disability+Claims%3A+What+Veterans+Should+Know&lang=en&timestamp=1787416871&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=265">
+          <img src="https://ytcards.demolab.com/?id=POMLR1rCPDI&title=GAO+Warns+VA+About+AI+in+Disability+Claims%3A+What+Veterans+Should+Know&lang=en&timestamp=1787416871&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=265" alt="GAO Warns VA About AI in Disability Claims: What Veterans Should Know" title="GAO Warns VA About AI in Disability Claims: What Veterans Should Know">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=M5A8SombhwA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=c6zCeh_J5XI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=M5A8SombhwA&title=Key+Principles+of+Artificial+Intelligence+%28AI%29+and+Machine+Learning%21&lang=en&timestamp=1787326025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=633">
-          <img src="https://ytcards.demolab.com/?id=M5A8SombhwA&title=Key+Principles+of+Artificial+Intelligence+%28AI%29+and+Machine+Learning%21&lang=en&timestamp=1787326025&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=633" alt="Key Principles of Artificial Intelligence (AI) and Machine Learning!" title="Key Principles of Artificial Intelligence (AI) and Machine Learning!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c6zCeh_J5XI&title=List+Founders+of+AI+Companies&lang=en&timestamp=1787409671&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=194">
+          <img src="https://ytcards.demolab.com/?id=c6zCeh_J5XI&title=List+Founders+of+AI+Companies&lang=en&timestamp=1787409671&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=194" alt="List Founders of AI Companies" title="List Founders of AI Companies">
         </picture>
       </a>
     </td>
