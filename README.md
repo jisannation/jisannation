@@ -101,56 +101,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WNGcwV-zsXA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eDoqKpLquG0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787362871&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2890">
-          <img src="https://ytcards.demolab.com/?id=WNGcwV-zsXA&title=Faith+in+the+Age+of+Artificial+Intelligence%3A+Is+AI+a+Blessing+or+Curse%3F+%7C+Shaykh+Dr.+Yasir+Qadhi&lang=en&timestamp=1787362871&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2890" alt="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi" title="Faith in the Age of Artificial Intelligence: Is AI a Blessing or Curse? | Shaykh Dr. Yasir Qadhi">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eDoqKpLquG0&title=Expert+says+AI+can+EXPAND+student+thinking+in+classical+education&lang=en&timestamp=1787503147&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=333">
+          <img src="https://ytcards.demolab.com/?id=eDoqKpLquG0&title=Expert+says+AI+can+EXPAND+student+thinking+in+classical+education&lang=en&timestamp=1787503147&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=333" alt="Expert says AI can EXPAND student thinking in classical education" title="Expert says AI can EXPAND student thinking in classical education">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xgXY5lHgbhM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ABcFmgt0D5I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xgXY5lHgbhM&title=The+Trillion+dollar+Race+to+Power+Artificial+Intelligence&lang=en&timestamp=1787424071&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=601">
-          <img src="https://ytcards.demolab.com/?id=xgXY5lHgbhM&title=The+Trillion+dollar+Race+to+Power+Artificial+Intelligence&lang=en&timestamp=1787424071&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=601" alt="The Trillion dollar Race to Power Artificial Intelligence" title="The Trillion dollar Race to Power Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787517547&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6632">
+          <img src="https://ytcards.demolab.com/?id=ABcFmgt0D5I&title=Terrifying+AI+Behavior+Even+Its+Creators+Couldn%27t+Explain&lang=en&timestamp=1787517547&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6632" alt="Terrifying AI Behavior Even Its Creators Couldn't Explain" title="Terrifying AI Behavior Even Its Creators Couldn't Explain">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=O07vdWfhqow" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QEK4o-Di4KY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=O07vdWfhqow&title=110+Disturbing+Facts+About+Artificial+Intelligence+to+Fall+Asleep+To&lang=en&timestamp=1787434871&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7975">
-          <img src="https://ytcards.demolab.com/?id=O07vdWfhqow&title=110+Disturbing+Facts+About+Artificial+Intelligence+to+Fall+Asleep+To&lang=en&timestamp=1787434871&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7975" alt="110 Disturbing Facts About Artificial Intelligence to Fall Asleep To" title="110 Disturbing Facts About Artificial Intelligence to Fall Asleep To">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QEK4o-Di4KY&title=Navigating+The+Future%3A+Can+IT+Make+The+AI+Pivot%3F+%7C+AI%3A+The+Next+Frontier&lang=en&timestamp=1787492347&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3683">
+          <img src="https://ytcards.demolab.com/?id=QEK4o-Di4KY&title=Navigating+The+Future%3A+Can+IT+Make+The+AI+Pivot%3F+%7C+AI%3A+The+Next+Frontier&lang=en&timestamp=1787492347&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3683" alt="Navigating The Future: Can IT Make The AI Pivot? | AI: The Next Frontier" title="Navigating The Future: Can IT Make The AI Pivot? | AI: The Next Frontier">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Eqb5Lv8w-70" target="_blank">
+      <a href="https://www.youtube.com/watch?v=DX7d6cf42_E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Eqb5Lv8w-70&title=UT+Knoxville+is+now+home+to+the+only+undergraduate+artificial+intelligence+program+in+the+country&lang=en&timestamp=1787445671&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=98">
-          <img src="https://ytcards.demolab.com/?id=Eqb5Lv8w-70&title=UT+Knoxville+is+now+home+to+the+only+undergraduate+artificial+intelligence+program+in+the+country&lang=en&timestamp=1787445671&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=98" alt="UT Knoxville is now home to the only undergraduate artificial intelligence program in the country" title="UT Knoxville is now home to the only undergraduate artificial intelligence program in the country">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DX7d6cf42_E&title=China%E2%80%99s+Robot+Beats+Human+400m+World+Record+at+Beijing+%E2%80%98Robot+Olympics%E2%80%99+%7C+AI1N&lang=en&timestamp=1787503147&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=82">
+          <img src="https://ytcards.demolab.com/?id=DX7d6cf42_E&title=China%E2%80%99s+Robot+Beats+Human+400m+World+Record+at+Beijing+%E2%80%98Robot+Olympics%E2%80%99+%7C+AI1N&lang=en&timestamp=1787503147&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=82" alt="China’s Robot Beats Human 400m World Record at Beijing ‘Robot Olympics’ | AI1N" title="China’s Robot Beats Human 400m World Record at Beijing ‘Robot Olympics’ | AI1N">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=POMLR1rCPDI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WIxn9k1YSPc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=POMLR1rCPDI&title=GAO+Warns+VA+About+AI+in+Disability+Claims%3A+What+Veterans+Should+Know&lang=en&timestamp=1787416871&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=265">
-          <img src="https://ytcards.demolab.com/?id=POMLR1rCPDI&title=GAO+Warns+VA+About+AI+in+Disability+Claims%3A+What+Veterans+Should+Know&lang=en&timestamp=1787416871&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=265" alt="GAO Warns VA About AI in Disability Claims: What Veterans Should Know" title="GAO Warns VA About AI in Disability Claims: What Veterans Should Know">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WIxn9k1YSPc&title=The+Overdue+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1787481547&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=351">
+          <img src="https://ytcards.demolab.com/?id=WIxn9k1YSPc&title=The+Overdue+Collapse+Of+Artificial+Intelligence&lang=en&timestamp=1787481547&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=351" alt="The Overdue Collapse Of Artificial Intelligence" title="The Overdue Collapse Of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=c6zCeh_J5XI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KixsIL38wkY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c6zCeh_J5XI&title=List+Founders+of+AI+Companies&lang=en&timestamp=1787409671&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=194">
-          <img src="https://ytcards.demolab.com/?id=c6zCeh_J5XI&title=List+Founders+of+AI+Companies&lang=en&timestamp=1787409671&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=194" alt="List Founders of AI Companies" title="List Founders of AI Companies">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KixsIL38wkY&title=AI+Jobs&lang=en&timestamp=1787510347&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=315">
+          <img src="https://ytcards.demolab.com/?id=KixsIL38wkY&title=AI+Jobs&lang=en&timestamp=1787510347&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=315" alt="AI Jobs" title="AI Jobs">
         </picture>
       </a>
     </td>
