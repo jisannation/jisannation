@@ -103,56 +103,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sZW6q8Wit38" target="_blank">
+      <a href="https://www.youtube.com/watch?v=DYbTzE92jbE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787564054&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=231">
-          <img src="https://ytcards.demolab.com/?id=sZW6q8Wit38&title=AI+costs+are+rising+for+businesses.+Does+it+compute%3F+%7C+The+Business+%7C+ABC+NEWS&lang=en&timestamp=1787564054&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=231" alt="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS" title="AI costs are rising for businesses. Does it compute? | The Business | ABC NEWS">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DYbTzE92jbE&title=AI+Investing+in+2026%3A+The+Next+Phase+of+Artificial+Intelligence&lang=en&timestamp=1787672346&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=288">
+          <img src="https://ytcards.demolab.com/?id=DYbTzE92jbE&title=AI+Investing+in+2026%3A+The+Next+Phase+of+Artificial+Intelligence&lang=en&timestamp=1787672346&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=288" alt="AI Investing in 2026: The Next Phase of Artificial Intelligence" title="AI Investing in 2026: The Next Phase of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MviT93-B7rc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=QQ4mttkotu4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MviT93-B7rc&title=AI+Won%27t+Take+Your+Job%2C+But+Someone+Who+Can+Use+AI+Might&lang=en&timestamp=1787592854&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3068">
-          <img src="https://ytcards.demolab.com/?id=MviT93-B7rc&title=AI+Won%27t+Take+Your+Job%2C+But+Someone+Who+Can+Use+AI+Might&lang=en&timestamp=1787592854&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3068" alt="AI Won't Take Your Job, But Someone Who Can Use AI Might" title="AI Won't Take Your Job, But Someone Who Can Use AI Might">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QQ4mttkotu4&title=How+you+can+Make+Money+Online+with+AI+-+Complete+Roadmap%E2%9C%85&lang=en&timestamp=1787661546&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1042">
+          <img src="https://ytcards.demolab.com/?id=QQ4mttkotu4&title=How+you+can+Make+Money+Online+with+AI+-+Complete+Roadmap%E2%9C%85&lang=en&timestamp=1787661546&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1042" alt="How you can Make Money Online with AI - Complete Roadmap✅" title="How you can Make Money Online with AI - Complete Roadmap✅">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=UIDy_9d4xvU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vnGQIQlBja4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UIDy_9d4xvU&title=Why+TSMC+Wins+%7C+Inside+The+Secret+Chip+Empire+%7C+Former+TSMC+R%26D+Director+Explains+AI%27s+Future&lang=en&timestamp=1787571254&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1621">
-          <img src="https://ytcards.demolab.com/?id=UIDy_9d4xvU&title=Why+TSMC+Wins+%7C+Inside+The+Secret+Chip+Empire+%7C+Former+TSMC+R%26D+Director+Explains+AI%27s+Future&lang=en&timestamp=1787571254&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1621" alt="Why TSMC Wins | Inside The Secret Chip Empire | Former TSMC R&D Director Explains AI's Future" title="Why TSMC Wins | Inside The Secret Chip Empire | Former TSMC R&D Director Explains AI's Future">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vnGQIQlBja4&title=Expert+Answers+How+Schools+Work+Around+The+World&lang=en&timestamp=1787675946&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1132">
+          <img src="https://ytcards.demolab.com/?id=vnGQIQlBja4&title=Expert+Answers+How+Schools+Work+Around+The+World&lang=en&timestamp=1787675946&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1132" alt="Expert Answers How Schools Work Around The World" title="Expert Answers How Schools Work Around The World">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fDW6oX46DMg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=b7IryPMK8tQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fDW6oX46DMg&title=Dr.+Dre+%26+DJ+Quik+DISAGREE+on+A.I.+in+MUSIC%E2%80%BC%EF%B8%8F&lang=en&timestamp=1787585654&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=748">
-          <img src="https://ytcards.demolab.com/?id=fDW6oX46DMg&title=Dr.+Dre+%26+DJ+Quik+DISAGREE+on+A.I.+in+MUSIC%E2%80%BC%EF%B8%8F&lang=en&timestamp=1787585654&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=748" alt="Dr. Dre & DJ Quik DISAGREE on A.I. in MUSIC‼️" title="Dr. Dre & DJ Quik DISAGREE on A.I. in MUSIC‼️">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=b7IryPMK8tQ&title=Experts+weigh+costs%2C+benefits+of+using+artificial+intelligence+in+education&lang=en&timestamp=1787693946&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=135">
+          <img src="https://ytcards.demolab.com/?id=b7IryPMK8tQ&title=Experts+weigh+costs%2C+benefits+of+using+artificial+intelligence+in+education&lang=en&timestamp=1787693946&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=135" alt="Experts weigh costs, benefits of using artificial intelligence in education" title="Experts weigh costs, benefits of using artificial intelligence in education">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=a2hhtkbcbtU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=W6fJqiAVB7k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=a2hhtkbcbtU&title=The+AI+tax+hits+the+Pixel+Watch+5+HARD&lang=en&timestamp=1787600054&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=823">
-          <img src="https://ytcards.demolab.com/?id=a2hhtkbcbtU&title=The+AI+tax+hits+the+Pixel+Watch+5+HARD&lang=en&timestamp=1787600054&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=823" alt="The AI tax hits the Pixel Watch 5 HARD" title="The AI tax hits the Pixel Watch 5 HARD">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W6fJqiAVB7k&title=Focus+On+AI+Summit+2026%3A+Artificial+Intelligence+for+Societal+Impact&lang=en&timestamp=1787665146&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=828">
+          <img src="https://ytcards.demolab.com/?id=W6fJqiAVB7k&title=Focus+On+AI+Summit+2026%3A+Artificial+Intelligence+for+Societal+Impact&lang=en&timestamp=1787665146&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=828" alt="Focus On AI Summit 2026: Artificial Intelligence for Societal Impact" title="Focus On AI Summit 2026: Artificial Intelligence for Societal Impact">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=u6drxiPTpw4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lkWK0Yc0OxE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=u6drxiPTpw4&title=AI+Before+vs+AI+Now+%7C+How+Much+Has+Artificial+Intelligence+Changed%3F&lang=en&timestamp=1787582054&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=418">
-          <img src="https://ytcards.demolab.com/?id=u6drxiPTpw4&title=AI+Before+vs+AI+Now+%7C+How+Much+Has+Artificial+Intelligence+Changed%3F&lang=en&timestamp=1787582054&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=418" alt="AI Before vs AI Now | How Much Has Artificial Intelligence Changed?" title="AI Before vs AI Now | How Much Has Artificial Intelligence Changed?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lkWK0Yc0OxE&title=%E2%80%98Sell-offs+in+software%E2%80%99%3A+Trader+explains+rotational+nature+of+tech+stocks&lang=en&timestamp=1787704746&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=433">
+          <img src="https://ytcards.demolab.com/?id=lkWK0Yc0OxE&title=%E2%80%98Sell-offs+in+software%E2%80%99%3A+Trader+explains+rotational+nature+of+tech+stocks&lang=en&timestamp=1787704746&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=433" alt="‘Sell-offs in software’: Trader explains rotational nature of tech stocks" title="‘Sell-offs in software’: Trader explains rotational nature of tech stocks">
         </picture>
       </a>
     </td>
