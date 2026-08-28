@@ -105,56 +105,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pJ-TBE7HaiA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8YmjmnThSUI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pJ-TBE7HaiA&title=%27The+turbulent+AI+era+is+here%27%3A+Bill+Gates+gives+his+three+AI+risks&lang=en&timestamp=1787797844&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=562">
-          <img src="https://ytcards.demolab.com/?id=pJ-TBE7HaiA&title=%27The+turbulent+AI+era+is+here%27%3A+Bill+Gates+gives+his+three+AI+risks&lang=en&timestamp=1787797844&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=562" alt="'The turbulent AI era is here': Bill Gates gives his three AI risks" title="'The turbulent AI era is here': Bill Gates gives his three AI risks">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8YmjmnThSUI&title=AI+Is+Changing+Gaming%3A+How+Artificial+Intelligence+Could+Transform+a+%24214+Billion+Industry+%7C+APT&lang=en&timestamp=1787911341&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=375">
+          <img src="https://ytcards.demolab.com/?id=8YmjmnThSUI&title=AI+Is+Changing+Gaming%3A+How+Artificial+Intelligence+Could+Transform+a+%24214+Billion+Industry+%7C+APT&lang=en&timestamp=1787911341&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=375" alt="AI Is Changing Gaming: How Artificial Intelligence Could Transform a $214 Billion Industry | APT" title="AI Is Changing Gaming: How Artificial Intelligence Could Transform a $214 Billion Industry | APT">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=MLeTQWQiOvg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rqJHgJknlPk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MLeTQWQiOvg&title=The+turbulent+era+of+artificial+intelligence+is+here&lang=en&timestamp=1787794244&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=112">
-          <img src="https://ytcards.demolab.com/?id=MLeTQWQiOvg&title=The+turbulent+era+of+artificial+intelligence+is+here&lang=en&timestamp=1787794244&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=112" alt="The turbulent era of artificial intelligence is here" title="The turbulent era of artificial intelligence is here">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rqJHgJknlPk&title=Artificial+Intelligence+and+Expert+Systems&lang=en&timestamp=1787895861&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=354">
+          <img src="https://ytcards.demolab.com/?id=rqJHgJknlPk&title=Artificial+Intelligence+and+Expert+Systems&lang=en&timestamp=1787895861&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=354" alt="Artificial Intelligence and Expert Systems" title="Artificial Intelligence and Expert Systems">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ksVnN27yzSg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=aAm3B83_4u8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ksVnN27yzSg&title=Bill+Gates+Sounds+Alarm+On+AI%3A+Jobs%2C+Bioterrorism+%26+Human+Life+At+Risk+%7C+Tech+News+%7C+N18G&lang=en&timestamp=1787772644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=98">
-          <img src="https://ytcards.demolab.com/?id=ksVnN27yzSg&title=Bill+Gates+Sounds+Alarm+On+AI%3A+Jobs%2C+Bioterrorism+%26+Human+Life+At+Risk+%7C+Tech+News+%7C+N18G&lang=en&timestamp=1787772644&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=98" alt="Bill Gates Sounds Alarm On AI: Jobs, Bioterrorism & Human Life At Risk | Tech News | N18G" title="Bill Gates Sounds Alarm On AI: Jobs, Bioterrorism & Human Life At Risk | Tech News | N18G">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aAm3B83_4u8&title=Bill+Gates+issues+CHILLING+warning+on+AI%27s+dangerous+risks&lang=en&timestamp=1787885061&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=265">
+          <img src="https://ytcards.demolab.com/?id=aAm3B83_4u8&title=Bill+Gates+issues+CHILLING+warning+on+AI%27s+dangerous+risks&lang=en&timestamp=1787885061&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=265" alt="Bill Gates issues CHILLING warning on AI's dangerous risks" title="Bill Gates issues CHILLING warning on AI's dangerous risks">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=hJSo7UV6hBA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=oUuEL9a3WNE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hJSo7UV6hBA&title=USA+Bonds+Artificial+Intelligence+Shock&lang=en&timestamp=1787754644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1107">
-          <img src="https://ytcards.demolab.com/?id=hJSo7UV6hBA&title=USA+Bonds+Artificial+Intelligence+Shock&lang=en&timestamp=1787754644&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1107" alt="USA Bonds Artificial Intelligence Shock" title="USA Bonds Artificial Intelligence Shock">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oUuEL9a3WNE&title=AGI+Just+Got+Uncomfortably+Close&lang=en&timestamp=1787856261&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1758">
+          <img src="https://ytcards.demolab.com/?id=oUuEL9a3WNE&title=AGI+Just+Got+Uncomfortably+Close&lang=en&timestamp=1787856261&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1758" alt="AGI Just Got Uncomfortably Close" title="AGI Just Got Uncomfortably Close">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=M1eT7MJmFl8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=z1ez0yWu1P4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=M1eT7MJmFl8&title=He+Put+Half+His+Portfolio+Into+AI%3A+What+This+Gen+Z+Investor+Learnt+%7C+Money+Mind&lang=en&timestamp=1787754644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=366">
-          <img src="https://ytcards.demolab.com/?id=M1eT7MJmFl8&title=He+Put+Half+His+Portfolio+Into+AI%3A+What+This+Gen+Z+Investor+Learnt+%7C+Money+Mind&lang=en&timestamp=1787754644&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=366" alt="He Put Half His Portfolio Into AI: What This Gen Z Investor Learnt | Money Mind" title="He Put Half His Portfolio Into AI: What This Gen Z Investor Learnt | Money Mind">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z1ez0yWu1P4&title=This+feels+illegal...&lang=en&timestamp=1787867061&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=627">
+          <img src="https://ytcards.demolab.com/?id=z1ez0yWu1P4&title=This+feels+illegal...&lang=en&timestamp=1787867061&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=627" alt="This feels illegal..." title="This feels illegal...">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BCkxIBe_1b8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=pO367nx0yaI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BCkxIBe_1b8&title=Building+AI+Fluency+Across+the+Intelligence+Workforce&lang=en&timestamp=1787801444&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=630">
-          <img src="https://ytcards.demolab.com/?id=BCkxIBe_1b8&title=Building+AI+Fluency+Across+the+Intelligence+Workforce&lang=en&timestamp=1787801444&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=630" alt="Building AI Fluency Across the Intelligence Workforce" title="Building AI Fluency Across the Intelligence Workforce">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pO367nx0yaI&title=PaperHub+%7C+AI+Must+Embrace+Specialization+via+SuperhumanAdaptableIntelligence+%28Goldfeder+et+al%2C2026%29&lang=en&timestamp=1787849061&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=433">
+          <img src="https://ytcards.demolab.com/?id=pO367nx0yaI&title=PaperHub+%7C+AI+Must+Embrace+Specialization+via+SuperhumanAdaptableIntelligence+%28Goldfeder+et+al%2C2026%29&lang=en&timestamp=1787849061&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=433" alt="PaperHub | AI Must Embrace Specialization via SuperhumanAdaptableIntelligence (Goldfeder et al,2026)" title="PaperHub | AI Must Embrace Specialization via SuperhumanAdaptableIntelligence (Goldfeder et al,2026)">
         </picture>
       </a>
     </td>
