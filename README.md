@@ -106,56 +106,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8YmjmnThSUI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=o-wv_szZ0V0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8YmjmnThSUI&title=AI+Is+Changing+Gaming%3A+How+Artificial+Intelligence+Could+Transform+a+%24214+Billion+Industry+%7C+APT&lang=en&timestamp=1787911341&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=375">
-          <img src="https://ytcards.demolab.com/?id=8YmjmnThSUI&title=AI+Is+Changing+Gaming%3A+How+Artificial+Intelligence+Could+Transform+a+%24214+Billion+Industry+%7C+APT&lang=en&timestamp=1787911341&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=375" alt="AI Is Changing Gaming: How Artificial Intelligence Could Transform a $214 Billion Industry | APT" title="AI Is Changing Gaming: How Artificial Intelligence Could Transform a $214 Billion Industry | APT">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o-wv_szZ0V0&title=Andrew+Ng%3A+The+Biggest+Opportunities+in+AI+Aren%27t+Where+You+Think&lang=en&timestamp=1787927496&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2271">
+          <img src="https://ytcards.demolab.com/?id=o-wv_szZ0V0&title=Andrew+Ng%3A+The+Biggest+Opportunities+in+AI+Aren%27t+Where+You+Think&lang=en&timestamp=1787927496&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2271" alt="Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think" title="Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rqJHgJknlPk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Cs96EmmnDOo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rqJHgJknlPk&title=Artificial+Intelligence+and+Expert+Systems&lang=en&timestamp=1787895861&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=354">
-          <img src="https://ytcards.demolab.com/?id=rqJHgJknlPk&title=Artificial+Intelligence+and+Expert+Systems&lang=en&timestamp=1787895861&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=354" alt="Artificial Intelligence and Expert Systems" title="Artificial Intelligence and Expert Systems">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cs96EmmnDOo&title=Tech+firms%2C+Bill+Gates+sound+new+alarm+over+AI+dangers&lang=en&timestamp=1787916696&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=109">
+          <img src="https://ytcards.demolab.com/?id=Cs96EmmnDOo&title=Tech+firms%2C+Bill+Gates+sound+new+alarm+over+AI+dangers&lang=en&timestamp=1787916696&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=109" alt="Tech firms, Bill Gates sound new alarm over AI dangers" title="Tech firms, Bill Gates sound new alarm over AI dangers">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aAm3B83_4u8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eWC47agaKpk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aAm3B83_4u8&title=Bill+Gates+issues+CHILLING+warning+on+AI%27s+dangerous+risks&lang=en&timestamp=1787885061&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=265">
-          <img src="https://ytcards.demolab.com/?id=aAm3B83_4u8&title=Bill+Gates+issues+CHILLING+warning+on+AI%27s+dangerous+risks&lang=en&timestamp=1787885061&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=265" alt="Bill Gates issues CHILLING warning on AI's dangerous risks" title="Bill Gates issues CHILLING warning on AI's dangerous risks">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eWC47agaKpk&title=Harvard+Professor+Exposes+the+Biggest+Lie+in+Silicon+Valley%3A+Is+AI+Built+On+a+Myth%3F+-+Steven+Pinker&lang=en&timestamp=1787916696&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4622">
+          <img src="https://ytcards.demolab.com/?id=eWC47agaKpk&title=Harvard+Professor+Exposes+the+Biggest+Lie+in+Silicon+Valley%3A+Is+AI+Built+On+a+Myth%3F+-+Steven+Pinker&lang=en&timestamp=1787916696&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4622" alt="Harvard Professor Exposes the Biggest Lie in Silicon Valley: Is AI Built On a Myth? - Steven Pinker" title="Harvard Professor Exposes the Biggest Lie in Silicon Valley: Is AI Built On a Myth? - Steven Pinker">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=oUuEL9a3WNE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lt6SnAxRopQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oUuEL9a3WNE&title=AGI+Just+Got+Uncomfortably+Close&lang=en&timestamp=1787856261&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1758">
-          <img src="https://ytcards.demolab.com/?id=oUuEL9a3WNE&title=AGI+Just+Got+Uncomfortably+Close&lang=en&timestamp=1787856261&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1758" alt="AGI Just Got Uncomfortably Close" title="AGI Just Got Uncomfortably Close">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lt6SnAxRopQ&title=AI+Psychosis%3A+Chatbots+and+Delusion&lang=en&timestamp=1787941896&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1132">
+          <img src="https://ytcards.demolab.com/?id=lt6SnAxRopQ&title=AI+Psychosis%3A+Chatbots+and+Delusion&lang=en&timestamp=1787941896&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1132" alt="AI Psychosis: Chatbots and Delusion" title="AI Psychosis: Chatbots and Delusion">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=z1ez0yWu1P4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=o1tQJMjA7YQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=z1ez0yWu1P4&title=This+feels+illegal...&lang=en&timestamp=1787867061&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=627">
-          <img src="https://ytcards.demolab.com/?id=z1ez0yWu1P4&title=This+feels+illegal...&lang=en&timestamp=1787867061&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=627" alt="This feels illegal..." title="This feels illegal...">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o1tQJMjA7YQ&title=The+Very+Human+History+of+AI+%7C+Understanding+Artificial+Intelligence%3A+Of+Minds+and+Machines&lang=en&timestamp=1787938296&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1980">
+          <img src="https://ytcards.demolab.com/?id=o1tQJMjA7YQ&title=The+Very+Human+History+of+AI+%7C+Understanding+Artificial+Intelligence%3A+Of+Minds+and+Machines&lang=en&timestamp=1787938296&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1980" alt="The Very Human History of AI | Understanding Artificial Intelligence: Of Minds and Machines" title="The Very Human History of AI | Understanding Artificial Intelligence: Of Minds and Machines">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pO367nx0yaI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9Huy61piajs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pO367nx0yaI&title=PaperHub+%7C+AI+Must+Embrace+Specialization+via+SuperhumanAdaptableIntelligence+%28Goldfeder+et+al%2C2026%29&lang=en&timestamp=1787849061&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=433">
-          <img src="https://ytcards.demolab.com/?id=pO367nx0yaI&title=PaperHub+%7C+AI+Must+Embrace+Specialization+via+SuperhumanAdaptableIntelligence+%28Goldfeder+et+al%2C2026%29&lang=en&timestamp=1787849061&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=433" alt="PaperHub | AI Must Embrace Specialization via SuperhumanAdaptableIntelligence (Goldfeder et al,2026)" title="PaperHub | AI Must Embrace Specialization via SuperhumanAdaptableIntelligence (Goldfeder et al,2026)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9Huy61piajs&title=The+Truth+about+AI+and+D%26D.&lang=en&timestamp=1787949096&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1115">
+          <img src="https://ytcards.demolab.com/?id=9Huy61piajs&title=The+Truth+about+AI+and+D%26D.&lang=en&timestamp=1787949096&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1115" alt="The Truth about AI and D&D." title="The Truth about AI and D&D.">
         </picture>
       </a>
     </td>
