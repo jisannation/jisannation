@@ -107,56 +107,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=o-wv_szZ0V0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=LiLeW23RsZo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o-wv_szZ0V0&title=Andrew+Ng%3A+The+Biggest+Opportunities+in+AI+Aren%27t+Where+You+Think&lang=en&timestamp=1787927496&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2271">
-          <img src="https://ytcards.demolab.com/?id=o-wv_szZ0V0&title=Andrew+Ng%3A+The+Biggest+Opportunities+in+AI+Aren%27t+Where+You+Think&lang=en&timestamp=1787927496&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2271" alt="Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think" title="Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LiLeW23RsZo&title=How+AI+is+changing+job+hunting&lang=en&timestamp=1788112046&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=299">
+          <img src="https://ytcards.demolab.com/?id=LiLeW23RsZo&title=How+AI+is+changing+job+hunting&lang=en&timestamp=1788112046&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=299" alt="How AI is changing job hunting" title="How AI is changing job hunting">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Cs96EmmnDOo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=5We-YU8KArs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cs96EmmnDOo&title=Tech+firms%2C+Bill+Gates+sound+new+alarm+over+AI+dangers&lang=en&timestamp=1787916696&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=109">
-          <img src="https://ytcards.demolab.com/?id=Cs96EmmnDOo&title=Tech+firms%2C+Bill+Gates+sound+new+alarm+over+AI+dangers&lang=en&timestamp=1787916696&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=109" alt="Tech firms, Bill Gates sound new alarm over AI dangers" title="Tech firms, Bill Gates sound new alarm over AI dangers">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5We-YU8KArs&title=Her+Students+Are+Confiding+in+AI%2C+and+It+Worries+Her+%7C+D.W.+Pasulka&lang=en&timestamp=1788130046&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=362">
+          <img src="https://ytcards.demolab.com/?id=5We-YU8KArs&title=Her+Students+Are+Confiding+in+AI%2C+and+It+Worries+Her+%7C+D.W.+Pasulka&lang=en&timestamp=1788130046&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=362" alt="Her Students Are Confiding in AI, and It Worries Her | D.W. Pasulka" title="Her Students Are Confiding in AI, and It Worries Her | D.W. Pasulka">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eWC47agaKpk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=OL1epW5hoO0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eWC47agaKpk&title=Harvard+Professor+Exposes+the+Biggest+Lie+in+Silicon+Valley%3A+Is+AI+Built+On+a+Myth%3F+-+Steven+Pinker&lang=en&timestamp=1787916696&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4622">
-          <img src="https://ytcards.demolab.com/?id=eWC47agaKpk&title=Harvard+Professor+Exposes+the+Biggest+Lie+in+Silicon+Valley%3A+Is+AI+Built+On+a+Myth%3F+-+Steven+Pinker&lang=en&timestamp=1787916696&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4622" alt="Harvard Professor Exposes the Biggest Lie in Silicon Valley: Is AI Built On a Myth? - Steven Pinker" title="Harvard Professor Exposes the Biggest Lie in Silicon Valley: Is AI Built On a Myth? - Steven Pinker">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OL1epW5hoO0&title=Soylent+Green+and+the+enclosure+of+Collective+Intelligence&lang=en&timestamp=1788090446&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1654">
+          <img src="https://ytcards.demolab.com/?id=OL1epW5hoO0&title=Soylent+Green+and+the+enclosure+of+Collective+Intelligence&lang=en&timestamp=1788090446&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1654" alt="Soylent Green and the enclosure of Collective Intelligence" title="Soylent Green and the enclosure of Collective Intelligence">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lt6SnAxRopQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=L4vqq6tA7_o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lt6SnAxRopQ&title=AI+Psychosis%3A+Chatbots+and+Delusion&lang=en&timestamp=1787941896&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1132">
-          <img src="https://ytcards.demolab.com/?id=lt6SnAxRopQ&title=AI+Psychosis%3A+Chatbots+and+Delusion&lang=en&timestamp=1787941896&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1132" alt="AI Psychosis: Chatbots and Delusion" title="AI Psychosis: Chatbots and Delusion">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L4vqq6tA7_o&title=Did+the+Bible+Predict+AI%3F+Rabbi+Simon+Jacobson+Answers+%7C+Theological+with+Shabbos+Kestenbaum&lang=en&timestamp=1788104846&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2918">
+          <img src="https://ytcards.demolab.com/?id=L4vqq6tA7_o&title=Did+the+Bible+Predict+AI%3F+Rabbi+Simon+Jacobson+Answers+%7C+Theological+with+Shabbos+Kestenbaum&lang=en&timestamp=1788104846&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2918" alt="Did the Bible Predict AI? Rabbi Simon Jacobson Answers | Theological with Shabbos Kestenbaum" title="Did the Bible Predict AI? Rabbi Simon Jacobson Answers | Theological with Shabbos Kestenbaum">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=o1tQJMjA7YQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SFZLjJ4AT1k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=o1tQJMjA7YQ&title=The+Very+Human+History+of+AI+%7C+Understanding+Artificial+Intelligence%3A+Of+Minds+and+Machines&lang=en&timestamp=1787938296&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1980">
-          <img src="https://ytcards.demolab.com/?id=o1tQJMjA7YQ&title=The+Very+Human+History+of+AI+%7C+Understanding+Artificial+Intelligence%3A+Of+Minds+and+Machines&lang=en&timestamp=1787938296&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1980" alt="The Very Human History of AI | Understanding Artificial Intelligence: Of Minds and Machines" title="The Very Human History of AI | Understanding Artificial Intelligence: Of Minds and Machines">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SFZLjJ4AT1k&title=I+Tested+an+Artificial+Intelligence+Indicator+on+100%2B+Trades%E2%80%A6+Here%E2%80%99s+What+Happened%21&lang=en&timestamp=1788090446&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=481">
+          <img src="https://ytcards.demolab.com/?id=SFZLjJ4AT1k&title=I+Tested+an+Artificial+Intelligence+Indicator+on+100%2B+Trades%E2%80%A6+Here%E2%80%99s+What+Happened%21&lang=en&timestamp=1788090446&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=481" alt="I Tested an Artificial Intelligence Indicator on 100+ Trades… Here’s What Happened!" title="I Tested an Artificial Intelligence Indicator on 100+ Trades… Here’s What Happened!">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9Huy61piajs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ckcChvgwVC0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9Huy61piajs&title=The+Truth+about+AI+and+D%26D.&lang=en&timestamp=1787949096&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1115">
-          <img src="https://ytcards.demolab.com/?id=9Huy61piajs&title=The+Truth+about+AI+and+D%26D.&lang=en&timestamp=1787949096&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1115" alt="The Truth about AI and D&D." title="The Truth about AI and D&D.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ckcChvgwVC0&title=Artificial+Intelligence%3A+How+AI+Is+Changing+Our+Future+%7C+AI+Explained&lang=en&timestamp=1788148046&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=465">
+          <img src="https://ytcards.demolab.com/?id=ckcChvgwVC0&title=Artificial+Intelligence%3A+How+AI+Is+Changing+Our+Future+%7C+AI+Explained&lang=en&timestamp=1788148046&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=465" alt="Artificial Intelligence: How AI Is Changing Our Future | AI Explained" title="Artificial Intelligence: How AI Is Changing Our Future | AI Explained">
         </picture>
       </a>
     </td>
