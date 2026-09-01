@@ -108,56 +108,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=LiLeW23RsZo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fDDch9r1gXk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=LiLeW23RsZo&title=How+AI+is+changing+job+hunting&lang=en&timestamp=1788112046&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=299">
-          <img src="https://ytcards.demolab.com/?id=LiLeW23RsZo&title=How+AI+is+changing+job+hunting&lang=en&timestamp=1788112046&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=299" alt="How AI is changing job hunting" title="How AI is changing job hunting">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fDDch9r1gXk&title=Artificial+intelligence+agents+going+rogue+fuel+calls+for+regulation&lang=en&timestamp=1788218836&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=391">
+          <img src="https://ytcards.demolab.com/?id=fDDch9r1gXk&title=Artificial+intelligence+agents+going+rogue+fuel+calls+for+regulation&lang=en&timestamp=1788218836&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=391" alt="Artificial intelligence agents going rogue fuel calls for regulation" title="Artificial intelligence agents going rogue fuel calls for regulation">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=5We-YU8KArs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=YL3FAM4rfy8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5We-YU8KArs&title=Her+Students+Are+Confiding+in+AI%2C+and+It+Worries+Her+%7C+D.W.+Pasulka&lang=en&timestamp=1788130046&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=362">
-          <img src="https://ytcards.demolab.com/?id=5We-YU8KArs&title=Her+Students+Are+Confiding+in+AI%2C+and+It+Worries+Her+%7C+D.W.+Pasulka&lang=en&timestamp=1788130046&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=362" alt="Her Students Are Confiding in AI, and It Worries Her | D.W. Pasulka" title="Her Students Are Confiding in AI, and It Worries Her | D.W. Pasulka">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YL3FAM4rfy8&title=OpenAI%27s+Hugging+Face+breach+is+a+%22wake+up+call%2C%22+venture+capitalist+Matt+Shumer+says&lang=en&timestamp=1788190036&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=341">
+          <img src="https://ytcards.demolab.com/?id=YL3FAM4rfy8&title=OpenAI%27s+Hugging+Face+breach+is+a+%22wake+up+call%2C%22+venture+capitalist+Matt+Shumer+says&lang=en&timestamp=1788190036&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=341" alt="OpenAI's Hugging Face breach is a &quot;wake up call,&quot; venture capitalist Matt Shumer says" title="OpenAI's Hugging Face breach is a &quot;wake up call,&quot; venture capitalist Matt Shumer says">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=OL1epW5hoO0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9avRZ0yCKIE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OL1epW5hoO0&title=Soylent+Green+and+the+enclosure+of+Collective+Intelligence&lang=en&timestamp=1788090446&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1654">
-          <img src="https://ytcards.demolab.com/?id=OL1epW5hoO0&title=Soylent+Green+and+the+enclosure+of+Collective+Intelligence&lang=en&timestamp=1788090446&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1654" alt="Soylent Green and the enclosure of Collective Intelligence" title="Soylent Green and the enclosure of Collective Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9avRZ0yCKIE&title=An+AI+Crash%3F&lang=en&timestamp=1788197236&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=573">
+          <img src="https://ytcards.demolab.com/?id=9avRZ0yCKIE&title=An+AI+Crash%3F&lang=en&timestamp=1788197236&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=573" alt="An AI Crash?" title="An AI Crash?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=L4vqq6tA7_o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tpK7TVTOTfg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L4vqq6tA7_o&title=Did+the+Bible+Predict+AI%3F+Rabbi+Simon+Jacobson+Answers+%7C+Theological+with+Shabbos+Kestenbaum&lang=en&timestamp=1788104846&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2918">
-          <img src="https://ytcards.demolab.com/?id=L4vqq6tA7_o&title=Did+the+Bible+Predict+AI%3F+Rabbi+Simon+Jacobson+Answers+%7C+Theological+with+Shabbos+Kestenbaum&lang=en&timestamp=1788104846&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2918" alt="Did the Bible Predict AI? Rabbi Simon Jacobson Answers | Theological with Shabbos Kestenbaum" title="Did the Bible Predict AI? Rabbi Simon Jacobson Answers | Theological with Shabbos Kestenbaum">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tpK7TVTOTfg&title=AI+expert+analyzes+Bill+Gates%27+essay+on+dangers+of+artificial+intelligence&lang=en&timestamp=1788179236&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=345">
+          <img src="https://ytcards.demolab.com/?id=tpK7TVTOTfg&title=AI+expert+analyzes+Bill+Gates%27+essay+on+dangers+of+artificial+intelligence&lang=en&timestamp=1788179236&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=345" alt="AI expert analyzes Bill Gates' essay on dangers of artificial intelligence" title="AI expert analyzes Bill Gates' essay on dangers of artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SFZLjJ4AT1k" target="_blank">
+      <a href="https://www.youtube.com/watch?v=3AhIcqDOOOI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SFZLjJ4AT1k&title=I+Tested+an+Artificial+Intelligence+Indicator+on+100%2B+Trades%E2%80%A6+Here%E2%80%99s+What+Happened%21&lang=en&timestamp=1788090446&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=481">
-          <img src="https://ytcards.demolab.com/?id=SFZLjJ4AT1k&title=I+Tested+an+Artificial+Intelligence+Indicator+on+100%2B+Trades%E2%80%A6+Here%E2%80%99s+What+Happened%21&lang=en&timestamp=1788090446&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=481" alt="I Tested an Artificial Intelligence Indicator on 100+ Trades… Here’s What Happened!" title="I Tested an Artificial Intelligence Indicator on 100+ Trades… Here’s What Happened!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3AhIcqDOOOI&title=Ed+Zitron%E2%80%99s+AI+Bubble+Warning+Goes+Mainstream+%28Tech+Bros+Panic%29&lang=en&timestamp=1788175636&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=910">
+          <img src="https://ytcards.demolab.com/?id=3AhIcqDOOOI&title=Ed+Zitron%E2%80%99s+AI+Bubble+Warning+Goes+Mainstream+%28Tech+Bros+Panic%29&lang=en&timestamp=1788175636&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=910" alt="Ed Zitron’s AI Bubble Warning Goes Mainstream (Tech Bros Panic)" title="Ed Zitron’s AI Bubble Warning Goes Mainstream (Tech Bros Panic)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ckcChvgwVC0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lJuKNE4Qjak" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ckcChvgwVC0&title=Artificial+Intelligence%3A+How+AI+Is+Changing+Our+Future+%7C+AI+Explained&lang=en&timestamp=1788148046&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=465">
-          <img src="https://ytcards.demolab.com/?id=ckcChvgwVC0&title=Artificial+Intelligence%3A+How+AI+Is+Changing+Our+Future+%7C+AI+Explained&lang=en&timestamp=1788148046&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=465" alt="Artificial Intelligence: How AI Is Changing Our Future | AI Explained" title="Artificial Intelligence: How AI Is Changing Our Future | AI Explained">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lJuKNE4Qjak&title=This+AI+Thing+Is+Way+Crazier+Than+You+Thought%21&lang=en&timestamp=1788193636&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7311">
+          <img src="https://ytcards.demolab.com/?id=lJuKNE4Qjak&title=This+AI+Thing+Is+Way+Crazier+Than+You+Thought%21&lang=en&timestamp=1788193636&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7311" alt="This AI Thing Is Way Crazier Than You Thought!" title="This AI Thing Is Way Crazier Than You Thought!">
         </picture>
       </a>
     </td>
