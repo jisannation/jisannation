@@ -109,56 +109,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fDDch9r1gXk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=utu5YACZbPE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fDDch9r1gXk&title=Artificial+intelligence+agents+going+rogue+fuel+calls+for+regulation&lang=en&timestamp=1788218836&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=391">
-          <img src="https://ytcards.demolab.com/?id=fDDch9r1gXk&title=Artificial+intelligence+agents+going+rogue+fuel+calls+for+regulation&lang=en&timestamp=1788218836&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=391" alt="Artificial intelligence agents going rogue fuel calls for regulation" title="Artificial intelligence agents going rogue fuel calls for regulation">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=utu5YACZbPE&title=AI+Has+Eaten+Maths.+Physics+Is+Next&lang=en&timestamp=1788277834&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=422">
+          <img src="https://ytcards.demolab.com/?id=utu5YACZbPE&title=AI+Has+Eaten+Maths.+Physics+Is+Next&lang=en&timestamp=1788277834&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=422" alt="AI Has Eaten Maths. Physics Is Next" title="AI Has Eaten Maths. Physics Is Next">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=YL3FAM4rfy8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=99F0OkPxj4Q" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=YL3FAM4rfy8&title=OpenAI%27s+Hugging+Face+breach+is+a+%22wake+up+call%2C%22+venture+capitalist+Matt+Shumer+says&lang=en&timestamp=1788190036&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=341">
-          <img src="https://ytcards.demolab.com/?id=YL3FAM4rfy8&title=OpenAI%27s+Hugging+Face+breach+is+a+%22wake+up+call%2C%22+venture+capitalist+Matt+Shumer+says&lang=en&timestamp=1788190036&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=341" alt="OpenAI's Hugging Face breach is a &quot;wake up call,&quot; venture capitalist Matt Shumer says" title="OpenAI's Hugging Face breach is a &quot;wake up call,&quot; venture capitalist Matt Shumer says">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=99F0OkPxj4Q&title=Was+Our+AI+Bull+Case+Too+Conservative%3F+%7C+Big+Ideas+2026+Mid-Year+Review&lang=en&timestamp=1788295834&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1360">
+          <img src="https://ytcards.demolab.com/?id=99F0OkPxj4Q&title=Was+Our+AI+Bull+Case+Too+Conservative%3F+%7C+Big+Ideas+2026+Mid-Year+Review&lang=en&timestamp=1788295834&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1360" alt="Was Our AI Bull Case Too Conservative? | Big Ideas 2026 Mid-Year Review" title="Was Our AI Bull Case Too Conservative? | Big Ideas 2026 Mid-Year Review">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9avRZ0yCKIE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=S8301cjjyTw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9avRZ0yCKIE&title=An+AI+Crash%3F&lang=en&timestamp=1788197236&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=573">
-          <img src="https://ytcards.demolab.com/?id=9avRZ0yCKIE&title=An+AI+Crash%3F&lang=en&timestamp=1788197236&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=573" alt="An AI Crash?" title="An AI Crash?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S8301cjjyTw&title=AI+costs+drop+while+demand+surges&lang=en&timestamp=1788281434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=195">
+          <img src="https://ytcards.demolab.com/?id=S8301cjjyTw&title=AI+costs+drop+while+demand+surges&lang=en&timestamp=1788281434&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=195" alt="AI costs drop while demand surges" title="AI costs drop while demand surges">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tpK7TVTOTfg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dBedPOPotyo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tpK7TVTOTfg&title=AI+expert+analyzes+Bill+Gates%27+essay+on+dangers+of+artificial+intelligence&lang=en&timestamp=1788179236&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=345">
-          <img src="https://ytcards.demolab.com/?id=tpK7TVTOTfg&title=AI+expert+analyzes+Bill+Gates%27+essay+on+dangers+of+artificial+intelligence&lang=en&timestamp=1788179236&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=345" alt="AI expert analyzes Bill Gates' essay on dangers of artificial intelligence" title="AI expert analyzes Bill Gates' essay on dangers of artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dBedPOPotyo&title=Ep.+235%3A+OpenAI-Hugging+Face+Hack+Involved+100s+of+Agents%2C+%26+Bill+Gates+Now+Pessimistic+on+Jobs&lang=en&timestamp=1788256234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5672">
+          <img src="https://ytcards.demolab.com/?id=dBedPOPotyo&title=Ep.+235%3A+OpenAI-Hugging+Face+Hack+Involved+100s+of+Agents%2C+%26+Bill+Gates+Now+Pessimistic+on+Jobs&lang=en&timestamp=1788256234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5672" alt="Ep. 235: OpenAI-Hugging Face Hack Involved 100s of Agents, & Bill Gates Now Pessimistic on Jobs" title="Ep. 235: OpenAI-Hugging Face Hack Involved 100s of Agents, & Bill Gates Now Pessimistic on Jobs">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3AhIcqDOOOI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=VQzK3cPWYTQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3AhIcqDOOOI&title=Ed+Zitron%E2%80%99s+AI+Bubble+Warning+Goes+Mainstream+%28Tech+Bros+Panic%29&lang=en&timestamp=1788175636&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=910">
-          <img src="https://ytcards.demolab.com/?id=3AhIcqDOOOI&title=Ed+Zitron%E2%80%99s+AI+Bubble+Warning+Goes+Mainstream+%28Tech+Bros+Panic%29&lang=en&timestamp=1788175636&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=910" alt="Ed Zitron’s AI Bubble Warning Goes Mainstream (Tech Bros Panic)" title="Ed Zitron’s AI Bubble Warning Goes Mainstream (Tech Bros Panic)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VQzK3cPWYTQ&title=AI+ethics+and+the+future+of+safety+%7C+Dr.+Roman+Yampolskiy+%7C+TEDxMiami&lang=en&timestamp=1788281434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=868">
+          <img src="https://ytcards.demolab.com/?id=VQzK3cPWYTQ&title=AI+ethics+and+the+future+of+safety+%7C+Dr.+Roman+Yampolskiy+%7C+TEDxMiami&lang=en&timestamp=1788281434&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=868" alt="AI ethics and the future of safety | Dr. Roman Yampolskiy | TEDxMiami" title="AI ethics and the future of safety | Dr. Roman Yampolskiy | TEDxMiami">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lJuKNE4Qjak" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bpHecPMLrFA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lJuKNE4Qjak&title=This+AI+Thing+Is+Way+Crazier+Than+You+Thought%21&lang=en&timestamp=1788193636&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7311">
-          <img src="https://ytcards.demolab.com/?id=lJuKNE4Qjak&title=This+AI+Thing+Is+Way+Crazier+Than+You+Thought%21&lang=en&timestamp=1788193636&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7311" alt="This AI Thing Is Way Crazier Than You Thought!" title="This AI Thing Is Way Crazier Than You Thought!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bpHecPMLrFA&title=AI+Is+Transforming+Drug+Discovery%3A+Here%27s+The+Next+Trillion-Dollar+Biotech+Opportunity&lang=en&timestamp=1788274234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=931">
+          <img src="https://ytcards.demolab.com/?id=bpHecPMLrFA&title=AI+Is+Transforming+Drug+Discovery%3A+Here%27s+The+Next+Trillion-Dollar+Biotech+Opportunity&lang=en&timestamp=1788274234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=931" alt="AI Is Transforming Drug Discovery: Here's The Next Trillion-Dollar Biotech Opportunity" title="AI Is Transforming Drug Discovery: Here's The Next Trillion-Dollar Biotech Opportunity">
         </picture>
       </a>
     </td>
