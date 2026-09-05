@@ -110,56 +110,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=utu5YACZbPE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=uwvGjx7ZMA4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=utu5YACZbPE&title=AI+Has+Eaten+Maths.+Physics+Is+Next&lang=en&timestamp=1788277834&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=422">
-          <img src="https://ytcards.demolab.com/?id=utu5YACZbPE&title=AI+Has+Eaten+Maths.+Physics+Is+Next&lang=en&timestamp=1788277834&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=422" alt="AI Has Eaten Maths. Physics Is Next" title="AI Has Eaten Maths. Physics Is Next">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uwvGjx7ZMA4&title=AI+News+5+Minutes+-+September+04%2C+2026&lang=en&timestamp=1788508161&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=259">
+          <img src="https://ytcards.demolab.com/?id=uwvGjx7ZMA4&title=AI+News+5+Minutes+-+September+04%2C+2026&lang=en&timestamp=1788508161&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=259" alt="AI News 5 Minutes - September 04, 2026" title="AI News 5 Minutes - September 04, 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=99F0OkPxj4Q" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Spuza-KwTJ4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=99F0OkPxj4Q&title=Was+Our+AI+Bull+Case+Too+Conservative%3F+%7C+Big+Ideas+2026+Mid-Year+Review&lang=en&timestamp=1788295834&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1360">
-          <img src="https://ytcards.demolab.com/?id=99F0OkPxj4Q&title=Was+Our+AI+Bull+Case+Too+Conservative%3F+%7C+Big+Ideas+2026+Mid-Year+Review&lang=en&timestamp=1788295834&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1360" alt="Was Our AI Bull Case Too Conservative? | Big Ideas 2026 Mid-Year Review" title="Was Our AI Bull Case Too Conservative? | Big Ideas 2026 Mid-Year Review">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Spuza-KwTJ4&title=GPT+6+Astra%2C+so+good+even+OpenAI+are+worried&lang=en&timestamp=1788522561&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1745">
+          <img src="https://ytcards.demolab.com/?id=Spuza-KwTJ4&title=GPT+6+Astra%2C+so+good+even+OpenAI+are+worried&lang=en&timestamp=1788522561&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1745" alt="GPT 6 Astra, so good even OpenAI are worried" title="GPT 6 Astra, so good even OpenAI are worried">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=S8301cjjyTw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jDlQNZG6LbY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=S8301cjjyTw&title=AI+costs+drop+while+demand+surges&lang=en&timestamp=1788281434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=195">
-          <img src="https://ytcards.demolab.com/?id=S8301cjjyTw&title=AI+costs+drop+while+demand+surges&lang=en&timestamp=1788281434&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=195" alt="AI costs drop while demand surges" title="AI costs drop while demand surges">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jDlQNZG6LbY&title=Tom+Lee+%26+Raoul+Pal%3A+%22People+Don%E2%80%99t+Know+How+Massive+2026+Will+Be+for+Crypto%22+%7C+BTC+Update&lang=en&timestamp=1788540561&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=877">
+          <img src="https://ytcards.demolab.com/?id=jDlQNZG6LbY&title=Tom+Lee+%26+Raoul+Pal%3A+%22People+Don%E2%80%99t+Know+How+Massive+2026+Will+Be+for+Crypto%22+%7C+BTC+Update&lang=en&timestamp=1788540561&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=877" alt="Tom Lee & Raoul Pal: &quot;People Don’t Know How Massive 2026 Will Be for Crypto&quot; | BTC Update" title="Tom Lee & Raoul Pal: &quot;People Don’t Know How Massive 2026 Will Be for Crypto&quot; | BTC Update">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dBedPOPotyo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1bFSLmcX438" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dBedPOPotyo&title=Ep.+235%3A+OpenAI-Hugging+Face+Hack+Involved+100s+of+Agents%2C+%26+Bill+Gates+Now+Pessimistic+on+Jobs&lang=en&timestamp=1788256234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5672">
-          <img src="https://ytcards.demolab.com/?id=dBedPOPotyo&title=Ep.+235%3A+OpenAI-Hugging+Face+Hack+Involved+100s+of+Agents%2C+%26+Bill+Gates+Now+Pessimistic+on+Jobs&lang=en&timestamp=1788256234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5672" alt="Ep. 235: OpenAI-Hugging Face Hack Involved 100s of Agents, & Bill Gates Now Pessimistic on Jobs" title="Ep. 235: OpenAI-Hugging Face Hack Involved 100s of Agents, & Bill Gates Now Pessimistic on Jobs">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1bFSLmcX438&title=AI-%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81+%E0%AE%A4%E0%AE%BF%E0%AE%9F%E0%AF%80%E0%AE%B0%E0%AF%8D+%E0%AE%A4%E0%AE%9F%E0%AF%88&lang=en&timestamp=1788515361&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=38">
+          <img src="https://ytcards.demolab.com/?id=1bFSLmcX438&title=AI-%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81+%E0%AE%A4%E0%AE%BF%E0%AE%9F%E0%AF%80%E0%AE%B0%E0%AF%8D+%E0%AE%A4%E0%AE%9F%E0%AF%88&lang=en&timestamp=1788515361&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=38" alt="AI-க்கு திடீர் தடை" title="AI-க்கு திடீர் தடை">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=VQzK3cPWYTQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=c_QzwZO0dd8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=VQzK3cPWYTQ&title=AI+ethics+and+the+future+of+safety+%7C+Dr.+Roman+Yampolskiy+%7C+TEDxMiami&lang=en&timestamp=1788281434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=868">
-          <img src="https://ytcards.demolab.com/?id=VQzK3cPWYTQ&title=AI+ethics+and+the+future+of+safety+%7C+Dr.+Roman+Yampolskiy+%7C+TEDxMiami&lang=en&timestamp=1788281434&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=868" alt="AI ethics and the future of safety | Dr. Roman Yampolskiy | TEDxMiami" title="AI ethics and the future of safety | Dr. Roman Yampolskiy | TEDxMiami">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c_QzwZO0dd8&title=Claude+Code+Improves+Massively+w%2F+2nd+Harness&lang=en&timestamp=1788529761&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2140">
+          <img src="https://ytcards.demolab.com/?id=c_QzwZO0dd8&title=Claude+Code+Improves+Massively+w%2F+2nd+Harness&lang=en&timestamp=1788529761&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2140" alt="Claude Code Improves Massively w/ 2nd Harness" title="Claude Code Improves Massively w/ 2nd Harness">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bpHecPMLrFA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=F4HznvJH2G0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bpHecPMLrFA&title=AI+Is+Transforming+Drug+Discovery%3A+Here%27s+The+Next+Trillion-Dollar+Biotech+Opportunity&lang=en&timestamp=1788274234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=931">
-          <img src="https://ytcards.demolab.com/?id=bpHecPMLrFA&title=AI+Is+Transforming+Drug+Discovery%3A+Here%27s+The+Next+Trillion-Dollar+Biotech+Opportunity&lang=en&timestamp=1788274234&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=931" alt="AI Is Transforming Drug Discovery: Here's The Next Trillion-Dollar Biotech Opportunity" title="AI Is Transforming Drug Discovery: Here's The Next Trillion-Dollar Biotech Opportunity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F4HznvJH2G0&title=I+Tried+Every+NEW+AI+Video+Generator+in+2026+%28use+this%29&lang=en&timestamp=1788526161&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1189">
+          <img src="https://ytcards.demolab.com/?id=F4HznvJH2G0&title=I+Tried+Every+NEW+AI+Video+Generator+in+2026+%28use+this%29&lang=en&timestamp=1788526161&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1189" alt="I Tried Every NEW AI Video Generator in 2026 (use this)" title="I Tried Every NEW AI Video Generator in 2026 (use this)">
         </picture>
       </a>
     </td>
