@@ -111,56 +111,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=uwvGjx7ZMA4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=h9C7I3zmt8E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=uwvGjx7ZMA4&title=AI+News+5+Minutes+-+September+04%2C+2026&lang=en&timestamp=1788508161&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=259">
-          <img src="https://ytcards.demolab.com/?id=uwvGjx7ZMA4&title=AI+News+5+Minutes+-+September+04%2C+2026&lang=en&timestamp=1788508161&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=259" alt="AI News 5 Minutes - September 04, 2026" title="AI News 5 Minutes - September 04, 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h9C7I3zmt8E&title=AI+REVOLUTION%3A+The+role+of+tokens+in+the+US%E2%80%99s+economic+future&lang=en&timestamp=1788648815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395">
+          <img src="https://ytcards.demolab.com/?id=h9C7I3zmt8E&title=AI+REVOLUTION%3A+The+role+of+tokens+in+the+US%E2%80%99s+economic+future&lang=en&timestamp=1788648815&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=395" alt="AI REVOLUTION: The role of tokens in the US’s economic future" title="AI REVOLUTION: The role of tokens in the US’s economic future">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Spuza-KwTJ4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Xosdn-bA1XU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Spuza-KwTJ4&title=GPT+6+Astra%2C+so+good+even+OpenAI+are+worried&lang=en&timestamp=1788522561&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1745">
-          <img src="https://ytcards.demolab.com/?id=Spuza-KwTJ4&title=GPT+6+Astra%2C+so+good+even+OpenAI+are+worried&lang=en&timestamp=1788522561&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1745" alt="GPT 6 Astra, so good even OpenAI are worried" title="GPT 6 Astra, so good even OpenAI are worried">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xosdn-bA1XU&title=What+AI+Is+Doing+to+Books+Will+Surprise+You%21%21+%F0%9F%98%B2%F0%9F%93%9A%F0%9F%A4%96+%7C+Soban+Attari+%7C+Future+of+Artificial+Intelligence&lang=en&timestamp=1788605615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=991">
+          <img src="https://ytcards.demolab.com/?id=Xosdn-bA1XU&title=What+AI+Is+Doing+to+Books+Will+Surprise+You%21%21+%F0%9F%98%B2%F0%9F%93%9A%F0%9F%A4%96+%7C+Soban+Attari+%7C+Future+of+Artificial+Intelligence&lang=en&timestamp=1788605615&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=991" alt="What AI Is Doing to Books Will Surprise You!! 😲📚🤖 | Soban Attari | Future of Artificial Intelligence" title="What AI Is Doing to Books Will Surprise You!! 😲📚🤖 | Soban Attari | Future of Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jDlQNZG6LbY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4WM5m2bXJ6A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jDlQNZG6LbY&title=Tom+Lee+%26+Raoul+Pal%3A+%22People+Don%E2%80%99t+Know+How+Massive+2026+Will+Be+for+Crypto%22+%7C+BTC+Update&lang=en&timestamp=1788540561&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=877">
-          <img src="https://ytcards.demolab.com/?id=jDlQNZG6LbY&title=Tom+Lee+%26+Raoul+Pal%3A+%22People+Don%E2%80%99t+Know+How+Massive+2026+Will+Be+for+Crypto%22+%7C+BTC+Update&lang=en&timestamp=1788540561&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=877" alt="Tom Lee & Raoul Pal: &quot;People Don’t Know How Massive 2026 Will Be for Crypto&quot; | BTC Update" title="Tom Lee & Raoul Pal: &quot;People Don’t Know How Massive 2026 Will Be for Crypto&quot; | BTC Update">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4WM5m2bXJ6A&title=Trump+Goon+BUSTED+In+Stunning+Data+Center+Flip+Flop&lang=en&timestamp=1788627215&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=289">
+          <img src="https://ytcards.demolab.com/?id=4WM5m2bXJ6A&title=Trump+Goon+BUSTED+In+Stunning+Data+Center+Flip+Flop&lang=en&timestamp=1788627215&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=289" alt="Trump Goon BUSTED In Stunning Data Center Flip Flop" title="Trump Goon BUSTED In Stunning Data Center Flip Flop">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1bFSLmcX438" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2Y8WskA3UNc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1bFSLmcX438&title=AI-%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81+%E0%AE%A4%E0%AE%BF%E0%AE%9F%E0%AF%80%E0%AE%B0%E0%AF%8D+%E0%AE%A4%E0%AE%9F%E0%AF%88&lang=en&timestamp=1788515361&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=38">
-          <img src="https://ytcards.demolab.com/?id=1bFSLmcX438&title=AI-%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81+%E0%AE%A4%E0%AE%BF%E0%AE%9F%E0%AF%80%E0%AE%B0%E0%AF%8D+%E0%AE%A4%E0%AE%9F%E0%AF%88&lang=en&timestamp=1788515361&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=38" alt="AI-க்கு திடீர் தடை" title="AI-க்கு திடீர் தடை">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2Y8WskA3UNc&title=AI+%26+The+Human+Brain%3A+Are+We+Losing+Our+Intelligence%3F+%7C+Dr+Sweta+Adatia&lang=en&timestamp=1788616415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=894">
+          <img src="https://ytcards.demolab.com/?id=2Y8WskA3UNc&title=AI+%26+The+Human+Brain%3A+Are+We+Losing+Our+Intelligence%3F+%7C+Dr+Sweta+Adatia&lang=en&timestamp=1788616415&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=894" alt="AI & The Human Brain: Are We Losing Our Intelligence? | Dr Sweta Adatia" title="AI & The Human Brain: Are We Losing Our Intelligence? | Dr Sweta Adatia">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=c_QzwZO0dd8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=fDCM0_uhk7E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=c_QzwZO0dd8&title=Claude+Code+Improves+Massively+w%2F+2nd+Harness&lang=en&timestamp=1788529761&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2140">
-          <img src="https://ytcards.demolab.com/?id=c_QzwZO0dd8&title=Claude+Code+Improves+Massively+w%2F+2nd+Harness&lang=en&timestamp=1788529761&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2140" alt="Claude Code Improves Massively w/ 2nd Harness" title="Claude Code Improves Massively w/ 2nd Harness">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fDCM0_uhk7E&title=THE+AI+BAN%3A+WHAT+WORLD+ARE+WE+PREPARING+KIDS+FOR%3F&lang=en&timestamp=1788580415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2515">
+          <img src="https://ytcards.demolab.com/?id=fDCM0_uhk7E&title=THE+AI+BAN%3A+WHAT+WORLD+ARE+WE+PREPARING+KIDS+FOR%3F&lang=en&timestamp=1788580415&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2515" alt="THE AI BAN: WHAT WORLD ARE WE PREPARING KIDS FOR?" title="THE AI BAN: WHAT WORLD ARE WE PREPARING KIDS FOR?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=F4HznvJH2G0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rG3_eSOT_R4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=F4HznvJH2G0&title=I+Tried+Every+NEW+AI+Video+Generator+in+2026+%28use+this%29&lang=en&timestamp=1788526161&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1189">
-          <img src="https://ytcards.demolab.com/?id=F4HznvJH2G0&title=I+Tried+Every+NEW+AI+Video+Generator+in+2026+%28use+this%29&lang=en&timestamp=1788526161&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1189" alt="I Tried Every NEW AI Video Generator in 2026 (use this)" title="I Tried Every NEW AI Video Generator in 2026 (use this)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rG3_eSOT_R4&title=China+Just+Built+a+Living+Computer+%E2%80%94+And+We%E2%80%99re+Not+Ready&lang=en&timestamp=1788612815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1446">
+          <img src="https://ytcards.demolab.com/?id=rG3_eSOT_R4&title=China+Just+Built+a+Living+Computer+%E2%80%94+And+We%E2%80%99re+Not+Ready&lang=en&timestamp=1788612815&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1446" alt="China Just Built a Living Computer — And We’re Not Ready" title="China Just Built a Living Computer — And We’re Not Ready">
         </picture>
       </a>
     </td>
