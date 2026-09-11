@@ -112,56 +112,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=h9C7I3zmt8E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IZMjJGi4YhI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h9C7I3zmt8E&title=AI+REVOLUTION%3A+The+role+of+tokens+in+the+US%E2%80%99s+economic+future&lang=en&timestamp=1788648815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395">
-          <img src="https://ytcards.demolab.com/?id=h9C7I3zmt8E&title=AI+REVOLUTION%3A+The+role+of+tokens+in+the+US%E2%80%99s+economic+future&lang=en&timestamp=1788648815&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=395" alt="AI REVOLUTION: The role of tokens in the US’s economic future" title="AI REVOLUTION: The role of tokens in the US’s economic future">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IZMjJGi4YhI&title=%27Godfather+of+AI%27+on+the+%22not+unreasonable%22+10%25+chance+AI+could+kill+all+humans+within+a+decade&lang=en&timestamp=1789037789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=393">
+          <img src="https://ytcards.demolab.com/?id=IZMjJGi4YhI&title=%27Godfather+of+AI%27+on+the+%22not+unreasonable%22+10%25+chance+AI+could+kill+all+humans+within+a+decade&lang=en&timestamp=1789037789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=393" alt="'Godfather of AI' on the &quot;not unreasonable&quot; 10% chance AI could kill all humans within a decade" title="'Godfather of AI' on the &quot;not unreasonable&quot; 10% chance AI could kill all humans within a decade">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Xosdn-bA1XU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=WRrwmQw82JE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xosdn-bA1XU&title=What+AI+Is+Doing+to+Books+Will+Surprise+You%21%21+%F0%9F%98%B2%F0%9F%93%9A%F0%9F%A4%96+%7C+Soban+Attari+%7C+Future+of+Artificial+Intelligence&lang=en&timestamp=1788605615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=991">
-          <img src="https://ytcards.demolab.com/?id=Xosdn-bA1XU&title=What+AI+Is+Doing+to+Books+Will+Surprise+You%21%21+%F0%9F%98%B2%F0%9F%93%9A%F0%9F%A4%96+%7C+Soban+Attari+%7C+Future+of+Artificial+Intelligence&lang=en&timestamp=1788605615&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=991" alt="What AI Is Doing to Books Will Surprise You!! 😲📚🤖 | Soban Attari | Future of Artificial Intelligence" title="What AI Is Doing to Books Will Surprise You!! 😲📚🤖 | Soban Attari | Future of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WRrwmQw82JE&title=Fallout+after+dire+warning+on+AI+from+scientists&lang=en&timestamp=1789044989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=89">
+          <img src="https://ytcards.demolab.com/?id=WRrwmQw82JE&title=Fallout+after+dire+warning+on+AI+from+scientists&lang=en&timestamp=1789044989&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=89" alt="Fallout after dire warning on AI from scientists" title="Fallout after dire warning on AI from scientists">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4WM5m2bXJ6A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=xOh5llNqaoY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4WM5m2bXJ6A&title=Trump+Goon+BUSTED+In+Stunning+Data+Center+Flip+Flop&lang=en&timestamp=1788627215&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=289">
-          <img src="https://ytcards.demolab.com/?id=4WM5m2bXJ6A&title=Trump+Goon+BUSTED+In+Stunning+Data+Center+Flip+Flop&lang=en&timestamp=1788627215&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=289" alt="Trump Goon BUSTED In Stunning Data Center Flip Flop" title="Trump Goon BUSTED In Stunning Data Center Flip Flop">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xOh5llNqaoY&title=Researcher+warns+artificial+intelligence+could+%27kill+us+all%27&lang=en&timestamp=1789091789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=227">
+          <img src="https://ytcards.demolab.com/?id=xOh5llNqaoY&title=Researcher+warns+artificial+intelligence+could+%27kill+us+all%27&lang=en&timestamp=1789091789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=227" alt="Researcher warns artificial intelligence could 'kill us all'" title="Researcher warns artificial intelligence could 'kill us all'">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2Y8WskA3UNc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=yf4stRC2jwc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2Y8WskA3UNc&title=AI+%26+The+Human+Brain%3A+Are+We+Losing+Our+Intelligence%3F+%7C+Dr+Sweta+Adatia&lang=en&timestamp=1788616415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=894">
-          <img src="https://ytcards.demolab.com/?id=2Y8WskA3UNc&title=AI+%26+The+Human+Brain%3A+Are+We+Losing+Our+Intelligence%3F+%7C+Dr+Sweta+Adatia&lang=en&timestamp=1788616415&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=894" alt="AI & The Human Brain: Are We Losing Our Intelligence? | Dr Sweta Adatia" title="AI & The Human Brain: Are We Losing Our Intelligence? | Dr Sweta Adatia">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yf4stRC2jwc&title=Rep.+Lori+Trahan+lays+out+how+Congress+could+regulate+artificial+intelligence&lang=en&timestamp=1789066589&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=358">
+          <img src="https://ytcards.demolab.com/?id=yf4stRC2jwc&title=Rep.+Lori+Trahan+lays+out+how+Congress+could+regulate+artificial+intelligence&lang=en&timestamp=1789066589&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=358" alt="Rep. Lori Trahan lays out how Congress could regulate artificial intelligence" title="Rep. Lori Trahan lays out how Congress could regulate artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fDCM0_uhk7E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=isZMqhOgHM8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fDCM0_uhk7E&title=THE+AI+BAN%3A+WHAT+WORLD+ARE+WE+PREPARING+KIDS+FOR%3F&lang=en&timestamp=1788580415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2515">
-          <img src="https://ytcards.demolab.com/?id=fDCM0_uhk7E&title=THE+AI+BAN%3A+WHAT+WORLD+ARE+WE+PREPARING+KIDS+FOR%3F&lang=en&timestamp=1788580415&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2515" alt="THE AI BAN: WHAT WORLD ARE WE PREPARING KIDS FOR?" title="THE AI BAN: WHAT WORLD ARE WE PREPARING KIDS FOR?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=isZMqhOgHM8&title=Anthropic+researcher+resigns+with+warning+about+AI+development+dangers&lang=en&timestamp=1789026989&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=106">
+          <img src="https://ytcards.demolab.com/?id=isZMqhOgHM8&title=Anthropic+researcher+resigns+with+warning+about+AI+development+dangers&lang=en&timestamp=1789026989&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=106" alt="Anthropic researcher resigns with warning about AI development dangers" title="Anthropic researcher resigns with warning about AI development dangers">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rG3_eSOT_R4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qWfsDebaY4M" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rG3_eSOT_R4&title=China+Just+Built+a+Living+Computer+%E2%80%94+And+We%E2%80%99re+Not+Ready&lang=en&timestamp=1788612815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1446">
-          <img src="https://ytcards.demolab.com/?id=rG3_eSOT_R4&title=China+Just+Built+a+Living+Computer+%E2%80%94+And+We%E2%80%99re+Not+Ready&lang=en&timestamp=1788612815&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1446" alt="China Just Built a Living Computer — And We’re Not Ready" title="China Just Built a Living Computer — And We’re Not Ready">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qWfsDebaY4M&title=AI+Could+Kill+Us+All+By+2030%3F+Ex-Anthropic+Researcher+Jacob+Coxon+Sounds+Alarm+%7C+AI+News+%7C+CNN&lang=en&timestamp=1789073789&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1076">
+          <img src="https://ytcards.demolab.com/?id=qWfsDebaY4M&title=AI+Could+Kill+Us+All+By+2030%3F+Ex-Anthropic+Researcher+Jacob+Coxon+Sounds+Alarm+%7C+AI+News+%7C+CNN&lang=en&timestamp=1789073789&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1076" alt="AI Could Kill Us All By 2030? Ex-Anthropic Researcher Jacob Coxon Sounds Alarm | AI News | CNN" title="AI Could Kill Us All By 2030? Ex-Anthropic Researcher Jacob Coxon Sounds Alarm | AI News | CNN">
         </picture>
       </a>
     </td>
