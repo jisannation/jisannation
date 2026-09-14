@@ -114,56 +114,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=cVGHg4Vd9uM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7-4PXTdhPjw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cVGHg4Vd9uM&title=The+Biggest+AI+Opportunities+Are+Hiding+in+Boring+Businesses&lang=en&timestamp=1789149509&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1439">
-          <img src="https://ytcards.demolab.com/?id=cVGHg4Vd9uM&title=The+Biggest+AI+Opportunities+Are+Hiding+in+Boring+Businesses&lang=en&timestamp=1789149509&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1439" alt="The Biggest AI Opportunities Are Hiding in Boring Businesses" title="The Biggest AI Opportunities Are Hiding in Boring Businesses">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7-4PXTdhPjw&title=Calls+grow+to+slow+down+artificial+intelligence+development&lang=en&timestamp=1789352160&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
+          <img src="https://ytcards.demolab.com/?id=7-4PXTdhPjw&title=Calls+grow+to+slow+down+artificial+intelligence+development&lang=en&timestamp=1789352160&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="Calls grow to slow down artificial intelligence development" title="Calls grow to slow down artificial intelligence development">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pbmviUdKRC8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Fsmqh4t9Kls" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pbmviUdKRC8&title=AI+Researchers+Say+the+Technology+Could+Wipe+Out+Humans+%7C+WION+Pulse&lang=en&timestamp=1789153109&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=309">
-          <img src="https://ytcards.demolab.com/?id=pbmviUdKRC8&title=AI+Researchers+Say+the+Technology+Could+Wipe+Out+Humans+%7C+WION+Pulse&lang=en&timestamp=1789153109&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=309" alt="AI Researchers Say the Technology Could Wipe Out Humans | WION Pulse" title="AI Researchers Say the Technology Could Wipe Out Humans | WION Pulse">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Fsmqh4t9Kls&title=AI+leaders+issue+urgent+warning+over+self-improving+models+%7C+9+News+Australia&lang=en&timestamp=1789294560&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=114">
+          <img src="https://ytcards.demolab.com/?id=Fsmqh4t9Kls&title=AI+leaders+issue+urgent+warning+over+self-improving+models+%7C+9+News+Australia&lang=en&timestamp=1789294560&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=114" alt="AI leaders issue urgent warning over self-improving models | 9 News Australia" title="AI leaders issue urgent warning over self-improving models | 9 News Australia">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=etkKceMRaDA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=h0x7KpG4Lf0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=etkKceMRaDA&title=Elon+Musk%3A+We%27re+%27Summoning+the+Demon%27+with+Artificial+Intelligence&lang=en&timestamp=1789167509&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=402">
-          <img src="https://ytcards.demolab.com/?id=etkKceMRaDA&title=Elon+Musk%3A+We%27re+%27Summoning+the+Demon%27+with+Artificial+Intelligence&lang=en&timestamp=1789167509&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=402" alt="Elon Musk: We're 'Summoning the Demon' with Artificial Intelligence" title="Elon Musk: We're 'Summoning the Demon' with Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h0x7KpG4Lf0&title=Anthropic+CEO+Dario+Amodei%3A+%22For+too+long+the+industry+lied%22+about+AI+risks&lang=en&timestamp=1789308960&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=300">
+          <img src="https://ytcards.demolab.com/?id=h0x7KpG4Lf0&title=Anthropic+CEO+Dario+Amodei%3A+%22For+too+long+the+industry+lied%22+about+AI+risks&lang=en&timestamp=1789308960&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=300" alt="Anthropic CEO Dario Amodei: &quot;For too long the industry lied&quot; about AI risks" title="Anthropic CEO Dario Amodei: &quot;For too long the industry lied&quot; about AI risks">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=tKQBcdRw21s" target="_blank">
+      <a href="https://www.youtube.com/watch?v=HIJ-ZBQqU0g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tKQBcdRw21s&title=Why+scientists+say+AI+poses+an+extinction-level+threat+to+humanity+%7C+DW+News&lang=en&timestamp=1789181909&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=567">
-          <img src="https://ytcards.demolab.com/?id=tKQBcdRw21s&title=Why+scientists+say+AI+poses+an+extinction-level+threat+to+humanity+%7C+DW+News&lang=en&timestamp=1789181909&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=567" alt="Why scientists say AI poses an extinction-level threat to humanity | DW News" title="Why scientists say AI poses an extinction-level threat to humanity | DW News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HIJ-ZBQqU0g&title=Will+rogue+AI+development+mean+the+end+of+humanity%3F+Experts+weigh+in&lang=en&timestamp=1789312560&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1108">
+          <img src="https://ytcards.demolab.com/?id=HIJ-ZBQqU0g&title=Will+rogue+AI+development+mean+the+end+of+humanity%3F+Experts+weigh+in&lang=en&timestamp=1789312560&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1108" alt="Will rogue AI development mean the end of humanity? Experts weigh in" title="Will rogue AI development mean the end of humanity? Experts weigh in">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JwTCjarfJYw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Tqtbp90XjXE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JwTCjarfJYw&title=AI+News%3A+The+AI+World+is+REALLY+Scared+Right+Now&lang=en&timestamp=1789142309&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2145">
-          <img src="https://ytcards.demolab.com/?id=JwTCjarfJYw&title=AI+News%3A+The+AI+World+is+REALLY+Scared+Right+Now&lang=en&timestamp=1789142309&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2145" alt="AI News: The AI World is REALLY Scared Right Now" title="AI News: The AI World is REALLY Scared Right Now">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Tqtbp90XjXE&title=This+Week+with+George+Stephanopoulos+Full+Broadcast+-+Sunday%2C+September+13%2C+2026&lang=en&timestamp=1789323360&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2901">
+          <img src="https://ytcards.demolab.com/?id=Tqtbp90XjXE&title=This+Week+with+George+Stephanopoulos+Full+Broadcast+-+Sunday%2C+September+13%2C+2026&lang=en&timestamp=1789323360&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2901" alt="This Week with George Stephanopoulos Full Broadcast - Sunday, September 13, 2026" title="This Week with George Stephanopoulos Full Broadcast - Sunday, September 13, 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PepwZ1bUhAU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=eXDVmCQj1Vo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PepwZ1bUhAU&title=The+biggest+real-world+risks+of+AI&lang=en&timestamp=1789153109&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=399">
-          <img src="https://ytcards.demolab.com/?id=PepwZ1bUhAU&title=The+biggest+real-world+risks+of+AI&lang=en&timestamp=1789153109&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=399" alt="The biggest real-world risks of AI" title="The biggest real-world risks of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eXDVmCQj1Vo&title=Tech+Leaders+Call+for+Slowdown+in+the+AI+Race&lang=en&timestamp=1789305360&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=151">
+          <img src="https://ytcards.demolab.com/?id=eXDVmCQj1Vo&title=Tech+Leaders+Call+for+Slowdown+in+the+AI+Race&lang=en&timestamp=1789305360&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=151" alt="Tech Leaders Call for Slowdown in the AI Race" title="Tech Leaders Call for Slowdown in the AI Race">
         </picture>
       </a>
     </td>
