@@ -115,56 +115,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7-4PXTdhPjw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ABEvQj1VlyQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7-4PXTdhPjw&title=Calls+grow+to+slow+down+artificial+intelligence+development&lang=en&timestamp=1789352160&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
-          <img src="https://ytcards.demolab.com/?id=7-4PXTdhPjw&title=Calls+grow+to+slow+down+artificial+intelligence+development&lang=en&timestamp=1789352160&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="Calls grow to slow down artificial intelligence development" title="Calls grow to slow down artificial intelligence development">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ABEvQj1VlyQ&title=%E2%80%98YOUR+JOB+COULD+BE+NEXT%E2%80%A6%E2%80%99%3A+Obama%E2%80%99s+Brutal+Warning+On+Artificial+Intelligence%3B+Trump+Still+Silent&lang=en&timestamp=1789938962&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=736">
+          <img src="https://ytcards.demolab.com/?id=ABEvQj1VlyQ&title=%E2%80%98YOUR+JOB+COULD+BE+NEXT%E2%80%A6%E2%80%99%3A+Obama%E2%80%99s+Brutal+Warning+On+Artificial+Intelligence%3B+Trump+Still+Silent&lang=en&timestamp=1789938962&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=736" alt="‘YOUR JOB COULD BE NEXT…’: Obama’s Brutal Warning On Artificial Intelligence; Trump Still Silent" title="‘YOUR JOB COULD BE NEXT…’: Obama’s Brutal Warning On Artificial Intelligence; Trump Still Silent">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Fsmqh4t9Kls" target="_blank">
+      <a href="https://www.youtube.com/watch?v=USz5wwfQg8w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Fsmqh4t9Kls&title=AI+leaders+issue+urgent+warning+over+self-improving+models+%7C+9+News+Australia&lang=en&timestamp=1789294560&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=114">
-          <img src="https://ytcards.demolab.com/?id=Fsmqh4t9Kls&title=AI+leaders+issue+urgent+warning+over+self-improving+models+%7C+9+News+Australia&lang=en&timestamp=1789294560&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=114" alt="AI leaders issue urgent warning over self-improving models | 9 News Australia" title="AI leaders issue urgent warning over self-improving models | 9 News Australia">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=USz5wwfQg8w&title=China+wants+to+CONTROL+AI%3A+Expert&lang=en&timestamp=1789892162&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=281">
+          <img src="https://ytcards.demolab.com/?id=USz5wwfQg8w&title=China+wants+to+CONTROL+AI%3A+Expert&lang=en&timestamp=1789892162&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=281" alt="China wants to CONTROL AI: Expert" title="China wants to CONTROL AI: Expert">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=h0x7KpG4Lf0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lZ74RhUsrMs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=h0x7KpG4Lf0&title=Anthropic+CEO+Dario+Amodei%3A+%22For+too+long+the+industry+lied%22+about+AI+risks&lang=en&timestamp=1789308960&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=300">
-          <img src="https://ytcards.demolab.com/?id=h0x7KpG4Lf0&title=Anthropic+CEO+Dario+Amodei%3A+%22For+too+long+the+industry+lied%22+about+AI+risks&lang=en&timestamp=1789308960&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=300" alt="Anthropic CEO Dario Amodei: &quot;For too long the industry lied&quot; about AI risks" title="Anthropic CEO Dario Amodei: &quot;For too long the industry lied&quot; about AI risks">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lZ74RhUsrMs&title=Nvidia+CEO+rejects+AI+extinction+warnings+as+%22doomsday+narratives%22&lang=en&timestamp=1789924562&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2779">
+          <img src="https://ytcards.demolab.com/?id=lZ74RhUsrMs&title=Nvidia+CEO+rejects+AI+extinction+warnings+as+%22doomsday+narratives%22&lang=en&timestamp=1789924562&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2779" alt="Nvidia CEO rejects AI extinction warnings as &quot;doomsday narratives&quot;" title="Nvidia CEO rejects AI extinction warnings as &quot;doomsday narratives&quot;">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HIJ-ZBQqU0g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=wgwRWZVjo14" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HIJ-ZBQqU0g&title=Will+rogue+AI+development+mean+the+end+of+humanity%3F+Experts+weigh+in&lang=en&timestamp=1789312560&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1108">
-          <img src="https://ytcards.demolab.com/?id=HIJ-ZBQqU0g&title=Will+rogue+AI+development+mean+the+end+of+humanity%3F+Experts+weigh+in&lang=en&timestamp=1789312560&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1108" alt="Will rogue AI development mean the end of humanity? Experts weigh in" title="Will rogue AI development mean the end of humanity? Experts weigh in">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wgwRWZVjo14&title=Gov.+Wes+Moore+calls+for+bipartisan+federal+oversight+on+artificial+intelligence&lang=en&timestamp=1789960802&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=125">
+          <img src="https://ytcards.demolab.com/?id=wgwRWZVjo14&title=Gov.+Wes+Moore+calls+for+bipartisan+federal+oversight+on+artificial+intelligence&lang=en&timestamp=1789960802&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=125" alt="Gov. Wes Moore calls for bipartisan federal oversight on artificial intelligence" title="Gov. Wes Moore calls for bipartisan federal oversight on artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Tqtbp90XjXE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1QsWb5wDS0Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Tqtbp90XjXE&title=This+Week+with+George+Stephanopoulos+Full+Broadcast+-+Sunday%2C+September+13%2C+2026&lang=en&timestamp=1789323360&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2901">
-          <img src="https://ytcards.demolab.com/?id=Tqtbp90XjXE&title=This+Week+with+George+Stephanopoulos+Full+Broadcast+-+Sunday%2C+September+13%2C+2026&lang=en&timestamp=1789323360&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2901" alt="This Week with George Stephanopoulos Full Broadcast - Sunday, September 13, 2026" title="This Week with George Stephanopoulos Full Broadcast - Sunday, September 13, 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1QsWb5wDS0Y&title=GROWING+concerns+about+US+stockpiles+as+Taiwan+invasion+worries+linger&lang=en&timestamp=1789935362&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=464">
+          <img src="https://ytcards.demolab.com/?id=1QsWb5wDS0Y&title=GROWING+concerns+about+US+stockpiles+as+Taiwan+invasion+worries+linger&lang=en&timestamp=1789935362&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=464" alt="GROWING concerns about US stockpiles as Taiwan invasion worries linger" title="GROWING concerns about US stockpiles as Taiwan invasion worries linger">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eXDVmCQj1Vo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Uu73AibbHUQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eXDVmCQj1Vo&title=Tech+Leaders+Call+for+Slowdown+in+the+AI+Race&lang=en&timestamp=1789305360&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=151">
-          <img src="https://ytcards.demolab.com/?id=eXDVmCQj1Vo&title=Tech+Leaders+Call+for+Slowdown+in+the+AI+Race&lang=en&timestamp=1789305360&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=151" alt="Tech Leaders Call for Slowdown in the AI Race" title="Tech Leaders Call for Slowdown in the AI Race">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Uu73AibbHUQ&title=IS+AI+TAKING+OUR+LIVES+FROM+US%3F+%7C+ARTIFICIAL+INTELLIGENCE+%7C+KAMESH+GUTALA+%7C+KEY+TALKS+&lang=en&timestamp=1789961462&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=762">
+          <img src="https://ytcards.demolab.com/?id=Uu73AibbHUQ&title=IS+AI+TAKING+OUR+LIVES+FROM+US%3F+%7C+ARTIFICIAL+INTELLIGENCE+%7C+KAMESH+GUTALA+%7C+KEY+TALKS+&lang=en&timestamp=1789961462&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=762" alt="IS AI TAKING OUR LIVES FROM US? | ARTIFICIAL INTELLIGENCE | KAMESH GUTALA | KEY TALKS " title="IS AI TAKING OUR LIVES FROM US? | ARTIFICIAL INTELLIGENCE | KAMESH GUTALA | KEY TALKS ">
         </picture>
       </a>
     </td>
