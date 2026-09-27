@@ -118,56 +118,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=WDUx29fOy1g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jqnIbBEmBWM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=WDUx29fOy1g&title=AI+Expert+Reveals+The+Exploitation+Behind+AI&lang=en&timestamp=1790266692&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1843">
-          <img src="https://ytcards.demolab.com/?id=WDUx29fOy1g&title=AI+Expert+Reveals+The+Exploitation+Behind+AI&lang=en&timestamp=1790266692&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1843" alt="AI Expert Reveals The Exploitation Behind AI" title="AI Expert Reveals The Exploitation Behind AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jqnIbBEmBWM&title=Global+National%3A+Sept.+26%2C+2026+%7C+New+concerns+over+artificial+intelligence+as+more+agents+go+rogue&lang=en&timestamp=1790476774&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1288">
+          <img src="https://ytcards.demolab.com/?id=jqnIbBEmBWM&title=Global+National%3A+Sept.+26%2C+2026+%7C+New+concerns+over+artificial+intelligence+as+more+agents+go+rogue&lang=en&timestamp=1790476774&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1288" alt="Global National: Sept. 26, 2026 | New concerns over artificial intelligence as more agents go rogue" title="Global National: Sept. 26, 2026 | New concerns over artificial intelligence as more agents go rogue">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JIQoL0F_rb4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MI9gnRBM3Qo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JIQoL0F_rb4&title=Should+U.N.+Help+Set+Global+AI+Rules%3F+AI+Tech+Billionaires+Address+Security+Council&lang=en&timestamp=1790263092&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=998">
-          <img src="https://ytcards.demolab.com/?id=JIQoL0F_rb4&title=Should+U.N.+Help+Set+Global+AI+Rules%3F+AI+Tech+Billionaires+Address+Security+Council&lang=en&timestamp=1790263092&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=998" alt="Should U.N. Help Set Global AI Rules? AI Tech Billionaires Address Security Council" title="Should U.N. Help Set Global AI Rules? AI Tech Billionaires Address Security Council">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MI9gnRBM3Qo&title=Bill+Gates+Warns+AI+Could+Cause+Catastrophic+Harm+%7C+WION&lang=en&timestamp=1790426374&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=193">
+          <img src="https://ytcards.demolab.com/?id=MI9gnRBM3Qo&title=Bill+Gates+Warns+AI+Could+Cause+Catastrophic+Harm+%7C+WION&lang=en&timestamp=1790426374&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=193" alt="Bill Gates Warns AI Could Cause Catastrophic Harm | WION" title="Bill Gates Warns AI Could Cause Catastrophic Harm | WION">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IdcjplwJUQ8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NWLs-COtdXY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IdcjplwJUQ8&title=What+Safeguarding+Nukes+Can+Teach+Us+About+Safeguarding+A.I.&lang=en&timestamp=1790263092&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2196">
-          <img src="https://ytcards.demolab.com/?id=IdcjplwJUQ8&title=What+Safeguarding+Nukes+Can+Teach+Us+About+Safeguarding+A.I.&lang=en&timestamp=1790263092&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2196" alt="What Safeguarding Nukes Can Teach Us About Safeguarding A.I." title="What Safeguarding Nukes Can Teach Us About Safeguarding A.I.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NWLs-COtdXY&title=Can+Quantum+AI+Destroy+Human+Beings%3F+%7C+Artificial+Intelligence+%7C+Quantum+Physics+%7C+Amit+Dubey&lang=en&timestamp=1790429974&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4050">
+          <img src="https://ytcards.demolab.com/?id=NWLs-COtdXY&title=Can+Quantum+AI+Destroy+Human+Beings%3F+%7C+Artificial+Intelligence+%7C+Quantum+Physics+%7C+Amit+Dubey&lang=en&timestamp=1790429974&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4050" alt="Can Quantum AI Destroy Human Beings? | Artificial Intelligence | Quantum Physics | Amit Dubey" title="Can Quantum AI Destroy Human Beings? | Artificial Intelligence | Quantum Physics | Amit Dubey">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-RNz0xfpVs4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jhHpC9BkkYo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-RNz0xfpVs4&title=%27They%27re+catching+up+fast%27%3A+Rattner%27s+REALITY+CHECK+on+China%27s+AI&lang=en&timestamp=1790255892&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=421">
-          <img src="https://ytcards.demolab.com/?id=-RNz0xfpVs4&title=%27They%27re+catching+up+fast%27%3A+Rattner%27s+REALITY+CHECK+on+China%27s+AI&lang=en&timestamp=1790255892&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=421" alt="'They're catching up fast': Rattner's REALITY CHECK on China's AI" title="'They're catching up fast': Rattner's REALITY CHECK on China's AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jhHpC9BkkYo&title=LIVE%21+PSW+2541+Digitization+of+the+US+Healthcare+System+and+Early+Insights+from+the+AI+Era&lang=en&timestamp=1790397574&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7677">
+          <img src="https://ytcards.demolab.com/?id=jhHpC9BkkYo&title=LIVE%21+PSW+2541+Digitization+of+the+US+Healthcare+System+and+Early+Insights+from+the+AI+Era&lang=en&timestamp=1790397574&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7677" alt="LIVE! PSW 2541 Digitization of the US Healthcare System and Early Insights from the AI Era" title="LIVE! PSW 2541 Digitization of the US Healthcare System and Early Insights from the AI Era">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=QkwKn1qhTtQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KSvWEEktmK4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=QkwKn1qhTtQ&title=What+the+%27Godfather+of+AI%27+Thinks+Humanity+Should+Do&lang=en&timestamp=1790248692&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1870">
-          <img src="https://ytcards.demolab.com/?id=QkwKn1qhTtQ&title=What+the+%27Godfather+of+AI%27+Thinks+Humanity+Should+Do&lang=en&timestamp=1790248692&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1870" alt="What the 'Godfather of AI' Thinks Humanity Should Do" title="What the 'Godfather of AI' Thinks Humanity Should Do">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KSvWEEktmK4&title=The+AI+election+%7C+America%2C+Actually&lang=en&timestamp=1790426374&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1665">
+          <img src="https://ytcards.demolab.com/?id=KSvWEEktmK4&title=The+AI+election+%7C+America%2C+Actually&lang=en&timestamp=1790426374&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1665" alt="The AI election | America, Actually" title="The AI election | America, Actually">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=OoOYgTZoPwI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8atC65dfSm4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OoOYgTZoPwI&title=Nobel+Laureate+Maria+Ressa+on+Trump%27s+Media+Ban%2C+Regulating+AI+%26+the+%22Tech+Coup+in+Plain+Sight%22&lang=en&timestamp=1790263092&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=681">
-          <img src="https://ytcards.demolab.com/?id=OoOYgTZoPwI&title=Nobel+Laureate+Maria+Ressa+on+Trump%27s+Media+Ban%2C+Regulating+AI+%26+the+%22Tech+Coup+in+Plain+Sight%22&lang=en&timestamp=1790263092&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=681" alt="Nobel Laureate Maria Ressa on Trump's Media Ban, Regulating AI & the &quot;Tech Coup in Plain Sight&quot;" title="Nobel Laureate Maria Ressa on Trump's Media Ban, Regulating AI & the &quot;Tech Coup in Plain Sight&quot;">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8atC65dfSm4&title=Gates+under+fire+for+%E2%80%98scaremongering%E2%80%99+over+artificial+intelligence&lang=en&timestamp=1790476774&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=55">
+          <img src="https://ytcards.demolab.com/?id=8atC65dfSm4&title=Gates+under+fire+for+%E2%80%98scaremongering%E2%80%99+over+artificial+intelligence&lang=en&timestamp=1790476774&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=55" alt="Gates under fire for ‘scaremongering’ over artificial intelligence" title="Gates under fire for ‘scaremongering’ over artificial intelligence">
         </picture>
       </a>
     </td>
