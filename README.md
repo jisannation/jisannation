@@ -121,56 +121,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mUoChnvp6sE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=A-KWpw3XwCI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mUoChnvp6sE&title=Why+Philosophers+Are+Worried+About+AI&lang=en&timestamp=1791036743&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=760">
-          <img src="https://ytcards.demolab.com/?id=mUoChnvp6sE&title=Why+Philosophers+Are+Worried+About+AI&lang=en&timestamp=1791036743&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=760" alt="Why Philosophers Are Worried About AI" title="Why Philosophers Are Worried About AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A-KWpw3XwCI&title=Kursus+Teaching+with+Artificial+Intelligence+7.10.2026&lang=en&timestamp=1791429930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6688">
+          <img src="https://ytcards.demolab.com/?id=A-KWpw3XwCI&title=Kursus+Teaching+with+Artificial+Intelligence+7.10.2026&lang=en&timestamp=1791429930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6688" alt="Kursus Teaching with Artificial Intelligence 7.10.2026" title="Kursus Teaching with Artificial Intelligence 7.10.2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BXZrEM-_MLw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=vF25gdMNcGM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BXZrEM-_MLw&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1791047543&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2288">
-          <img src="https://ytcards.demolab.com/?id=BXZrEM-_MLw&title=Trump+signs+executive+order+to+replace+%27artificial+intelligence%27+with+%27super+intelligence%27&lang=en&timestamp=1791047543&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2288" alt="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'" title="Trump signs executive order to replace 'artificial intelligence' with 'super intelligence'">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vF25gdMNcGM&title=The+7+Types+of+Artificial+Intelligence+Explained+in+10+Minutes&lang=en&timestamp=1791383130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=585">
+          <img src="https://ytcards.demolab.com/?id=vF25gdMNcGM&title=The+7+Types+of+Artificial+Intelligence+Explained+in+10+Minutes&lang=en&timestamp=1791383130&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=585" alt="The 7 Types of Artificial Intelligence Explained in 10 Minutes" title="The 7 Types of Artificial Intelligence Explained in 10 Minutes">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xGf7kglapR8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9l9rJAbLuhM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xGf7kglapR8&title=AI+expert+pokes+fun+at+%E2%80%98APOCALYPTIC+pessimism%E2%80%99&lang=en&timestamp=1791058343&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=193">
-          <img src="https://ytcards.demolab.com/?id=xGf7kglapR8&title=AI+expert+pokes+fun+at+%E2%80%98APOCALYPTIC+pessimism%E2%80%99&lang=en&timestamp=1791058343&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=193" alt="AI expert pokes fun at ‘APOCALYPTIC pessimism’" title="AI expert pokes fun at ‘APOCALYPTIC pessimism’">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9l9rJAbLuhM&title=Instadocs%3A+AI+Gone+Wild+%7C+Official+Teaser+%7C+Netflix&lang=en&timestamp=1791390330&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=105">
+          <img src="https://ytcards.demolab.com/?id=9l9rJAbLuhM&title=Instadocs%3A+AI+Gone+Wild+%7C+Official+Teaser+%7C+Netflix&lang=en&timestamp=1791390330&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=105" alt="Instadocs: AI Gone Wild | Official Teaser | Netflix" title="Instadocs: AI Gone Wild | Official Teaser | Netflix">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Hz4AMy5vdwA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jh9LF6Lc3Vs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Hz4AMy5vdwA&title=Citizen+weekend+interview+%7C+Artificial+Intelligence%3A+Promise%2C+Peril+and+the+Future+of+Humanity&lang=en&timestamp=1791054743&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1239">
-          <img src="https://ytcards.demolab.com/?id=Hz4AMy5vdwA&title=Citizen+weekend+interview+%7C+Artificial+Intelligence%3A+Promise%2C+Peril+and+the+Future+of+Humanity&lang=en&timestamp=1791054743&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1239" alt="Citizen weekend interview | Artificial Intelligence: Promise, Peril and the Future of Humanity" title="Citizen weekend interview | Artificial Intelligence: Promise, Peril and the Future of Humanity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=70+years+of+rebranding+intelligence&lang=en&timestamp=1791375930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=802">
+          <img src="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=70+years+of+rebranding+intelligence&lang=en&timestamp=1791375930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=802" alt="70 years of rebranding intelligence" title="70 years of rebranding intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=CHZ1KxpvAuU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1Y6sM0Yz0dQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=CHZ1KxpvAuU&title=Rogue+AI+concerns+hearing&lang=en&timestamp=1791036743&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=99">
-          <img src="https://ytcards.demolab.com/?id=CHZ1KxpvAuU&title=Rogue+AI+concerns+hearing&lang=en&timestamp=1791036743&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=99" alt="Rogue AI concerns hearing" title="Rogue AI concerns hearing">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1Y6sM0Yz0dQ&title=COMP+3200+-+Intro+to+Artificial+Intelligence+-+Lecture+08+-+Intro+to+Game+Theory&lang=en&timestamp=1791429930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4662">
+          <img src="https://ytcards.demolab.com/?id=1Y6sM0Yz0dQ&title=COMP+3200+-+Intro+to+Artificial+Intelligence+-+Lecture+08+-+Intro+to+Game+Theory&lang=en&timestamp=1791429930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4662" alt="COMP 3200 - Intro to Artificial Intelligence - Lecture 08 - Intro to Game Theory" title="COMP 3200 - Intro to Artificial Intelligence - Lecture 08 - Intro to Game Theory">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=wULlr9BiTVs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=aHkz3F1Q8FI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=wULlr9BiTVs&title=Peter+Norvig+Disagrees+With+Yann+LeCun.+Here%E2%80%99s+Why&lang=en&timestamp=1791029543&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1099">
-          <img src="https://ytcards.demolab.com/?id=wULlr9BiTVs&title=Peter+Norvig+Disagrees+With+Yann+LeCun.+Here%E2%80%99s+Why&lang=en&timestamp=1791029543&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1099" alt="Peter Norvig Disagrees With Yann LeCun. Here’s Why" title="Peter Norvig Disagrees With Yann LeCun. Here’s Why">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aHkz3F1Q8FI&title=Midday+Interview%3A+How+to+avoid+artificial+intelligence+scams&lang=en&timestamp=1791397530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
+          <img src="https://ytcards.demolab.com/?id=aHkz3F1Q8FI&title=Midday+Interview%3A+How+to+avoid+artificial+intelligence+scams&lang=en&timestamp=1791397530&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=136" alt="Midday Interview: How to avoid artificial intelligence scams" title="Midday Interview: How to avoid artificial intelligence scams">
         </picture>
       </a>
     </td>
