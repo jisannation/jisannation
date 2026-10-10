@@ -122,56 +122,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=A-KWpw3XwCI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jCNYVbin4bw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A-KWpw3XwCI&title=Kursus+Teaching+with+Artificial+Intelligence+7.10.2026&lang=en&timestamp=1791429930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6688">
-          <img src="https://ytcards.demolab.com/?id=A-KWpw3XwCI&title=Kursus+Teaching+with+Artificial+Intelligence+7.10.2026&lang=en&timestamp=1791429930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6688" alt="Kursus Teaching with Artificial Intelligence 7.10.2026" title="Kursus Teaching with Artificial Intelligence 7.10.2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jCNYVbin4bw&title=What+if+AI+goes+RIGHT%3F+Expert+talks+positives+of+innovative+tech&lang=en&timestamp=1791580365&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415">
+          <img src="https://ytcards.demolab.com/?id=jCNYVbin4bw&title=What+if+AI+goes+RIGHT%3F+Expert+talks+positives+of+innovative+tech&lang=en&timestamp=1791580365&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=415" alt="What if AI goes RIGHT? Expert talks positives of innovative tech" title="What if AI goes RIGHT? Expert talks positives of innovative tech">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vF25gdMNcGM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=cfS-Lc2xaqo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vF25gdMNcGM&title=The+7+Types+of+Artificial+Intelligence+Explained+in+10+Minutes&lang=en&timestamp=1791383130&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=585">
-          <img src="https://ytcards.demolab.com/?id=vF25gdMNcGM&title=The+7+Types+of+Artificial+Intelligence+Explained+in+10+Minutes&lang=en&timestamp=1791383130&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=585" alt="The 7 Types of Artificial Intelligence Explained in 10 Minutes" title="The 7 Types of Artificial Intelligence Explained in 10 Minutes">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cfS-Lc2xaqo&title=Can+%27Pain%27+Influence+AI+Behaviour%3F+%7C+BBC+News&lang=en&timestamp=1791573165&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
+          <img src="https://ytcards.demolab.com/?id=cfS-Lc2xaqo&title=Can+%27Pain%27+Influence+AI+Behaviour%3F+%7C+BBC+News&lang=en&timestamp=1791573165&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="Can 'Pain' Influence AI Behaviour? | BBC News" title="Can 'Pain' Influence AI Behaviour? | BBC News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9l9rJAbLuhM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=DjtwdlGmH20" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9l9rJAbLuhM&title=Instadocs%3A+AI+Gone+Wild+%7C+Official+Teaser+%7C+Netflix&lang=en&timestamp=1791390330&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=105">
-          <img src="https://ytcards.demolab.com/?id=9l9rJAbLuhM&title=Instadocs%3A+AI+Gone+Wild+%7C+Official+Teaser+%7C+Netflix&lang=en&timestamp=1791390330&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=105" alt="Instadocs: AI Gone Wild | Official Teaser | Netflix" title="Instadocs: AI Gone Wild | Official Teaser | Netflix">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DjtwdlGmH20&title=What+Edward+Snowden+JUST+Said+About+AI+is+Scary...&lang=en&timestamp=1791555165&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=587">
+          <img src="https://ytcards.demolab.com/?id=DjtwdlGmH20&title=What+Edward+Snowden+JUST+Said+About+AI+is+Scary...&lang=en&timestamp=1791555165&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=587" alt="What Edward Snowden JUST Said About AI is Scary..." title="What Edward Snowden JUST Said About AI is Scary...">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jh9LF6Lc3Vs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=FW8p3md6v-E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=70+years+of+rebranding+intelligence&lang=en&timestamp=1791375930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=802">
-          <img src="https://ytcards.demolab.com/?id=jh9LF6Lc3Vs&title=70+years+of+rebranding+intelligence&lang=en&timestamp=1791375930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=802" alt="70 years of rebranding intelligence" title="70 years of rebranding intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FW8p3md6v-E&title=Artificial+Intelligence+%26+the+Psyche%3A+The+First+Summit+on+Depth+Psychology+and+AI&lang=en&timestamp=1791573165&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7117">
+          <img src="https://ytcards.demolab.com/?id=FW8p3md6v-E&title=Artificial+Intelligence+%26+the+Psyche%3A+The+First+Summit+on+Depth+Psychology+and+AI&lang=en&timestamp=1791573165&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7117" alt="Artificial Intelligence & the Psyche: The First Summit on Depth Psychology and AI" title="Artificial Intelligence & the Psyche: The First Summit on Depth Psychology and AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=1Y6sM0Yz0dQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IQJT1ScDT6c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1Y6sM0Yz0dQ&title=COMP+3200+-+Intro+to+Artificial+Intelligence+-+Lecture+08+-+Intro+to+Game+Theory&lang=en&timestamp=1791429930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4662">
-          <img src="https://ytcards.demolab.com/?id=1Y6sM0Yz0dQ&title=COMP+3200+-+Intro+to+Artificial+Intelligence+-+Lecture+08+-+Intro+to+Game+Theory&lang=en&timestamp=1791429930&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4662" alt="COMP 3200 - Intro to Artificial Intelligence - Lecture 08 - Intro to Game Theory" title="COMP 3200 - Intro to Artificial Intelligence - Lecture 08 - Intro to Game Theory">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IQJT1ScDT6c&title=OpenAI+agent+does+it+again%2C+solving+nearly+400+math+problems+no+human+has+ever+solved&lang=en&timestamp=1791558765&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=131">
+          <img src="https://ytcards.demolab.com/?id=IQJT1ScDT6c&title=OpenAI+agent+does+it+again%2C+solving+nearly+400+math+problems+no+human+has+ever+solved&lang=en&timestamp=1791558765&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=131" alt="OpenAI agent does it again, solving nearly 400 math problems no human has ever solved" title="OpenAI agent does it again, solving nearly 400 math problems no human has ever solved">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aHkz3F1Q8FI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=cofW0MYm5yU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aHkz3F1Q8FI&title=Midday+Interview%3A+How+to+avoid+artificial+intelligence+scams&lang=en&timestamp=1791397530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=136">
-          <img src="https://ytcards.demolab.com/?id=aHkz3F1Q8FI&title=Midday+Interview%3A+How+to+avoid+artificial+intelligence+scams&lang=en&timestamp=1791397530&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=136" alt="Midday Interview: How to avoid artificial intelligence scams" title="Midday Interview: How to avoid artificial intelligence scams">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cofW0MYm5yU&title=The+End+Times+Prophecy+Of+Artificial+Intelligence&lang=en&timestamp=1791576765&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1058">
+          <img src="https://ytcards.demolab.com/?id=cofW0MYm5yU&title=The+End+Times+Prophecy+Of+Artificial+Intelligence&lang=en&timestamp=1791576765&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1058" alt="The End Times Prophecy Of Artificial Intelligence" title="The End Times Prophecy Of Artificial Intelligence">
         </picture>
       </a>
     </td>
