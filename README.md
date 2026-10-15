@@ -123,56 +123,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=jCNYVbin4bw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PznzJmb986E" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jCNYVbin4bw&title=What+if+AI+goes+RIGHT%3F+Expert+talks+positives+of+innovative+tech&lang=en&timestamp=1791580365&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415">
-          <img src="https://ytcards.demolab.com/?id=jCNYVbin4bw&title=What+if+AI+goes+RIGHT%3F+Expert+talks+positives+of+innovative+tech&lang=en&timestamp=1791580365&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=415" alt="What if AI goes RIGHT? Expert talks positives of innovative tech" title="What if AI goes RIGHT? Expert talks positives of innovative tech">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PznzJmb986E&title=Baisley+opposes+stricter+artificial+intelligence+regulation&lang=en&timestamp=1792033210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=103">
+          <img src="https://ytcards.demolab.com/?id=PznzJmb986E&title=Baisley+opposes+stricter+artificial+intelligence+regulation&lang=en&timestamp=1792033210&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=103" alt="Baisley opposes stricter artificial intelligence regulation" title="Baisley opposes stricter artificial intelligence regulation">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=cfS-Lc2xaqo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=RSjLosySU6A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cfS-Lc2xaqo&title=Can+%27Pain%27+Influence+AI+Behaviour%3F+%7C+BBC+News&lang=en&timestamp=1791573165&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=815">
-          <img src="https://ytcards.demolab.com/?id=cfS-Lc2xaqo&title=Can+%27Pain%27+Influence+AI+Behaviour%3F+%7C+BBC+News&lang=en&timestamp=1791573165&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=815" alt="Can 'Pain' Influence AI Behaviour? | BBC News" title="Can 'Pain' Influence AI Behaviour? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RSjLosySU6A&title=13+Action+News+Big+Story%3A+Artificial+intelligence%2C+real+problems&lang=en&timestamp=1792015210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=491">
+          <img src="https://ytcards.demolab.com/?id=RSjLosySU6A&title=13+Action+News+Big+Story%3A+Artificial+intelligence%2C+real+problems&lang=en&timestamp=1792015210&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=491" alt="13 Action News Big Story: Artificial intelligence, real problems" title="13 Action News Big Story: Artificial intelligence, real problems">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=DjtwdlGmH20" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Y2hxjy1qHTc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=DjtwdlGmH20&title=What+Edward+Snowden+JUST+Said+About+AI+is+Scary...&lang=en&timestamp=1791555165&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=587">
-          <img src="https://ytcards.demolab.com/?id=DjtwdlGmH20&title=What+Edward+Snowden+JUST+Said+About+AI+is+Scary...&lang=en&timestamp=1791555165&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=587" alt="What Edward Snowden JUST Said About AI is Scary..." title="What Edward Snowden JUST Said About AI is Scary...">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y2hxjy1qHTc&title=Why+are+experts+warning+us+of+AI%3F++An+interview+with+Connor+Leahy&lang=en&timestamp=1792008010&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6116">
+          <img src="https://ytcards.demolab.com/?id=Y2hxjy1qHTc&title=Why+are+experts+warning+us+of+AI%3F++An+interview+with+Connor+Leahy&lang=en&timestamp=1792008010&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6116" alt="Why are experts warning us of AI?  An interview with Connor Leahy" title="Why are experts warning us of AI?  An interview with Connor Leahy">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=FW8p3md6v-E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=SlQW2cv6O-I" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FW8p3md6v-E&title=Artificial+Intelligence+%26+the+Psyche%3A+The+First+Summit+on+Depth+Psychology+and+AI&lang=en&timestamp=1791573165&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7117">
-          <img src="https://ytcards.demolab.com/?id=FW8p3md6v-E&title=Artificial+Intelligence+%26+the+Psyche%3A+The+First+Summit+on+Depth+Psychology+and+AI&lang=en&timestamp=1791573165&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7117" alt="Artificial Intelligence & the Psyche: The First Summit on Depth Psychology and AI" title="Artificial Intelligence & the Psyche: The First Summit on Depth Psychology and AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SlQW2cv6O-I&title=What+Does+It+Mean+for+AI+to+Experience+Pain%3F&lang=en&timestamp=1791964810&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=294">
+          <img src="https://ytcards.demolab.com/?id=SlQW2cv6O-I&title=What+Does+It+Mean+for+AI+to+Experience+Pain%3F&lang=en&timestamp=1791964810&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=294" alt="What Does It Mean for AI to Experience Pain?" title="What Does It Mean for AI to Experience Pain?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=IQJT1ScDT6c" target="_blank">
+      <a href="https://www.youtube.com/watch?v=scFXyMrMQX0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IQJT1ScDT6c&title=OpenAI+agent+does+it+again%2C+solving+nearly+400+math+problems+no+human+has+ever+solved&lang=en&timestamp=1791558765&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=131">
-          <img src="https://ytcards.demolab.com/?id=IQJT1ScDT6c&title=OpenAI+agent+does+it+again%2C+solving+nearly+400+math+problems+no+human+has+ever+solved&lang=en&timestamp=1791558765&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=131" alt="OpenAI agent does it again, solving nearly 400 math problems no human has ever solved" title="OpenAI agent does it again, solving nearly 400 math problems no human has ever solved">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=scFXyMrMQX0&title=Kamala+Harris+Warns+AI+Risk+Window+Is+Closing%2C+Urges+Urgent+Global+Safeguards+%7C+VERTEX&lang=en&timestamp=1791972010&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=263">
+          <img src="https://ytcards.demolab.com/?id=scFXyMrMQX0&title=Kamala+Harris+Warns+AI+Risk+Window+Is+Closing%2C+Urges+Urgent+Global+Safeguards+%7C+VERTEX&lang=en&timestamp=1791972010&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=263" alt="Kamala Harris Warns AI Risk Window Is Closing, Urges Urgent Global Safeguards | VERTEX" title="Kamala Harris Warns AI Risk Window Is Closing, Urges Urgent Global Safeguards | VERTEX">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=cofW0MYm5yU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EXwI7g83YSk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=cofW0MYm5yU&title=The+End+Times+Prophecy+Of+Artificial+Intelligence&lang=en&timestamp=1791576765&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1058">
-          <img src="https://ytcards.demolab.com/?id=cofW0MYm5yU&title=The+End+Times+Prophecy+Of+Artificial+Intelligence&lang=en&timestamp=1791576765&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1058" alt="The End Times Prophecy Of Artificial Intelligence" title="The End Times Prophecy Of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EXwI7g83YSk&title=There%E2%80%99s+Nothing+Wrong+With+Abundant+Intelligence+%E2%80%94+Own+Your+Brilliance&lang=en&timestamp=1791986410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=697">
+          <img src="https://ytcards.demolab.com/?id=EXwI7g83YSk&title=There%E2%80%99s+Nothing+Wrong+With+Abundant+Intelligence+%E2%80%94+Own+Your+Brilliance&lang=en&timestamp=1791986410&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=697" alt="There’s Nothing Wrong With Abundant Intelligence — Own Your Brilliance" title="There’s Nothing Wrong With Abundant Intelligence — Own Your Brilliance">
         </picture>
       </a>
     </td>
