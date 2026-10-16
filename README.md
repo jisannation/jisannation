@@ -124,56 +124,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=PznzJmb986E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nj0iaUDEO-0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PznzJmb986E&title=Baisley+opposes+stricter+artificial+intelligence+regulation&lang=en&timestamp=1792033210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=103">
-          <img src="https://ytcards.demolab.com/?id=PznzJmb986E&title=Baisley+opposes+stricter+artificial+intelligence+regulation&lang=en&timestamp=1792033210&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=103" alt="Baisley opposes stricter artificial intelligence regulation" title="Baisley opposes stricter artificial intelligence regulation">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nj0iaUDEO-0&title=AI+scheming+is+a+real+concern%2C+risk+mitigation+expert+warns&lang=en&timestamp=1792072633&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=325">
+          <img src="https://ytcards.demolab.com/?id=nj0iaUDEO-0&title=AI+scheming+is+a+real+concern%2C+risk+mitigation+expert+warns&lang=en&timestamp=1792072633&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=325" alt="AI scheming is a real concern, risk mitigation expert warns" title="AI scheming is a real concern, risk mitigation expert warns">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=RSjLosySU6A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=p5r9pCqJ3Qo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=RSjLosySU6A&title=13+Action+News+Big+Story%3A+Artificial+intelligence%2C+real+problems&lang=en&timestamp=1792015210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=491">
-          <img src="https://ytcards.demolab.com/?id=RSjLosySU6A&title=13+Action+News+Big+Story%3A+Artificial+intelligence%2C+real+problems&lang=en&timestamp=1792015210&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=491" alt="13 Action News Big Story: Artificial intelligence, real problems" title="13 Action News Big Story: Artificial intelligence, real problems">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=p5r9pCqJ3Qo&title=AI+Panic+Spreads+Worldwide&lang=en&timestamp=1792076233&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=853">
+          <img src="https://ytcards.demolab.com/?id=p5r9pCqJ3Qo&title=AI+Panic+Spreads+Worldwide&lang=en&timestamp=1792076233&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=853" alt="AI Panic Spreads Worldwide" title="AI Panic Spreads Worldwide">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Y2hxjy1qHTc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=TmMYvtp4abI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y2hxjy1qHTc&title=Why+are+experts+warning+us+of+AI%3F++An+interview+with+Connor+Leahy&lang=en&timestamp=1792008010&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6116">
-          <img src="https://ytcards.demolab.com/?id=Y2hxjy1qHTc&title=Why+are+experts+warning+us+of+AI%3F++An+interview+with+Connor+Leahy&lang=en&timestamp=1792008010&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6116" alt="Why are experts warning us of AI?  An interview with Connor Leahy" title="Why are experts warning us of AI?  An interview with Connor Leahy">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792083433&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3712">
+          <img src="https://ytcards.demolab.com/?id=TmMYvtp4abI&title=AI+Leaders+Can%27t+Get+Along.+So+How+Will+They+Keep+Us+Safe%3F+%E2%80%94+With+Kevin+Roose&lang=en&timestamp=1792083433&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3712" alt="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose" title="AI Leaders Can't Get Along. So How Will They Keep Us Safe? — With Kevin Roose">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=SlQW2cv6O-I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Z3izz4WUQXo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=SlQW2cv6O-I&title=What+Does+It+Mean+for+AI+to+Experience+Pain%3F&lang=en&timestamp=1791964810&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=294">
-          <img src="https://ytcards.demolab.com/?id=SlQW2cv6O-I&title=What+Does+It+Mean+for+AI+to+Experience+Pain%3F&lang=en&timestamp=1791964810&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=294" alt="What Does It Mean for AI to Experience Pain?" title="What Does It Mean for AI to Experience Pain?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Z3izz4WUQXo&title=Vietnam-+Key+Legal+Obligations+Under+The+New+Law+On+Artificial+Intelligence.&lang=en&timestamp=1792115833&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=78">
+          <img src="https://ytcards.demolab.com/?id=Z3izz4WUQXo&title=Vietnam-+Key+Legal+Obligations+Under+The+New+Law+On+Artificial+Intelligence.&lang=en&timestamp=1792115833&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=78" alt="Vietnam- Key Legal Obligations Under The New Law On Artificial Intelligence." title="Vietnam- Key Legal Obligations Under The New Law On Artificial Intelligence.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=scFXyMrMQX0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8yWd7jQDm3k" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=scFXyMrMQX0&title=Kamala+Harris+Warns+AI+Risk+Window+Is+Closing%2C+Urges+Urgent+Global+Safeguards+%7C+VERTEX&lang=en&timestamp=1791972010&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=263">
-          <img src="https://ytcards.demolab.com/?id=scFXyMrMQX0&title=Kamala+Harris+Warns+AI+Risk+Window+Is+Closing%2C+Urges+Urgent+Global+Safeguards+%7C+VERTEX&lang=en&timestamp=1791972010&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=263" alt="Kamala Harris Warns AI Risk Window Is Closing, Urges Urgent Global Safeguards | VERTEX" title="Kamala Harris Warns AI Risk Window Is Closing, Urges Urgent Global Safeguards | VERTEX">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8yWd7jQDm3k&title=Pope%27s+AI+adviser+warns+Australia%27s+copyright+changes+risk+%27new+form+of+colonialism%27+%7C+7.30&lang=en&timestamp=1792065433&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=408">
+          <img src="https://ytcards.demolab.com/?id=8yWd7jQDm3k&title=Pope%27s+AI+adviser+warns+Australia%27s+copyright+changes+risk+%27new+form+of+colonialism%27+%7C+7.30&lang=en&timestamp=1792065433&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=408" alt="Pope's AI adviser warns Australia's copyright changes risk 'new form of colonialism' | 7.30" title="Pope's AI adviser warns Australia's copyright changes risk 'new form of colonialism' | 7.30">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EXwI7g83YSk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=AwuTTOJGEi0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EXwI7g83YSk&title=There%E2%80%99s+Nothing+Wrong+With+Abundant+Intelligence+%E2%80%94+Own+Your+Brilliance&lang=en&timestamp=1791986410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=697">
-          <img src="https://ytcards.demolab.com/?id=EXwI7g83YSk&title=There%E2%80%99s+Nothing+Wrong+With+Abundant+Intelligence+%E2%80%94+Own+Your+Brilliance&lang=en&timestamp=1791986410&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=697" alt="There’s Nothing Wrong With Abundant Intelligence — Own Your Brilliance" title="There’s Nothing Wrong With Abundant Intelligence — Own Your Brilliance">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AwuTTOJGEi0&title=The+Changing+Physics+of+Cybersecurity+and+Drug+Development+with+OpenAI+President+Greg+Brockman&lang=en&timestamp=1792061833&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2363">
+          <img src="https://ytcards.demolab.com/?id=AwuTTOJGEi0&title=The+Changing+Physics+of+Cybersecurity+and+Drug+Development+with+OpenAI+President+Greg+Brockman&lang=en&timestamp=1792061833&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2363" alt="The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman" title="The Changing Physics of Cybersecurity and Drug Development with OpenAI President Greg Brockman">
         </picture>
       </a>
     </td>
