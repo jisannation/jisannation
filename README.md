@@ -126,56 +126,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-Q4Uzw8SG-0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=l5A1WvhnCwI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-Q4Uzw8SG-0&title=How+books+are+being+scanned+and+destroyed+to+train+artificial+intelligence+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792144024&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=253">
-          <img src="https://ytcards.demolab.com/?id=-Q4Uzw8SG-0&title=How+books+are+being+scanned+and+destroyed+to+train+artificial+intelligence+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1792144024&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=253" alt="How books are being scanned and destroyed to train artificial intelligence • FRANCE 24 English" title="How books are being scanned and destroyed to train artificial intelligence • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=l5A1WvhnCwI&title=Will+autonomous+weapons+obey+the+laws+of+war%3F%7C+DW+News&lang=en&timestamp=1792252415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=565">
+          <img src="https://ytcards.demolab.com/?id=l5A1WvhnCwI&title=Will+autonomous+weapons+obey+the+laws+of+war%3F%7C+DW+News&lang=en&timestamp=1792252415&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=565" alt="Will autonomous weapons obey the laws of war?| DW News" title="Will autonomous weapons obey the laws of war?| DW News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=i9PTcGD1viU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=L8KbTUySgtA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=i9PTcGD1viU&title=Will+AI+Really+Wipe+Us+Out+by+2030%3F+-+Nuclear+Engineer+Reacts+to+CNN&lang=en&timestamp=1792172824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2736">
-          <img src="https://ytcards.demolab.com/?id=i9PTcGD1viU&title=Will+AI+Really+Wipe+Us+Out+by+2030%3F+-+Nuclear+Engineer+Reacts+to+CNN&lang=en&timestamp=1792172824&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2736" alt="Will AI Really Wipe Us Out by 2030? - Nuclear Engineer Reacts to CNN" title="Will AI Really Wipe Us Out by 2030? - Nuclear Engineer Reacts to CNN">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L8KbTUySgtA&title=Why+Everyone+is+Talking+About+China%E2%80%99s+Tech%21+Canton+Fair+2026&lang=en&timestamp=1792248815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=224">
+          <img src="https://ytcards.demolab.com/?id=L8KbTUySgtA&title=Why+Everyone+is+Talking+About+China%E2%80%99s+Tech%21+Canton+Fair+2026&lang=en&timestamp=1792248815&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=224" alt="Why Everyone is Talking About China’s Tech! Canton Fair 2026" title="Why Everyone is Talking About China’s Tech! Canton Fair 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4vV5k9sZLb4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2mE6bbjVazE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4vV5k9sZLb4&title=AI+Panic+Deepens+as+Wall+Street+Warns+CoreWeave+Could+Collapse+to+ZERO&lang=en&timestamp=1792172824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1044">
-          <img src="https://ytcards.demolab.com/?id=4vV5k9sZLb4&title=AI+Panic+Deepens+as+Wall+Street+Warns+CoreWeave+Could+Collapse+to+ZERO&lang=en&timestamp=1792172824&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1044" alt="AI Panic Deepens as Wall Street Warns CoreWeave Could Collapse to ZERO" title="AI Panic Deepens as Wall Street Warns CoreWeave Could Collapse to ZERO">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Is+This+The+Biggest+AI+Discovery+Of+The+Year%3F&lang=en&timestamp=1792270415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1494">
+          <img src="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Is+This+The+Biggest+AI+Discovery+Of+The+Year%3F&lang=en&timestamp=1792270415&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1494" alt="Is This The Biggest AI Discovery Of The Year?" title="Is This The Biggest AI Discovery Of The Year?">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zn39LWqsURg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=bWAXazCVi6A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zn39LWqsURg&title=Sam+Altman%27s+WEIRD+Response+to+This+AI+Experts%27+Warnings+%7C+Connor+Leahy&lang=en&timestamp=1792172824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=539">
-          <img src="https://ytcards.demolab.com/?id=zn39LWqsURg&title=Sam+Altman%27s+WEIRD+Response+to+This+AI+Experts%27+Warnings+%7C+Connor+Leahy&lang=en&timestamp=1792172824&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=539" alt="Sam Altman's WEIRD Response to This AI Experts' Warnings | Connor Leahy" title="Sam Altman's WEIRD Response to This AI Experts' Warnings | Connor Leahy">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792248815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=752">
+          <img src="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792248815&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=752" alt="How AI Is Changing the Working World" title="How AI Is Changing the Working World">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=7loKqXPzTcQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=-EgpdTFa31g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7loKqXPzTcQ&title=Scientists+WARN+artificial+intelligence+can+DISTORT+human+memories&lang=en&timestamp=1792176424&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=116">
-          <img src="https://ytcards.demolab.com/?id=7loKqXPzTcQ&title=Scientists+WARN+artificial+intelligence+can+DISTORT+human+memories&lang=en&timestamp=1792176424&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=116" alt="Scientists WARN artificial intelligence can DISTORT human memories" title="Scientists WARN artificial intelligence can DISTORT human memories">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-EgpdTFa31g&title=Running+Out+Of+Work&lang=en&timestamp=1792259615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1537">
+          <img src="https://ytcards.demolab.com/?id=-EgpdTFa31g&title=Running+Out+Of+Work&lang=en&timestamp=1792259615&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1537" alt="Running Out Of Work" title="Running Out Of Work">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fxGWBZZjRUs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zteHWsdTNDE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fxGWBZZjRUs&title=The+Military+Is+Giving+AI+a+Body.+We+May+Not+Be+Able+to+Control+Them.&lang=en&timestamp=1792136824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=344">
-          <img src="https://ytcards.demolab.com/?id=fxGWBZZjRUs&title=The+Military+Is+Giving+AI+a+Body.+We+May+Not+Be+Able+to+Control+Them.&lang=en&timestamp=1792136824&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=344" alt="The Military Is Giving AI a Body. We May Not Be Able to Control Them." title="The Military Is Giving AI a Body. We May Not Be Able to Control Them.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zteHWsdTNDE&title=CEA+Nageswaran%2C+Raghuram+Rajan+%26+Anthropic+Co-Founder+Discuss+AI%2C+Jobs+Impact+%26+Doomsday+Prediction&lang=en&timestamp=1792241615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1338">
+          <img src="https://ytcards.demolab.com/?id=zteHWsdTNDE&title=CEA+Nageswaran%2C+Raghuram+Rajan+%26+Anthropic+Co-Founder+Discuss+AI%2C+Jobs+Impact+%26+Doomsday+Prediction&lang=en&timestamp=1792241615&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1338" alt="CEA Nageswaran, Raghuram Rajan & Anthropic Co-Founder Discuss AI, Jobs Impact & Doomsday Prediction" title="CEA Nageswaran, Raghuram Rajan & Anthropic Co-Founder Discuss AI, Jobs Impact & Doomsday Prediction">
         </picture>
       </a>
     </td>
