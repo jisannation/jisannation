@@ -127,56 +127,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=l5A1WvhnCwI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XW4D6NguJmA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=l5A1WvhnCwI&title=Will+autonomous+weapons+obey+the+laws+of+war%3F%7C+DW+News&lang=en&timestamp=1792252415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=565">
-          <img src="https://ytcards.demolab.com/?id=l5A1WvhnCwI&title=Will+autonomous+weapons+obey+the+laws+of+war%3F%7C+DW+News&lang=en&timestamp=1792252415&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=565" alt="Will autonomous weapons obey the laws of war?| DW News" title="Will autonomous weapons obey the laws of war?| DW News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XW4D6NguJmA&title=Recent+News+in+Artificial+Intelligence%3A+Critical+Analysis+%28Featuring+Connor+Leahy%29&lang=en&timestamp=1792764049&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3891">
+          <img src="https://ytcards.demolab.com/?id=XW4D6NguJmA&title=Recent+News+in+Artificial+Intelligence%3A+Critical+Analysis+%28Featuring+Connor+Leahy%29&lang=en&timestamp=1792764049&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3891" alt="Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)" title="Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=L8KbTUySgtA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=2Lexxq7Daz8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=L8KbTUySgtA&title=Why+Everyone+is+Talking+About+China%E2%80%99s+Tech%21+Canton+Fair+2026&lang=en&timestamp=1792248815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=224">
-          <img src="https://ytcards.demolab.com/?id=L8KbTUySgtA&title=Why+Everyone+is+Talking+About+China%E2%80%99s+Tech%21+Canton+Fair+2026&lang=en&timestamp=1792248815&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=224" alt="Why Everyone is Talking About China’s Tech! Canton Fair 2026" title="Why Everyone is Talking About China’s Tech! Canton Fair 2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2Lexxq7Daz8&title=AI+Spending+Sparks+Tech+Stock+Selloff%3A+Meta+Shares+Slump+7%25+As+AI+Spending+Soars+%7C+WION&lang=en&timestamp=1792753249&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
+          <img src="https://ytcards.demolab.com/?id=2Lexxq7Daz8&title=AI+Spending+Sparks+Tech+Stock+Selloff%3A+Meta+Shares+Slump+7%25+As+AI+Spending+Soars+%7C+WION&lang=en&timestamp=1792753249&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="AI Spending Sparks Tech Stock Selloff: Meta Shares Slump 7% As AI Spending Soars | WION" title="AI Spending Sparks Tech Stock Selloff: Meta Shares Slump 7% As AI Spending Soars | WION">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2mE6bbjVazE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=sR-tHubZyuY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Is+This+The+Biggest+AI+Discovery+Of+The+Year%3F&lang=en&timestamp=1792270415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1494">
-          <img src="https://ytcards.demolab.com/?id=2mE6bbjVazE&title=Is+This+The+Biggest+AI+Discovery+Of+The+Year%3F&lang=en&timestamp=1792270415&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1494" alt="Is This The Biggest AI Discovery Of The Year?" title="Is This The Biggest AI Discovery Of The Year?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sR-tHubZyuY&title=What+Artificial+Intelligence+Just+Revealed+About+The+Future+of+Physics+Is+Wild&lang=en&timestamp=1792792849&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7939">
+          <img src="https://ytcards.demolab.com/?id=sR-tHubZyuY&title=What+Artificial+Intelligence+Just+Revealed+About+The+Future+of+Physics+Is+Wild&lang=en&timestamp=1792792849&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7939" alt="What Artificial Intelligence Just Revealed About The Future of Physics Is Wild" title="What Artificial Intelligence Just Revealed About The Future of Physics Is Wild">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=bWAXazCVi6A" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lQNIqNO-Wuk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792248815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=752">
-          <img src="https://ytcards.demolab.com/?id=bWAXazCVi6A&title=How+AI+Is+Changing+the+Working+World&lang=en&timestamp=1792248815&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=752" alt="How AI Is Changing the Working World" title="How AI Is Changing the Working World">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lQNIqNO-Wuk&title=Alien+technology+would+dwarf+Artificial+Intelligence+-+Avi+Loeb&lang=en&timestamp=1792771249&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=274">
+          <img src="https://ytcards.demolab.com/?id=lQNIqNO-Wuk&title=Alien+technology+would+dwarf+Artificial+Intelligence+-+Avi+Loeb&lang=en&timestamp=1792771249&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=274" alt="Alien technology would dwarf Artificial Intelligence - Avi Loeb" title="Alien technology would dwarf Artificial Intelligence - Avi Loeb">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-EgpdTFa31g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4rr3c8Dlt08" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-EgpdTFa31g&title=Running+Out+Of+Work&lang=en&timestamp=1792259615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1537">
-          <img src="https://ytcards.demolab.com/?id=-EgpdTFa31g&title=Running+Out+Of+Work&lang=en&timestamp=1792259615&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1537" alt="Running Out Of Work" title="Running Out Of Work">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4rr3c8Dlt08&title=USC+helps+seniors+learn+how+to+use+artificial+intelligence&lang=en&timestamp=1792796449&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=125">
+          <img src="https://ytcards.demolab.com/?id=4rr3c8Dlt08&title=USC+helps+seniors+learn+how+to+use+artificial+intelligence&lang=en&timestamp=1792796449&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=125" alt="USC helps seniors learn how to use artificial intelligence" title="USC helps seniors learn how to use artificial intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zteHWsdTNDE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=EVOhKJMtyug" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zteHWsdTNDE&title=CEA+Nageswaran%2C+Raghuram+Rajan+%26+Anthropic+Co-Founder+Discuss+AI%2C+Jobs+Impact+%26+Doomsday+Prediction&lang=en&timestamp=1792241615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1338">
-          <img src="https://ytcards.demolab.com/?id=zteHWsdTNDE&title=CEA+Nageswaran%2C+Raghuram+Rajan+%26+Anthropic+Co-Founder+Discuss+AI%2C+Jobs+Impact+%26+Doomsday+Prediction&lang=en&timestamp=1792241615&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1338" alt="CEA Nageswaran, Raghuram Rajan & Anthropic Co-Founder Discuss AI, Jobs Impact & Doomsday Prediction" title="CEA Nageswaran, Raghuram Rajan & Anthropic Co-Founder Discuss AI, Jobs Impact & Doomsday Prediction">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EVOhKJMtyug&title=Artificial+Intelligence%3A+The+Greatest+Existential+Threat+Humanity+Has+Ever+Faced&lang=en&timestamp=1792800049&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=767">
+          <img src="https://ytcards.demolab.com/?id=EVOhKJMtyug&title=Artificial+Intelligence%3A+The+Greatest+Existential+Threat+Humanity+Has+Ever+Faced&lang=en&timestamp=1792800049&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=767" alt="Artificial Intelligence: The Greatest Existential Threat Humanity Has Ever Faced" title="Artificial Intelligence: The Greatest Existential Threat Humanity Has Ever Faced">
         </picture>
       </a>
     </td>
