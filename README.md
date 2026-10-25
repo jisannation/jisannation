@@ -128,56 +128,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XW4D6NguJmA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=yNlc8nNrHh4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XW4D6NguJmA&title=Recent+News+in+Artificial+Intelligence%3A+Critical+Analysis+%28Featuring+Connor+Leahy%29&lang=en&timestamp=1792764049&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3891">
-          <img src="https://ytcards.demolab.com/?id=XW4D6NguJmA&title=Recent+News+in+Artificial+Intelligence%3A+Critical+Analysis+%28Featuring+Connor+Leahy%29&lang=en&timestamp=1792764049&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3891" alt="Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)" title="Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yNlc8nNrHh4&title=America%27s+AI+race%3A+Are+the+risks+being+ignored%3F+%7C+DW+News&lang=en&timestamp=1792828899&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=465">
+          <img src="https://ytcards.demolab.com/?id=yNlc8nNrHh4&title=America%27s+AI+race%3A+Are+the+risks+being+ignored%3F+%7C+DW+News&lang=en&timestamp=1792828899&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=465" alt="America's AI race: Are the risks being ignored? | DW News" title="America's AI race: Are the risks being ignored? | DW News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=2Lexxq7Daz8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=oMpCkdFn754" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=2Lexxq7Daz8&title=AI+Spending+Sparks+Tech+Stock+Selloff%3A+Meta+Shares+Slump+7%25+As+AI+Spending+Soars+%7C+WION&lang=en&timestamp=1792753249&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=198">
-          <img src="https://ytcards.demolab.com/?id=2Lexxq7Daz8&title=AI+Spending+Sparks+Tech+Stock+Selloff%3A+Meta+Shares+Slump+7%25+As+AI+Spending+Soars+%7C+WION&lang=en&timestamp=1792753249&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=198" alt="AI Spending Sparks Tech Stock Selloff: Meta Shares Slump 7% As AI Spending Soars | WION" title="AI Spending Sparks Tech Stock Selloff: Meta Shares Slump 7% As AI Spending Soars | WION">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oMpCkdFn754&title=US+banks+scramble+to+control+their+AI+agent+activity&lang=en&timestamp=1792832499&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
+          <img src="https://ytcards.demolab.com/?id=oMpCkdFn754&title=US+banks+scramble+to+control+their+AI+agent+activity&lang=en&timestamp=1792832499&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="US banks scramble to control their AI agent activity" title="US banks scramble to control their AI agent activity">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=sR-tHubZyuY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mBLnQCF1evE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=sR-tHubZyuY&title=What+Artificial+Intelligence+Just+Revealed+About+The+Future+of+Physics+Is+Wild&lang=en&timestamp=1792792849&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7939">
-          <img src="https://ytcards.demolab.com/?id=sR-tHubZyuY&title=What+Artificial+Intelligence+Just+Revealed+About+The+Future+of+Physics+Is+Wild&lang=en&timestamp=1792792849&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7939" alt="What Artificial Intelligence Just Revealed About The Future of Physics Is Wild" title="What Artificial Intelligence Just Revealed About The Future of Physics Is Wild">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mBLnQCF1evE&title=Whitney+Webb+EXPOSES+the+Dark+Agenda+Behind+the+AI+Takeover&lang=en&timestamp=1792886499&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1108">
+          <img src="https://ytcards.demolab.com/?id=mBLnQCF1evE&title=Whitney+Webb+EXPOSES+the+Dark+Agenda+Behind+the+AI+Takeover&lang=en&timestamp=1792886499&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1108" alt="Whitney Webb EXPOSES the Dark Agenda Behind the AI Takeover" title="Whitney Webb EXPOSES the Dark Agenda Behind the AI Takeover">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=lQNIqNO-Wuk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ZI-hsm5yhkw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lQNIqNO-Wuk&title=Alien+technology+would+dwarf+Artificial+Intelligence+-+Avi+Loeb&lang=en&timestamp=1792771249&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=274">
-          <img src="https://ytcards.demolab.com/?id=lQNIqNO-Wuk&title=Alien+technology+would+dwarf+Artificial+Intelligence+-+Avi+Loeb&lang=en&timestamp=1792771249&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=274" alt="Alien technology would dwarf Artificial Intelligence - Avi Loeb" title="Alien technology would dwarf Artificial Intelligence - Avi Loeb">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZI-hsm5yhkw&title=Nobody+Can+Think+Without+AI+Anymore&lang=en&timestamp=1792864899&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=898">
+          <img src="https://ytcards.demolab.com/?id=ZI-hsm5yhkw&title=Nobody+Can+Think+Without+AI+Anymore&lang=en&timestamp=1792864899&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=898" alt="Nobody Can Think Without AI Anymore" title="Nobody Can Think Without AI Anymore">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=4rr3c8Dlt08" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Il4yxKE04gg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4rr3c8Dlt08&title=USC+helps+seniors+learn+how+to+use+artificial+intelligence&lang=en&timestamp=1792796449&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=125">
-          <img src="https://ytcards.demolab.com/?id=4rr3c8Dlt08&title=USC+helps+seniors+learn+how+to+use+artificial+intelligence&lang=en&timestamp=1792796449&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=125" alt="USC helps seniors learn how to use artificial intelligence" title="USC helps seniors learn how to use artificial intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Il4yxKE04gg&title=What+Artificial+Intelligence+Does+When+No+One+Is+Watching+Is+Terrifying&lang=en&timestamp=1792882899&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7742">
+          <img src="https://ytcards.demolab.com/?id=Il4yxKE04gg&title=What+Artificial+Intelligence+Does+When+No+One+Is+Watching+Is+Terrifying&lang=en&timestamp=1792882899&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7742" alt="What Artificial Intelligence Does When No One Is Watching Is Terrifying" title="What Artificial Intelligence Does When No One Is Watching Is Terrifying">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=EVOhKJMtyug" target="_blank">
+      <a href="https://www.youtube.com/watch?v=BD-fSSxIULI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EVOhKJMtyug&title=Artificial+Intelligence%3A+The+Greatest+Existential+Threat+Humanity+Has+Ever+Faced&lang=en&timestamp=1792800049&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=767">
-          <img src="https://ytcards.demolab.com/?id=EVOhKJMtyug&title=Artificial+Intelligence%3A+The+Greatest+Existential+Threat+Humanity+Has+Ever+Faced&lang=en&timestamp=1792800049&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=767" alt="Artificial Intelligence: The Greatest Existential Threat Humanity Has Ever Faced" title="Artificial Intelligence: The Greatest Existential Threat Humanity Has Ever Faced">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BD-fSSxIULI&title=1+AI+Doomer+vs+10+AI+Supporters%3A+Will+Artificial+Intelligence+End+Humanity%3F&lang=en&timestamp=1792882899&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13171">
+          <img src="https://ytcards.demolab.com/?id=BD-fSSxIULI&title=1+AI+Doomer+vs+10+AI+Supporters%3A+Will+Artificial+Intelligence+End+Humanity%3F&lang=en&timestamp=1792882899&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13171" alt="1 AI Doomer vs 10 AI Supporters: Will Artificial Intelligence End Humanity?" title="1 AI Doomer vs 10 AI Supporters: Will Artificial Intelligence End Humanity?">
         </picture>
       </a>
     </td>
