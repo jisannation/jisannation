@@ -129,56 +129,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=yNlc8nNrHh4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=W3Zn_sjdHxM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=yNlc8nNrHh4&title=America%27s+AI+race%3A+Are+the+risks+being+ignored%3F+%7C+DW+News&lang=en&timestamp=1792828899&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=465">
-          <img src="https://ytcards.demolab.com/?id=yNlc8nNrHh4&title=America%27s+AI+race%3A+Are+the+risks+being+ignored%3F+%7C+DW+News&lang=en&timestamp=1792828899&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=465" alt="America's AI race: Are the risks being ignored? | DW News" title="America's AI race: Are the risks being ignored? | DW News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W3Zn_sjdHxM&title=Inside+the+secret+race+to+build+artificial+intelligence+%7C+The+Gray+Area&lang=en&timestamp=1793017545&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2506">
+          <img src="https://ytcards.demolab.com/?id=W3Zn_sjdHxM&title=Inside+the+secret+race+to+build+artificial+intelligence+%7C+The+Gray+Area&lang=en&timestamp=1793017545&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2506" alt="Inside the secret race to build artificial intelligence | The Gray Area" title="Inside the secret race to build artificial intelligence | The Gray Area">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=oMpCkdFn754" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zmSHcm5uHeU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oMpCkdFn754&title=US+banks+scramble+to+control+their+AI+agent+activity&lang=en&timestamp=1792832499&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=124">
-          <img src="https://ytcards.demolab.com/?id=oMpCkdFn754&title=US+banks+scramble+to+control+their+AI+agent+activity&lang=en&timestamp=1792832499&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=124" alt="US banks scramble to control their AI agent activity" title="US banks scramble to control their AI agent activity">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zmSHcm5uHeU&title=This+Is+What%E2%80%99s+Coming+To+Hospitals+And+It%E2%80%99s+Getting+Scary&lang=en&timestamp=1793042745&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=856">
+          <img src="https://ytcards.demolab.com/?id=zmSHcm5uHeU&title=This+Is+What%E2%80%99s+Coming+To+Hospitals+And+It%E2%80%99s+Getting+Scary&lang=en&timestamp=1793042745&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=856" alt="This Is What’s Coming To Hospitals And It’s Getting Scary" title="This Is What’s Coming To Hospitals And It’s Getting Scary">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mBLnQCF1evE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=giokryTGj_A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mBLnQCF1evE&title=Whitney+Webb+EXPOSES+the+Dark+Agenda+Behind+the+AI+Takeover&lang=en&timestamp=1792886499&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1108">
-          <img src="https://ytcards.demolab.com/?id=mBLnQCF1evE&title=Whitney+Webb+EXPOSES+the+Dark+Agenda+Behind+the+AI+Takeover&lang=en&timestamp=1792886499&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1108" alt="Whitney Webb EXPOSES the Dark Agenda Behind the AI Takeover" title="Whitney Webb EXPOSES the Dark Agenda Behind the AI Takeover">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=giokryTGj_A&title=Anthropic%27s+finances+are+wilder+than+you+think&lang=en&timestamp=1793046345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=426">
+          <img src="https://ytcards.demolab.com/?id=giokryTGj_A&title=Anthropic%27s+finances+are+wilder+than+you+think&lang=en&timestamp=1793046345&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=426" alt="Anthropic's finances are wilder than you think" title="Anthropic's finances are wilder than you think">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ZI-hsm5yhkw" target="_blank">
+      <a href="https://www.youtube.com/watch?v=IJrxpS0Vpxg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ZI-hsm5yhkw&title=Nobody+Can+Think+Without+AI+Anymore&lang=en&timestamp=1792864899&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=898">
-          <img src="https://ytcards.demolab.com/?id=ZI-hsm5yhkw&title=Nobody+Can+Think+Without+AI+Anymore&lang=en&timestamp=1792864899&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=898" alt="Nobody Can Think Without AI Anymore" title="Nobody Can Think Without AI Anymore">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=IJrxpS0Vpxg&title=Microsoft+Offers+Buyouts+To+25%25+Of+Company&lang=en&timestamp=1793046345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=199">
+          <img src="https://ytcards.demolab.com/?id=IJrxpS0Vpxg&title=Microsoft+Offers+Buyouts+To+25%25+Of+Company&lang=en&timestamp=1793046345&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=199" alt="Microsoft Offers Buyouts To 25% Of Company" title="Microsoft Offers Buyouts To 25% Of Company">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Il4yxKE04gg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lbtUnjWh1_c" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Il4yxKE04gg&title=What+Artificial+Intelligence+Does+When+No+One+Is+Watching+Is+Terrifying&lang=en&timestamp=1792882899&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7742">
-          <img src="https://ytcards.demolab.com/?id=Il4yxKE04gg&title=What+Artificial+Intelligence+Does+When+No+One+Is+Watching+Is+Terrifying&lang=en&timestamp=1792882899&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=7742" alt="What Artificial Intelligence Does When No One Is Watching Is Terrifying" title="What Artificial Intelligence Does When No One Is Watching Is Terrifying">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lbtUnjWh1_c&title=I+hacked+my+camera+with+AI+%28and+so+can+you%29&lang=en&timestamp=1793046345&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1218">
+          <img src="https://ytcards.demolab.com/?id=lbtUnjWh1_c&title=I+hacked+my+camera+with+AI+%28and+so+can+you%29&lang=en&timestamp=1793046345&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1218" alt="I hacked my camera with AI (and so can you)" title="I hacked my camera with AI (and so can you)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=BD-fSSxIULI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=v5d8nwgiSYI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=BD-fSSxIULI&title=1+AI+Doomer+vs+10+AI+Supporters%3A+Will+Artificial+Intelligence+End+Humanity%3F&lang=en&timestamp=1792882899&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13171">
-          <img src="https://ytcards.demolab.com/?id=BD-fSSxIULI&title=1+AI+Doomer+vs+10+AI+Supporters%3A+Will+Artificial+Intelligence+End+Humanity%3F&lang=en&timestamp=1792882899&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=13171" alt="1 AI Doomer vs 10 AI Supporters: Will Artificial Intelligence End Humanity?" title="1 AI Doomer vs 10 AI Supporters: Will Artificial Intelligence End Humanity?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v5d8nwgiSYI&title=Patent+Strategy+in+the+Age+of+AI&lang=en&timestamp=1793042745&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2381">
+          <img src="https://ytcards.demolab.com/?id=v5d8nwgiSYI&title=Patent+Strategy+in+the+Age+of+AI&lang=en&timestamp=1793042745&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2381" alt="Patent Strategy in the Age of AI" title="Patent Strategy in the Age of AI">
         </picture>
       </a>
     </td>
