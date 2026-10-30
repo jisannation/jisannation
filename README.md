@@ -131,56 +131,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pw6qDxv89ew" target="_blank">
+      <a href="https://www.youtube.com/watch?v=ojOdB-7Dbdg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pw6qDxv89ew&title=Apollo%27s+Chief+Economist%E2%80%99s+Blunt+Verdict+On+Artificial+Intelligence+In+Corporate+U.S.+%7C+Details&lang=en&timestamp=1793247328&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=196">
-          <img src="https://ytcards.demolab.com/?id=pw6qDxv89ew&title=Apollo%27s+Chief+Economist%E2%80%99s+Blunt+Verdict+On+Artificial+Intelligence+In+Corporate+U.S.+%7C+Details&lang=en&timestamp=1793247328&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=196" alt="Apollo's Chief Economist’s Blunt Verdict On Artificial Intelligence In Corporate U.S. | Details" title="Apollo's Chief Economist’s Blunt Verdict On Artificial Intelligence In Corporate U.S. | Details">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ojOdB-7Dbdg&title=Artificial+intelligence+and+psychotherapy+%7C+DW+Documentary&lang=en&timestamp=1793293681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2612">
+          <img src="https://ytcards.demolab.com/?id=ojOdB-7Dbdg&title=Artificial+intelligence+and+psychotherapy+%7C+DW+Documentary&lang=en&timestamp=1793293681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2612" alt="Artificial intelligence and psychotherapy | DW Documentary" title="Artificial intelligence and psychotherapy | DW Documentary">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JxW4Wf_hJWo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=HGkRMGVwWGM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JxW4Wf_hJWo&title=Use+of+artificial+intelligence+in+campaign+ads+draws+scrutiny&lang=en&timestamp=1793232508&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=168">
-          <img src="https://ytcards.demolab.com/?id=JxW4Wf_hJWo&title=Use+of+artificial+intelligence+in+campaign+ads+draws+scrutiny&lang=en&timestamp=1793232508&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=168" alt="Use of artificial intelligence in campaign ads draws scrutiny" title="Use of artificial intelligence in campaign ads draws scrutiny">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HGkRMGVwWGM&title=The+History+of+Artificial+Intelligence+%281950%E2%80%932026%29+%E2%80%94+Told+Like+a+Movie&lang=en&timestamp=1793311681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4803">
+          <img src="https://ytcards.demolab.com/?id=HGkRMGVwWGM&title=The+History+of+Artificial+Intelligence+%281950%E2%80%932026%29+%E2%80%94+Told+Like+a+Movie&lang=en&timestamp=1793311681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4803" alt="The History of Artificial Intelligence (1950–2026) — Told Like a Movie" title="The History of Artificial Intelligence (1950–2026) — Told Like a Movie">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=13md2EN7gns" target="_blank">
+      <a href="https://www.youtube.com/watch?v=5f30xCKRQ88" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=13md2EN7gns&title=President+Trump+attempts+to+REBRAND+artificial+intelligence%3A+Will+it+work%3F&lang=en&timestamp=1793218108&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=133">
-          <img src="https://ytcards.demolab.com/?id=13md2EN7gns&title=President+Trump+attempts+to+REBRAND+artificial+intelligence%3A+Will+it+work%3F&lang=en&timestamp=1793218108&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=133" alt="President Trump attempts to REBRAND artificial intelligence: Will it work?" title="President Trump attempts to REBRAND artificial intelligence: Will it work?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5f30xCKRQ88&title=Staying+Human+in+the+Age+of+AI.+Information%2C+Questions+and+Answers+about+AI+%28in+english%29.&lang=en&timestamp=1793250481&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4423">
+          <img src="https://ytcards.demolab.com/?id=5f30xCKRQ88&title=Staying+Human+in+the+Age+of+AI.+Information%2C+Questions+and+Answers+about+AI+%28in+english%29.&lang=en&timestamp=1793250481&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4423" alt="Staying Human in the Age of AI. Information, Questions and Answers about AI (in english)." title="Staying Human in the Age of AI. Information, Questions and Answers about AI (in english).">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=JNliNwmiM9I" target="_blank">
+      <a href="https://www.youtube.com/watch?v=y0EnvtctqQM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=JNliNwmiM9I&title=ARTIFICIAL+INTELLIGENCE%3A++IS+THE+FUTURE+ALREADY+HERE%3F&lang=en&timestamp=1793236108&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=167">
-          <img src="https://ytcards.demolab.com/?id=JNliNwmiM9I&title=ARTIFICIAL+INTELLIGENCE%3A++IS+THE+FUTURE+ALREADY+HERE%3F&lang=en&timestamp=1793236108&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=167" alt="ARTIFICIAL INTELLIGENCE:  IS THE FUTURE ALREADY HERE?" title="ARTIFICIAL INTELLIGENCE:  IS THE FUTURE ALREADY HERE?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y0EnvtctqQM&title=Over+130%2C000+Tech+Jobs+Lost+In+2026%2C+But+AI+Isn%27t+The+Only+Reason+%7C+Here%27s+What%27s+Really+Happening&lang=en&timestamp=1793275681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=236">
+          <img src="https://ytcards.demolab.com/?id=y0EnvtctqQM&title=Over+130%2C000+Tech+Jobs+Lost+In+2026%2C+But+AI+Isn%27t+The+Only+Reason+%7C+Here%27s+What%27s+Really+Happening&lang=en&timestamp=1793275681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=236" alt="Over 130,000 Tech Jobs Lost In 2026, But AI Isn't The Only Reason | Here's What's Really Happening" title="Over 130,000 Tech Jobs Lost In 2026, But AI Isn't The Only Reason | Here's What's Really Happening">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Y2uMdrE9qQY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=grhoUWSd4aA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Y2uMdrE9qQY&title=Pres.+Trump+plans+to+ban+the+term+%27artificial+intelligence.%27+Here%27s+what+he+wants+to+use+instead&lang=en&timestamp=1793196508&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31">
-          <img src="https://ytcards.demolab.com/?id=Y2uMdrE9qQY&title=Pres.+Trump+plans+to+ban+the+term+%27artificial+intelligence.%27+Here%27s+what+he+wants+to+use+instead&lang=en&timestamp=1793196508&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=31" alt="Pres. Trump plans to ban the term 'artificial intelligence.' Here's what he wants to use instead" title="Pres. Trump plans to ban the term 'artificial intelligence.' Here's what he wants to use instead">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=grhoUWSd4aA&title=How+USCIS%2C+CBP%2C+ICE+Use+AI%2C+Super+Intelligence%28SI%29+on+Your+US+Visa%2C+I-94%2C+and+USCIS+Applications&lang=en&timestamp=1793290081&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1119">
+          <img src="https://ytcards.demolab.com/?id=grhoUWSd4aA&title=How+USCIS%2C+CBP%2C+ICE+Use+AI%2C+Super+Intelligence%28SI%29+on+Your+US+Visa%2C+I-94%2C+and+USCIS+Applications&lang=en&timestamp=1793290081&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1119" alt="How USCIS, CBP, ICE Use AI, Super Intelligence(SI) on Your US Visa, I-94, and USCIS Applications" title="How USCIS, CBP, ICE Use AI, Super Intelligence(SI) on Your US Visa, I-94, and USCIS Applications">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TVFfSh3zQE4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=pOl5f2e08gU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TVFfSh3zQE4&title=New+AI+Movie+Got+DESTROYED+at+the+Box+Office&lang=en&timestamp=1793214508&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=134">
-          <img src="https://ytcards.demolab.com/?id=TVFfSh3zQE4&title=New+AI+Movie+Got+DESTROYED+at+the+Box+Office&lang=en&timestamp=1793214508&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=134" alt="New AI Movie Got DESTROYED at the Box Office" title="New AI Movie Got DESTROYED at the Box Office">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pOl5f2e08gU&title=Leadership+in+the+Age+of+Artificial+Intelligence&lang=en&timestamp=1793304481&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4404">
+          <img src="https://ytcards.demolab.com/?id=pOl5f2e08gU&title=Leadership+in+the+Age+of+Artificial+Intelligence&lang=en&timestamp=1793304481&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4404" alt="Leadership in the Age of Artificial Intelligence" title="Leadership in the Age of Artificial Intelligence">
         </picture>
       </a>
     </td>
