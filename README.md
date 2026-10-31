@@ -132,56 +132,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ojOdB-7Dbdg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=nzu3qTTx1-8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ojOdB-7Dbdg&title=Artificial+intelligence+and+psychotherapy+%7C+DW+Documentary&lang=en&timestamp=1793293681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2612">
-          <img src="https://ytcards.demolab.com/?id=ojOdB-7Dbdg&title=Artificial+intelligence+and+psychotherapy+%7C+DW+Documentary&lang=en&timestamp=1793293681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2612" alt="Artificial intelligence and psychotherapy | DW Documentary" title="Artificial intelligence and psychotherapy | DW Documentary">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=nzu3qTTx1-8&title=Is+the+huge+AI+gamble+worth+the+risk%3F+%7C+Business+Beyond&lang=en&timestamp=1793357640&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1559">
+          <img src="https://ytcards.demolab.com/?id=nzu3qTTx1-8&title=Is+the+huge+AI+gamble+worth+the+risk%3F+%7C+Business+Beyond&lang=en&timestamp=1793357640&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1559" alt="Is the huge AI gamble worth the risk? | Business Beyond" title="Is the huge AI gamble worth the risk? | Business Beyond">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HGkRMGVwWGM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=A-dxxTV1b_o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HGkRMGVwWGM&title=The+History+of+Artificial+Intelligence+%281950%E2%80%932026%29+%E2%80%94+Told+Like+a+Movie&lang=en&timestamp=1793311681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4803">
-          <img src="https://ytcards.demolab.com/?id=HGkRMGVwWGM&title=The+History+of+Artificial+Intelligence+%281950%E2%80%932026%29+%E2%80%94+Told+Like+a+Movie&lang=en&timestamp=1793311681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4803" alt="The History of Artificial Intelligence (1950–2026) — Told Like a Movie" title="The History of Artificial Intelligence (1950–2026) — Told Like a Movie">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=A-dxxTV1b_o&title=Investors+in+AI+race+spooked+after+Google+value+drops+%24500bn+%7C+BBC+News&lang=en&timestamp=1793379240&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=316">
+          <img src="https://ytcards.demolab.com/?id=A-dxxTV1b_o&title=Investors+in+AI+race+spooked+after+Google+value+drops+%24500bn+%7C+BBC+News&lang=en&timestamp=1793379240&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=316" alt="Investors in AI race spooked after Google value drops $500bn | BBC News" title="Investors in AI race spooked after Google value drops $500bn | BBC News">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=5f30xCKRQ88" target="_blank">
+      <a href="https://www.youtube.com/watch?v=hIIzIh4l208" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5f30xCKRQ88&title=Staying+Human+in+the+Age+of+AI.+Information%2C+Questions+and+Answers+about+AI+%28in+english%29.&lang=en&timestamp=1793250481&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4423">
-          <img src="https://ytcards.demolab.com/?id=5f30xCKRQ88&title=Staying+Human+in+the+Age+of+AI.+Information%2C+Questions+and+Answers+about+AI+%28in+english%29.&lang=en&timestamp=1793250481&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4423" alt="Staying Human in the Age of AI. Information, Questions and Answers about AI (in english)." title="Staying Human in the Age of AI. Information, Questions and Answers about AI (in english).">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=hIIzIh4l208&title=AI+CRASH+SPREADS+WORLDWIDE&lang=en&timestamp=1793357640&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=929">
+          <img src="https://ytcards.demolab.com/?id=hIIzIh4l208&title=AI+CRASH+SPREADS+WORLDWIDE&lang=en&timestamp=1793357640&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=929" alt="AI CRASH SPREADS WORLDWIDE" title="AI CRASH SPREADS WORLDWIDE">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=y0EnvtctqQM" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Vp8kDyreDGI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y0EnvtctqQM&title=Over+130%2C000+Tech+Jobs+Lost+In+2026%2C+But+AI+Isn%27t+The+Only+Reason+%7C+Here%27s+What%27s+Really+Happening&lang=en&timestamp=1793275681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=236">
-          <img src="https://ytcards.demolab.com/?id=y0EnvtctqQM&title=Over+130%2C000+Tech+Jobs+Lost+In+2026%2C+But+AI+Isn%27t+The+Only+Reason+%7C+Here%27s+What%27s+Really+Happening&lang=en&timestamp=1793275681&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=236" alt="Over 130,000 Tech Jobs Lost In 2026, But AI Isn't The Only Reason | Here's What's Really Happening" title="Over 130,000 Tech Jobs Lost In 2026, But AI Isn't The Only Reason | Here's What's Really Happening">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vp8kDyreDGI&title=AI+vs+ML+vs+Data+Science+vs+Data+Analytics+%7C+Which+Career+Is+Best%3F+%7C+Intellipaat&lang=en&timestamp=1793372040&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=796">
+          <img src="https://ytcards.demolab.com/?id=Vp8kDyreDGI&title=AI+vs+ML+vs+Data+Science+vs+Data+Analytics+%7C+Which+Career+Is+Best%3F+%7C+Intellipaat&lang=en&timestamp=1793372040&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=796" alt="AI vs ML vs Data Science vs Data Analytics | Which Career Is Best? | Intellipaat" title="AI vs ML vs Data Science vs Data Analytics | Which Career Is Best? | Intellipaat">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=grhoUWSd4aA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=jfR3nDk0C0g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=grhoUWSd4aA&title=How+USCIS%2C+CBP%2C+ICE+Use+AI%2C+Super+Intelligence%28SI%29+on+Your+US+Visa%2C+I-94%2C+and+USCIS+Applications&lang=en&timestamp=1793290081&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1119">
-          <img src="https://ytcards.demolab.com/?id=grhoUWSd4aA&title=How+USCIS%2C+CBP%2C+ICE+Use+AI%2C+Super+Intelligence%28SI%29+on+Your+US+Visa%2C+I-94%2C+and+USCIS+Applications&lang=en&timestamp=1793290081&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1119" alt="How USCIS, CBP, ICE Use AI, Super Intelligence(SI) on Your US Visa, I-94, and USCIS Applications" title="How USCIS, CBP, ICE Use AI, Super Intelligence(SI) on Your US Visa, I-94, and USCIS Applications">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=jfR3nDk0C0g&title=A+Neuroscientist%27s+Warning+About+AI+and+Children+%7C+Baroness+Susan+Greenfield&lang=en&timestamp=1793390040&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5548">
+          <img src="https://ytcards.demolab.com/?id=jfR3nDk0C0g&title=A+Neuroscientist%27s+Warning+About+AI+and+Children+%7C+Baroness+Susan+Greenfield&lang=en&timestamp=1793390040&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5548" alt="A Neuroscientist's Warning About AI and Children | Baroness Susan Greenfield" title="A Neuroscientist's Warning About AI and Children | Baroness Susan Greenfield">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pOl5f2e08gU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=OlU8agsbpEM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pOl5f2e08gU&title=Leadership+in+the+Age+of+Artificial+Intelligence&lang=en&timestamp=1793304481&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4404">
-          <img src="https://ytcards.demolab.com/?id=pOl5f2e08gU&title=Leadership+in+the+Age+of+Artificial+Intelligence&lang=en&timestamp=1793304481&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4404" alt="Leadership in the Age of Artificial Intelligence" title="Leadership in the Age of Artificial Intelligence">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=OlU8agsbpEM&title=Generative+Artificial+Intelligence+in+Medicine%3A+Diving+Beneath+the+Shallow+Ethical+Discussion&lang=en&timestamp=1793386440&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3690">
+          <img src="https://ytcards.demolab.com/?id=OlU8agsbpEM&title=Generative+Artificial+Intelligence+in+Medicine%3A+Diving+Beneath+the+Shallow+Ethical+Discussion&lang=en&timestamp=1793386440&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3690" alt="Generative Artificial Intelligence in Medicine: Diving Beneath the Shallow Ethical Discussion" title="Generative Artificial Intelligence in Medicine: Diving Beneath the Shallow Ethical Discussion">
         </picture>
       </a>
     </td>
