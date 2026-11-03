@@ -135,56 +135,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8f5uFn9bOwY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=NKqMRGZVu8U" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8f5uFn9bOwY&title=Fareed+unpacks+AI%2C+the+Iran+war%2C+Trump+%26+more+%7C+Fareed%27s+Take+roundup&lang=en&timestamp=1793582375&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1472">
-          <img src="https://ytcards.demolab.com/?id=8f5uFn9bOwY&title=Fareed+unpacks+AI%2C+the+Iran+war%2C+Trump+%26+more+%7C+Fareed%27s+Take+roundup&lang=en&timestamp=1793582375&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1472" alt="Fareed unpacks AI, the Iran war, Trump & more | Fareed's Take roundup" title="Fareed unpacks AI, the Iran war, Trump & more | Fareed's Take roundup">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NKqMRGZVu8U&title=Artificial%C2%A0Intelligence+and+the+Democratization+of+Creativity+%7C+Ryan+Abbott+%7C+TEDxCapeMay&lang=en&timestamp=1793642379&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=662">
+          <img src="https://ytcards.demolab.com/?id=NKqMRGZVu8U&title=Artificial%C2%A0Intelligence+and+the+Democratization+of+Creativity+%7C+Ryan+Abbott+%7C+TEDxCapeMay&lang=en&timestamp=1793642379&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=662" alt="Artificial Intelligence and the Democratization of Creativity | Ryan Abbott | TEDxCapeMay" title="Artificial Intelligence and the Democratization of Creativity | Ryan Abbott | TEDxCapeMay">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=vvbVlI957Qg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=v-mfPl97SZI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=vvbVlI957Qg&title=Top+Pollster+Reveals+How+People+Feel+About+Artificial+Intelligence+As+Issue+Becomes+Key+For+Midterms&lang=en&timestamp=1793539175&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=114">
-          <img src="https://ytcards.demolab.com/?id=vvbVlI957Qg&title=Top+Pollster+Reveals+How+People+Feel+About+Artificial+Intelligence+As+Issue+Becomes+Key+For+Midterms&lang=en&timestamp=1793539175&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=114" alt="Top Pollster Reveals How People Feel About Artificial Intelligence As Issue Becomes Key For Midterms" title="Top Pollster Reveals How People Feel About Artificial Intelligence As Issue Becomes Key For Midterms">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v-mfPl97SZI&title=232%2C000+Cut%3A+Why+Silicon+Valley+Is+Firing+Engineers+To+Buy+AI%7C+Indians+In+U.S.&lang=en&timestamp=1793631579&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=240">
+          <img src="https://ytcards.demolab.com/?id=v-mfPl97SZI&title=232%2C000+Cut%3A+Why+Silicon+Valley+Is+Firing+Engineers+To+Buy+AI%7C+Indians+In+U.S.&lang=en&timestamp=1793631579&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=240" alt="232,000 Cut: Why Silicon Valley Is Firing Engineers To Buy AI| Indians In U.S." title="232,000 Cut: Why Silicon Valley Is Firing Engineers To Buy AI| Indians In U.S.">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=pqUe2En041E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=8HRL3XLeKOQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=pqUe2En041E&title=AI-Powered+Business+Analytics+with+Excel+Full+Course+2026+%7C+Master+Excel+%26+AI+Skills+%7C+Simplilearn&lang=en&timestamp=1793553575&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16289">
-          <img src="https://ytcards.demolab.com/?id=pqUe2En041E&title=AI-Powered+Business+Analytics+with+Excel+Full+Course+2026+%7C+Master+Excel+%26+AI+Skills+%7C+Simplilearn&lang=en&timestamp=1793553575&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=16289" alt="AI-Powered Business Analytics with Excel Full Course 2026 | Master Excel & AI Skills | Simplilearn" title="AI-Powered Business Analytics with Excel Full Course 2026 | Master Excel & AI Skills | Simplilearn">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8HRL3XLeKOQ&title=OpenAI+vs+Anthropic+%7C+Most+Valuable+AI+Companies+%7C+2020-2026&lang=en&timestamp=1793620779&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=522">
+          <img src="https://ytcards.demolab.com/?id=8HRL3XLeKOQ&title=OpenAI+vs+Anthropic+%7C+Most+Valuable+AI+Companies+%7C+2020-2026&lang=en&timestamp=1793620779&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=522" alt="OpenAI vs Anthropic | Most Valuable AI Companies | 2020-2026" title="OpenAI vs Anthropic | Most Valuable AI Companies | 2020-2026">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=41dnLNlhIV0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=XHpOsAs2xiE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=41dnLNlhIV0&title=Microsoft+Offers+Buyouts+to+60%2C000+Workers+as+It+Bets+%24175B+on+AI&lang=en&timestamp=1793549975&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=444">
-          <img src="https://ytcards.demolab.com/?id=41dnLNlhIV0&title=Microsoft+Offers+Buyouts+to+60%2C000+Workers+as+It+Bets+%24175B+on+AI&lang=en&timestamp=1793549975&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=444" alt="Microsoft Offers Buyouts to 60,000 Workers as It Bets $175B on AI" title="Microsoft Offers Buyouts to 60,000 Workers as It Bets $175B on AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XHpOsAs2xiE&title=Yuval+Noah+Hariri+just+made+these+3+mistakes+on+AI&lang=en&timestamp=1793609979&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=505">
+          <img src="https://ytcards.demolab.com/?id=XHpOsAs2xiE&title=Yuval+Noah+Hariri+just+made+these+3+mistakes+on+AI&lang=en&timestamp=1793609979&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=505" alt="Yuval Noah Hariri just made these 3 mistakes on AI" title="Yuval Noah Hariri just made these 3 mistakes on AI">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NE02_gBvTAI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=v5r7yKzP8Us" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NE02_gBvTAI&title=AI+and+the+2026+US+Midterms%3A+The+New+Political+Battleground&lang=en&timestamp=1793535575&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=618">
-          <img src="https://ytcards.demolab.com/?id=NE02_gBvTAI&title=AI+and+the+2026+US+Midterms%3A+The+New+Political+Battleground&lang=en&timestamp=1793535575&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=618" alt="AI and the 2026 US Midterms: The New Political Battleground" title="AI and the 2026 US Midterms: The New Political Battleground">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v5r7yKzP8Us&title=Will+AI+replace+school%3F&lang=en&timestamp=1793620779&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=170">
+          <img src="https://ytcards.demolab.com/?id=v5r7yKzP8Us&title=Will+AI+replace+school%3F&lang=en&timestamp=1793620779&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=170" alt="Will AI replace school?" title="Will AI replace school?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XMiFWBoDxRs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=W_SmNZetTJI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XMiFWBoDxRs&title=Trump%E2%80%99s+New+AI+Agenda%3F+Ditch+the+Name%2C+Embrace+%E2%80%98Super+Intelligence%E2%80%99&lang=en&timestamp=1793575175&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=538">
-          <img src="https://ytcards.demolab.com/?id=XMiFWBoDxRs&title=Trump%E2%80%99s+New+AI+Agenda%3F+Ditch+the+Name%2C+Embrace+%E2%80%98Super+Intelligence%E2%80%99&lang=en&timestamp=1793575175&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=538" alt="Trump’s New AI Agenda? Ditch the Name, Embrace ‘Super Intelligence’" title="Trump’s New AI Agenda? Ditch the Name, Embrace ‘Super Intelligence’">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W_SmNZetTJI&title=Are+We+Living+in+the+End+Times%3F+Gen+Z%2C+AI+%26+Women%E2%80%99s+Rights+%7C+Sahil+Adeem+%7C+Full+Podcast&lang=en&timestamp=1793635179&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3443">
+          <img src="https://ytcards.demolab.com/?id=W_SmNZetTJI&title=Are+We+Living+in+the+End+Times%3F+Gen+Z%2C+AI+%26+Women%E2%80%99s+Rights+%7C+Sahil+Adeem+%7C+Full+Podcast&lang=en&timestamp=1793635179&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3443" alt="Are We Living in the End Times? Gen Z, AI & Women’s Rights | Sahil Adeem | Full Podcast" title="Are We Living in the End Times? Gen Z, AI & Women’s Rights | Sahil Adeem | Full Podcast">
         </picture>
       </a>
     </td>
