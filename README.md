@@ -136,56 +136,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=NKqMRGZVu8U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9FjbFGYKxAc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=NKqMRGZVu8U&title=Artificial%C2%A0Intelligence+and+the+Democratization+of+Creativity+%7C+Ryan+Abbott+%7C+TEDxCapeMay&lang=en&timestamp=1793642379&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=662">
-          <img src="https://ytcards.demolab.com/?id=NKqMRGZVu8U&title=Artificial%C2%A0Intelligence+and+the+Democratization+of+Creativity+%7C+Ryan+Abbott+%7C+TEDxCapeMay&lang=en&timestamp=1793642379&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=662" alt="Artificial Intelligence and the Democratization of Creativity | Ryan Abbott | TEDxCapeMay" title="Artificial Intelligence and the Democratization of Creativity | Ryan Abbott | TEDxCapeMay">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Now+Doing+Things+Scientists+Thought+Were+Impossible&lang=en&timestamp=1793698772&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1501">
+          <img src="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Now+Doing+Things+Scientists+Thought+Were+Impossible&lang=en&timestamp=1793698772&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1501" alt="AI Is Now Doing Things Scientists Thought Were Impossible" title="AI Is Now Doing Things Scientists Thought Were Impossible">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=v-mfPl97SZI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=zXekn7txdLk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v-mfPl97SZI&title=232%2C000+Cut%3A+Why+Silicon+Valley+Is+Firing+Engineers+To+Buy+AI%7C+Indians+In+U.S.&lang=en&timestamp=1793631579&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=240">
-          <img src="https://ytcards.demolab.com/?id=v-mfPl97SZI&title=232%2C000+Cut%3A+Why+Silicon+Valley+Is+Firing+Engineers+To+Buy+AI%7C+Indians+In+U.S.&lang=en&timestamp=1793631579&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=240" alt="232,000 Cut: Why Silicon Valley Is Firing Engineers To Buy AI| Indians In U.S." title="232,000 Cut: Why Silicon Valley Is Firing Engineers To Buy AI| Indians In U.S.">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793702372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=358">
+          <img src="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793702372&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=358" alt="Microsoft AI Says We Should Destroy Conscious AI Before it Arises " title="Microsoft AI Says We Should Destroy Conscious AI Before it Arises ">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=8HRL3XLeKOQ" target="_blank">
+      <a href="https://www.youtube.com/watch?v=HWaniazPj5Y" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8HRL3XLeKOQ&title=OpenAI+vs+Anthropic+%7C+Most+Valuable+AI+Companies+%7C+2020-2026&lang=en&timestamp=1793620779&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=522">
-          <img src="https://ytcards.demolab.com/?id=8HRL3XLeKOQ&title=OpenAI+vs+Anthropic+%7C+Most+Valuable+AI+Companies+%7C+2020-2026&lang=en&timestamp=1793620779&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=522" alt="OpenAI vs Anthropic | Most Valuable AI Companies | 2020-2026" title="OpenAI vs Anthropic | Most Valuable AI Companies | 2020-2026">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HWaniazPj5Y&title=AI+Panic+Deepens+as+Oracle%2C+Marvell+%26+Lumentum+Plunge&lang=en&timestamp=1793705972&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=796">
+          <img src="https://ytcards.demolab.com/?id=HWaniazPj5Y&title=AI+Panic+Deepens+as+Oracle%2C+Marvell+%26+Lumentum+Plunge&lang=en&timestamp=1793705972&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=796" alt="AI Panic Deepens as Oracle, Marvell & Lumentum Plunge" title="AI Panic Deepens as Oracle, Marvell & Lumentum Plunge">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=XHpOsAs2xiE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_OODHaVlMH8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=XHpOsAs2xiE&title=Yuval+Noah+Hariri+just+made+these+3+mistakes+on+AI&lang=en&timestamp=1793609979&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=505">
-          <img src="https://ytcards.demolab.com/?id=XHpOsAs2xiE&title=Yuval+Noah+Hariri+just+made+these+3+mistakes+on+AI&lang=en&timestamp=1793609979&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=505" alt="Yuval Noah Hariri just made these 3 mistakes on AI" title="Yuval Noah Hariri just made these 3 mistakes on AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_OODHaVlMH8&title=Ep.+249%3A+Anthropic+Files+for+IPO%2C+AI+and+the+Meaning+of+Work+%26+Microsoft%27s+60K-Employee+Buyout+Offer&lang=en&timestamp=1793702372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5493">
+          <img src="https://ytcards.demolab.com/?id=_OODHaVlMH8&title=Ep.+249%3A+Anthropic+Files+for+IPO%2C+AI+and+the+Meaning+of+Work+%26+Microsoft%27s+60K-Employee+Buyout+Offer&lang=en&timestamp=1793702372&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5493" alt="Ep. 249: Anthropic Files for IPO, AI and the Meaning of Work & Microsoft's 60K-Employee Buyout Offer" title="Ep. 249: Anthropic Files for IPO, AI and the Meaning of Work & Microsoft's 60K-Employee Buyout Offer">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=v5r7yKzP8Us" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KGaBDEPLhLU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=v5r7yKzP8Us&title=Will+AI+replace+school%3F&lang=en&timestamp=1793620779&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=170">
-          <img src="https://ytcards.demolab.com/?id=v5r7yKzP8Us&title=Will+AI+replace+school%3F&lang=en&timestamp=1793620779&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=170" alt="Will AI replace school?" title="Will AI replace school?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KGaBDEPLhLU&title=Elon+Says+The+AI+Buildout+STALLS+in+2027+-+Why+SpaceX+Survives&lang=en&timestamp=1793738372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3741">
+          <img src="https://ytcards.demolab.com/?id=KGaBDEPLhLU&title=Elon+Says+The+AI+Buildout+STALLS+in+2027+-+Why+SpaceX+Survives&lang=en&timestamp=1793738372&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3741" alt="Elon Says The AI Buildout STALLS in 2027 - Why SpaceX Survives" title="Elon Says The AI Buildout STALLS in 2027 - Why SpaceX Survives">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=W_SmNZetTJI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dpQlVERn2rs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=W_SmNZetTJI&title=Are+We+Living+in+the+End+Times%3F+Gen+Z%2C+AI+%26+Women%E2%80%99s+Rights+%7C+Sahil+Adeem+%7C+Full+Podcast&lang=en&timestamp=1793635179&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3443">
-          <img src="https://ytcards.demolab.com/?id=W_SmNZetTJI&title=Are+We+Living+in+the+End+Times%3F+Gen+Z%2C+AI+%26+Women%E2%80%99s+Rights+%7C+Sahil+Adeem+%7C+Full+Podcast&lang=en&timestamp=1793635179&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3443" alt="Are We Living in the End Times? Gen Z, AI & Women’s Rights | Sahil Adeem | Full Podcast" title="Are We Living in the End Times? Gen Z, AI & Women’s Rights | Sahil Adeem | Full Podcast">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dpQlVERn2rs&title=Resisting+the+AI+Con+%7C+Emily+M.+Bender&lang=en&timestamp=1793723972&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3637">
+          <img src="https://ytcards.demolab.com/?id=dpQlVERn2rs&title=Resisting+the+AI+Con+%7C+Emily+M.+Bender&lang=en&timestamp=1793723972&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3637" alt="Resisting the AI Con | Emily M. Bender" title="Resisting the AI Con | Emily M. Bender">
         </picture>
       </a>
     </td>
