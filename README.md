@@ -137,56 +137,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=9FjbFGYKxAc" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qRvrxk7FPaY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Now+Doing+Things+Scientists+Thought+Were+Impossible&lang=en&timestamp=1793698772&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1501">
-          <img src="https://ytcards.demolab.com/?id=9FjbFGYKxAc&title=AI+Is+Now+Doing+Things+Scientists+Thought+Were+Impossible&lang=en&timestamp=1793698772&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1501" alt="AI Is Now Doing Things Scientists Thought Were Impossible" title="AI Is Now Doing Things Scientists Thought Were Impossible">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qRvrxk7FPaY&title=Orlando+Bravo+on+regulating+AI+models%3A+%27Let+competition+run+free%27&lang=en&timestamp=1793818636&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=192">
+          <img src="https://ytcards.demolab.com/?id=qRvrxk7FPaY&title=Orlando+Bravo+on+regulating+AI+models%3A+%27Let+competition+run+free%27&lang=en&timestamp=1793818636&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=192" alt="Orlando Bravo on regulating AI models: 'Let competition run free'" title="Orlando Bravo on regulating AI models: 'Let competition run free'">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=zXekn7txdLk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mt9GH_rsXnw" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793702372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=358">
-          <img src="https://ytcards.demolab.com/?id=zXekn7txdLk&title=Microsoft+AI+Says+We+Should+Destroy+Conscious+AI%C2%A0Before+it+Arises+&lang=en&timestamp=1793702372&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=358" alt="Microsoft AI Says We Should Destroy Conscious AI Before it Arises " title="Microsoft AI Says We Should Destroy Conscious AI Before it Arises ">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mt9GH_rsXnw&title=AI+Cost+Shock+%E2%80%94+Apple+Sounds+the+Alarm&lang=en&timestamp=1793815036&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=891">
+          <img src="https://ytcards.demolab.com/?id=mt9GH_rsXnw&title=AI+Cost+Shock+%E2%80%94+Apple+Sounds+the+Alarm&lang=en&timestamp=1793815036&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=891" alt="AI Cost Shock — Apple Sounds the Alarm" title="AI Cost Shock — Apple Sounds the Alarm">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=HWaniazPj5Y" target="_blank">
+      <a href="https://www.youtube.com/watch?v=lmLsiBmwEFE" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=HWaniazPj5Y&title=AI+Panic+Deepens+as+Oracle%2C+Marvell+%26+Lumentum+Plunge&lang=en&timestamp=1793705972&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=796">
-          <img src="https://ytcards.demolab.com/?id=HWaniazPj5Y&title=AI+Panic+Deepens+as+Oracle%2C+Marvell+%26+Lumentum+Plunge&lang=en&timestamp=1793705972&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=796" alt="AI Panic Deepens as Oracle, Marvell & Lumentum Plunge" title="AI Panic Deepens as Oracle, Marvell & Lumentum Plunge">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=lmLsiBmwEFE&title=GPT+6+Astra+Just+Did+the+Unthinkable&lang=en&timestamp=1793804236&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1801">
+          <img src="https://ytcards.demolab.com/?id=lmLsiBmwEFE&title=GPT+6+Astra+Just+Did+the+Unthinkable&lang=en&timestamp=1793804236&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1801" alt="GPT 6 Astra Just Did the Unthinkable" title="GPT 6 Astra Just Did the Unthinkable">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=_OODHaVlMH8" target="_blank">
+      <a href="https://www.youtube.com/watch?v=tu4adSQjKhQ" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_OODHaVlMH8&title=Ep.+249%3A+Anthropic+Files+for+IPO%2C+AI+and+the+Meaning+of+Work+%26+Microsoft%27s+60K-Employee+Buyout+Offer&lang=en&timestamp=1793702372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5493">
-          <img src="https://ytcards.demolab.com/?id=_OODHaVlMH8&title=Ep.+249%3A+Anthropic+Files+for+IPO%2C+AI+and+the+Meaning+of+Work+%26+Microsoft%27s+60K-Employee+Buyout+Offer&lang=en&timestamp=1793702372&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5493" alt="Ep. 249: Anthropic Files for IPO, AI and the Meaning of Work & Microsoft's 60K-Employee Buyout Offer" title="Ep. 249: Anthropic Files for IPO, AI and the Meaning of Work & Microsoft's 60K-Employee Buyout Offer">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=tu4adSQjKhQ&title=What+the+Midterm+SHOCK+Means+for+Tesla%2C+SpaceX%2C+AI+Stocks+and+Our+Future&lang=en&timestamp=1793829436&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3783">
+          <img src="https://ytcards.demolab.com/?id=tu4adSQjKhQ&title=What+the+Midterm+SHOCK+Means+for+Tesla%2C+SpaceX%2C+AI+Stocks+and+Our+Future&lang=en&timestamp=1793829436&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3783" alt="What the Midterm SHOCK Means for Tesla, SpaceX, AI Stocks and Our Future" title="What the Midterm SHOCK Means for Tesla, SpaceX, AI Stocks and Our Future">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=KGaBDEPLhLU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KNrnpqPknvI" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KGaBDEPLhLU&title=Elon+Says+The+AI+Buildout+STALLS+in+2027+-+Why+SpaceX+Survives&lang=en&timestamp=1793738372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3741">
-          <img src="https://ytcards.demolab.com/?id=KGaBDEPLhLU&title=Elon+Says+The+AI+Buildout+STALLS+in+2027+-+Why+SpaceX+Survives&lang=en&timestamp=1793738372&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3741" alt="Elon Says The AI Buildout STALLS in 2027 - Why SpaceX Survives" title="Elon Says The AI Buildout STALLS in 2027 - Why SpaceX Survives">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KNrnpqPknvI&title=Episode+%23144%3A+The+Real+AI+Takeover+Isn%E2%80%99t+What+You+Think&lang=en&timestamp=1793797036&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2736">
+          <img src="https://ytcards.demolab.com/?id=KNrnpqPknvI&title=Episode+%23144%3A+The+Real+AI+Takeover+Isn%E2%80%99t+What+You+Think&lang=en&timestamp=1793797036&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2736" alt="Episode #144: The Real AI Takeover Isn’t What You Think" title="Episode #144: The Real AI Takeover Isn’t What You Think">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=dpQlVERn2rs" target="_blank">
+      <a href="https://www.youtube.com/watch?v=7_BkuF2yu2A" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dpQlVERn2rs&title=Resisting+the+AI+Con+%7C+Emily+M.+Bender&lang=en&timestamp=1793723972&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3637">
-          <img src="https://ytcards.demolab.com/?id=dpQlVERn2rs&title=Resisting+the+AI+Con+%7C+Emily+M.+Bender&lang=en&timestamp=1793723972&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3637" alt="Resisting the AI Con | Emily M. Bender" title="Resisting the AI Con | Emily M. Bender">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=7_BkuF2yu2A&title=Australian+Schools+To+Restrict+Use+Of+Artificial+Intelligence+In+The+Classroom+%7C+10+News&lang=en&timestamp=1793851036&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=95">
+          <img src="https://ytcards.demolab.com/?id=7_BkuF2yu2A&title=Australian+Schools+To+Restrict+Use+Of+Artificial+Intelligence+In+The+Classroom+%7C+10+News&lang=en&timestamp=1793851036&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=95" alt="Australian Schools To Restrict Use Of Artificial Intelligence In The Classroom | 10 News" title="Australian Schools To Restrict Use Of Artificial Intelligence In The Classroom | 10 News">
         </picture>
       </a>
     </td>
