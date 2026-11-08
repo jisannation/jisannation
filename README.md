@@ -139,56 +139,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=R-OeFlyzveI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=N-lNgyf-8KA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=R-OeFlyzveI&title=Something+Strange+Is+Happening+With+GPT-6.2&lang=en&timestamp=1793957119&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1494">
-          <img src="https://ytcards.demolab.com/?id=R-OeFlyzveI&title=Something+Strange+Is+Happening+With+GPT-6.2&lang=en&timestamp=1793957119&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1494" alt="Something Strange Is Happening With GPT-6.2" title="Something Strange Is Happening With GPT-6.2">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=N-lNgyf-8KA&title=The+AI+revolution+will+mean+an+end+to+work...+and+the+internet+%7C+Piers+Linney&lang=en&timestamp=1794057881&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=584">
+          <img src="https://ytcards.demolab.com/?id=N-lNgyf-8KA&title=The+AI+revolution+will+mean+an+end+to+work...+and+the+internet+%7C+Piers+Linney&lang=en&timestamp=1794057881&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=584" alt="The AI revolution will mean an end to work... and the internet | Piers Linney" title="The AI revolution will mean an end to work... and the internet | Piers Linney">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=of-WwgsQO3U" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1QCXvQ5BFo0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=of-WwgsQO3U&title=Could+US+Democrats+burst+the+AI+bubble+after+global+tech+shares+plummet%3F+%7C+Global+News+Podcast&lang=en&timestamp=1793996719&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=543">
-          <img src="https://ytcards.demolab.com/?id=of-WwgsQO3U&title=Could+US+Democrats+burst+the+AI+bubble+after+global+tech+shares+plummet%3F+%7C+Global+News+Podcast&lang=en&timestamp=1793996719&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=543" alt="Could US Democrats burst the AI bubble after global tech shares plummet? | Global News Podcast" title="Could US Democrats burst the AI bubble after global tech shares plummet? | Global News Podcast">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1QCXvQ5BFo0&title=Europeans+protest+construction+of+large+AI+data+centres+across+continent&lang=en&timestamp=1794072281&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=307">
+          <img src="https://ytcards.demolab.com/?id=1QCXvQ5BFo0&title=Europeans+protest+construction+of+large+AI+data+centres+across+continent&lang=en&timestamp=1794072281&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=307" alt="Europeans protest construction of large AI data centres across continent" title="Europeans protest construction of large AI data centres across continent">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=3cV1sR2PANA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=MuKNTziO7K8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=3cV1sR2PANA&title=The+Big+Question%3A+AI+Bubble+or+Boom%3F&lang=en&timestamp=1793964319&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1103">
-          <img src="https://ytcards.demolab.com/?id=3cV1sR2PANA&title=The+Big+Question%3A+AI+Bubble+or+Boom%3F&lang=en&timestamp=1793964319&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1103" alt="The Big Question: AI Bubble or Boom?" title="The Big Question: AI Bubble or Boom?">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=MuKNTziO7K8&title=MANUFACTURING+REVOLUTION%3A+Arda+CEO+says+AI+can+cut+a+week+of+engineering+work+to+2+hours&lang=en&timestamp=1794079481&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=488">
+          <img src="https://ytcards.demolab.com/?id=MuKNTziO7K8&title=MANUFACTURING+REVOLUTION%3A+Arda+CEO+says+AI+can+cut+a+week+of+engineering+work+to+2+hours&lang=en&timestamp=1794079481&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=488" alt="MANUFACTURING REVOLUTION: Arda CEO says AI can cut a week of engineering work to 2 hours" title="MANUFACTURING REVOLUTION: Arda CEO says AI can cut a week of engineering work to 2 hours">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Itr3Ld5c9yI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Gfu2cQWzdGs" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Itr3Ld5c9yI&title=AI+bubble+fears+prompt+dramatic+sell-off&lang=en&timestamp=1793996719&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=480">
-          <img src="https://ytcards.demolab.com/?id=Itr3Ld5c9yI&title=AI+bubble+fears+prompt+dramatic+sell-off&lang=en&timestamp=1793996719&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=480" alt="AI bubble fears prompt dramatic sell-off" title="AI bubble fears prompt dramatic sell-off">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794043481&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=691">
+          <img src="https://ytcards.demolab.com/?id=Gfu2cQWzdGs&title=Artificial+Intelligence%2C+Natural+Stupidity%3A+Have+We+Learnt+Nothing+from+Railway+Mania%3F&lang=en&timestamp=1794043481&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=691" alt="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?" title="Artificial Intelligence, Natural Stupidity: Have We Learnt Nothing from Railway Mania?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=r-SstgFlsuI" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Oupq_kZfB1w" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=r-SstgFlsuI&title=Nvidia+Just+Showed+Us+Where+AI+Money+Is+Going+Next&lang=en&timestamp=1794014719&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1139">
-          <img src="https://ytcards.demolab.com/?id=r-SstgFlsuI&title=Nvidia+Just+Showed+Us+Where+AI+Money+Is+Going+Next&lang=en&timestamp=1794014719&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1139" alt="Nvidia Just Showed Us Where AI Money Is Going Next" title="Nvidia Just Showed Us Where AI Money Is Going Next">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Oupq_kZfB1w&title=Will+Chinese+RAM+Fabrication+Save+Us+From+The+AI+Crisis%3F&lang=en&timestamp=1794072281&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=555">
+          <img src="https://ytcards.demolab.com/?id=Oupq_kZfB1w&title=Will+Chinese+RAM+Fabrication+Save+Us+From+The+AI+Crisis%3F&lang=en&timestamp=1794072281&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=555" alt="Will Chinese RAM Fabrication Save Us From The AI Crisis?" title="Will Chinese RAM Fabrication Save Us From The AI Crisis?">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Xq7rPlcO0pA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=4yXpXO4ESz0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Xq7rPlcO0pA&title=AI+CRASH+Deepens+as+%243+TRILLION+Wiped+Out+%26+Global+Markets+Plunge&lang=en&timestamp=1793957119&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1039">
-          <img src="https://ytcards.demolab.com/?id=Xq7rPlcO0pA&title=AI+CRASH+Deepens+as+%243+TRILLION+Wiped+Out+%26+Global+Markets+Plunge&lang=en&timestamp=1793957119&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1039" alt="AI CRASH Deepens as $3 TRILLION Wiped Out & Global Markets Plunge" title="AI CRASH Deepens as $3 TRILLION Wiped Out & Global Markets Plunge">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=4yXpXO4ESz0&title=Roko%27s+Basilisk+Is+Older+Than+the+Internet&lang=en&timestamp=1794072281&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1506">
+          <img src="https://ytcards.demolab.com/?id=4yXpXO4ESz0&title=Roko%27s+Basilisk+Is+Older+Than+the+Internet&lang=en&timestamp=1794072281&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1506" alt="Roko's Basilisk Is Older Than the Internet" title="Roko's Basilisk Is Older Than the Internet">
         </picture>
       </a>
     </td>
