@@ -143,56 +143,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=0MvcuIrects" target="_blank">
+      <a href="https://www.youtube.com/watch?v=rE-sazAVQVU" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=0MvcuIrects&title=Is+AI+Really+Superintelligence%3F+ANI%2C+AGI+%26+ASI+Explained&lang=en&timestamp=1794919577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=806">
-          <img src="https://ytcards.demolab.com/?id=0MvcuIrects&title=Is+AI+Really+Superintelligence%3F+ANI%2C+AGI+%26+ASI+Explained&lang=en&timestamp=1794919577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=806" alt="Is AI Really Superintelligence? ANI, AGI & ASI Explained" title="Is AI Really Superintelligence? ANI, AGI & ASI Explained">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rE-sazAVQVU&title=Why+AI+engineers+are+scared+of+self-building+artificial+intelligence+%7C+The+Economist&lang=en&timestamp=1795109763&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=601">
+          <img src="https://ytcards.demolab.com/?id=rE-sazAVQVU&title=Why+AI+engineers+are+scared+of+self-building+artificial+intelligence+%7C+The+Economist&lang=en&timestamp=1795109763&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=601" alt="Why AI engineers are scared of self-building artificial intelligence | The Economist" title="Why AI engineers are scared of self-building artificial intelligence | The Economist">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=eIoWgBIyyg4" target="_blank">
+      <a href="https://www.youtube.com/watch?v=1uT1lAbgaWo" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=eIoWgBIyyg4&title=The+REAL+Dangers+of+Artificial+Intelligence+and+CHILLING+Statements+from+Anthropic+CEO+and+Elon+Musk&lang=en&timestamp=1794962777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1481">
-          <img src="https://ytcards.demolab.com/?id=eIoWgBIyyg4&title=The+REAL+Dangers+of+Artificial+Intelligence+and+CHILLING+Statements+from+Anthropic+CEO+and+Elon+Musk&lang=en&timestamp=1794962777&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1481" alt="The REAL Dangers of Artificial Intelligence and CHILLING Statements from Anthropic CEO and Elon Musk" title="The REAL Dangers of Artificial Intelligence and CHILLING Statements from Anthropic CEO and Elon Musk">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1uT1lAbgaWo&title=Ex-VP+Al+Gore+on+Putin%2C+AI%2C+climate+change+%26+more&lang=en&timestamp=1795124163&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1027">
+          <img src="https://ytcards.demolab.com/?id=1uT1lAbgaWo&title=Ex-VP+Al+Gore+on+Putin%2C+AI%2C+climate+change+%26+more&lang=en&timestamp=1795124163&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1027" alt="Ex-VP Al Gore on Putin, AI, climate change & more" title="Ex-VP Al Gore on Putin, AI, climate change & more">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=-Pmst8bkRaE" target="_blank">
+      <a href="https://www.youtube.com/watch?v=AaCCIvRtJ5o" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=-Pmst8bkRaE&title=John+Lennox%3A+AI%2C+Totalitarianism%2C+and+the+Book+of+Revelation&lang=en&timestamp=1794937577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1318">
-          <img src="https://ytcards.demolab.com/?id=-Pmst8bkRaE&title=John+Lennox%3A+AI%2C+Totalitarianism%2C+and+the+Book+of+Revelation&lang=en&timestamp=1794937577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1318" alt="John Lennox: AI, Totalitarianism, and the Book of Revelation" title="John Lennox: AI, Totalitarianism, and the Book of Revelation">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=AaCCIvRtJ5o&title=A+Global+Crisis%2C+Artificial+Intelligence%2C+and+a+Warning+We+Shouldn%27t+Ignore...+%7C+The+Truth+11-19-26&lang=en&timestamp=1795138563&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=880">
+          <img src="https://ytcards.demolab.com/?id=AaCCIvRtJ5o&title=A+Global+Crisis%2C+Artificial+Intelligence%2C+and+a+Warning+We+Shouldn%27t+Ignore...+%7C+The+Truth+11-19-26&lang=en&timestamp=1795138563&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=880" alt="A Global Crisis, Artificial Intelligence, and a Warning We Shouldn't Ignore... | The Truth 11-19-26" title="A Global Crisis, Artificial Intelligence, and a Warning We Shouldn't Ignore... | The Truth 11-19-26">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rZLxBGqSs0E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=FrwAjkqqQU4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rZLxBGqSs0E&title=CHINA+Does+Not+Have+Enough&lang=en&timestamp=1794933977&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=741">
-          <img src="https://ytcards.demolab.com/?id=rZLxBGqSs0E&title=CHINA+Does+Not+Have+Enough&lang=en&timestamp=1794933977&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=741" alt="CHINA Does Not Have Enough" title="CHINA Does Not Have Enough">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=FrwAjkqqQU4&title=How+much+do+businesses+want+to+pay+for+AI%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1795109763&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=782">
+          <img src="https://ytcards.demolab.com/?id=FrwAjkqqQU4&title=How+much+do+businesses+want+to+pay+for+AI%3F+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1795109763&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=782" alt="How much do businesses want to pay for AI? • FRANCE 24 English" title="How much do businesses want to pay for AI? • FRANCE 24 English">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=w9ZZgC4rJjU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Bmby0X7cBa8" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=w9ZZgC4rJjU&title=Lawyer+Reacts+l+The+WORST+AI+Music+Debate+Yet&lang=en&timestamp=1794930377&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=515">
-          <img src="https://ytcards.demolab.com/?id=w9ZZgC4rJjU&title=Lawyer+Reacts+l+The+WORST+AI+Music+Debate+Yet&lang=en&timestamp=1794930377&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=515" alt="Lawyer Reacts l The WORST AI Music Debate Yet" title="Lawyer Reacts l The WORST AI Music Debate Yet">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Bmby0X7cBa8&title=How+to+%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%E2%96%88%E2%96%88+Artificial+Intelligence&lang=en&timestamp=1795109763&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2044">
+          <img src="https://ytcards.demolab.com/?id=Bmby0X7cBa8&title=How+to+%E2%96%88%E2%96%88%E2%96%88%E2%96%88+%E2%96%88%E2%96%88+Artificial+Intelligence&lang=en&timestamp=1795109763&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2044" alt="How to ████ ██ Artificial Intelligence" title="How to ████ ██ Artificial Intelligence">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=aRJWhIgSFRo" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mzNbUQPLIkk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=aRJWhIgSFRo&title=Can+Nvidia+and+AI+survive+without+the+man+who+built+it%3F+%7C+BBC+News&lang=en&timestamp=1794955577&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=999">
-          <img src="https://ytcards.demolab.com/?id=aRJWhIgSFRo&title=Can+Nvidia+and+AI+survive+without+the+man+who+built+it%3F+%7C+BBC+News&lang=en&timestamp=1794955577&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=999" alt="Can Nvidia and AI survive without the man who built it? | BBC News" title="Can Nvidia and AI survive without the man who built it? | BBC News">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mzNbUQPLIkk&title=%27This+Technology+Has+Risks%27%3A+Anthropic+CEO%27s+Stark+AI+Warning+Before+Historic+Nasdaq+IPO+Debut&lang=en&timestamp=1795102563&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=146">
+          <img src="https://ytcards.demolab.com/?id=mzNbUQPLIkk&title=%27This+Technology+Has+Risks%27%3A+Anthropic+CEO%27s+Stark+AI+Warning+Before+Historic+Nasdaq+IPO+Debut&lang=en&timestamp=1795102563&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=146" alt="'This Technology Has Risks': Anthropic CEO's Stark AI Warning Before Historic Nasdaq IPO Debut" title="'This Technology Has Risks': Anthropic CEO's Stark AI Warning Before Historic Nasdaq IPO Debut">
         </picture>
       </a>
     </td>
