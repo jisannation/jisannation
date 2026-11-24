@@ -147,56 +147,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=rsUPCzrvj7o" target="_blank">
+      <a href="https://www.youtube.com/watch?v=qgL_IbP2qKg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=rsUPCzrvj7o&title=A+Second+Look%3A+The+Positives+and+Negatives+of+AI&lang=en&timestamp=1795369693&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=6243">
-          <img src="https://ytcards.demolab.com/?id=rsUPCzrvj7o&title=A+Second+Look%3A+The+Positives+and+Negatives+of+AI&lang=en&timestamp=1795369693&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=6243" alt="A Second Look: The Positives and Negatives of AI" title="A Second Look: The Positives and Negatives of AI">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qgL_IbP2qKg&title=OpenAI+board+member%3A+High+risk+of+AI+takeover+in+the+next+3+years&lang=en&timestamp=1795493737&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1315">
+          <img src="https://ytcards.demolab.com/?id=qgL_IbP2qKg&title=OpenAI+board+member%3A+High+risk+of+AI+takeover+in+the+next+3+years&lang=en&timestamp=1795493737&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1315" alt="OpenAI board member: High risk of AI takeover in the next 3 years" title="OpenAI board member: High risk of AI takeover in the next 3 years">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=xvAOtdSQUR0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=kD7j3M_TQW0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=xvAOtdSQUR0&title=Artificial+Intelligence+and+International+Security&lang=en&timestamp=1795362493&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8595">
-          <img src="https://ytcards.demolab.com/?id=xvAOtdSQUR0&title=Artificial+Intelligence+and+International+Security&lang=en&timestamp=1795362493&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=8595" alt="Artificial Intelligence and International Security" title="Artificial Intelligence and International Security">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kD7j3M_TQW0&title=Some+Actual+Solutions+To+Fixing+the+Artificial+Intelligence+MESS+We%27re+in+Right+Now&lang=en&timestamp=1795486537&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=469">
+          <img src="https://ytcards.demolab.com/?id=kD7j3M_TQW0&title=Some+Actual+Solutions+To+Fixing+the+Artificial+Intelligence+MESS+We%27re+in+Right+Now&lang=en&timestamp=1795486537&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=469" alt="Some Actual Solutions To Fixing the Artificial Intelligence MESS We're in Right Now" title="Some Actual Solutions To Fixing the Artificial Intelligence MESS We're in Right Now">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=TR-XBrtay4E" target="_blank">
+      <a href="https://www.youtube.com/watch?v=atwnkFRcB4g" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=TR-XBrtay4E&title=Why+America+Can%E2%80%99t+Afford+An+AI+Crash&lang=en&timestamp=1795358893&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1078">
-          <img src="https://ytcards.demolab.com/?id=TR-XBrtay4E&title=Why+America+Can%E2%80%99t+Afford+An+AI+Crash&lang=en&timestamp=1795358893&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1078" alt="Why America Can’t Afford An AI Crash" title="Why America Can’t Afford An AI Crash">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=atwnkFRcB4g&title=Even+AI+Sceptics+Are+Changing+Their+Forecasts&lang=en&timestamp=1795450537&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=443">
+          <img src="https://ytcards.demolab.com/?id=atwnkFRcB4g&title=Even+AI+Sceptics+Are+Changing+Their+Forecasts&lang=en&timestamp=1795450537&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=443" alt="Even AI Sceptics Are Changing Their Forecasts" title="Even AI Sceptics Are Changing Their Forecasts">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=fvN_vCRuBec" target="_blank">
+      <a href="https://www.youtube.com/watch?v=UyYpwFGeszk" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=fvN_vCRuBec&title=%22Where+do+we+go+next%3F%22+Mathematics+after+AI+cracks+the+Riemann+hypothesis+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1795358893&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=377">
-          <img src="https://ytcards.demolab.com/?id=fvN_vCRuBec&title=%22Where+do+we+go+next%3F%22+Mathematics+after+AI+cracks+the+Riemann+hypothesis+%E2%80%A2+FRANCE+24+English&lang=en&timestamp=1795358893&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=377" alt="&quot;Where do we go next?&quot; Mathematics after AI cracks the Riemann hypothesis • FRANCE 24 English" title="&quot;Where do we go next?&quot; Mathematics after AI cracks the Riemann hypothesis • FRANCE 24 English">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UyYpwFGeszk&title=Life+in+2050%3A+How+AI+Will+Shape+the+Future+%7C+FACTS4U&lang=en&timestamp=1795450537&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1270">
+          <img src="https://ytcards.demolab.com/?id=UyYpwFGeszk&title=Life+in+2050%3A+How+AI+Will+Shape+the+Future+%7C+FACTS4U&lang=en&timestamp=1795450537&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1270" alt="Life in 2050: How AI Will Shape the Future | FACTS4U" title="Life in 2050: How AI Will Shape the Future | FACTS4U">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Wq4WK7f35YU" target="_blank">
+      <a href="https://www.youtube.com/watch?v=Hw9mpSP2grY" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Wq4WK7f35YU&title=%F0%9F%9A%A8+LIVE%3A+The+%2412+Trillion+AI+Meltdown+That+Could+Change+Everything%21&lang=en&timestamp=1795362493&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3853">
-          <img src="https://ytcards.demolab.com/?id=Wq4WK7f35YU&title=%F0%9F%9A%A8+LIVE%3A+The+%2412+Trillion+AI+Meltdown+That+Could+Change+Everything%21&lang=en&timestamp=1795362493&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3853" alt="🚨 LIVE: The $12 Trillion AI Meltdown That Could Change Everything!" title="🚨 LIVE: The $12 Trillion AI Meltdown That Could Change Everything!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Hw9mpSP2grY&title=AI+Solved+the+Riemann+Hypothesis%2C+and+Mathematicians+Are+Freaking+Out&lang=en&timestamp=1795461337&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=611">
+          <img src="https://ytcards.demolab.com/?id=Hw9mpSP2grY&title=AI+Solved+the+Riemann+Hypothesis%2C+and+Mathematicians+Are+Freaking+Out&lang=en&timestamp=1795461337&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=611" alt="AI Solved the Riemann Hypothesis, and Mathematicians Are Freaking Out" title="AI Solved the Riemann Hypothesis, and Mathematicians Are Freaking Out">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=ekVH-9Q94ZA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=mqnR_11YRaA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=ekVH-9Q94ZA&title=Someone+Just+Vibe+Coded+an+AI+Bicycle+Brand+and+It%27s+Shockingly+Good%21&lang=en&timestamp=1795358893&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4409">
-          <img src="https://ytcards.demolab.com/?id=ekVH-9Q94ZA&title=Someone+Just+Vibe+Coded+an+AI+Bicycle+Brand+and+It%27s+Shockingly+Good%21&lang=en&timestamp=1795358893&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=4409" alt="Someone Just Vibe Coded an AI Bicycle Brand and It's Shockingly Good!" title="Someone Just Vibe Coded an AI Bicycle Brand and It's Shockingly Good!">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mqnR_11YRaA&title=Market+Liquidity+Is+Drying+Up%3A+What+Happens+To+Bitcoin+%26+Stocks%3F+%7C+Guy+Turner&lang=en&timestamp=1795475737&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2935">
+          <img src="https://ytcards.demolab.com/?id=mqnR_11YRaA&title=Market+Liquidity+Is+Drying+Up%3A+What+Happens+To+Bitcoin+%26+Stocks%3F+%7C+Guy+Turner&lang=en&timestamp=1795475737&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2935" alt="Market Liquidity Is Drying Up: What Happens To Bitcoin & Stocks? | Guy Turner" title="Market Liquidity Is Drying Up: What Happens To Bitcoin & Stocks? | Guy Turner">
         </picture>
       </a>
     </td>
