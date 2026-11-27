@@ -148,56 +148,57 @@
 
 
 
+
 <!-- BEGIN VID -->
 <table align="center">
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=qgL_IbP2qKg" target="_blank">
+      <a href="https://www.youtube.com/watch?v=17VYhOrgKSM" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=qgL_IbP2qKg&title=OpenAI+board+member%3A+High+risk+of+AI+takeover+in+the+next+3+years&lang=en&timestamp=1795493737&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1315">
-          <img src="https://ytcards.demolab.com/?id=qgL_IbP2qKg&title=OpenAI+board+member%3A+High+risk+of+AI+takeover+in+the+next+3+years&lang=en&timestamp=1795493737&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1315" alt="OpenAI board member: High risk of AI takeover in the next 3 years" title="OpenAI board member: High risk of AI takeover in the next 3 years">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=17VYhOrgKSM&title=How+Agentic+AI+Is+Transforming+Telecom+Networks+%7C+Orange+OpenTech+2026&lang=en&timestamp=1795686001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3473">
+          <img src="https://ytcards.demolab.com/?id=17VYhOrgKSM&title=How+Agentic+AI+Is+Transforming+Telecom+Networks+%7C+Orange+OpenTech+2026&lang=en&timestamp=1795686001&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3473" alt="How Agentic AI Is Transforming Telecom Networks | Orange OpenTech 2026" title="How Agentic AI Is Transforming Telecom Networks | Orange OpenTech 2026">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=kD7j3M_TQW0" target="_blank">
+      <a href="https://www.youtube.com/watch?v=KTyN3mjh8l4" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=kD7j3M_TQW0&title=Some+Actual+Solutions+To+Fixing+the+Artificial+Intelligence+MESS+We%27re+in+Right+Now&lang=en&timestamp=1795486537&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=469">
-          <img src="https://ytcards.demolab.com/?id=kD7j3M_TQW0&title=Some+Actual+Solutions+To+Fixing+the+Artificial+Intelligence+MESS+We%27re+in+Right+Now&lang=en&timestamp=1795486537&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=469" alt="Some Actual Solutions To Fixing the Artificial Intelligence MESS We're in Right Now" title="Some Actual Solutions To Fixing the Artificial Intelligence MESS We're in Right Now">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KTyN3mjh8l4&title=Building+an+AI+Trading+Bot+with+Claude+AI+Agents+%28Full+Tutorial%29&lang=en&timestamp=1795722001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=392">
+          <img src="https://ytcards.demolab.com/?id=KTyN3mjh8l4&title=Building+an+AI+Trading+Bot+with+Claude+AI+Agents+%28Full+Tutorial%29&lang=en&timestamp=1795722001&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=392" alt="Building an AI Trading Bot with Claude AI Agents (Full Tutorial)" title="Building an AI Trading Bot with Claude AI Agents (Full Tutorial)">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=atwnkFRcB4g" target="_blank">
+      <a href="https://www.youtube.com/watch?v=PHLS0ZgnMEg" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=atwnkFRcB4g&title=Even+AI+Sceptics+Are+Changing+Their+Forecasts&lang=en&timestamp=1795450537&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=443">
-          <img src="https://ytcards.demolab.com/?id=atwnkFRcB4g&title=Even+AI+Sceptics+Are+Changing+Their+Forecasts&lang=en&timestamp=1795450537&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=443" alt="Even AI Sceptics Are Changing Their Forecasts" title="Even AI Sceptics Are Changing Their Forecasts">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=PHLS0ZgnMEg&title=upload+ready+2+mp4&lang=en&timestamp=1795704001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5547">
+          <img src="https://ytcards.demolab.com/?id=PHLS0ZgnMEg&title=upload+ready+2+mp4&lang=en&timestamp=1795704001&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=5547" alt="upload ready 2 mp4" title="upload ready 2 mp4">
         </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=UyYpwFGeszk" target="_blank">
+      <a href="https://www.youtube.com/watch?v=9TjSNSdiPnA" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=UyYpwFGeszk&title=Life+in+2050%3A+How+AI+Will+Shape+the+Future+%7C+FACTS4U&lang=en&timestamp=1795450537&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1270">
-          <img src="https://ytcards.demolab.com/?id=UyYpwFGeszk&title=Life+in+2050%3A+How+AI+Will+Shape+the+Future+%7C+FACTS4U&lang=en&timestamp=1795450537&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=1270" alt="Life in 2050: How AI Will Shape the Future | FACTS4U" title="Life in 2050: How AI Will Shape the Future | FACTS4U">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=9TjSNSdiPnA&title=LIVE+%7C+AI+Stocks+in+Freefall%3A+Is+the+AI+Bubble+Finally+Bursting%3F+%7C+The+Palki+Sharma+Show+%7C+IGR&lang=en&timestamp=1795711201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3395">
+          <img src="https://ytcards.demolab.com/?id=9TjSNSdiPnA&title=LIVE+%7C+AI+Stocks+in+Freefall%3A+Is+the+AI+Bubble+Finally+Bursting%3F+%7C+The+Palki+Sharma+Show+%7C+IGR&lang=en&timestamp=1795711201&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3395" alt="LIVE | AI Stocks in Freefall: Is the AI Bubble Finally Bursting? | The Palki Sharma Show | IGR" title="LIVE | AI Stocks in Freefall: Is the AI Bubble Finally Bursting? | The Palki Sharma Show | IGR">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=Hw9mpSP2grY" target="_blank">
+      <a href="https://www.youtube.com/watch?v=dNjSTTWaarc" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Hw9mpSP2grY&title=AI+Solved+the+Riemann+Hypothesis%2C+and+Mathematicians+Are+Freaking+Out&lang=en&timestamp=1795461337&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=611">
-          <img src="https://ytcards.demolab.com/?id=Hw9mpSP2grY&title=AI+Solved+the+Riemann+Hypothesis%2C+and+Mathematicians+Are+Freaking+Out&lang=en&timestamp=1795461337&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=611" alt="AI Solved the Riemann Hypothesis, and Mathematicians Are Freaking Out" title="AI Solved the Riemann Hypothesis, and Mathematicians Are Freaking Out">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dNjSTTWaarc&title=Session+4.1+-+How+artificial+intelligence+agents+are+reinventing+business&lang=en&timestamp=1795722001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3806">
+          <img src="https://ytcards.demolab.com/?id=dNjSTTWaarc&title=Session+4.1+-+How+artificial+intelligence+agents+are+reinventing+business&lang=en&timestamp=1795722001&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=3806" alt="Session 4.1 - How artificial intelligence agents are reinventing business" title="Session 4.1 - How artificial intelligence agents are reinventing business">
         </picture>
       </a>
     </td>
     <td valign="top">
-      <a href="https://www.youtube.com/watch?v=mqnR_11YRaA" target="_blank">
+      <a href="https://www.youtube.com/watch?v=_iTbNy5aOR0" target="_blank">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=mqnR_11YRaA&title=Market+Liquidity+Is+Drying+Up%3A+What+Happens+To+Bitcoin+%26+Stocks%3F+%7C+Guy+Turner&lang=en&timestamp=1795475737&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2935">
-          <img src="https://ytcards.demolab.com/?id=mqnR_11YRaA&title=Market+Liquidity+Is+Drying+Up%3A+What+Happens+To+Bitcoin+%26+Stocks%3F+%7C+Guy+Turner&lang=en&timestamp=1795475737&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=2935" alt="Market Liquidity Is Drying Up: What Happens To Bitcoin & Stocks? | Guy Turner" title="Market Liquidity Is Drying Up: What Happens To Bitcoin & Stocks? | Guy Turner">
+          <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=_iTbNy5aOR0&title=AI+Agent+Architecture%3A+Where+Does+Your+Agent+Actually+Run%3F&lang=en&timestamp=1795696801&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=421">
+          <img src="https://ytcards.demolab.com/?id=_iTbNy5aOR0&title=AI+Agent+Architecture%3A+Where+Does+Your+Agent+Actually+Run%3F&lang=en&timestamp=1795696801&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=1&width=250&border_radius=5&duration=421" alt="AI Agent Architecture: Where Does Your Agent Actually Run?" title="AI Agent Architecture: Where Does Your Agent Actually Run?">
         </picture>
       </a>
     </td>
